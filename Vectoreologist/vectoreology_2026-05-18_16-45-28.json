@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-05-18T16-45-28",
+  "collection": "meta_reflections",
+  "summary": {
+    "total_clusters": 0,
+    "total_bridges": 0,
+    "total_moats": 0,
+    "total_anomalies": 0,
+    "duplicate_heavy_clusters": 0,
+    "oversampled_clusters": 0,
+    "skipped_bridges": 0
+  },
+  "clusters": [],
+  "bridges": [],
+  "moats": [],
+  "anomalies": null,
+  "recommendations": [
+    "Remove or deduplicate near-identical chunks before the next run.",
+    "Rebalance overrepresented sources in clusters with oversampling warnings.",
+    "Add more diverse source material for weakly evidenced clusters.",
+    "Re-run clustering after data cleanup to verify topology stability.",
+    "Require representative snippets on both bridge sides before interpretation.",
+    "Review low-confidence taxonomy classifications and label mismatches."
+  ]
+}

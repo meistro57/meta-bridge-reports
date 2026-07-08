@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-05-11T09-54-35",
+  "collection": "meta_reflections",
+  "summary": {
+    "total_clusters": 0,
+    "total_bridges": 0,
+    "total_moats": 0,
+    "total_anomalies": 0
+  },
+  "clusters": [],
+  "bridges": [],
+  "moats": [],
+  "anomalies": null
+}
