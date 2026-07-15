@@ -1,0 +1,391 @@
+[
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0001",
+    "canonical_statement": "The universe contains a unifying spiritual essence or animating principle known as the Soul of the World.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "appendices on... the Soul of the World",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0002",
+    "canonical_statement": "Celestial bodies are associated with specific spiritual intelligences and divine names.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 3,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "planets, their virtues... divine names, intelligences, and spirits",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0003",
+    "canonical_statement": "Mathematical structures can represent and embody the divine order of the universe.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 3,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "tables of numbers... represent that divine order",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mathematics",
+      "divine-order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0004",
+    "canonical_statement": "Specific numerical configurations possess the capacity to influence outcomes toward good or evil.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 3,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "numbers... agency to what is good... to what is bad",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0005",
+    "canonical_statement": "Supercelestial intelligences are expressed and manifested through numerical marks and characters.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 4,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "supercelestial intelligences... can no other way be expressed, than by marks of numbers",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "mathematics",
+      "expression"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0006",
+    "canonical_statement": "The Soul of the World acts as the medium through which the Ideas of the Divine Mind are impressed upon celestial entities.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 4,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "Ideas of the Divine Mind, by means of the Soul of the World",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0007",
+    "canonical_statement": "Material numbers and figures function only as representations of hidden metaphysical realities, not as the realities themselves.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 4,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "material numbers... can do nothing... but representatively",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "mathematics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0008",
+    "canonical_statement": "Matter and spirit are unified and governed by the will of an elevated soul through divine numerations and intelligences.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 5,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "unite the extremes of the matter, and spirit to the will",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "will",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0009",
+    "canonical_statement": "A universal soul acts as the intermediary through which divine power is applied to material forms.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 5,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "power from God, applied through the Soul of the Universe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "divinity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0010",
+    "canonical_statement": "Celestial constellations and divine numerations inform and govern the structure of reality.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 5,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "governed, and informed by intelligences, and divine numerations",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "perception",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0011",
+    "canonical_statement": "Celestial bodies possess associated intelligences and spirits that influence terrestrial outcomes.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 6,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "an intelligence to good, with a spirit to bad",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0012",
+    "canonical_statement": "Specific geometric and numerical configurations (magic squares) can be used to derive spiritual characters.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 6,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "from the square of eight... is drawn a character",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0013",
+    "canonical_statement": "The interaction between planetary alignment (fortune) and material substrates determines the efficacy of a talisman.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 6,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "Mars being fortunate, being engraven on an iron plate",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "materiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0014",
+    "canonical_statement": "Celestial bodies and their associated numeric squares possess an inherent influence over human destiny and psychological states.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 7,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "Sun being fortunate, renders him that wears it to be renowned",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0015",
+    "canonical_statement": "The universe is structured around a correspondence between numeric patterns, divine names, and spiritual intelligences.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 7,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "divine names with an intelligency to what is good",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "structure",
+      "numerology",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0016",
+    "canonical_statement": "Material objects can be imbued with spiritual properties through the engraving of specific characters and numeric squares.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 7,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "engraven on a golden plate... renders him that wears it",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "influence",
+      "materiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0017",
+    "canonical_statement": "Spiritual entities are categorized by a binary of 'good' intelligencies and 'evil' spirits.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 7,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "intelligency to what is good, and spirit to what is evil",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "dualism",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0018",
+    "canonical_statement": "Supernatural entities are categorized by their moral alignment into benevolent intelligences and malevolent spirits.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 12,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "intelligence to denote a benevolent... spirit to denote a malevolent",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "entity",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0019",
+    "canonical_statement": "Celestial bodies exert a variable influence on terrestrial affairs based on their astrological positioning.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 12,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "Saturn occupies a favorable position... causing its influence to be benign",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_three_books_of_de_occulta_philosophia_henry_cornelius_agrippa_0020",
+    "canonical_statement": "Specific mineral substances possess inherent metaphysical properties capable of altering human psychological states and neutralizing malevolent magic.",
+    "attributions": [
+      {
+        "source_id": "three_books_of_de_occulta_philosophia_henry_cornelius_agrippa",
+        "chunk_index": 12,
+        "chapter": "LLEWELLYN'S SOURCEBOOK SERIES",
+        "surface_quote": "stone corneola... cause concord... render harmless witchcrafts",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  }
+]

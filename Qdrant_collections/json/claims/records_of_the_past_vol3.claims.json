@@ -1,0 +1,3109 @@
+[
+  {
+    "id": "cl_records_of_the_past_vol3_0001",
+    "canonical_statement": "The monarch serves as the ontological and social source of all honor and status within the state.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 16,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "the court of Egypt, where everything was referred to the king, the source of all honour",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "authority",
+      "social-structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0002",
+    "canonical_statement": "Social and metaphysical identity can be constructed through symbolic or nominal association with a central divine or royal figure.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 16,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "a claim to nobility consisted in attaching oneself, at all events nominally, to his family",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0003",
+    "canonical_statement": "Political authority and social structures are manifestations of a divine archetype established at the beginning of time.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 17,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "All its kings and their ministers were only the images and substitutes of the god",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "governance",
+      "archetype"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0004",
+    "canonical_statement": "Moral and governmental principles are immutable, originating from a divine source that precludes human innovation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 17,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "the principles of government, like the principles of morality, were of divine origin",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "morality",
+      "divinity",
+      "stasis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0005",
+    "canonical_statement": "The nature of reality and social order is cyclical and conservative, where change is an ephemeral deviation from a permanent divine pattern.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 17,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "innovators had no place in Egypt, and their ephemeral success had always been followed by reaction",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "stasis",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0006",
+    "canonical_statement": "Divine justice ensures that harm inflicted upon the vulnerable is subject to cosmic retribution.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 18,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "the evil done to the poor... is requited by Horus to its author.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "justice",
+      "karma",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0007",
+    "canonical_statement": "Access to sacred or restricted metaphysical domains requires divine authorization or specific spiritual credentials.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 19,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "He is a god who penetrates into a place where no relaxation is made.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "access",
+      "initiation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0008",
+    "canonical_statement": "The maintenance of cosmic or structural order requires constant, unceasing vigilance and the exclusion of unauthorized influence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 19,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "There was no repose for him, and he never closed his eyes.",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "order",
+      "vigilance",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0009",
+    "canonical_statement": "Social hierarchy and the existence of superiors and inferiors are divinely ordained.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 20,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "If there are superiors and inferiors, it is because God has so willed it.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "divinity",
+      "social-order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0010",
+    "canonical_statement": "The moral responsibility for an action rests solely with the superior who commands it, absolving the subordinate who executes it.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 20,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "however he may act in obeying a superior, his conscience is clear before God; the superior alone is responsible.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "responsibility",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0011",
+    "canonical_statement": "The exercise of authority over others is a divine trust, positioning the leader as a representative of the divine to those of lower status.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 21,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "we are as gods to the inferiors",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "authority",
+      "divinity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0012",
+    "canonical_statement": "Material resources and power are not personal possessions but are gifts from the divine to be distributed by the leader.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 21,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "The great man should remember that he is only the dispenser of the gifts of God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "stewardship",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0013",
+    "canonical_statement": "Human actions are subject to an objective moral order that transcends immediate power dynamics and is validated by the judgment of posterity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 21,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "it is of the judgment of posterity, which renders justice to righteous actions",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "morality",
+      "justice",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0014",
+    "canonical_statement": "Social hierarchy and the distribution of life stations are divinely ordained.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 22,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "if the conditions of life differ in this world, it is because God has so willed it.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "social-structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0015",
+    "canonical_statement": "Human agency is bounded by conscience and divine duty.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 22,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "within the limits of his conscience he is the master of his own actions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0016",
+    "canonical_statement": "Moral obligations are universal across different social strata.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 22,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "There are of course duties common to all men",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0017",
+    "canonical_statement": "Divine authority mandates the hierarchical structure of obedience within the family unit.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 23,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "God wishes us to obey; disobedience is abhorrent to Him.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0018",
+    "canonical_statement": "Moral conduct is directly correlated with temporal rewards such as longevity and social stability.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 23,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "The son who accepts the word of his father will attain old age.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "morality",
+      "causality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0019",
+    "canonical_statement": "The family structure serves as the foundational substrate for the maintenance of societal order.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 23,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "The family is the foundation of society, and the school of obedience is the family.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "society",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0020",
+    "canonical_statement": "The acquisition of knowledge is an infinite process, rendering all who possess wisdom perpetual students.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 24,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "the learned are in reality only students",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "humanity",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0021",
+    "canonical_statement": "The physical body and cognitive faculties undergo a process of inevitable decay and decline over time.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 27,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Decay falls upon man and decline takes the place of youth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "time",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0022",
+    "canonical_statement": "The soul possesses an inherent capacity for equality or resonance with divine wisdom.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 27,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "All that which makes the soul equal penetrates him who hears it.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0023",
+    "canonical_statement": "Human knowledge is inherently incomplete, and no individual can achieve absolute perfection in any art or discipline.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 27,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "No artist being in possession of the perfection to which he should aspire.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0024",
+    "canonical_statement": "The individual who acts in anger or irrationality is in a state of self-conflict.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 28,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "He fights against himself",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0025",
+    "canonical_statement": "Justice is an immutable, eternal principle that has remained constant since the primordial age.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 28,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Justice is great, invariable and assured; it has not been disturbed since the age of Osiris.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "justice",
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0026",
+    "canonical_statement": "The structure of reality is maintained by the adherence to fixed, invariable laws of justice.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 28,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "The limitations of justice are invariable",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "justice",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0027",
+    "canonical_statement": "The divine will acts as a retributive force that mirrors the harmful actions of individuals back upon them.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 29,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Inspire not men with fear, else God will fight against thee.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divine",
+      "karma",
+      "retribution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0028",
+    "canonical_statement": "Material resources and the means of existence are ultimately governed by divine will rather than human agency.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 29,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "The means of existence are under the will of God.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "providence",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0029",
+    "canonical_statement": "Truthfulness is an objective moral requirement that exists independently of the social consequences of speech.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 29,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "He who perverts the truthfulness of his way... is a detestable person.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ethics",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0030",
+    "canonical_statement": "Leadership and authority are divine attributes that elevate a human to a god-like status.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 30,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "a man becomes a god when he is chief of a tribe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0031",
+    "canonical_statement": "Human fortune is governed by the arbitrary will of the divine rather than human effort.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 30,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Fortune comes only at her own good-will, and her caprice only is her law",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "fate",
+      "theology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0032",
+    "canonical_statement": "The temporal duration of an individual's existence is a resource that must be utilized through constant activity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 30,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Be active, during the time of thy existence",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "ethics",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0033",
+    "canonical_statement": "Rigorous adherence to established rules and protocols is a divine quality.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 30,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "He is a god who penetrates into a place where no relaxation is made",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "order",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0034",
+    "canonical_statement": "The mastery of one's soul confers a state of superiority over those who merely possess external gifts.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 31,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "the man who is master of his soul is superior to those whom God has loaded",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "virtue"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0035",
+    "canonical_statement": "Submitting to impulsive passion results in the degradation of the body and the soul.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 31,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "he who obeys his passion, his soul is degraded",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "ethics",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0036",
+    "canonical_statement": "True greatness is defined by the capacity to recognize and correct the errors of others through reasoned discourse.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 31,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "He is the great man who will recognise the error of another",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0037",
+    "canonical_statement": "Uncontrolled emotional states, specifically bad humor and irritability, negate the possibility of a stable existence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 32,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "there is no longer any existence for him who gives way to it.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "consciousness",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0038",
+    "canonical_statement": "The maintenance of internal equilibrium is a prerequisite for the proper ordering of one's environment.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 32,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "When a man has established his just equilibrium... there is no room for bad humour.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "equilibrium",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0039",
+    "canonical_statement": "Impulsive actions driven by momentary desire lead to the dissolution of the mind and the loss of self-mastery.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 32,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "if he goes on to carry it out, his mind abandons him.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "mind",
+      "identity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0040",
+    "canonical_statement": "Human knowledge of future events is fundamentally limited.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 33,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "As we do not know the events which may happen to-morrow",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0041",
+    "canonical_statement": "Justice is an objective principle that can be unveiled and made to triumph.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 33,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Cause that which is just to be done, cause it to triumph.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0042",
+    "canonical_statement": "The exercise of power requires the tempering of internal emotional states.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 33,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "As for the vivacity of an ardent heart, temper it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0043",
+    "canonical_statement": "Human labor and devotion to one's task serve as a mechanism for spiritual transcendence toward the Divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 34,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "That transports men to God, even the love for the work which they accomplish.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "purpose",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0044",
+    "canonical_statement": "Individuals in positions of power or wealth act as stewards of divine resources rather than absolute owners.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 34,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "thou art become only the steward of the good things of God.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "stewardship",
+      "divinity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0045",
+    "canonical_statement": "The internal state of an individual is reflected in their outward physical expression and demeanor.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 35,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "When we see one... with his face contracted, it shows that his stomach is empty.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0046",
+    "canonical_statement": "The inherent merit or character of an individual possesses greater ontological permanence than social status or rank.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 35,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "That is of more importance than his high rank; for this is a matter which passes.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0047",
+    "canonical_statement": "Social hierarchy and the subordination to authority are fundamental structures governing human conduct and order.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 35,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "If a man is not in the evil way, that which places him there is the want of subordination.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "structure",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0048",
+    "canonical_statement": "The preservation of wisdom through rhythmic structure grants it eternal existence within the material world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 36,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "all their words will [now] be carried without alteration over this earth eternally.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "knowledge",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0049",
+    "canonical_statement": "The alignment of speech, thought, and sensory perception constitutes the state of a wise individual.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 36,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "His tongue is in accord with his mind; just are his lips when he speaks.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0050",
+    "canonical_statement": "The act of attentive listening functions as a causal mechanism for the development of wisdom and personal success.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 36,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "To attend is the result of the fact that one has attended.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0051",
+    "canonical_statement": "Adherence to ancestral instruction and the principle of Ma'at ensures longevity and existential stability.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 36,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "The son who accepts the instruction of his father will grow old on that account.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0052",
+    "canonical_statement": "The human heart functions as an autonomous agent that achieves beneficence through the act of attentive receptivity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 37,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "The heart makes itself its own master when it attends.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "agency",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0053",
+    "canonical_statement": "Wisdom is fundamentally constituted by the transmission and preservation of ancestral or paternal instruction.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 37,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Let none innovate upon the precepts of his father.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "tradition",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0054",
+    "canonical_statement": "The failure to attend to prescribed wisdom results in a distorted perception of reality, where loss is perceived as profit.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 37,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "He sees knowledge in ignorance, profit in loss.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "ignorance",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0055",
+    "canonical_statement": "The unteachable individual sustains their existence through the consumption of falsehoods, leading to spiritual or existential decay.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 37,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "He lives on that which is mortal, in this fashion.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "morality",
+      "decay"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0056",
+    "canonical_statement": "The alignment of individual conduct with established wisdom ensures the continuity and success of the soul across generations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 37,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "He becomes great, he arrives at dignity, he gives the same lesson to his children.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "legacy",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0057",
+    "canonical_statement": "Moral rectitude and adherence to ancestral wisdom are causal factors in the attainment of physical longevity and worldly favor.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 38,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "It has caused me on earth to obtain 110 years of life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "causality",
+      "longevity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0058",
+    "canonical_statement": "The transmission of wisdom is a lineage-based process where the preservation of original teachings is essential for social and spiritual stability.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 38,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Take not away a word from the ancient teaching, and add one not",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "tradition",
+      "wisdom",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0059",
+    "canonical_statement": "The quality of a person's character and their adherence to right action is a manifestation of divine gift.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 38,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Verily a good son is one of the gifts of God",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "character",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0060",
+    "canonical_statement": "The divine nature is characterized by a cyclical process of death, decline, and subsequent rejuvenation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 39,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "the aged who becomes young in his hour, the old man who becomes a child",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "time",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0061",
+    "canonical_statement": "The preservation of wisdom through structured language renders it immutable and resistant to decay.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 39,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "arranges the good sayings of the past in verses in order to render them unalterable",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "language",
+      "permanence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0062",
+    "canonical_statement": "Social stability and the preservation of order are fundamentally contingent upon the adherence to universal principles of justice.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 40,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "revolutions are occasioned by forgetfulness of the principles of justice on which society is based.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "justice",
+      "society",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0063",
+    "canonical_statement": "Non-existence is a state experienced by those who enter into a specific condition of being.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 41,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "There being no existence to him who enters into it.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0064",
+    "canonical_statement": "The balanced person is defined by the internal presence of goodness and proper conduct.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 41,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "The person is a person well balanced, good treatments are in him.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0065",
+    "canonical_statement": "Truth or reality is revealed by the removal of a veil.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 41,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "It is raising the veil from its face.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0066",
+    "canonical_statement": "The administrator of worldly provisions acts as a steward for the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 42,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Thou art become the administrator, the prefect, of the provisions [which belong] to God.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "stewardship",
+      "divine",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0067",
+    "canonical_statement": "The preservation of wisdom in rhythmic form prevents the corruption of truth over time.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 42,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Their rhythmic form allows neither omissions nor variations.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "truth",
+      "language",
+      "preservation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0068",
+    "canonical_statement": "The faculty of speech is intrinsically linked to the state of the mind.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 43,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "With his mind is his tongue.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "mind",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0069",
+    "canonical_statement": "The act of listening is a transformative process that penetrates the consciousness of the listener.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 43,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "To listen penetrates by one who has listened.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0070",
+    "canonical_statement": "The heart or inner self derives vitality and health from the act of receptive listening.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 43,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "Life-health-strength of some one is his heart when listening.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "vitality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0071",
+    "canonical_statement": "Moral or cosmic order (Ma) is an active state of being that requires total alignment of the heart.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 43,
+        "chapter": "THE PRECEPTS OF PTAH-HOTEP",
+        "surface_quote": "He does the Ma, putting himself with all his heart on its ways.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "existence",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0072",
+    "canonical_statement": "The human body can be occupied or possessed by an external spiritual entity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 45,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN AND THE SPIRIT THAT POSSESSED HER",
+        "surface_quote": "a spirit has entered the body of a princess",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "possession",
+      "spirit",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0073",
+    "canonical_statement": "Spiritual entities can be compelled to vacate a human host through ritualized exorcism.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 45,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN AND THE SPIRIT THAT POSSESSED HER",
+        "surface_quote": "struggles against the exorcists who have been commissioned to expel it",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "exorcism",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0074",
+    "canonical_statement": "Divinity is an objective force capable of regulating the destinies of specific geographical locations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 46,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN AND THE SPIRIT THAT POSSESSED HER",
+        "surface_quote": "the bark of Khonsu, which regulates the destinies of Thebes",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destiny",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0075",
+    "canonical_statement": "Ritual action and the offering of incense serve as a formal mechanism for acknowledging and interacting with divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 46,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN AND THE SPIRIT THAT POSSESSED HER",
+        "surface_quote": "the king, standing before it, offers incense to it",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ritual",
+      "worship",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0076",
+    "canonical_statement": "The monarch is a divine entity, possessing a nature that transcends human biological development.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 47,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "scarcely issued from his mother's womb he directed wars... like a bull",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "kingship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0077",
+    "canonical_statement": "The sovereign's soul is an object of veneration and a recipient of offerings from subordinate entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 47,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "princes of every country came... to the souls of his Majesty",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "hierarchy",
+      "veneration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0078",
+    "canonical_statement": "Human physical illness can be caused by the possession of a demon.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 48,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "he found Bint-Rashit possessed of a demon",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "possession",
+      "health",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0079",
+    "canonical_statement": "Divine entities possess the power to combat and expel malevolent spiritual forces.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 48,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "let thy Majesty order a god to be sent to combat the demon",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "exorcism",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0080",
+    "canonical_statement": "Specific deities govern the mechanics of destiny and the movement of spiritual forces.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 48,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "KHONSU who governs destiny, the great god who drives away strangers",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "destiny",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0081",
+    "canonical_statement": "Divine power can be transferred from one entity to another through ritual or intentional transmission.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 49,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "KHONSU... transmitted his magical virtue to KHONSU who governs destiny",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "transmission"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0082",
+    "canonical_statement": "Spiritual entities possess the capacity to exert influence over physical health and demonic possession.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 49,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "made magical passes over the daughter... she found herself well at once",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "healing",
+      "entities",
+      "supernatural"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0083",
+    "canonical_statement": "Non-physical entities are subject to the authority and commands of higher divine beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 49,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "the demon departed... according to the order of KHONSU",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "entities",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0084",
+    "canonical_statement": "Ritual offerings and festivals serve as a mechanism to appease or negotiate with spiritual entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 49,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "let thy Majesty order a day of festival to be celebrated for me",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "exchange",
+      "entities"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0085",
+    "canonical_statement": "Divine entities possess the capacity to manifest in zoomorphic forms to facilitate movement between geographic locations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 50,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "the god leaving his shrine in the form of a golden hawk",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "manifestation",
+      "form"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0086",
+    "canonical_statement": "The sovereign ruler possesses a plurality of souls and doubles.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 50,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "the Sun had seven souls and fourteen doubles",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "pharaoh"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0087",
+    "canonical_statement": "A divine entity can manifest multiple independent incarnations through the animation of distinct physical vessels.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 51,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "every statue of a god in a temple had in it a ka or double",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "incarnation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0088",
+    "canonical_statement": "The 'ka' or double is a discrete aspect of a deity capable of functioning autonomously from the primary divine essence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 51,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "an incarnation of the god different from his other incarnations",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "soul",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0089",
+    "canonical_statement": "Divine power can be transferred between distinct incarnations of the same deity through ritual processes.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 51,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "transferred to the latter his own powers",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ritual",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0090",
+    "canonical_statement": "Physical objects animated by a spiritual double can communicate divine will through auditory or kinetic phenomena.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 51,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "statues, being animated by a double, declared their will either by the voice or by rhythmical movements",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "communication",
+      "divinity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0091",
+    "canonical_statement": "Divine virtue is a quantifiable, fluid-like energy that can be transmitted between entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 52,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "innate virtue of the gods seems to have been regarded as a sort of fluid",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "energy",
+      "divinity",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0092",
+    "canonical_statement": "Consecrated statues possess a 'double' and a portion of the deity's magical essence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 52,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "Every statue received at its consecration not only a 'double' but also a portion of the magical virtue",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "ritual",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0093",
+    "canonical_statement": "The divine essence is finite in its local manifestation but replenished by an inexhaustible transcendent source.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 52,
+        "chapter": "THE DAUGHTER OF THE PRINCE OF BAKHTAN",
+        "surface_quote": "The god himself... replenished himself with a supply of it from a mysterious source",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0094",
+    "canonical_statement": "The Nile is the uncreated, supreme source of all life and the progenitor of all deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 53,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "the Nile is the source of all life... the supreme god, mysterious, uncreated",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0095",
+    "canonical_statement": "The ultimate nature of the supreme deity is inherently unknowable and impenetrable to human understanding.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 53,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "into whose secrets none can penetrate",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0096",
+    "canonical_statement": "The divine source of life is transcendent, unrepresentable in physical form, and inaccessible to human perception or ritual control.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 55,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "He is not sculptured in stone... he cannot be contemplated. None knows the place.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "transcendence",
+      "divinity",
+      "ineffability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0097",
+    "canonical_statement": "The material world is ontologically dependent upon the continuous activity of the divine, and its cessation results in universal suffering.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 55,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "If thou ceasest thy toil... then all that exists is in anguish.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "dependence",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0098",
+    "canonical_statement": "There is a sympathetic resonance between the state of the divine realm and the physical condition of humanity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 55,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "If the gods suffer in heaven then the faces of men waste away.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0099",
+    "canonical_statement": "The creative force of the universe operates without effort or fatigue, maintaining existence through its own inherent nature.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 55,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "He is prosperous to the height of all desires, without fatiguing himself therefor.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0100",
+    "canonical_statement": "The divine force is the singular, autonomous source of all existence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 56,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "It is his force that gives existence to all things.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0101",
+    "canonical_statement": "The creative power of the divine operates independently of other deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 56,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "He creates the offerings without the aid of NEIT.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0102",
+    "canonical_statement": "The divine consciousness possesses total omniscience regarding the manifest world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 56,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "nothing remains hidden for him.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "omniscience",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0103",
+    "canonical_statement": "The divine manifests into the physical realm through the power of spoken words and magic.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 56,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "It is with the words that he penetrates into his dwelling.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "magic",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0104",
+    "canonical_statement": "The divine is the ultimate arbiter and establisher of cosmic justice.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 56,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "Establisher of justice!",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "justice",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0105",
+    "canonical_statement": "The divine principle is the singular, foundational source of sustenance for both humanity and the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 57,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "The Nile is the dispenser of life to mankind, but also to the gods.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sustenance",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0106",
+    "canonical_statement": "The ultimate divine essence is inherently unknowable and transcends all human conceptualization.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 57,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "The god manifests not his forms, he baffles all conception.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "transcendence",
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0107",
+    "canonical_statement": "The material world is a manifestation of a hidden, celestial origin.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 57,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "This belief in the celestial origin of the Nile survived in Egypt.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0108",
+    "canonical_statement": "All individual deities are subsumed within or equivalent to a single, universal creative force.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 57,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "In the Hymn it absorbs as it were all the gods.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "monism",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0109",
+    "canonical_statement": "The fundamental forces of the universe are subject to the influence of ritual incantations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 58,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "The gods had to submit to the power of incantations and magic formulae.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "magic",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0110",
+    "canonical_statement": "The Nile exists as an autonomous entity independent of the laws governing other deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 58,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "The Nile alone was excepted from this law.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature",
+      "autonomy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0111",
+    "canonical_statement": "The Nile possesses the capacity to utilize incantations at will to manifest its presence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 58,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "The Nile is unaffected by incantations, but serves himself with them at his pleasure.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0112",
+    "canonical_statement": "True wealth is defined by the sustenance of biological life rather than material accumulation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 58,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "True wealth does not consist in gold or silver, but of the products of agriculture.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "value",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0113",
+    "canonical_statement": "There exists a metaphysical realm distinct from the physical world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 59,
+        "chapter": "HYMN TO THE NILE",
+        "surface_quote": "The other world.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0114",
+    "canonical_statement": "The earthly sovereign is perceived as a divine entity or solar deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 69,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "From the commands of my lord, my god, my Sun-god",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0115",
+    "canonical_statement": "The monarch is perceived as a divine entity or solar deity by the subject.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 70,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "To the king my lord, my Sun-god I speak.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "identity",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0116",
+    "canonical_statement": "The monarch is identified as a manifestation or embodiment of the solar deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 71,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "the king, the Sun-god",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0117",
+    "canonical_statement": "Divine entities possess the capacity to influence human affairs and provide guidance.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 72,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "may the Sun-god and ISTAR march before my brother",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0118",
+    "canonical_statement": "Human existence is subject to the protection and oversight of divine beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 72,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "may my gods and the gods of my brother protect them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0119",
+    "canonical_statement": "Divine entities possess the capacity to influence or guide the internal intentions and decisions of human rulers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 73,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "May BELTIS... and AMaNU... advise him.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0120",
+    "canonical_statement": "The divine presence maintains a continuous, non-abandoning relationship with the individual.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 74,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "the great god my lord does not forsake me",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0121",
+    "canonical_statement": "The consciousness or essence of a deceased individual may persist in a state of communion with the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 78,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "if he is alive with the god",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0122",
+    "canonical_statement": "Relational bonds between individuals transcend the physical separation caused by death.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 78,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "in our hearts we are not distant",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0123",
+    "canonical_statement": "The identity and authority of a predecessor are ontologically continued through the succession of an heir.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 78,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "Nimmuriya is not dead since his eldest son sits in his place",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0124",
+    "canonical_statement": "Death is defined as the transition of an individual into their predetermined destiny.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 80,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "Literally 'has gone to his destiny.'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0125",
+    "canonical_statement": "Divine entities possess the capacity to influence and guide human intentions and actions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 80,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "May ISTAR and AMANUM according to the heart of my brother advise her!",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0126",
+    "canonical_statement": "Divine entities possess the agency to oversee and ensure the successful transmission of human communications.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 82,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "May RIMMON my lord and AMANUM direct them, and unto their destination may they attain.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0127",
+    "canonical_statement": "The state of interpersonal affection is subject to the desire for eternal continuity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 82,
+        "chapter": "LETTERS TO EGYPT FROM BABYLONIA, ASSYRIA, AND SYRIA, IN THE FIFTEENTH CENTURY B.C.",
+        "surface_quote": "As at present we love one another, so, as at present, for ever may we love.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0128",
+    "canonical_statement": "The structure of reality is defined by contractual agreements and mutual obligations between entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 87,
+        "chapter": "ANCIENT BABYLONIAN AGRICULTURAL PRECEPTS",
+        "surface_quote": "He agrees about the covenant.",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "ontology",
+      "covenant",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0129",
+    "canonical_statement": "Existence is characterized by the principle of equality and equivalence between participating agents.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 87,
+        "chapter": "ANCIENT BABYLONIAN AGRICULTURAL PRECEPTS",
+        "surface_quote": "Everything is made equal and on the same footing.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "equality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0130",
+    "canonical_statement": "Political sovereignty and historical events are expressions of divine will and selection.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 93,
+        "chapter": "THE INDIA HOUSE INSCRIPTION OF NEBUCHADREZZAR THE GREAT",
+        "surface_quote": "sovereign whom Jeremiah declared to be Jehovah's chosen servant",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0131",
+    "canonical_statement": "Individual conviction of a divine mandate serves as a primary driver for historical action.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 93,
+        "chapter": "THE INDIA HOUSE INSCRIPTION OF NEBUCHADREZZAR THE GREAT",
+        "surface_quote": "his strong conviction of his own divine call to universal empire",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0132",
+    "canonical_statement": "Individual human existence is the result of deliberate creation and framing by divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 94,
+        "chapter": "THE INDIA HOUSE INSCRIPTION OF NEBUCHADREZZAR",
+        "surface_quote": "After that the lord my god had created me, that MERODACH had framed the creature",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0133",
+    "canonical_statement": "Political authority and the governance of peoples are bestowed upon individuals by divine decree.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 94,
+        "chapter": "THE INDIA HOUSE INSCRIPTION OF NEBUCHADREZZAR",
+        "surface_quote": "NEBO... for the governing of the peoples a righteous sceptre placed in my hands",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divine-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0134",
+    "canonical_statement": "The purpose of human life is to recognize, fear, and maintain the worship of divine powers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 94,
+        "chapter": "THE INDIA HOUSE INSCRIPTION OF NEBUCHADREZZAR",
+        "surface_quote": "I love the fear of their godhead, I worship their lordship.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "worship",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0135",
+    "canonical_statement": "The deity is the creator and sustainer of all existence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 95,
+        "chapter": "THE INDIA HOUSE INSCRIPTION OF NEBUCHADREZZAR",
+        "surface_quote": "Of old, O prince, lord of all that is!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0136",
+    "canonical_statement": "Individual identity and sovereignty are derived from divine agency.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 95,
+        "chapter": "THE INDIA HOUSE INSCRIPTION OF NEBUCHADREZZAR",
+        "surface_quote": "thou it was that madest me, and with sovereignty... didst invest me",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "sovereignty",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0137",
+    "canonical_statement": "The deity actively guides the path of the individual.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 95,
+        "chapter": "THE INDIA HOUSE INSCRIPTION OF NEBUCHADREZZAR",
+        "surface_quote": "thou leadest him aright, a straight path thou appointest him.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "guidance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0138",
+    "canonical_statement": "The divine realm functions as the locus for the determination of temporal destinies.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 96,
+        "chapter": "COLUMN II",
+        "surface_quote": "The bright seat, the place of them that determine destinies.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "destiny",
+      "time",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0139",
+    "canonical_statement": "The internal state of a human being is subject to direct influence and implantation by divine agency.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 96,
+        "chapter": "COLUMN II",
+        "surface_quote": "The fear of his godhead he implanted in my heart.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0140",
+    "canonical_statement": "The structure of the universe involves a hierarchy where all gods submit to a supreme deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 96,
+        "chapter": "COLUMN II",
+        "surface_quote": "The gods of heaven and earth with awe submit unto him.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0141",
+    "canonical_statement": "The physical construction and ornamentation of temples serves as a ritualistic manifestation of divine presence and lordship.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 97,
+        "chapter": "COLUMN III",
+        "surface_quote": "The temples of BABYLON I made, I filled.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "ritual",
+      "sacred-space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0142",
+    "canonical_statement": "The material beauty of a temple is intended to mirror the celestial order of the stars.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 97,
+        "chapter": "COLUMN III",
+        "surface_quote": "I made bright, as the stars of the heavens.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0143",
+    "canonical_statement": "The physical universe is a constructed manifestation of divine or princely intent.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 98,
+        "chapter": "COLUMN III",
+        "surface_quote": "I made, I filled... I reared the heads thereof.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "manifestation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0144",
+    "canonical_statement": "The structure of reality is organized into a hierarchical system of seven spheres.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 98,
+        "chapter": "COLUMN III",
+        "surface_quote": "House of the Seven Spheres of Heaven and Earth",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0145",
+    "canonical_statement": "Divine entities directly influence human cognition and moral intent.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 99,
+        "chapter": "COLUMN IV",
+        "surface_quote": "SHAMASH, the Judge Supreme, who putteth the righteous purpose in my mind",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0146",
+    "canonical_statement": "The physical environment and human governance are sustained by the active intervention of deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 99,
+        "chapter": "COLUMN IV",
+        "surface_quote": "RIMMON, who causeth abundance in my land",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0147",
+    "canonical_statement": "There exists a metaphysical location or state known as the Bright Seat where destinies are determined.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 100,
+        "chapter": "COLUMN V",
+        "surface_quote": "the Bright Seat, the place of them that determine destinies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "metaphysics",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0148",
+    "canonical_statement": "Political sovereignty is divinely ordained and initiated by the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 102,
+        "chapter": "COLUMN VII",
+        "surface_quote": "From the time that MERODACH created me, for sovereignty",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0149",
+    "canonical_statement": "The identity and purpose of a ruler are established by divine decree.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 102,
+        "chapter": "COLUMN VII",
+        "surface_quote": "whom MERODACH, the great Lord... did call, am I.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0150",
+    "canonical_statement": "The physical environment and architectural structures serve as external manifestations of royal authority and divine devotion.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 103,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "For the establishment of my royalty... the fear of MERODACH my lord was in my heart.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0151",
+    "canonical_statement": "The deity is the creator of the individual sovereign.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 104,
+        "chapter": "COLUMN IX",
+        "surface_quote": "Thou it was that createdst me",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "creation",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0152",
+    "canonical_statement": "Political sovereignty is a divine endowment.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 104,
+        "chapter": "COLUMN IX",
+        "surface_quote": "with the sovereignty of a multitude of peoples didst invest me",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0153",
+    "canonical_statement": "The divine nature possesses an inherent quality of omniscience or watchful awareness.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 104,
+        "chapter": "COLUMN IX",
+        "surface_quote": "MERODACH, lord, open-eyed of the gods",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0154",
+    "canonical_statement": "Divine favor is the necessary condition for the endurance and stability of human structures and lineages.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 105,
+        "chapter": "COLUMN X",
+        "surface_quote": "At thy behest, O merciful MERODACH, may the house I have made therewith endure!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0155",
+    "canonical_statement": "The exercise of political authority is legitimized through priestly or religious service to the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 105,
+        "chapter": "COLUMN X",
+        "surface_quote": "sagganakku meant a priestly rather than a secular personage",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "authority",
+      "theocracy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0156",
+    "canonical_statement": "The physical world is anchored by a foundational structure that connects heaven and earth.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 106,
+        "chapter": "COLUMN X",
+        "surface_quote": "The house of the foundation-stone of heaven and earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0157",
+    "canonical_statement": "Pure or right thought is conceptually equivalent to a bright or luminous image.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 106,
+        "chapter": "COLUMN X",
+        "surface_quote": "ALAM SHIG mean bright or pure image, and so pure, right thought.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0158",
+    "canonical_statement": "The celestial realm possesses a singular, unified language, contrasting with the multiplicity of human tongues.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 115,
+        "chapter": "HOW WE GOT OUR BIBLE.",
+        "surface_quote": "Multae terricolis linguae, coelestibus una.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "language",
+      "celestial",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol3_0159",
+    "canonical_statement": "There exists a singular, unified language shared by celestial beings, contrasting with the multiplicity of human languages.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol3",
+        "chunk_index": 117,
+        "chapter": "NEW WORK BY THE AUTHOR OF",
+        "surface_quote": "Multae terricolis linguae, coelestibus una.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "language",
+      "cosmology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  }
+]

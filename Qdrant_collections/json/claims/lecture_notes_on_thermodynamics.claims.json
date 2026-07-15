@@ -1,0 +1,1671 @@
+[
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0001",
+    "canonical_statement": "The concept of energy is historically contingent and evolves in definition over time.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 10,
+        "chapter": "CHAPTER 1. INTRODUCTION",
+        "surface_quote": "the concept of energy has evolved through time",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0002",
+    "canonical_statement": "The fundamental nature of dynamics is rooted in the concept of power or activity.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 10,
+        "chapter": "CHAPTER 1. INTRODUCTION",
+        "surface_quote": "Greek translation of dynamics as power",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0003",
+    "canonical_statement": "Scientific knowledge is derived from empirical observation and logical deduction from foundational axioms.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 15,
+        "chapter": "CHAPTER 1. INTRODUCTION",
+        "surface_quote": "thermodynamics is based on empirical observation... use our reason to deduce from the axioms",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "science"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0004",
+    "canonical_statement": "The structure of physical reality can be described through a minimal set of foundational postulates.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 15,
+        "chapter": "CHAPTER 1. INTRODUCTION",
+        "surface_quote": "seek as few axioms as possible to describe this behavior",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0005",
+    "canonical_statement": "Scientific knowledge is provisional and subject to falsification rather than absolute proof.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 16,
+        "chapter": "1.4. SOME PRACTICAL APPLICATIONS",
+        "surface_quote": "science can never be formally proved; it can only be disproved.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "science"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0006",
+    "canonical_statement": "Theoretical axioms are retained based on their utility and empirical consistency rather than inherent truth.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 16,
+        "chapter": "1.4. SOME PRACTICAL APPLICATIONS",
+        "surface_quote": "We retain our axioms as long as they are useful.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0007",
+    "canonical_statement": "The perception of reality as a continuous medium is a scale-dependent approximation that ignores discrete underlying phenomena.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 27,
+        "chapter": "1.7. MACROSCOPIC VERSUS MICROSCOPIC",
+        "surface_quote": "Continuum: the limit in which discrete changes from molecule to molecule can be ignored.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0008",
+    "canonical_statement": "Macroscopic properties of a system are emergent statistical averages of discrete microscopic interactions.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 27,
+        "chapter": "1.7. MACROSCOPIC VERSUS MICROSCOPIC",
+        "surface_quote": "We can however model the average behavior of the molecules statistically.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "emergence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0009",
+    "canonical_statement": "The validity of a physical model is contingent upon the relationship between the observer's scale and the scale of the constituent parts.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 27,
+        "chapter": "1.7. MACROSCOPIC VERSUS MICROSCOPIC",
+        "surface_quote": "The continuum theory can break down in important applications where the length and time scales are of comparable magnitude.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "space",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0010",
+    "canonical_statement": "Physical systems can be modeled as existing independently of temporal progression.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 30,
+        "chapter": "CHAPTER 1. INTRODUCTION",
+        "surface_quote": "construct a thermodynamics that is generally not burdened with time",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "reality",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0011",
+    "canonical_statement": "Change is defined as a transition between discrete states of a system.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 30,
+        "chapter": "CHAPTER 1. INTRODUCTION",
+        "surface_quote": "Change of State: implies one or more properties of the system has changed",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0012",
+    "canonical_statement": "Temporal progression is a framework for observing the succession of state changes.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 30,
+        "chapter": "CHAPTER 1. INTRODUCTION",
+        "surface_quote": "Process: a succession of changes of state",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "process"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0013",
+    "canonical_statement": "Human sensory perception is an unreliable instrument for measuring objective physical properties like temperature.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 31,
+        "chapter": "1.10. FUNDAMENTAL VARIABLES AND UNITS",
+        "surface_quote": "Note our senses are poor judges of temperature.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0014",
+    "canonical_statement": "Human biological sensitivity is tuned to heat flux rather than absolute thermal states.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 31,
+        "chapter": "1.10. FUNDAMENTAL VARIABLES AND UNITS",
+        "surface_quote": "Our bodies actually have more sensitivity to heat fluxes instead of temperature.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0015",
+    "canonical_statement": "The fundamental structure of reality is governed by axiomatic principles that are verified through empirical observation rather than logical derivation.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 32,
+        "chapter": "CHAPTER 1. INTRODUCTION",
+        "surface_quote": "An axiom cannot be proven. It is a statement whose truth can be ascertained only by comparison with experiment.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0016",
+    "canonical_statement": "The principle of transitivity is a fundamental logical property inherent in the structure of physical existence.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 32,
+        "chapter": "CHAPTER 1. INTRODUCTION",
+        "surface_quote": "Things that are equal to the same thing are also equal to each other.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "logic",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0017",
+    "canonical_statement": "Physical systems possess state variables whose change is independent of the path taken between two points.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 74,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "the difference in w only depends on the end points and not the path",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0018",
+    "canonical_statement": "Certain physical differentials are path-dependent and cannot be expressed as functions of state variables.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 74,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "w is not a state variable, and the differential of w is inexact",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0019",
+    "canonical_statement": "Energy transfer processes like heat and work are defined by their movement across system boundaries rather than as intrinsic properties contained within a system.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 91,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "heat only has relevance as a type of energy that crosses system boundaries.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "energy",
+      "ontology",
+      "thermodynamics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0020",
+    "canonical_statement": "The complexity of a system's state is directly proportional to the number of independent work modes or variables required to define it.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 91,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "the more work modes we include, the more independent thermodynamic variables are necessary.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "complexity",
+      "system-theory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0021",
+    "canonical_statement": "The total quantity of energy within the universe remains constant, being subject to neither creation nor destruction.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 98,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "Energy can be neither created nor destroyed.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "ontology",
+      "conservation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0022",
+    "canonical_statement": "Energy is a theoretical construct defined by the conservation of state-dependent properties across varying paths.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 100,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "energy: a thermodynamic property that is a theoretical construct",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "physics",
+      "ontology",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0023",
+    "canonical_statement": "The conceptual generalization of a physical property often necessitates the loss of intuitive or visual representation.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 100,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "generalized energy so that it is always conserved, at the expense of losing the ability to easily visualize it",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0024",
+    "canonical_statement": "The total energy of a system is the sum of its internal, kinetic, and potential energy components.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 101,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "E = U + KE + PE",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "energy",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0025",
+    "canonical_statement": "Energy within a system evolves through the exchange of heat and work.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 101,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "the first law is a statement of evolution of energy in response to heat and work",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "process",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0026",
+    "canonical_statement": "Internal energy changes are independent of the path taken between two states.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 119,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "internal energy changes are path-independent",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "thermodynamics",
+      "state",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0027",
+    "canonical_statement": "Physical laws are contingent models that require reformulation when empirical observations contradict established axioms.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 136,
+        "chapter": "3.10. FINAL COMMENTS ON CONSERVATION",
+        "surface_quote": "To realign theory with observation, it was necessary for Einstein to re-formulate a new, modified set of axioms.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "science",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0028",
+    "canonical_statement": "The principle of conservation is a property defined by the isolation of a system from external influence.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 136,
+        "chapter": "3.10. FINAL COMMENTS ON CONSERVATION",
+        "surface_quote": "Conservation implies that a quantity does not change... for an isolated system.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0029",
+    "canonical_statement": "The total mass-energy of an isolated system remains constant.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 137,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "the mass-energy of an isolated system is constant.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "conservation",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0030",
+    "canonical_statement": "Mass and energy are equivalent manifestations of a singular physical substrate.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 137,
+        "chapter": "CHAPTER 3. THE FIRST LAW OF THERMODYNAMICS",
+        "surface_quote": "mass-energy equivalence via the famous relation E = mc2",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0031",
+    "canonical_statement": "Fundamental physical axioms are unprovable principles that describe the behavior of the universe.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 148,
+        "chapter": "CHAPTER 4. FIRST LAW ANALYSIS FOR A CONTROL VOLUME",
+        "surface_quote": "The axioms cannot be proven. They are simply statements that have been useful.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "physics",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0032",
+    "canonical_statement": "The laws of conservation of mass and energy are insufficient to describe the totality of observed physical phenomena.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 197,
+        "chapter": "CHAPTER 4. FIRST LAW ANALYSIS FOR A CONTROL VOLUME",
+        "surface_quote": "conservation of mass and energy, by themselves, admit as possibilities phenomena that are not observed",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "nature",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0033",
+    "canonical_statement": "Scientific predictability is contingent upon the repeatability of natural phenomena.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 197,
+        "chapter": "CHAPTER 4. FIRST LAW ANALYSIS FOR A CONTROL VOLUME",
+        "surface_quote": "if a phenomenon can be repeated, it becomes subject to prediction",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "science",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0034",
+    "canonical_statement": "Physical laws governing conservation of mass and energy are insufficient to fully describe or predict the observed behavior of natural systems.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 198,
+        "chapter": "CHAPTER 5. THE SECOND LAW OF THERMODYNAMICS",
+        "surface_quote": "mass conservation and the first law... are insufficient to guarantee that we will predict",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "physics",
+      "causality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0035",
+    "canonical_statement": "The Second Law of Thermodynamics functions as a fundamental axiom necessary to explain the directional flow of natural phenomena.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 198,
+        "chapter": "CHAPTER 5. THE SECOND LAW OF THERMODYNAMICS",
+        "surface_quote": "The second law of thermodynamics is an attempt to provide a single all-encompassing statement",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entropy",
+      "physics",
+      "axiom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0036",
+    "canonical_statement": "The second law of thermodynamics establishes a fundamental temporal directionality for physical processes.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 200,
+        "chapter": "5.1. STATEMENTS OF THE SECOND LAW",
+        "surface_quote": "It predicts the direction in time of processes.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "physics",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0037",
+    "canonical_statement": "Isolated systems inherently progress toward states of higher entropy or disorder over time.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 200,
+        "chapter": "5.1. STATEMENTS OF THE SECOND LAW",
+        "surface_quote": "The entropy of an isolated system can never decrease with time.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "entropy",
+      "structure",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0038",
+    "canonical_statement": "The maintenance of structural order requires the continuous expenditure of energy.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 200,
+        "chapter": "5.1. STATEMENTS OF THE SECOND LAW",
+        "surface_quote": "structure or order requires energy input to be realized",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "energy",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0039",
+    "canonical_statement": "Entropy is fundamentally defined by the degree of freedom or the multiplicity of available states within a system.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 202,
+        "chapter": "CHAPTER 5. THE SECOND LAW OF THERMODYNAMICS",
+        "surface_quote": "entropy as freedom: the ability to acquire a variety of states.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entropy",
+      "physics",
+      "state"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0040",
+    "canonical_statement": "The flow of thermal energy from a lower temperature to a higher temperature is impossible without external work input.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 202,
+        "chapter": "CHAPTER 5. THE SECOND LAW OF THERMODYNAMICS",
+        "surface_quote": "Heat cannot, of itself, pass from a colder to a hotter body.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "thermodynamics",
+      "energy",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0041",
+    "canonical_statement": "The physical composition of human beings is derived from and ultimately returns to the fundamental material substrate of the universe.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 206,
+        "chapter": "5.1. STATEMENTS OF THE SECOND LAW",
+        "surface_quote": "Remember man that thou art dust, and unto dust thou shalt return.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "materiality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0042",
+    "canonical_statement": "The fundamental nature of physical reality is characterized by an inherent tendency toward entropy and disintegration.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 207,
+        "chapter": "CHAPTER 5. THE SECOND LAW OF THERMODYNAMICS",
+        "surface_quote": "Things fall apart.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entropy",
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0043",
+    "canonical_statement": "An irreversible process is defined by the impossibility of restoring both a system and its environment to their prior states.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 207,
+        "chapter": "CHAPTER 5. THE SECOND LAW OF THERMODYNAMICS",
+        "surface_quote": "Irreversible process: impossible to return both the system and surroundings to their original states.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0044",
+    "canonical_statement": "Irreversibility is a fundamental requirement for the existence of biological life and physical motion.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 208,
+        "chapter": "5.3. ANALYSIS OF CARNOT HEAT ENGINES",
+        "surface_quote": "If the world in which we live were reversible... life would be impossible.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "time",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0045",
+    "canonical_statement": "The physical universe is characterized by inherent deviations from ideal, reversible states.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 208,
+        "chapter": "5.3. ANALYSIS OF CARNOT HEAT ENGINES",
+        "surface_quote": "everything in the real world deviates from the ideal.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0046",
+    "canonical_statement": "Physical phenomena are governed by causal relationships where work is necessitated by temperature differentials.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 213,
+        "chapter": "CHAPTER 5. THE SECOND LAW OF THERMODYNAMICS",
+        "surface_quote": "That effect, work, must have a cause. And we are going to assert that the cause is affiliated with a temperature difference.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0047",
+    "canonical_statement": "The efficiency of physical systems is constrained by fundamental environmental and material limitations.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 213,
+        "chapter": "CHAPTER 5. THE SECOND LAW OF THERMODYNAMICS",
+        "surface_quote": "While we would like to drive our efficiency to be as close to unity as possible, nature limits us.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nature",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0048",
+    "canonical_statement": "Entropy production is a fundamental property of irreversible processes within physical systems.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 225,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "Irreversible entropy production characterizes that portion of entropy production that is irreversible.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entropy",
+      "thermodynamics",
+      "physicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0049",
+    "canonical_statement": "The unidirectional increase of entropy in isolated systems defines the forward progression of time.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 226,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "for isolated systems, the entropy increases as time moves forward.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "entropy",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0050",
+    "canonical_statement": "The universe is an isolated system governed by the principle of non-decreasing entropy.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 227,
+        "chapter": "6.2. SECOND LAW IN TERMS OF ENTROPY",
+        "surface_quote": "The universe is isolated, so the second law holds that SU2 − SU1 ≥ 0.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "universe",
+      "entropy",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0051",
+    "canonical_statement": "Spontaneous energy transfer between systems is constrained by the requirement that total entropy cannot decrease.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 227,
+        "chapter": "6.2. SECOND LAW IN TERMS OF ENTROPY",
+        "surface_quote": "We must have TA ≥ TB in order to transfer positive heat Q from A to B.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "entropy",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0052",
+    "canonical_statement": "Physical structure is inversely proportional to the degree of randomness within a system.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 228,
+        "chapter": "6.2. SECOND LAW IN TERMS OF ENTROPY",
+        "surface_quote": "ice has more structure, i.e. less randomness, than liquid water.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "entropy",
+      "structure",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0053",
+    "canonical_statement": "The distinction between reversible and irreversible processes is defined by the dissipation of mechanical energy into thermal energy.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 232,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "work done by other types of forces... does dissipate mechanical energy into thermal energy.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "entropy",
+      "thermodynamics",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0054",
+    "canonical_statement": "State functions defined by the Gibbs equation are independent of the specific process path taken.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 232,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "only properties are defined, and so we do not have to restrict ourselves to reversible processes.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "properties",
+      "thermodynamics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0055",
+    "canonical_statement": "Entropy is inversely correlated with the degree of structural order within a physical system.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 234,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "We easily envision the vapor as having less structure or less order than the liquid.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "entropy",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0056",
+    "canonical_statement": "The universe is an isolated system characterized by a non-decreasing entropy state.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 237,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "The universe is isolated, and its entropy went up in this process.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "entropy",
+      "universe",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0057",
+    "canonical_statement": "Perpetual motion machines are physically impossible due to the fundamental laws of thermodynamics.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 255,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "perpetual motion machines of the first and second kind cannot exist",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "thermodynamics",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0058",
+    "canonical_statement": "The transition from structured arrangements to equilibrium states is an irreversible process that increases the entropy of the universe.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 266,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "When the two gases mix, they come to a new equilibrium... entropy should go up.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "entropy",
+      "structure",
+      "thermodynamics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0059",
+    "canonical_statement": "Reversing the transition from equilibrium back to a structured state requires the application of external energy or action.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 266,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "it would require an external action to return the system to its original state.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0060",
+    "canonical_statement": "The entropy of the universe increases whenever systems move from a state of non-equilibrium to equilibrium.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 268,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "The entropy of the universe will increase whenever two systems... come to an equilibrium.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "entropy",
+      "universe",
+      "equilibrium"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0061",
+    "canonical_statement": "Irreversible processes, such as adiabatic mixing, prevent the spontaneous return of a system to its initial state.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 268,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "once mixed, we do not expect to see a spontaneous return to the initial state.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "entropy",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0062",
+    "canonical_statement": "The degree of distinguishability between entities corresponds to the amount of information present within a system.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 269,
+        "chapter": "6.9. ENTROPY OF THERMO-MECHANICAL MIXING",
+        "surface_quote": "The more one is able to distinguish gases, the more one has information about them.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "information",
+      "ontology",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0063",
+    "canonical_statement": "Entropy is fundamentally linked to the presence and accessibility of information.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 269,
+        "chapter": "6.9. ENTROPY OF THERMO-MECHANICAL MIXING",
+        "surface_quote": "The relation of entropy to information is foundational.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "entropy",
+      "information",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0064",
+    "canonical_statement": "The equilibrium state of a physical system is defined by the maximization of entropy.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 269,
+        "chapter": "6.9. ENTROPY OF THERMO-MECHANICAL MIXING",
+        "surface_quote": "the equilibrium state is the one that maximizes entropy in an adiabatic mixing problem.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "equilibrium",
+      "entropy",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0065",
+    "canonical_statement": "Physical systems possess multiple potential configurations that satisfy energy conservation laws, allowing for a state of maximum entropy.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 270,
+        "chapter": "6.9. ENTROPY OF THERMO-MECHANICAL MIXING",
+        "surface_quote": "infinite number of ways to partition the energy at state 2",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entropy",
+      "thermodynamics",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0066",
+    "canonical_statement": "Entropy is a measure of the loss of distinct structural order within a system.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 274,
+        "chapter": "6.10. PROBABILISTIC APPROACH TO ENTROPY",
+        "surface_quote": "The distinct ordering of the energy on the left has decayed into the disorder.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "entropy",
+      "structure",
+      "thermodynamics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0067",
+    "canonical_statement": "Systems naturally evolve from states of distinct structural ordering toward states of uniform disorder.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 274,
+        "chapter": "6.10. PROBABILISTIC APPROACH TO ENTROPY",
+        "surface_quote": "Left to itself, the thermal energy would diffuse, giving rise to the configuration on the right.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entropy",
+      "time",
+      "equilibrium"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0068",
+    "canonical_statement": "Uniformity in a system's macroscopic properties indicates a higher state of entropy than a system with heterogeneous local variations.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 274,
+        "chapter": "6.10. PROBABILISTIC APPROACH TO ENTROPY",
+        "surface_quote": "The configuration on the right... is equivalent to that on the left having come to equilibrium.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entropy",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0069",
+    "canonical_statement": "Entropy is a function of the number of possible states available to a system.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 276,
+        "chapter": "6.10. PROBABILISTIC APPROACH TO ENTROPY",
+        "surface_quote": "entropy rises as the number of possible states rises.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "entropy",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0070",
+    "canonical_statement": "The internal energy of a molecule is distributed across its available spatial degrees of freedom.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 276,
+        "chapter": "6.10. PROBABILISTIC APPROACH TO ENTROPY",
+        "surface_quote": "each degree of freedom contributes (1/2)kB T to the internal energy of the molecule.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0071",
+    "canonical_statement": "Entropy is a measure of the randomness or uncertainty within a system's state distribution.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 277,
+        "chapter": "6.10. PROBABILISTIC APPROACH TO ENTROPY",
+        "surface_quote": "Entropy is a measure of randomness; higher entropy corresponds to more equally likely states.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "entropy",
+      "randomness",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0072",
+    "canonical_statement": "Absolute zero temperature corresponds to a state of zero entropy where a system is in a single, certain configuration.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 277,
+        "chapter": "6.10. PROBABILISTIC APPROACH TO ENTROPY",
+        "surface_quote": "Zero entropy corresponds to absolute zero, where the probability of the ground state is unity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entropy",
+      "temperature",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0073",
+    "canonical_statement": "The state of maximum entropy in a system is equivalent to the state of maximum probability distribution uniformity given specific constraints.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 280,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "the probability distribution function that maximizes entropy is in fact uniform",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "entropy",
+      "probability",
+      "thermodynamics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0074",
+    "canonical_statement": "Physical systems naturally evolve toward distributions that maximize entropy while satisfying internal energy constraints.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 280,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "maximize entropy or randomness while simultaneously achieving the desired average behavior",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entropy",
+      "nature",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0075",
+    "canonical_statement": "Physical entropy and information entropy are mathematically isomorphic structures.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 284,
+        "chapter": "6.10. PROBABILISTIC APPROACH TO ENTROPY",
+        "surface_quote": "Boltzmann’s theory is known as information theory.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "entropy",
+      "information",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0076",
+    "canonical_statement": "The total energy of the universe remains constant while its entropy tends toward a maximum state.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 285,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "The energy of the universe is constant, and its entropy is increasing.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "thermodynamics",
+      "cosmology",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0077",
+    "canonical_statement": "The universe is trending toward a state of final equilibrium characterized by spatial homogeneity.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 285,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "deteriorate into spatially homogeneous space dust at a state of final equilibrium",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "entropy",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0078",
+    "canonical_statement": "Local structures can emerge and self-organize within a non-equilibrium thermodynamic framework.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 285,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "local structures to self-organize into ordered units",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "emergence",
+      "thermodynamics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0079",
+    "canonical_statement": "Scientific frameworks like thermodynamics are insufficient to resolve theological questions regarding ultimate origins or purposes.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 285,
+        "chapter": "CHAPTER 6. ENTROPY",
+        "surface_quote": "thermodynamics is incapable of definitively answering theological questions",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "theology",
+      "science"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0080",
+    "canonical_statement": "The truth value of a proposition is independent of its empirical falsifiability.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 286,
+        "chapter": "6.11. SUMMARY STATEMENT OF THERMODYNAMICS",
+        "surface_quote": "Statements need not be falsifiable to be true.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0081",
+    "canonical_statement": "Scientific laws are pragmatic models derived from empirical data rather than absolute ontological truths.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 286,
+        "chapter": "6.11. SUMMARY STATEMENT OF THERMODYNAMICS",
+        "surface_quote": "The so-called laws of thermodynamics are simply an efficient reflection of present-day empirical data.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "science",
+      "ontology",
+      "pragmatism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0082",
+    "canonical_statement": "Light propagation in straight lines necessitates a physical substrate or corpuscular nature rather than pure action.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 356,
+        "chapter": "CHAPTER 9. MATHEMATICAL FOUNDATIONS",
+        "surface_quote": "light is propagated in right lines, it is certain that it cannot consist in action alone",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "ontology",
+      "nature of light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0083",
+    "canonical_statement": "Sound is ontologically defined as the propagation of physical pulses through a medium.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 356,
+        "chapter": "CHAPTER 9. MATHEMATICAL FOUNDATIONS",
+        "surface_quote": "sounds... can be nothing else but pulses of the air propagated through it",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "materialism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0084",
+    "canonical_statement": "The universe is subject to an ultimate state of thermodynamic equilibrium known as heat death.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 409,
+        "chapter": "CHAPTER 9. MATHEMATICAL FOUNDATIONS",
+        "surface_quote": "heat death, 315",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "entropy",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_lecture_notes_on_thermodynamics_0085",
+    "canonical_statement": "The universe can exist in an isolated state.",
+    "attributions": [
+      {
+        "source_id": "lecture_notes_on_thermodynamics",
+        "chunk_index": 421,
+        "chapter": "CHAPTER 9. MATHEMATICAL FOUNDATIONS",
+        "surface_quote": "universe, isolated",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "universe",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  }
+]

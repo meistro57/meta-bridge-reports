@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0001",
+    "canonical_statement": "Gnosis or the interpretation of secret truth grants the individual immunity to death.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "Whoever finds the interpretation of these sayings will not experience death.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0002",
+    "canonical_statement": "The ultimate state of existence involves a transition through confusion and astonishment to mastery over the totality of reality.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "When he finds, he will become troubled... and he will rule over the All.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0003",
+    "canonical_statement": "The kingdom of heaven is an immanent reality existing both within and outside the individual.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "The kingdom is inside of you, and it is outside of you.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0004",
+    "canonical_statement": "Self-knowledge is the prerequisite for divine recognition and the realization of one's origin.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "When you come to know yourselves, then you will become known.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0005",
+    "canonical_statement": "Ignorance of the self constitutes a state of ontological poverty.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "If you will not know yourselves, you dwell in poverty.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0006",
+    "canonical_statement": "All hidden aspects of reality are destined to be revealed and made manifest.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "There is nothing hidden which will not become manifest.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0007",
+    "canonical_statement": "The spiritual evolution of the soul involves the transmutation of lower, animalistic natures into higher, human or divine forms.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "Blessed is the lion which becomes man when consumed by man.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "transmutation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0008",
+    "canonical_statement": "The material universe and its heavens are transient and subject to dissolution.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "This heaven will pass away, and the one above it will pass away.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0009",
+    "canonical_statement": "True life is defined by spiritual awakening, while the unawakened are ontologically dead.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "The dead are not alive, and the living will not die.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0010",
+    "canonical_statement": "Human existence involves a transition from original unity into a state of duality.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "On the day when you were one you became two.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0011",
+    "canonical_statement": "Spiritual enlightenment is an internal, transformative process rather than an external ritualistic practice.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "If you fast, you will give rise to sin for yourselves.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "practice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0012",
+    "canonical_statement": "Moral defilement is a product of internal intent and expression rather than external consumption.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "What goes into your mouth will not defile you, but that which issues from your mouth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0013",
+    "canonical_statement": "The ultimate spiritual origin is non-biological and transcends human birth.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "When you see one who was not born of woman, prostrate yourselves.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "origin",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0014",
+    "canonical_statement": "Spiritual realization necessitates a state of individual solitude and separation from worldly structures.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "And they will stand solitary.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0015",
+    "canonical_statement": "The beginning and the end of existence are ontologically identical.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "Where the beginning is, there will the end be.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0016",
+    "canonical_statement": "True identity exists prior to the manifestation of the individual in the material world.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "Blessed is he who came into being before he came into being.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0017",
+    "canonical_statement": "The material world is a temporary domain that does not belong to the soul.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "Children who have settled in a field which is not theirs.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0018",
+    "canonical_statement": "Entry into the kingdom of heaven requires the dissolution of all dualities and binary distinctions.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "When you make the two one, and the inside like the outside.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0019",
+    "canonical_statement": "The ultimate state of being involves the unification of the many into a singular essence.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "They shall stand as a single one.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0020",
+    "canonical_statement": "The individual possesses an internal luminosity that, when active, illuminates the external world.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "There is light within a man of light, and he lights up the whole world.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0021",
+    "canonical_statement": "Self-correction and the removal of internal biases are prerequisites for accurate perception of others.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "When you cast the beam out of your own eye, then you will see clearly.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0022",
+    "canonical_statement": "Detachment from worldly concerns is a necessary condition for accessing the divine realm.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "If you do not fast as regards the world, you will not find the kingdom.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "asceticism",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0023",
+    "canonical_statement": "Humanity exists in a state of spiritual unconsciousness or intoxication, unaware of their true nature.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "I found all of them intoxicated; I found none of them thirsty.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0024",
+    "canonical_statement": "The spirit is the primary source of existence, and its presence within the physical body is a profound paradox.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "I am amazed at how this great wealth has made its home in this poverty.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirit",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0025",
+    "canonical_statement": "The divine presence is accessible to the individual regardless of the plurality of external deities.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Where there are two or one, I am with him.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0026",
+    "canonical_statement": "The attainment of spiritual liberation requires the shedding of the ego or false self, symbolized by the removal of garments.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "When you disrobe without being ashamed... then will you see the son of the living one",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "liberation",
+      "identity",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0027",
+    "canonical_statement": "Access to divine knowledge is restricted by institutional gatekeepers who prevent others from attaining enlightenment.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "The pharisees and the scribes have taken the keys of knowledge and hidden them.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "authority",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0028",
+    "canonical_statement": "Spiritual wisdom requires a synthesis of intellectual discernment and moral purity.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "Be as wise as serpents and as innocent as doves.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0029",
+    "canonical_statement": "Entities lacking a connection to the divine source are inherently unstable and subject to dissolution.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "A grapevine planted outside the father will be pulled up and destroyed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0030",
+    "canonical_statement": "Spiritual progress requires a detachment from worldly identification and a state of transient existence.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Become passers-by.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "detachment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0031",
+    "canonical_statement": "The holy spirit represents an absolute, unforgivable threshold of reality, distinct from the father or son.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Whoever blasphemes against the holy spirit will not be forgiven.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0032",
+    "canonical_statement": "External manifestations are direct projections of the internal state of the heart.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "A good man brings forth good from his storehouse in his heart.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0033",
+    "canonical_statement": "The transition to a higher state of consciousness requires a fundamental shift in identity, surpassing historical spiritual benchmarks.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Whoever comes to be a child will be acquainted with the kingdom.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0034",
+    "canonical_statement": "Spiritual integration requires singular focus; dualistic or conflicting states of being are incompatible.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "It is impossible for a man to mount two horses.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "duality",
+      "integration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0035",
+    "canonical_statement": "Unity of consciousness between individuals grants the ability to manipulate physical reality.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "If two make peace... they will say to the mountain, 'Move Away'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0036",
+    "canonical_statement": "The human soul originates from a primordial light-source and is destined to return to it.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "You are from it, and to it you will return.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "origin",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0037",
+    "canonical_statement": "The fundamental nature of the divine is characterized by the duality of movement and repose.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "The sign of your father in you is movement and repose.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0038",
+    "canonical_statement": "The eschatological state of the new world is not a future event but a present, unrecognized reality.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "What you look forward to has already come, but you do not recognize it.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "perception",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0039",
+    "canonical_statement": "Spiritual transformation is internal and supersedes physical or ritualistic practices.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "The true circumcision in spirit has become completely profitable.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0040",
+    "canonical_statement": "The material world is inherently dead; true understanding requires transcending material attachment.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "Whoever has come to understand the world has found (only) a corpse.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0041",
+    "canonical_statement": "Suffering is a necessary condition for the attainment of true life.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "Blessed is the man who has suffered and found life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0042",
+    "canonical_statement": "Spiritual realization must be achieved during physical life to avoid existential dissolution.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Take heed of the living one while you are alive, lest you die.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0043",
+    "canonical_statement": "The unawakened state is characterized by a vulnerability to being consumed by external forces.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Look for a place for yourself within repose, lest you become a corpse and be eaten.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0044",
+    "canonical_statement": "The ultimate reality is an undivided unity, and individual identity is defined by its relation to this source.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "I am he who exists from the undivided.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0045",
+    "canonical_statement": "The dissolution of the ego leads to illumination, while fragmentation leads to darkness.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "If he is destroyed, he will be filled with light, but if he is divided, he will be filled with darkness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0046",
+    "canonical_statement": "Attachment to material concerns and worldly commerce acts as a barrier to the divine realm.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Businessmen and merchants will not enter the places of my father.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0047",
+    "canonical_statement": "Total knowledge of the totality of existence renders any perceived lack of self-sufficiency an absolute deficiency.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "If one who knows the all still feels a personal deficiency, he is completely deficient.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis",
+      "wholeness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0048",
+    "canonical_statement": "Internalized persecution or spiritual struggle is a prerequisite for the realization of the divine source.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "Blessed are they who have been persecuted within themselves. It is they who have truly come to know the father.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0049",
+    "canonical_statement": "Salvation is contingent upon the externalization of an innate, pre-existing internal essence.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "That which you have will save you if you bring it forth from yourselves.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "salvation",
+      "identity",
+      "essence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0050",
+    "canonical_statement": "The material or egoic structure is subject to inevitable dissolution.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "I shall destroy this house, and no one will be able to build it.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "impermanence",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0051",
+    "canonical_statement": "Access to the ultimate state of union is reserved for the solitary individual.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "Many are standing at the door, but it is the solitary who will enter the bridal chamber.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "union"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0052",
+    "canonical_statement": "The highest reality is a singular, enduring essence that necessitates the abandonment of fragmented material attachments.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "He sold the merchandise and bought the pearl alone for himself.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "detachment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0053",
+    "canonical_statement": "The ultimate reality is an omnipresent, singular consciousness that permeates all physical matter.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "I am the all... Split a piece of wood, and I am there.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "monism",
+      "omnipresence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0054",
+    "canonical_statement": "Spiritual realization grants a consciousness that transcends the material world.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "He who has found the body is superior to the world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "transcendence",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0055",
+    "canonical_statement": "The divine light is hidden within the manifest images of the material world.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "The images are manifest, but the light in them remains concealed.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0056",
+    "canonical_statement": "Human existence is characterized by the observation of eternal, pre-existing archetypal images.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "You see your images which came into being before you.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "archetypes",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0057",
+    "canonical_statement": "Dependency on physical or secondary forms is a state of spiritual limitation.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Wretched is the body that is dependant upon a body.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0058",
+    "canonical_statement": "Spiritual attainment involves the recognition of inherent, pre-existing divine knowledge.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Angels will give you those things you already have.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0059",
+    "canonical_statement": "The creator of the internal essence and the external form is a singular entity.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "he who made the inside is the same one who made the outside",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0060",
+    "canonical_statement": "The present moment contains a hidden reality that observers fail to perceive.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "you do not know how to read this moment",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0061",
+    "canonical_statement": "The kingdom of the father acts as a transformative, pervasive influence within material reality.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "kingdom is like leaven concealed in dough",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0062",
+    "canonical_statement": "Spiritual kinship is defined by alignment with divine will rather than biological lineage.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "Those here who do the will of my father are my brothers",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0063",
+    "canonical_statement": "Spiritual lineage transcends biological parentage.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "my true mother gave me life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0064",
+    "canonical_statement": "The unification of duality is the prerequisite for mastery over material reality.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "When you make the two one... 'Mountain, move away,' it will move away.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "non-duality",
+      "reality",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0065",
+    "canonical_statement": "The assimilation of the teacher's essence leads to the revelation of hidden truths.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "He who will drink from my mouth will become like me.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0066",
+    "canonical_statement": "The material world is a hidden repository of value that remains unrecognized by the unawakened.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "The kingdom is like a man who had a hidden treasure in his field.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0067",
+    "canonical_statement": "The ultimate reality is transient and subject to dissolution in the presence of the awakened consciousness.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "The heavens and the earth will be rolled up in your presence.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "reality",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0068",
+    "canonical_statement": "True life is found in the living source, rendering the individual immune to death.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "the one who lives from the living one will not see death.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "immortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0069",
+    "canonical_statement": "Self-actualization confers superiority over the material world.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Whoever finds himself is superior to the world.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0070",
+    "canonical_statement": "The soul and the flesh must exist in independence rather than mutual dependency.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Woe to the flesh that depends on the soul; woe to the soul that depends on the flesh.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0071",
+    "canonical_statement": "The kingdom of the divine is an omnipresent reality currently obscured by human perception.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "the kingdom of the father is spread out upon the earth, and men do not see it.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_gospel_of_thomas_lambdin_0072",
+    "canonical_statement": "Spiritual attainment requires the transcendence of gendered identity to achieve a unified, living spirit.",
+    "attributions": [
+      {
+        "source_id": "gospel_of_thomas_lambdin",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "every woman who will make herself male will enter the kingdom of heaven.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirit",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  }
+]

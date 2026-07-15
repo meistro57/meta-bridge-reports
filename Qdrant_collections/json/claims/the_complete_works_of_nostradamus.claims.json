@@ -1,0 +1,4463 @@
+[
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0001",
+    "canonical_statement": "Prophetic knowledge is derived from divine inspiration rather than occult or irrational methods.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "not by bacchic frenzy nor by enchantments but by astronomical assurances",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "prophecy",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0002",
+    "canonical_statement": "The unfolding of temporal events is governed and determined by the will of the Almighty.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "all is ruled and governed by the power of Almighty God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "theology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0003",
+    "canonical_statement": "Prophetic ability is a faculty granted by divine power, allowing the perception of distant temporal events.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "nothing can be accomplished without this faculty... revealed unto those prophets with the power",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "prophecy",
+      "divine",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0004",
+    "canonical_statement": "Human consciousness and intelligence are inherently limited and incapable of accessing divine secrets.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "human beings cannot through our natural consciousness and intelligence know anything of God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0005",
+    "canonical_statement": "Divine influence acts upon human and inanimate entities similarly to the way solar rays affect physical matter.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "warmth and strength of prophecy invests us... as the sun's rays affect both animate and inanimate",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divine",
+      "influence",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0006",
+    "canonical_statement": "Future events exist as images or impressions accessible to the present through spiritual inspiration.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "persons of future times may be seen in present ones, because God Almighty has wished to reveal them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0007",
+    "canonical_statement": "There is a hierarchy of creative works: divine, angelic, and those of evildoers.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "God may bring into being divine works... another level, that of angelic works; and a third way",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0008",
+    "canonical_statement": "Prophecy is facilitated by a 'subtle spirit of fire' activated through contemplation and celestial alignment.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "vouchsafed through the subtle spirit of fire, which the understanding sometimes stirs through contemplation",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "prophecy",
+      "spirit",
+      "contemplation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0009",
+    "canonical_statement": "The three temporal dimensions of past, present, and future are unified within the singular, eternal structure of reality.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "the three times are understood as Eternity whose unfolding contains them all",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "eternity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0010",
+    "canonical_statement": "Prophetic insight is derived from a synthesis of divine inspiration, natural law, and celestial mechanics.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "prophetic inspiration derives its initial origin from God Almighty, then from chance and nature",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "prophecy",
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0011",
+    "canonical_statement": "Human intellect is insufficient to grasp ultimate reality without the mediation of celestial signs.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "understanding created by the intellect cannot be acquired by means of the occult, only by the aid of the zodiac",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0012",
+    "canonical_statement": "The totality of existence is transparent and accessible to the perspective of eternity.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "all things are naked and open",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0013",
+    "canonical_statement": "The future is predetermined and accessible to human perception through divine revelation and celestial observation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "events can be foretold naturally by the heavenly bodies and by the spirit of prophecy",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "divination",
+      "prophecy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0014",
+    "canonical_statement": "Prophetic insight is a manifestation of divine light, distinct from the inherent fallibility of the human vessel.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "I cannot fail, err or be deceived, although I may be as great a sinner",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0015",
+    "canonical_statement": "Human intelligence is capable of accessing universal truths through the intersection of natural philosophy and divine inspiration.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "two principal factors which make up the prophet's intelligence",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0016",
+    "canonical_statement": "The physical world is subject to cyclical destruction and transformation through cataclysmic events.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "worldwide conflagration which is to bring so many catastrophes and such revolutions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "time",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0017",
+    "canonical_statement": "Historical events are cyclical and governed by celestial configurations.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "according to the celestial signs, the Golden Age shall return",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0018",
+    "canonical_statement": "The physical stability of the Earth is contingent upon the motion of the celestial spheres.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "constellations will resume their motion which will render the earth stable and firm",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0019",
+    "canonical_statement": "Prophetic knowledge is derived from divine inspiration and angelic mediation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "Everything is predicted by divine afflatus and thanks to an angelic spirit",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0020",
+    "canonical_statement": "True prophecy requires the alignment of the human intellect with external divine light.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "prophecy which stems from exterior illumination is part of that light",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0021",
+    "canonical_statement": "The unfolding of historical events is predetermined and follows a fixed, inevitable sequence.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "experiencing these inevitable events",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0022",
+    "canonical_statement": "Human ignorance regarding the nature of reality is a temporary state that will be removed at a specific future point.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "When the time comes for the removal of ignorance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0023",
+    "canonical_statement": "Divine intervention and mercy are subject to temporal limitations and specific conditions of fulfillment.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "God's mercy will be poured forth only for a certain time",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0024",
+    "canonical_statement": "The void or emptiness serves as a source for the manifestation of light or divine insight.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 7,
+        "chapter": "CENTURIE I",
+        "surface_quote": "A slight flame comes out of the emptiness",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0025",
+    "canonical_statement": "Ritualistic physical actions and tools facilitate the proximity of divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 7,
+        "chapter": "CENTURIE I",
+        "surface_quote": "The wand in the hand... Divine splendour; the god sits nearby.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0026",
+    "canonical_statement": "Human history and political structures are subject to cyclical patterns of upheaval and decline.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 7,
+        "chapter": "CENTURIE I",
+        "surface_quote": "The new republic will be troubled... the ship of the Papacy will be lost.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "time",
+      "cyclical"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0027",
+    "canonical_statement": "The ancestors and forebears possess the capacity to emerge from the state of death to witness the collapse of their lineage.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 8,
+        "chapter": "CENTURIE I",
+        "surface_quote": "The ancestors and forebears will come forth from the depths of hell",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "lineage",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0028",
+    "canonical_statement": "Human agency and physical movement are subject to the alignment of internal faculties, including the heart and senses.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 8,
+        "chapter": "CENTURIE I",
+        "surface_quote": "The motion of senses, heart, feet and hands will be in agreement",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0029",
+    "canonical_statement": "The failure of the brain or cognitive faculty serves as a primary cause for the cessation of life and physical destruction.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 8,
+        "chapter": "CENTURIE I",
+        "surface_quote": "killed or dead because of a weak brain",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0030",
+    "canonical_statement": "Historical time is characterized by cyclical patterns of destruction and renewal.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 9,
+        "chapter": "CENTURIE I",
+        "surface_quote": "the century approaches its renewal.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0031",
+    "canonical_statement": "Human events are subject to deterministic patterns of catastrophe and upheaval.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 9,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Mars threatens us with the force of war",
+        "claim_type": "implied",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "determinism",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0032",
+    "canonical_statement": "The fundamental substrate of the physical earth is composed of clay.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 10,
+        "chapter": "CENTURIE I",
+        "surface_quote": "the foundation of the earth is of clay",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0033",
+    "canonical_statement": "Entities lacking sensory perception can possess the capacity for self-destruction through artifice.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 10,
+        "chapter": "CENTURIE I",
+        "surface_quote": "A thing existing without any senses will cause its own end",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0034",
+    "canonical_statement": "Human history and events are synchronized with the cyclical movements of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 10,
+        "chapter": "CENTURIE I",
+        "surface_quote": "This is when the moon completes her great cycle",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0035",
+    "canonical_statement": "Future events are fixed and can be accessed through prophetic foresight.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 11,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Mal, \u0026 predict par porteur postulaire",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "prophecy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0036",
+    "canonical_statement": "Human history is governed by cyclical patterns and celestial alignments.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 11,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Taurus, \u0026 Libra, quelle mortelle picque?",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0037",
+    "canonical_statement": "Historical events and the fate of empires are subject to preordained cycles and inevitable shifts.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 13,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Before the Empire changes, a very wonderful event will take place.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "destiny",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0038",
+    "canonical_statement": "Human existence is characterized by the constant interplay of political upheaval and mortality.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 13,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Liberty and peace, if achieved in time through death.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "existence",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0039",
+    "canonical_statement": "The progression of time is subject to non-linear expansion and eventual dissolution.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 14,
+        "chapter": "CENTURIE I",
+        "surface_quote": "days will drag out into weeks, then months, then years, then all will fail.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0040",
+    "canonical_statement": "The structure of history is governed by cyclical celestial influences and distinct eras of authority.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 14,
+        "chapter": "CENTURIE I",
+        "surface_quote": "When twenty years of the Moon's reign have passed, another will take up his reign.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0041",
+    "canonical_statement": "Human collective consciousness and societal stability are susceptible to external celestial forces.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 14,
+        "chapter": "CENTURIE I",
+        "surface_quote": "people of the East, influenced by the Moon, will cause many to be carried away.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0042",
+    "canonical_statement": "Celestial bodies and planetary alignments exert a deterministic influence over historical events and human governance.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 15,
+        "chapter": "CENTURIE I",
+        "surface_quote": "The head of Aries, Jupiter and Saturn... what changes!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0043",
+    "canonical_statement": "The physical world is subject to cyclical periods of decay and renewal governed by cosmic forces.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 15,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Then the bad times will return again after a long century.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0044",
+    "canonical_statement": "Celestial entities or intelligences act as intermediaries in the movement of heavenly bodies.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 15,
+        "chapter": "CENTURIE I",
+        "surface_quote": "The moon is thus led by its angel.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0045",
+    "canonical_statement": "Human history is governed by cyclical patterns of destruction and renewal.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 16,
+        "chapter": "CENTURIE I",
+        "surface_quote": "how long the centuries until it is seen to be restored.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0046",
+    "canonical_statement": "Technological advancement in travel does not prevent the recurrence of conflict.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 16,
+        "chapter": "CENTURIE I",
+        "surface_quote": "People will travel safely through the sky... then wars will start up again.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0047",
+    "canonical_statement": "The material world is subject to cyclical patterns of destruction and transformation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 17,
+        "chapter": "CENTURIE I",
+        "surface_quote": "After peace, war, famine, flooding... drowning great countries.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cyclicality",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0048",
+    "canonical_statement": "Human history is governed by preordained events or fate.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 17,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Secret sign for one to be sparing.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "fate",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0049",
+    "canonical_statement": "Excessive adherence to belief systems can precipitate political and social collapse.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 17,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Too great a faith will betray the monarch.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "belief",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0050",
+    "canonical_statement": "Human events and the rise of individuals to power are governed by pre-ordained destiny.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 18,
+        "chapter": "CENTURIE I",
+        "surface_quote": "three sisters will receive from destiny",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0051",
+    "canonical_statement": "Human destiny and historical events are governed by celestial configurations and planetary influences.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 19,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Saturn in dreadful aspect in Mars.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0052",
+    "canonical_statement": "Specific groups of individuals can be ontologically separated from the collective human experience.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 19,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Nine will be set apart from the human flock.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0053",
+    "canonical_statement": "Events in the material world are governed by a pre-ordained, divine, or cyclical causality.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 20,
+        "chapter": "CENTURIE I",
+        "surface_quote": "The divine wrath overtakes the great Prince.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "causality",
+      "fate",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0054",
+    "canonical_statement": "The physical earth possesses an internal, active, and volatile energetic core.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 20,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Earthshaking fire from the centre of the earth.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "earth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0055",
+    "canonical_statement": "Divine entities manipulate human perception to attribute the origins of terrestrial conflict to themselves.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 21,
+        "chapter": "CENTURIE I",
+        "surface_quote": "The gods will make it appear to mankind that they are the authors of war.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "perception",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0056",
+    "canonical_statement": "The attainment of political liberty is not a guaranteed outcome of the removal of a tyrant.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 21,
+        "chapter": "CENTURIE I",
+        "surface_quote": "The tyrant will be put to death, but Liberty will not be regained.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "politics",
+      "freedom",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0057",
+    "canonical_statement": "The efficacy of verbal persuasion and diplomatic discourse can surpass the destructive capacity of physical force.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 22,
+        "chapter": "CENTURIE I",
+        "surface_quote": "What weapon nor flame could accomplish, the sweet speaking tongue will achieve.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0058",
+    "canonical_statement": "The dream state serves as a medium for perceiving realities or threats that are not manifest in the physical or military domain.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 22,
+        "chapter": "CENTURIE I",
+        "surface_quote": "Sleeping, in a dream, the king will see the enemy not in war.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "dream"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0059",
+    "canonical_statement": "Human suffering and historical events are subject to divine intervention and petition.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 23,
+        "chapter": "CENTURIE II",
+        "surface_quote": "Crying to the great immortal God for relief.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0060",
+    "canonical_statement": "The soul achieves beatitude through the direct perception of the eternal Logos.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 24,
+        "chapter": "CENTURIE II",
+        "surface_quote": "The divine spirit will make the soul happy, seeing the word in its eternity.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "eternity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0061",
+    "canonical_statement": "Death functions as a transition point equivalent to a birth.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 24,
+        "chapter": "CENTURIE II",
+        "surface_quote": "Day of death put for birthday.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "death",
+      "time",
+      "rebirth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0062",
+    "canonical_statement": "The physical body is distinct from the soul and is not the essential subject of spiritual sacrifice.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 24,
+        "chapter": "CENTURIE II",
+        "surface_quote": "The body without soul no longer to be sacrificed.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "body",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0063",
+    "canonical_statement": "The divine word is subject to external interruption or limitation by celestial forces.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 26,
+        "chapter": "CENTURIE II",
+        "surface_quote": "The divine word will be struck from the sky",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0064",
+    "canonical_statement": "Metaphysical secrets can be obscured or sealed off from human access.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 26,
+        "chapter": "CENTURIE II",
+        "surface_quote": "The secret closed up with the revelation",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "esotericism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0065",
+    "canonical_statement": "Historical events are governed by cyclical patterns of recurrence involving the rebirth of past archetypal forces.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 27,
+        "chapter": "CENTURIE II",
+        "surface_quote": "One who the infernal gods of Hannibal will cause to be reborn",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "recurrence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0066",
+    "canonical_statement": "Human suffering and catastrophic events are linked to astrological configurations.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 27,
+        "chapter": "CENTURIE II",
+        "surface_quote": "Sun, Sagittarius and Capricorn all will be reduced.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0067",
+    "canonical_statement": "The universe is governed by a Great Mover that periodically initiates the renewal of historical ages.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 29,
+        "chapter": "CENTURIE II",
+        "surface_quote": "The great mover renews the ages",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0068",
+    "canonical_statement": "Celestial phenomena and planetary alignments are causally linked to terrestrial events and human history.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 29,
+        "chapter": "CENTURIE II",
+        "surface_quote": "Saturn in Sagittarius Mars turning from the fish",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "astrology",
+      "causality",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0069",
+    "canonical_statement": "Historical events are predetermined and can be foreseen through prophetic vision.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 30,
+        "chapter": "CENTURIE II",
+        "surface_quote": "When those of Hainaut... will see the siege laid",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "prophecy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0070",
+    "canonical_statement": "The moral state of the world is linked to the occurrence of catastrophic physical events.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 30,
+        "chapter": "CENTURIE II",
+        "surface_quote": "The blood of the just will commit a fault... Burnt through lightning",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "causality",
+      "morality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0071",
+    "canonical_statement": "Human suffering and death are often the result of karmic or retributive cycles.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 30,
+        "chapter": "CENTURIE II",
+        "surface_quote": "The great plague... will not cease until there be avenged the death",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "karma",
+      "justice",
+      "retribution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0072",
+    "canonical_statement": "Celestial configurations exert a causal influence on terrestrial events and historical outcomes.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 32,
+        "chapter": "CENTURIE II",
+        "surface_quote": "Mercury in Sagittarius Saturn will fade.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "astrology",
+      "causality",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0073",
+    "canonical_statement": "Human history and future events are subject to a pre-determined, cyclical, and inevitable unfolding.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 33,
+        "chapter": "CENTURIE II",
+        "surface_quote": "The predicted warlike image",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0074",
+    "canonical_statement": "Extreme scarcity and societal collapse can fundamentally alter human nature, leading to the dissolution of moral taboos.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 33,
+        "chapter": "CENTURIE II",
+        "surface_quote": "Man will be eating his fellow man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "humanity",
+      "nature",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0075",
+    "canonical_statement": "Historical events are governed by cyclical patterns and celestial alignments.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 34,
+        "chapter": "CENTURIE II",
+        "surface_quote": "After Libra will leave her Phaethon.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "astrology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0076",
+    "canonical_statement": "Historical events and human suffering are subject to cyclical patterns of destruction and renewal.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 36,
+        "chapter": "CENTURIE II",
+        "surface_quote": "Through steel, fire, famine, death awaiting them.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0077",
+    "canonical_statement": "The physical world is subject to inevitable decay and catastrophic transformation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 36,
+        "chapter": "CENTURIE II",
+        "surface_quote": "The populous places will be uninhabitable.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0078",
+    "canonical_statement": "Future events are pre-determined and accessible through the interpretation of omens and celestial configurations.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 37,
+        "chapter": "CENTURIE II",
+        "surface_quote": "Jupiter in Leon, omen through presage",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "divination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0079",
+    "canonical_statement": "The Divine Word acts as the foundational source that imparts existence and power to all material and spiritual substances.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 38,
+        "chapter": "CENTURIE III",
+        "surface_quote": "The divine word will give to the substance... Body, soul, spirit having all power.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0080",
+    "canonical_statement": "The human constitution, comprising body, soul, and spirit, possesses inherent potency that extends across both terrestrial and celestial realms.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 38,
+        "chapter": "CENTURIE III",
+        "surface_quote": "Body, soul, spirit having all power, as much under its feet as the Heavenly see.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0081",
+    "canonical_statement": "Physical anomalies and celestial phenomena serve as precursors to significant political and social transitions.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 40,
+        "chapter": "CENTURIE III",
+        "surface_quote": "In Lucca it will come to rain blood and milk, shortly before a change.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "omens",
+      "causality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0082",
+    "canonical_statement": "The natural world can manifest hybrid entities that defy standard biological categorization.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 40,
+        "chapter": "CENTURIE III",
+        "surface_quote": "There will appear a horrible fish, with face human and its end aquatic.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0083",
+    "canonical_statement": "Historical events are predetermined and can be perceived through prophetic vision.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 42,
+        "chapter": "CENTURIE III",
+        "surface_quote": "The eclipse of the Sun... the monster will be seen... none will have foreseen it.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "prophecy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0084",
+    "canonical_statement": "The celestial configuration of fixed stars acts as a deterministic indicator of impending historical shifts.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 44,
+        "chapter": "CENTURIE III",
+        "surface_quote": "The sky forebodes to us through clear signs and fixed stars that change approaches.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0085",
+    "canonical_statement": "Historical events and the transition of power are governed by an inevitable, impersonal cycle of change.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 44,
+        "chapter": "CENTURIE III",
+        "surface_quote": "The time of its sudden change is approaching, neither for its good, nor for its evils.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0086",
+    "canonical_statement": "The emergence of philosophical movements is characterized by a fundamental detachment from material wealth and the fear of mortality.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 47,
+        "chapter": "CENTURIE III",
+        "surface_quote": "A new sect of Philosophers despising death, gold, honors and riches.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "detachment",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0087",
+    "canonical_statement": "The universe is governed by a predetermined, eternal, and sequential order.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 49,
+        "chapter": "CENTURIE III",
+        "surface_quote": "The fatal everlasting order through the chain will come to turn through consistent order.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "determinism",
+      "time",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0088",
+    "canonical_statement": "Historical events and the fates of individuals are fixed and predictable through prophetic vision.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 50,
+        "chapter": "CENTURIE III",
+        "surface_quote": "You will swim in blood, captive you will not believe me.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "determinism",
+      "prophecy",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0089",
+    "canonical_statement": "Systems or entities that appear defunct or dead possess the latent capacity for sudden, rapid regeneration.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 50,
+        "chapter": "CENTURIE III",
+        "surface_quote": "The tree which had long been dead and withered, in one night it will come to grow green again.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "cyclicality",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0090",
+    "canonical_statement": "Historical cycles are governed by the movement of celestial bodies, specifically Saturn.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 51,
+        "chapter": "CENTURIE III",
+        "surface_quote": "Saturn will come back again late",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0091",
+    "canonical_statement": "Human history is structured by predetermined temporal cycles and periodic shifts in power.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 51,
+        "chapter": "CENTURIE III",
+        "surface_quote": "The world near the last period",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0092",
+    "canonical_statement": "The influence of a significant individual or entity can persist across centuries before manifesting a transformative revelation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 51,
+        "chapter": "CENTURIE III",
+        "surface_quote": "For five hundred years more one will keep count of him",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "identity",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0093",
+    "canonical_statement": "Societal and religious structures are subject to inevitable decline and replacement by more seductive ideologies.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 51,
+        "chapter": "CENTURIE III",
+        "surface_quote": "The law of More will be seen to decline",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sociology",
+      "change"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0094",
+    "canonical_statement": "The physical state of the world, including land and sea, is subject to fundamental transformation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 55,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "Sea, land, people will change their state.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0095",
+    "canonical_statement": "Human manifestations can be perceived as divine, leading to the destruction of sacred structures.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 56,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "Human flame seen to shine as divine: It will cause... the holy temples... to destroy.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "perception",
+      "destruction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0096",
+    "canonical_statement": "Entities exist that possess visible, lofty bodies while simultaneously lacking discernible heads or sensory organs.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 56,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "Lofty bodies endlessly visible... Body... sense and head invisible.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "form",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0097",
+    "canonical_statement": "The presence of non-human or occult entities diminishes the efficacy or practice of sacred rituals.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 56,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "Lofty bodies... Diminishing the sacred prayers.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0098",
+    "canonical_statement": "Hidden forms exist beneath the splendor of celestial alignments.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 56,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "When Venus will be covered by the Sun, Under the splendor will be a hidden form.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "occult",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0099",
+    "canonical_statement": "Human immortality is a state attainable through the guidance of a sage.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 57,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "By his disciples invited to be immortal",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "immortality",
+      "soul",
+      "initiation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0100",
+    "canonical_statement": "The structure of reality is subject to cyclical fluctuations in status and value.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 57,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "All raised and lowered by degree",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "cycles",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0101",
+    "canonical_statement": "The unfolding of historical events is linked to the revelation of hidden metaphysical secrets.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 57,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "After famine plague, the secret uncovered",
+        "claim_type": "implied",
+        "confidence": 0.6
+      }
+    ],
+    "tags": [
+      "time",
+      "knowledge",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0102",
+    "canonical_statement": "The spirit of an individual can persist or act as a witness to historical events long after the physical manifestation of those events.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 59,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "The spirit of a lone one will come to bear witness against it.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "spirit",
+      "witness",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0103",
+    "canonical_statement": "The human spirit is capable of achieving a state of tranquility and repose following the cessation of external conflict.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 60,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "The spirit tempered in tranquility and repose",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirit",
+      "consciousness",
+      "state"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0104",
+    "canonical_statement": "Events in the physical world, such as the death of a tyrant, are preceded by symbolic omens.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 60,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "When the crow... will continue to scream: Death foretold",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "omen",
+      "causality",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0105",
+    "canonical_statement": "Celestial alignments and planetary retrogressions serve as indicators or markers for the continuity of sovereign lineages.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 66,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "The year that Mercury, Mars, Venus in retrogression, the line of the great Monarch will not fail",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "astrology",
+      "destiny",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0106",
+    "canonical_statement": "The birth of significant historical figures can be heralded by celestial phenomena or divine intervention.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 66,
+        "chapter": "CENTURIE IV",
+        "surface_quote": "Then to be born in France a Prince so royal, Come from heaven all the Princes will see him.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "incarnation",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0107",
+    "canonical_statement": "Astrological configurations exert a deterministic influence over geopolitical events and the rise and fall of regimes.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 69,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "Saturn and Mars in Leo Spain captive",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0108",
+    "canonical_statement": "The historical trajectory of human civilizations is governed by cyclical planetary alignments.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 69,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "Saturn will no longer occupy their realm",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0109",
+    "canonical_statement": "Historical and political events are governed by the influence of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 71,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "When for the most part they will be conjoined with Mars",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0110",
+    "canonical_statement": "The rise and fall of political regimes and laws are subject to planetary cycles.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 71,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "Saturn will have dominion over Jupiter",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "astrology",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0111",
+    "canonical_statement": "The state of human affairs and the prosperity of civilizations are subject to inevitable cycles of decline and ruin.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 72,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "Where all is good... its ruin approaches.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "destiny",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0112",
+    "canonical_statement": "Celestial bodies exert a causal influence on the shifting fortunes of earthly events.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 72,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "From the sky it advances to change your fortune.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0113",
+    "canonical_statement": "The cyclical nature of history allows for the restoration of a previous golden age through the resurgence of ancestral lineage.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 73,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "Renewing the age of gold for that of brass.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0114",
+    "canonical_statement": "The essence of an individual's identity and potential is contained within their ancestral bloodline, which can be reactivated.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 73,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "He will cause his blood to rise again in the ancient urn.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0115",
+    "canonical_statement": "The spirit of prophecy is accessed through the interaction of celestial influences.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 75,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "The law of the Sun and of Venus in strife, appropriating the spirit of prophecy.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "prophecy",
+      "astrology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0116",
+    "canonical_statement": "Historical events are governed by the influence of the Sun, which facilitates the law of the Messiah.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 75,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "Neither the one nor the other will be understood, by sun will hold the law.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "teleology",
+      "messianism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0117",
+    "canonical_statement": "Astrological configurations exert a causal influence on the quality and manifestation of terrestrial events.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 78,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "Venus will be in a course so virtuous As to becloud the whole quality of the Sun.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "causality",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0118",
+    "canonical_statement": "The physical world is subject to the influence of celestial configurations and planetary movements.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 81,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "when Mars is in Leo and Saturn in Aquarius",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0119",
+    "canonical_statement": "Historical events are predetermined and can be perceived through symbolic or prophetic observation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 81,
+        "chapter": "CENTURIE V.",
+        "surface_quote": "The awaited one will come late",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0120",
+    "canonical_statement": "Celestial configurations exert a causal influence on terrestrial political and historical events.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 83,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "Saturn, Leo, Mars, Cancer in plunder.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "astrology",
+      "causality",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0121",
+    "canonical_statement": "Human history is subject to cyclical patterns of change and transformation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 83,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "several kingdoms one to five will make a change.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0122",
+    "canonical_statement": "Historical events and the rise and fall of political powers are subject to inevitable cycles of decay and transformation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 84,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "The seven branches will be reduced to three.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0123",
+    "canonical_statement": "Human suffering, including plague, famine, and violence, is an inherent component of the unfolding of temporal reality.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 84,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "Blood, land, plague, famine, fire extinguished by water.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0124",
+    "canonical_statement": "Human events are governed by an underlying force of fate that operates independently of human skill or artifice.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 85,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "By fate not the Jew's art he remains alive",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0125",
+    "canonical_statement": "Historical events and political shifts are governed by celestial alignments and planetary influences.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 86,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "Mars and the sceptre will be found conjoined",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "astrology",
+      "causality",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0126",
+    "canonical_statement": "Human events and political outcomes are governed by astrological influences.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 90,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "And they will have Mars attending as their star.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0127",
+    "canonical_statement": "Historical events are partially obscured and revealed in fragments, preventing a complete understanding of the whole.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 91,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "The great carpet folded will not show but by halved the greatest part of history",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "epistemology",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0128",
+    "canonical_statement": "The physical discovery of historical remains can serve as a foundational catalyst for the emergence of new ideological or religious movements.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 92,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "At the foundation of the new sect, the bones of the great Roman will be found.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "history",
+      "religion",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0129",
+    "canonical_statement": "The soul is a distinct entity that departs from the physical body at the moment of death.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 93,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "Before he has entirely given up the ghost",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0130",
+    "canonical_statement": "Human events and political outcomes are subject to a preordained temporal order.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 93,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "More than ever her time will triumph",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0131",
+    "canonical_statement": "Dreams can possess an inverted or contradictory relationship to the objective reality they signify.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 95,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "The great Prelate one day after his dream, Interpreted opposite to its meaning",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0132",
+    "canonical_statement": "The perception of reality is subject to inversion, where the observer sees events in reverse order.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 96,
+        "chapter": "CENTURIE VI.",
+        "surface_quote": "He who cut the wood sees all in reverse.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0133",
+    "canonical_statement": "Human historical events are subject to divine oversight and judgment.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 99,
+        "chapter": "CENTURIE VII",
+        "surface_quote": "he assembles the pardoned before the gods",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "theology",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0134",
+    "canonical_statement": "Death serves as a transformative mechanism for the acquisition of profound knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 100,
+        "chapter": "CENTURIE VII",
+        "surface_quote": "The prince... will come through death to change and become very knowledgeable.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "death",
+      "consciousness",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0135",
+    "canonical_statement": "The divine word is immanent within the physical elements of the natural world.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 103,
+        "chapter": "CENTURIE VII",
+        "surface_quote": "God, the heavens, all the divine words in the waves",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "immanence",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0136",
+    "canonical_statement": "Human history and social order are subject to cycles of horror followed by belief.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 103,
+        "chapter": "CENTURIE VII",
+        "surface_quote": "Two laws will make, first horror then trust.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "history",
+      "social-order",
+      "cycles"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0137",
+    "canonical_statement": "The dream state serves as a medium for accessing or uncovering physical realities hidden from the waking state.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 104,
+        "chapter": "CENTURIE VII",
+        "surface_quote": "Digging in dreams they will be unearthed",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "perception",
+      "dreams",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0138",
+    "canonical_statement": "The soul can be separated from the physical body through external intervention or authority.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 108,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "the father of each will deprive the body of its soul.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "death",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0139",
+    "canonical_statement": "Certain individuals may possess unique access to metaphysical or hidden knowledge unavailable to others.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 108,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "seen by him which is shown to no other.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "perception",
+      "knowledge",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0140",
+    "canonical_statement": "Astrological configurations serve as indicators or precursors to terrestrial geopolitical events.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 111,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "Saturn in Cancer, Jupiter with Mars in February",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0141",
+    "canonical_statement": "Human actions and historical events are subject to a pre-existing, deterministic cosmic order.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 112,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "Saturn in Taurus, Jupiter in Aquarius. Mars in Sagittarius, the sixth of February brings death.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "determinism",
+      "time",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0142",
+    "canonical_statement": "Spiritual purification is constrained by specific temporal and spatial conditions.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 112,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "He will want to wash away his misdeeds, he cannot at the temple of the Sun.",
+        "claim_type": "stated",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "redemption",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0143",
+    "canonical_statement": "Individual greatness is defined by a hierarchical structure of existence.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 112,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "In the hierarchy he had never an equal.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0144",
+    "canonical_statement": "The hierarchy of spiritual entities is subject to cyclical reversal or displacement over time.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 114,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "Beside the young one the old angel falls, and will come to rise above him.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "time",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0145",
+    "canonical_statement": "Human historical events are subject to a predetermined, cyclical, and inevitable progression.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 115,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "His time approaches so close that I sigh.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0146",
+    "canonical_statement": "Historical events are subject to cyclical patterns of destruction and renewal governed by external forces.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 116,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "The new empire in desolation will be changed from the Northern Pole.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0147",
+    "canonical_statement": "Human suffering and violence are integral components of the unfolding of terrestrial destiny.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 116,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "The blood of innocents, widow and virgin, so many evils committed.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0148",
+    "canonical_statement": "Future historical events are fixed and can be perceived in advance.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 117,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "Mort conspiree viendra en plein effect",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "prophecy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0149",
+    "canonical_statement": "The physical body and the spirit share a common substance that constitutes the true seat of existence.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 119,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "the substance of the body and the spirit will be restored",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "spirit",
+      "substance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0150",
+    "canonical_statement": "There is a reciprocal flow of energy or essence between the highest and lowest levels of reality.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 119,
+        "chapter": "CENTURIE VIII",
+        "surface_quote": "from top to bottom and from the bottome to the very top",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0151",
+    "canonical_statement": "The execution of a just individual triggers a metaphysical or karmic consequence manifesting as a plague.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 121,
+        "chapter": "CENTURIE IX",
+        "surface_quote": "Wrongly will they come to put the just one to death... So great a pestilence",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "karma",
+      "justice",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0152",
+    "canonical_statement": "Historical events are cyclical, with the death of a Golden Age marking the transition to a new, scandalous epoch.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 122,
+        "chapter": "CENTURIE IX",
+        "surface_quote": "Golden Age dead, new King great scandal.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "cyclical"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0153",
+    "canonical_statement": "The celestial configuration of Saturn acts as a symbolic or causal indicator of impending terrestrial shifts in power and material state.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 126,
+        "chapter": "CENTURIE IX",
+        "surface_quote": "Saturn will be converted from gold to iron",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "astrology",
+      "time",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0154",
+    "canonical_statement": "The physical heavens provide observable omens or signs preceding significant historical or eschatological events.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 126,
+        "chapter": "CENTURIE IX",
+        "surface_quote": "Before the coming the sky will show signs.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "eschatology",
+      "signs"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0155",
+    "canonical_statement": "Historical events are subject to cyclical patterns of political upheaval and inevitable human suffering.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 127,
+        "chapter": "CENTURIE IX",
+        "surface_quote": "Peace is nigh on one side, and war... innocent blood on the land.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "history",
+      "time",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0156",
+    "canonical_statement": "The exercise of extreme tyranny invites violent retribution from within one's own lineage.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 127,
+        "chapter": "CENTURIE IX",
+        "surface_quote": "Three of his blood will have him ambushed to death.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "justice",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0157",
+    "canonical_statement": "Historical events and political shifts are subject to cyclical patterns governed by the movement of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 129,
+        "chapter": "CENTURIE IX",
+        "surface_quote": "Before Mars has made several revolutions.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "astrology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0158",
+    "canonical_statement": "Social and political hierarchies are inherently unstable and subject to periodic inversion.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 129,
+        "chapter": "CENTURIE IX",
+        "surface_quote": "Estates, offices, low high and high very low.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "society",
+      "change"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0159",
+    "canonical_statement": "Historical events are governed by cyclical planetary influences.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 130,
+        "chapter": "CENTURIE IX",
+        "surface_quote": "Saturn two three cycles completed.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0160",
+    "canonical_statement": "Human religious and social practices are subject to periodic reversion to archaic forms.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 130,
+        "chapter": "CENTURIE IX",
+        "surface_quote": "Return again to the honors of Artemis.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "cyclicality",
+      "religion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0161",
+    "canonical_statement": "Human character and historical destiny are subject to predetermined, cyclical patterns of moral degradation and violence.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 136,
+        "chapter": "CENTURIE X",
+        "surface_quote": "One who will be worse than his grandfathers, uncles or fathers.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "fate",
+      "history",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0162",
+    "canonical_statement": "The nature of individual identity and moral standing is independent of lineage, yet influenced by ancestral archetypes.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 136,
+        "chapter": "CENTURIE X",
+        "surface_quote": "A sovereign prince will be born of an infamous woman.",
+        "claim_type": "implied",
+        "confidence": 0.6
+      }
+    ],
+    "tags": [
+      "identity",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0163",
+    "canonical_statement": "The structure of historical reality is subject to cyclical reversals of status and power.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 137,
+        "chapter": "CENTURIE X",
+        "surface_quote": "The high put low, and the low put high.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "cyclicality",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0164",
+    "canonical_statement": "Political and social stability are subject to cyclical fluctuations driven by the inherent instability of human governance.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 141,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Ones made and unmade, quick, sudden, neglectful.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0165",
+    "canonical_statement": "The legitimacy of a ruler or realm can be characterized as a shadow or an illusion, lacking ontological substance.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 141,
+        "chapter": "CENTURIE X",
+        "surface_quote": "The shadow of the realm of Navarre untrue.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0166",
+    "canonical_statement": "Human fate and the trajectory of life are influenced by moral corruption and the deceptive nature of power.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 141,
+        "chapter": "CENTURIE X",
+        "surface_quote": "In life, fate and death a sordid, unworthy man of gold.",
+        "claim_type": "stated",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "fate",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0167",
+    "canonical_statement": "Time is a non-linear construct where the present and past exist simultaneously and are subject to unified judgment.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 145,
+        "chapter": "CENTURIE X",
+        "surface_quote": "The present time together with the past will be judged",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "judgment",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0168",
+    "canonical_statement": "The physical death of the individual is not a permanent state, as the deceased are destined to return from their tombs.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 145,
+        "chapter": "CENTURIE X",
+        "surface_quote": "When the buried will go out from their tombs.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "resurrection",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0169",
+    "canonical_statement": "The flow of time involves an inherent transition from states of prosperity to states of adversity.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 149,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Good time for bad, the sweet for the bitter",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0170",
+    "canonical_statement": "The state of the universe is subject to periods of profound disorder and chaotic integration.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 149,
+        "chapter": "CENTURIE X",
+        "surface_quote": "All confusion universal monster",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0171",
+    "canonical_statement": "The sustenance of existence is contingent upon external divine or metaphysical provision.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 149,
+        "chapter": "CENTURIE X",
+        "surface_quote": "No longer will the sweet manna fall upon them",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "providence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0172",
+    "canonical_statement": "Prophetic insight arises from an innate natural instinct and a state of poetic furor rather than through formal intellectual discipline.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 150,
+        "chapter": "CENTURIE X",
+        "surface_quote": "composed rather out of a natural instinct, accompanied by a poetic furor",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "prophecy",
+      "consciousness",
+      "intuition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0173",
+    "canonical_statement": "The structure of future events is mathematically linked to specific temporal cycles and geographic locations.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 150,
+        "chapter": "CENTURIE X",
+        "surface_quote": "integrated with astronomical calculations corresponding to the years, months and weeks of the regions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "astrology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0174",
+    "canonical_statement": "Human history is unfolding toward a specific terminal epoch defined as the seventh millenary.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 150,
+        "chapter": "CENTURIE X",
+        "surface_quote": "events which will take place at the beginning of the seventh millenary",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0175",
+    "canonical_statement": "The future is a fixed, deterministic sequence of events that can be calculated through astronomical observation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 151,
+        "chapter": "CENTURIE X",
+        "surface_quote": "I have made computations for events over almost as long a period to come.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "divination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0176",
+    "canonical_statement": "Divinatory capacity is a combination of inherited natural instinct and rigorous mathematical calculation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 151,
+        "chapter": "CENTURIE X",
+        "surface_quote": "My natural instinct has been inherited... and integrated with long calculations.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divination",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0177",
+    "canonical_statement": "The human soul must be purged of emotional disturbance to function as a vessel for prophetic insight.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 151,
+        "chapter": "CENTURIE X",
+        "surface_quote": "I freed my soul, mind and heart of all care, solicitude and vexation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "soul",
+      "divination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0178",
+    "canonical_statement": "The structure of time and human history is governed by celestial movements.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 151,
+        "chapter": "CENTURIE X",
+        "surface_quote": "My calculations... have been determined by the celestial movements.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0179",
+    "canonical_statement": "Prophetic truth is inherently obscured by nature, requiring enigmatic expression to be safely conveyed.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 151,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Secrets should not be bared except in enigmatic sentences.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "language",
+      "divination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0180",
+    "canonical_statement": "Prophetic insight is a manifestation of divine power acting through human agency.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 152,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Prophecy proceeded from the mouth of the Holy Ghost.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "prophecy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0181",
+    "canonical_statement": "Human events are governed by the interplay of divine will, natural laws, and celestial movements.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 152,
+        "chapter": "CENTURIE X",
+        "surface_quote": "All from God and nature, and for the most part integrated with celestial movements.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0182",
+    "canonical_statement": "Human perception of future events is inherently limited and obscured, analogous to viewing through a distorted mirror.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 152,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Seeing in a burning mirror, with clouded vision, the great events.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0183",
+    "canonical_statement": "Historical and political events are governed by cyclical patterns of rise, fall, and restoration.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 153,
+        "chapter": "CENTURIE X",
+        "surface_quote": "reversals of realms and mighty earthquakes",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0184",
+    "canonical_statement": "Spiritual renewal and the restoration of original holiness are inevitable outcomes of historical cycles.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 153,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Holiness... will be replaced in accordance with the earliest writings.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0185",
+    "canonical_statement": "The physical stability of the Earth is contingent upon metaphysical or spiritual conditions.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 153,
+        "chapter": "CENTURIE X",
+        "surface_quote": "one will think the gravity of the earth has lost its natural movement",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "nature",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0186",
+    "canonical_statement": "Historical events and human cycles of corruption repeat in a deterministic pattern.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 154,
+        "chapter": "CENTURIE X",
+        "surface_quote": "the same old crimes being perpetrated again",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0187",
+    "canonical_statement": "Divine agency or cosmic forces utilize human conflict and suffering as a form of judgment.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 154,
+        "chapter": "CENTURIE X",
+        "surface_quote": "God the Creator has loosed Satan... to give birth to the great Dog",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theodicy",
+      "divine-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0188",
+    "canonical_statement": "The progression of historical time is deterministic and can be calculated through the synthesis of astronomical data and sacred texts.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 155,
+        "chapter": "CENTURIE X",
+        "surface_quote": "it was determined by astronomy and other sources, including Holy Scriptures, and thus could not err.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0189",
+    "canonical_statement": "The universe operates according to a fixed chronological structure established from the creation of the world.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 155,
+        "chapter": "CENTURIE X",
+        "surface_quote": "I count the years from the creation of the world to the birth of Noah",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0190",
+    "canonical_statement": "Historical events and the progression of time are governed by a deterministic celestial order.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 156,
+        "chapter": "CENTURIE X",
+        "surface_quote": "calculated the present prophecies according to the order of the chain which contains its revolution",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0191",
+    "canonical_statement": "Human history is subject to cyclical patterns of renewal and decline.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 156,
+        "chapter": "CENTURIE X",
+        "surface_quote": "1792, which they will believe to mark a renewal of time.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0192",
+    "canonical_statement": "The unfolding of human history and the fate of institutions are ultimately subject to divine will.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 156,
+        "chapter": "CENTURIE X",
+        "surface_quote": "This will happen to the Aquiloners by the will of God.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0193",
+    "canonical_statement": "Human history follows a predetermined chronological progression toward a final millennial state of peace.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 157,
+        "chapter": "CENTURIE X",
+        "surface_quote": "This will be near the seventh millenary, when the sanctuary... will no longer be trodden.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0194",
+    "canonical_statement": "Temporal events are governed by astrological cycles that align with divine scriptural mandates.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 157,
+        "chapter": "CENTURIE X",
+        "surface_quote": "During this astrological supputation, harmonized with the Holy Scriptures...",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "astrology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0195",
+    "canonical_statement": "The material world is subject to cyclical periods of intense tribulation and divine purification.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 157,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Such great tribulations will never have occurred since the first foundation of the Christian Church.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0196",
+    "canonical_statement": "Historical events are governed by cyclical patterns of destruction and renewal, culminating in a golden age.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 158,
+        "chapter": "CENTURIE X",
+        "surface_quote": "there will be almost renewed another reign of Saturn, and golden age.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "eschatology",
+      "cyclical"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0197",
+    "canonical_statement": "Human history is fundamentally linked to the movements and conjunctions of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 158,
+        "chapter": "CENTURIE X",
+        "surface_quote": "integration of Holy Scriptures with visible celestial bodies",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "astrology",
+      "cosmology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0198",
+    "canonical_statement": "The existence of evil entities is a temporary condition subject to divine intervention and ultimate containment.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 158,
+        "chapter": "CENTURIE X",
+        "surface_quote": "God the Creator will command that Satan be cast into the depths",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0199",
+    "canonical_statement": "Celestial configurations, specifically planetary positions and signs, exert a deterministic influence on the manifestation of historical events and the emergence of political figures.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 159,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Saturn in Libra in exaltation: House of Venus in decreasing force",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0200",
+    "canonical_statement": "The state of death is not a permanent cessation of existence, but a condition from which an entity may return to life.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 162,
+        "chapter": "CENTURIE X",
+        "surface_quote": "That which was dead will then be alive.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "death",
+      "rebirth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0201",
+    "canonical_statement": "An entity may undergo a cyclical return to an original or primordial state of being.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 162,
+        "chapter": "CENTURIE X",
+        "surface_quote": "He will return to the first state.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0202",
+    "canonical_statement": "Self-knowledge is a distinct developmental stage that may be absent even when an entity is active or alive.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 162,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Still not knowing how to know.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0203",
+    "canonical_statement": "Human existence is teleologically directed and governed by an inevitable end.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 163,
+        "chapter": "CENTURIE X",
+        "surface_quote": "The end leads the men on land",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "fate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0204",
+    "canonical_statement": "A nation or collective entity possesses a vital spirit distinct from its physical form.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 163,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Of the Frank land and its vital spirit",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "collective-consciousness",
+      "vitalism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0205",
+    "canonical_statement": "Life can be renewed or sustained through the experience of suffering or affliction.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 163,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Upon this evil its life being renewed",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "suffering",
+      "renewal",
+      "life-cycle"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0206",
+    "canonical_statement": "Death is a transition of the individual consciousness into a post-material state of existence.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 164,
+        "chapter": "CENTURIE X",
+        "surface_quote": "He will pass with the ship of oblivion, To the Elysian Fields",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "death",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0207",
+    "canonical_statement": "The span of a human life is predetermined and bounded by specific temporal markers.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 164,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Scarcely much further does his life extend.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0208",
+    "canonical_statement": "Historical and cosmic events occur within a cyclical structure of ages.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 164,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Third age, for Mars the Warlike",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0209",
+    "canonical_statement": "The future is a fixed sequence of events that can be perceived and described before they occur.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 165,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Viuant n'a veu ce qu'il pourra bien veoir.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "prophecy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0210",
+    "canonical_statement": "The celestial realm exerts direct causal influence upon the physical conditions of the Earth.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 165,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Le Ciel fera ses tonnerres pleuuoir",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0211",
+    "canonical_statement": "The trajectory of human history and political power is subject to divine oversight and intervention.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 166,
+        "chapter": "CENTURIE X",
+        "surface_quote": "God almighty keep them from the evil ones.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "providence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0212",
+    "canonical_statement": "The legacy of an individual, specifically a ruler, can achieve a form of immortality through historical inscription.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 166,
+        "chapter": "CENTURIE X",
+        "surface_quote": "The immortal name will be engraved on the foot of the Cross.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "immortality",
+      "legacy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0213",
+    "canonical_statement": "Human events and the acquisition of power are influenced by the favor of an eternal deity.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 166,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Favored by the great Eternal God, he will soon have inherited his Province.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0214",
+    "canonical_statement": "Astrological configurations exert a deterministic influence on the unfolding of historical events.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 167,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Quand Mars sera au signe du Mouton Ioint à Saturne",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0215",
+    "canonical_statement": "Human history is subject to cyclical patterns of conflict and resolution.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 167,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Combatu l'iniure du temps",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0216",
+    "canonical_statement": "The human soul is a distinct entity capable of transitioning to a celestial state upon the death of the physical body.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 168,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Son ame au Ciel, \u0026 son corps soubs la lame",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0217",
+    "canonical_statement": "Historical events and human destinies are subject to predetermined cycles and temporal markers.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 168,
+        "chapter": "CENTURIE X",
+        "surface_quote": "Iusques six cens septante est sa demeure",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0218",
+    "canonical_statement": "The human soul is capable of receiving precognitive impressions through influence from a divine source.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 169,
+        "chapter": "FIN DES SIXAINS.",
+        "surface_quote": "The soul touched from a distance by the divine spirit presages",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "precognition",
+      "divine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0219",
+    "canonical_statement": "Historical events and human conflicts are subject to a preordained, cyclical structure of manifestation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 170,
+        "chapter": "FIN DES SIXAINS.",
+        "surface_quote": "The great one of the sky the cape will give",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "destiny",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0220",
+    "canonical_statement": "The material world is characterized by an inherent instability and the inevitable dissolution of order.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 170,
+        "chapter": "FIN DES SIXAINS.",
+        "surface_quote": "The arrest and peace broken on all sides.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0221",
+    "canonical_statement": "The soul can be separated from the state of rage through specific external interventions.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 172,
+        "chapter": "FIN DES SIXAINS.",
+        "surface_quote": "Placed unpassed, to oust the soul from rage.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "soul",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0222",
+    "canonical_statement": "Human existence is subject to cyclical, inevitable mutations and transformations.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 173,
+        "chapter": "FIN DES SIXAINS.",
+        "surface_quote": "Herd to perish, human mutations",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "mutation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0223",
+    "canonical_statement": "Temporal reality is characterized by inherent discord and the coexistence of diverse, conflicting states.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 173,
+        "chapter": "FIN DES SIXAINS.",
+        "surface_quote": "Times very diverse, discord discovered",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0224",
+    "canonical_statement": "The temporal progression of existence is characterized by an inevitable transition from states of relative order to states of disorder and decay.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 174,
+        "chapter": "FIN DES SIXAINS.",
+        "surface_quote": "From good to the evil times will change",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "entropy",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0225",
+    "canonical_statement": "Human existence is fundamentally subject to the interplay of destructive forces, including plague, famine, and conflict, as inherent features of the world-system.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 174,
+        "chapter": "FIN DES SIXAINS.",
+        "surface_quote": "Death in the East, plague, famine, evil treaty.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0226",
+    "canonical_statement": "Human history and societal events are governed by cyclical patterns of decay, conflict, and renewal.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 175,
+        "chapter": "FIN DES SIXAINS.",
+        "surface_quote": "Times good and full, but very dry and exhausted.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "cyclical"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0227",
+    "canonical_statement": "The material state of the world is inextricably linked to the moral and spiritual condition of humanity.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 175,
+        "chapter": "FIN DES SIXAINS.",
+        "surface_quote": "Through death they will work, death to reprove people.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "causality",
+      "morality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_complete_works_of_nostradamus_0228",
+    "canonical_statement": "Religious systems are subject to cycles of destruction and transformation.",
+    "attributions": [
+      {
+        "source_id": "the_complete_works_of_nostradamus",
+        "chunk_index": 176,
+        "chapter": "FIN DES SIXAINS.",
+        "surface_quote": "religion murdered, Jovial Ones put on the road, every sect to become angry.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "religion",
+      "history",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "the_book_of_mormon",
+  "title": "The Book of Mormon: Another Testament of Jesus Christ",
+  "author": "Mormon",
+  "medium": "Moroni",
+  "channel_type": "channeled",
+  "tradition": "Latter-day Saint",
+  "year": 1830,
+  "region": "",
+  "ingested_at": "2026-07-09T13:49:25.651487304Z",
+  "chunk_count": 1089,
+  "claim_count": 1619,
+  "source_path": "incoming/the-book-of-mormon.pdf"
+}

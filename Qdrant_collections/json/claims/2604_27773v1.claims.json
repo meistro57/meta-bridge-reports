@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cl_2604_27773v1_0001",
+    "canonical_statement": "Viable cosmological models must demonstrate global consistency across multiple observational probes, including expansion history, present-day structure growth amplitude, and its redshift-dependence.",
+    "attributions": [
+      {
+        "source_id": "2604_27773v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "viable cosmological models must satisfy global consistency across multiple probes",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "model",
+      "consistency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27773v1_0002",
+    "canonical_statement": "In modified-gravity scenarios, the present-day amplitude of structure growth and its evolution with redshift are distinct and independently constrained by theory.",
+    "attributions": [
+      {
+        "source_id": "2604_27773v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "in modified-gravity scenarios...present-day amplitude of growth and its evolution with redshift respond differently",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gravity",
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27773v1_0003",
+    "canonical_statement": "Cosmological tensions are not isolated issues but interconnected constraints within the framework of cosmic models.",
+    "attributions": [
+      {
+        "source_id": "2604_27773v1",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "Cosmological tensions are not independent problems but interconnected constraints.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27773v1_0004",
+    "canonical_statement": "Viable cosmological models must satisfy a consistency triangle involving expansion history, growth amplitude, and growth shape.",
+    "attributions": [
+      {
+        "source_id": "2604_27773v1",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "viable models must satisfy a consistency triangle involving: Expansion history; Growth amplitude; Growth shape",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  }
+]

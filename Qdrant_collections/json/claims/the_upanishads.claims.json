@@ -1,0 +1,5426 @@
+[
+  {
+    "id": "cl_the_upanishads_0001",
+    "canonical_statement": "Scriptural texts function primarily as vehicles for spiritual consciousness rather than as objects of historical or intellectual inquiry.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 1,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Its appeal must be primarily to the spiritual consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "scripture",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0002",
+    "canonical_statement": "Spiritual wisdom is categorized into ritualistic action for preparation and philosophical discrimination for ultimate vision.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 2,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Karma-Kanda deals with rituals... Upanishad deals wholly with the essentials of philosophic discrimination.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "practice",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0003",
+    "canonical_statement": "The Upanishads constitute the final goal or culmination of all wisdom.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 2,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Upanishads are known as the Vedanta, that is, the end or final goal of wisdom.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0004",
+    "canonical_statement": "The Upanishads are direct revelations of divine origin rather than human compositions.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 2,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Upanishads being regarded as direct revelations of God; while the Smritis... were traditional works of purely human origin.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "revelation",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0005",
+    "canonical_statement": "Truth exists independently of its written record or historical origin.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 2,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "No date for the origin of the Upanishads can be fixed, because the written text does not limit their antiquity.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "truth",
+      "time",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0006",
+    "canonical_statement": "The individual soul (Atman) and the ultimate reality (Brahman) are ontologically identical.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 3,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Tat tvam asi (That thou art) and Aham Brahmasmi (I am Brahman).",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "non-duality",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0007",
+    "canonical_statement": "The fundamental truth of existence is the unity of all life.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 3,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "This dominant ideal of the unity of all life and the oneness of Truth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "unity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0008",
+    "canonical_statement": "The ultimate secret of nature and reality is accessible only through internal introspection.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 3,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "The key can only be found where alone the secret of nature lies open to us from within.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0009",
+    "canonical_statement": "The Upanishads function as pedagogical instruments for the attainment of divine and self-referential knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 4,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "They grew up essentially as text books of God-knowledge and Self-knowledge.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "self",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0010",
+    "canonical_statement": "Cognitive tranquility and the withdrawal of sensory energy are necessary preconditions for understanding metaphysical truths.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 4,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "It is not possible to comprehend the subtle problems of life unless the thought is tranquil.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0011",
+    "canonical_statement": "Ancient metaphysical concepts possess a structural incompatibility with modern linguistic frameworks.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 4,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Modern words are round, ancient words are square.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "language",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0012",
+    "canonical_statement": "Spiritual realization requires an internal state of harmony and non-attachment to worldly distractions.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 5,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "No study is of avail so long as our inner being is not attuned.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "practice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0013",
+    "canonical_statement": "The individual soul and the Supreme Being are ontologically identical.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 5,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Oneness of the Soul and God... are the leading themes.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0014",
+    "canonical_statement": "Action performed without self-knowledge binds the individual to temporary states rather than liberation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 5,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Works alone... must inevitably bind a man, unless through them he gains knowledge.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "karma",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0015",
+    "canonical_statement": "The Absolute is an infinite totality from which the phenomenal world emerges without diminishing the source.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 5,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "From the Invisible Whole comes forth the visible whole... the Whole remains unaltered.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0016",
+    "canonical_statement": "The Absolute transcends linguistic definition due to its infinite nature.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 5,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "God, who is infinite and unbounded, cannot be expressed by finite language.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0017",
+    "canonical_statement": "The phenomenal world and the Absolute are fundamentally inseparable.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 5,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "In the light of true wisdom the phenomenal and the Absolute are inseparable.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0018",
+    "canonical_statement": "All manifestation is a modification of a singular, unchanging totality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 6,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "all manifestation is merely a modification of the One Supreme Whole",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "monism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0019",
+    "canonical_statement": "Perceiving the Divine in all things dissolves the illusion of diversity.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 6,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "conception of diversity naturally drops away; because the One Cosmic Existence shines through all things",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0020",
+    "canonical_statement": "Knowledge of the true Self acts as the ultimate sustainer and protector of the individual.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 6,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "knowledge of our true Self is the greatest protector and sustainer",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0021",
+    "canonical_statement": "Actions performed with selfish desire bind the soul to the cycle of birth and death.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 6,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "actions performed clinging blindly to his lower desires, then his actions bind him",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "karma",
+      "reincarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0022",
+    "canonical_statement": "Actions performed as a surrender to the Divine purify and liberate the soul.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 6,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "when the same actions are performed with surrender to God, they purify and liberate him",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "karma",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0023",
+    "canonical_statement": "Heaven and hell are temporary states resulting from finite actions.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 6,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "condition of heaven and hell is only temporary; because our actions, being finite",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0024",
+    "canonical_statement": "The immortal Soul is fundamentally indestructible.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 6,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "How can the immortal Soul ever be destroyed? It cannot be destroyed",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "immortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0025",
+    "canonical_statement": "Ignorance of the true Self constitutes the only form of existential suffering or hell.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 7,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "the only hell is absence of knowledge",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "suffering",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0026",
+    "canonical_statement": "Identification with the perishable physical body necessitates the cycle of repeated death.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 7,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "he who clings to the perishable body... must experience death many times",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "reincarnation",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0027",
+    "canonical_statement": "The Atman is omnipresent and transcends the limitations of spatial movement and time.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 7,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "The Atman, however, is present everywhere",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "time",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0028",
+    "canonical_statement": "The Cosmic Self is the fundamental substrate that sustains all life and physical phenomena.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 7,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "all living things must draw their life from the Cosmic Self",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0029",
+    "canonical_statement": "The perception of non-dual unity between the individual Self and all beings eliminates delusion and grief.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 7,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "he who perceives all beings as the Self, how can there be delusion or grief",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "non-duality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0030",
+    "canonical_statement": "The perception of diversity is a delusion that generates selfishness and suffering.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 8,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "delusion rest upon a belief in diversity, which leads to competition",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "suffering",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0031",
+    "canonical_statement": "The true Self is a transcendent, self-existent, and pure substrate of existence.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 8,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "the Self... the true basis of our existence.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0032",
+    "canonical_statement": "Immortality is achieved by balancing the pursuit of worldly action (Avidya) with spiritual knowledge (Vidya).",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 8,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "he who knows at the same time both Vidya and Avidya, crosses over death",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "immortality",
+      "knowledge",
+      "action"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0033",
+    "canonical_statement": "The individual Soul and the Supreme Being are ontologically identical.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 8,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "the Soul and God are one and inseparable",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0034",
+    "canonical_statement": "Transcending death requires simultaneous understanding of both the unmanifested cause and the manifested effect.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 8,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "he who knows at the same time both the Unmanifested and the manifested",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "immortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0035",
+    "canonical_statement": "Reality is a non-dual unity of the visible and invisible, matter and spirit.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 9,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "no perfect knowledge is possible without simultaneous comprehension of both.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "non-duality",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0036",
+    "canonical_statement": "The individual soul and the Supreme Being are ontologically identical.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 9,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "The Purusha who dwells within Thee, I am He.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0037",
+    "canonical_statement": "The human soul is distinct from and immortal relative to the perishable physical body.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 9,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "distinction between the mortal body and the immortal",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0038",
+    "canonical_statement": "Perception of the ultimate truth is obscured by the phenomenal manifestations of reality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 9,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "face of Truth is hidden by a golden disk.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0039",
+    "canonical_statement": "Liberation is achieved through the realization of the unity between the self and the Supreme.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 9,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "my delusion is destroyed... I am one with the Supreme",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "liberation",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0040",
+    "canonical_statement": "Physical death is merely the shedding of a temporary vessel by the eternal soul.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 10,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "death is nothing more than the casting-off of a worn-out garment.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "death",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0041",
+    "canonical_statement": "True reality is an indivisible unity; fragmentation of this perception leads to limited knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 10,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "We must not divide our conception of the universe.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0042",
+    "canonical_statement": "The individual self and the Divine are ontologically identical.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 10,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "there is no difference between the Self and God.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0043",
+    "canonical_statement": "The individual soul is an infinite extension of the Infinite Whole.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 10,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "That which comes out of the Infinite Whole must also be infinite.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "infinity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0044",
+    "canonical_statement": "Human suffering and weakness arise from the illusion of separation from the Divine Whole.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 10,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "so long as man believes himself to be separate from the Whole, he is helpless.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "suffering",
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0045",
+    "canonical_statement": "Liberation is achieved by identifying exclusively with the soul rather than the physical body.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 10,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Transcending death means realizing the difference between body and Soul.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "liberation",
+      "identity",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0046",
+    "canonical_statement": "The efficacy of a sacrificial act is nullified if the giver acts with expectation of personal reward or recognition.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 11,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "The purpose of sacrifice is lost if the giver entertains thoughts of individual benefit.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "sacrifice",
+      "karma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0047",
+    "canonical_statement": "The quality of an offering in a ritual context determines the spiritual state of the giver after death.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 11,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "He who gives these [worthless] cows undoubtedly goes to joyless realms.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0048",
+    "canonical_statement": "The efficacy of a ritual sacrifice is contingent upon the internal state of the sacrificer, specifically the absence of egoism and the presence of tranquility.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 12,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "a sacrificer, who must always be tranquil, uplifted and free from egoism.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ritual",
+      "ethics",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0049",
+    "canonical_statement": "Human existence is characterized by a cyclical process of decay and rebirth, analogous to the life cycle of grain.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 12,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Like grain the mortal decays and like grain again springs up (is reborn).",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "rebirth",
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0050",
+    "canonical_statement": "The validity of a moral vow or promise is an objective reality that persists independently of the speaker's emotional state or intent.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 12,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "greater harm might befall his father, if his word was not kept.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ethics",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0051",
+    "canonical_statement": "The ultimate reality is immutable and eternal, while all phenomenal manifestations are transient.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 13,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "All things perish, Truth alone remains.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0052",
+    "canonical_statement": "The guest is a manifestation of the divine, requiring ritualized reverence.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 13,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "A guest is the representative of God.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0053",
+    "canonical_statement": "The heavenly realm is characterized by the absence of fear, aging, hunger, thirst, and grief.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 13,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "In the realm of heaven there is no fear... above hunger and thirst.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0054",
+    "canonical_statement": "Specific ritual knowledge or 'fire' serves as the mechanism for attaining higher states of existence.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 13,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "The fire that leads to heaven... means of attaining endless worlds.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0055",
+    "canonical_statement": "The divine essence or vital energy resides within the heart of every living being.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 14,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "divine dwells in subtle form in the heart of every living being",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0056",
+    "canonical_statement": "Ritual knowledge and action can enable the individual to transcend the cycle of birth and death.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 14,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "performs this Nachiketa fire-sacrifice... crosses over birth and death",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "liberation",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0057",
+    "canonical_statement": "Light or fire serves as the fundamental principle of manifestation and creation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 14,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "fire is regarded as the foundation of all the worlds",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0058",
+    "canonical_statement": "The nature of post-mortem existence is a subject of ontological uncertainty.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 14,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Some say he exists, others that he does not exist.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0059",
+    "canonical_statement": "The nature of the afterlife is a subtle, profound mystery that remains elusive even to celestial beings.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 15,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Even the Devas had doubts about this, and that it is not easy to know.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0060",
+    "canonical_statement": "Material wealth and sensory pleasures are transient and ultimately fail to satisfy the human spirit.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 15,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "These are fleeting; they weaken the vigor of all the senses in man.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "desire"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0061",
+    "canonical_statement": "The attainment of ultimate metaphysical knowledge requires the renunciation of mortal desires and limitations.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 15,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "The third boon... could be granted only to those who were freed from all mortal desires.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "asceticism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0062",
+    "canonical_statement": "Human existence is characterized by a fundamental decay, which stands in contrast to an undying, immortal state of being.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 15,
+        "chapter": "SWAMI PARAMANANDA",
+        "surface_quote": "Man dwelling on the decaying mortal plane, having approached the undecaying immortal one.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0063",
+    "canonical_statement": "Human existence is defined by a fundamental choice between the pursuit of transient sensory pleasure and the pursuit of the eternal, imperishable reality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 16,
+        "chapter": "part — said:",
+        "surface_quote": "There are two paths, one leading Godward, the other leading to worldly pleasure.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "existence",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0064",
+    "canonical_statement": "Ignorance is characterized by the belief that the material world is the sole reality, leading to a cycle of repeated birth and death.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 16,
+        "chapter": "part — said:",
+        "surface_quote": "This world alone is, there is none other: thinking thus, he falls under my sway.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ignorance",
+      "afterlife",
+      "reincarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0065",
+    "canonical_statement": "True wisdom requires the discernment to distinguish between the perishable physical realm and the eternal spiritual realm.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 16,
+        "chapter": "part — said:",
+        "surface_quote": "The discerning man, distinguishing between the two, chooses the Real and Eternal.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0066",
+    "canonical_statement": "Intellectual conceit without spiritual insight constitutes a form of blindness that misleads both the self and others.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 16,
+        "chapter": "part — said:",
+        "surface_quote": "Fools dwelling in ignorance... like the blind led by the blind.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "ignorance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0067",
+    "canonical_statement": "Human consciousness is divided into a perishable component and an eternal, divine component.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 17,
+        "chapter": "part — said:",
+        "surface_quote": "There is one part of us which must die; there is another part which never dies.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0068",
+    "canonical_statement": "Liberation from death is achieved by identifying the individual self with the eternal, divine nature.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 17,
+        "chapter": "part — said:",
+        "surface_quote": "When a man can identify himself with his undying nature, which is one with God, then he overcomes death.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0069",
+    "canonical_statement": "Spiritual knowledge is experiential and transcends intellectual argument or linguistic transmission.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 17,
+        "chapter": "part — said:",
+        "surface_quote": "This Atman cannot be attained by argument; It is truly known only when taught by another.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0070",
+    "canonical_statement": "The ultimate reality is subtler than physical perception and cannot be grasped through ordinary logic.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 17,
+        "chapter": "part — said:",
+        "surface_quote": "It is subtler than the subtle and beyond argument.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0071",
+    "canonical_statement": "Attachment to transient material phenomena obscures the perception of the eternal reality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 17,
+        "chapter": "part — said:",
+        "surface_quote": "The Hereafter does not shine before those who are lacking in the power of discrimination.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0072",
+    "canonical_statement": "The ultimate nature of the Self is inaccessible to intellectual reasoning and can only be apprehended through direct transcendental experience.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 18,
+        "chapter": "part — said:",
+        "surface_quote": "It is too subtle to be reached by argument... attained only in a state of consciousness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "self",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0073",
+    "canonical_statement": "The eternal cannot be attained through the use of perishable or non-eternal means.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 18,
+        "chapter": "part — said:",
+        "surface_quote": "the eternal can never be attained by things which are non-eternal.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0074",
+    "canonical_statement": "Ritualistic actions and worldly achievements, regardless of their duration, are ultimately finite and cannot lead to the final goal of liberation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 18,
+        "chapter": "part — said:",
+        "surface_quote": "no amount of observance of rituals and ceremonies can earn the imperishable.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ritual",
+      "liberation",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0075",
+    "canonical_statement": "The Self resides within the innermost core of the individual's being.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 18,
+        "chapter": "part — said:",
+        "surface_quote": "seated in the innermost recess, hidden in the cave of the heart.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "self",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0076",
+    "canonical_statement": "Realization of the Self results in liberation from the duality of joy and sorrow.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 18,
+        "chapter": "part — said:",
+        "surface_quote": "is liberated from the fetters of joy and sorrow.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "liberation",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0077",
+    "canonical_statement": "Spiritual realization proceeds through the stages of hearing, reflection, and meditative practice.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 19,
+        "chapter": "part — said:",
+        "surface_quote": "The aspirant must first hear, reflect, and then by constant practice realize the Truth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "practice",
+      "realization"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0078",
+    "canonical_statement": "The ultimate reality transcends the dualities of virtue/vice, cause/effect, and temporal succession.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 19,
+        "chapter": "part — said:",
+        "surface_quote": "That which is neither virtue nor vice, neither cause nor effect, neither past nor future.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "absolute",
+      "time",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0079",
+    "canonical_statement": "Finite language is inherently incapable of fully expressing the Infinite.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 19,
+        "chapter": "part — said:",
+        "surface_quote": "All that language can express must be finite, since it is itself finite.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "language",
+      "infinite"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0080",
+    "canonical_statement": "The sound Aum represents the totality of articulate sound and serves as the universal symbol for the Absolute.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 19,
+        "chapter": "part — said:",
+        "surface_quote": "Aum stands as the root of all language and the Sound-Brahman.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "absolute",
+      "logos",
+      "sound"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0081",
+    "canonical_statement": "The true Self is the source of all joy, rendering sense pleasures mere fragmentary reflections.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 19,
+        "chapter": "part — said:",
+        "surface_quote": "Sense pleasures are but fragmentary reflections of that one supreme joy in the Self.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "self",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0082",
+    "canonical_statement": "The ultimate reality is unborn, eternal, and indestructible, existing independently of causality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 20,
+        "chapter": "part — said:",
+        "surface_quote": "Self is never born, nor does It die. It did not spring from anything.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence",
+      "eternity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0083",
+    "canonical_statement": "The individual soul is identical to the universal essence, which transcends the duality of action and inaction.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 20,
+        "chapter": "part — said:",
+        "surface_quote": "It is both stationary and moving, and It is the basis of all forms.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0084",
+    "canonical_statement": "The true Self is distinct from the physical body and remains unaffected by the body's destruction.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 20,
+        "chapter": "part — said:",
+        "surface_quote": "It is not slain even though the body is slain.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0085",
+    "canonical_statement": "Perception of the ultimate Self requires the transcendence of sensory input and the purification of the mind.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 20,
+        "chapter": "part — said:",
+        "surface_quote": "It cannot be perceived by the senses; a finer spiritual sight is required.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0086",
+    "canonical_statement": "All phenomena, including pleasure and pain, originate from and are sustained by the universal Self.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 20,
+        "chapter": "part — said:",
+        "surface_quote": "Whatever exists in the universe... must spring from It.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0087",
+    "canonical_statement": "The ultimate Self is inaccessible through intellectual study or sensory perception.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 21,
+        "chapter": "part — said:",
+        "surface_quote": "Self cannot be attained by study of the Scriptures, nor by intellectual perception.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0088",
+    "canonical_statement": "Attainment of the Self is contingent upon a process of divine selection or revelation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 21,
+        "chapter": "part — said:",
+        "surface_quote": "He whom the Self chooses, by him alone is It attained.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "self",
+      "grace"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0089",
+    "canonical_statement": "Direct knowledge of the divine requires moral purity and the cessation of worldly desires.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 21,
+        "chapter": "part — said:",
+        "surface_quote": "Direct perception of God is possible for those alone who are pure in heart.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0090",
+    "canonical_statement": "The Absolute transcends all worldly dualities, including life, death, and social hierarchies.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 21,
+        "chapter": "part — said:",
+        "surface_quote": "Life and death alike are food for Him.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0091",
+    "canonical_statement": "The individual consciousness contains a duality consisting of the Higher Self and the lower self.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 21,
+        "chapter": "part — said:",
+        "surface_quote": "The two signify the Higher Self and the lower self, dwelling in the heart.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0092",
+    "canonical_statement": "The Higher Self is the singular reality, while the lower self is a derivative shadow.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 22,
+        "chapter": "part — said:",
+        "surface_quote": "Higher Self is like a light and the lower self like a shadow.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0093",
+    "canonical_statement": "All phenomenal manifestations are projections of a single, underlying reality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 22,
+        "chapter": "part — said:",
+        "surface_quote": "all outer manifestations are nothing but reflections or projections of that One.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0094",
+    "canonical_statement": "The ultimate reality exists in both manifested and unmanifested forms.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 22,
+        "chapter": "part — said:",
+        "surface_quote": "knowledge of Brahman, the Supreme, in both manifested and unmanifested form.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "brahman"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0095",
+    "canonical_statement": "The state of immortality is defined by the absence of fear, disease, and death.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 22,
+        "chapter": "part — said:",
+        "surface_quote": "realm of immortality, is said to be beyond fear; because disease, death... cease to exist.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "immortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0096",
+    "canonical_statement": "The human constitution is a composite of the Self (lord), body (chariot), intellect (driver), mind (reins), and senses (horses).",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 22,
+        "chapter": "part — said:",
+        "surface_quote": "Know the Atman as the lord of the chariot, and the body as the chariot.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0097",
+    "canonical_statement": "The Higher Self is transcendent and cannot be defined directly, only through analogy.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 22,
+        "chapter": "part — said:",
+        "surface_quote": "Atman is so entirely beyond human conception that it is impossible to give a direct definition.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0098",
+    "canonical_statement": "The Self, when associated with the body, mind, and senses, functions as the agent of experience and action.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 23,
+        "chapter": "part — said:",
+        "surface_quote": "When the Self is joined with body, mind and senses, It is called the intelligent enjoyer.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0099",
+    "canonical_statement": "The lack of discriminative intellect leads to bondage in the cycle of birth and death.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 23,
+        "chapter": "part — said:",
+        "surface_quote": "He who does not possess discrimination... falls again into Samsara.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "samsara",
+      "intellect"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0100",
+    "canonical_statement": "The hierarchy of existence proceeds from senses to objects, mind, intellect, Atman, the Unmanifested, and finally the Purusha.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 23,
+        "chapter": "part — said:",
+        "surface_quote": "Beyond the senses are the objects, beyond the objects is the mind, beyond the mind is the intellect, beyond the intellect is the great Atman.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "cosmology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0101",
+    "canonical_statement": "The Purusha is the ultimate limit of existence, beyond which there is no further principle.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 23,
+        "chapter": "part — said:",
+        "surface_quote": "Beyond the Purusha there is nothing. That is the end, that is the final goal.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0102",
+    "canonical_statement": "The senses are inherently outward-moving and require the discriminative faculty for control.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 23,
+        "chapter": "part — said:",
+        "surface_quote": "Each sense, unless restrained by the discriminative faculty, seeks to go out towards its special objects.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0103",
+    "canonical_statement": "The structure of reality is hierarchical, proceeding from gross sense-objects to the subtle individual Self and finally to the Supreme Self.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 24,
+        "chapter": "part — said:",
+        "surface_quote": "Beginning with the sense-organs, he leads up to the less and less gross.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "hierarchy",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0104",
+    "canonical_statement": "The Supreme Self is the ultimate, undifferentiated substrate of existence beyond which nothing higher exists.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 24,
+        "chapter": "part — said:",
+        "surface_quote": "above this is the Purusha or Supreme Self. Than this there is nothing higher.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0105",
+    "canonical_statement": "The Self is omnipresent in all beings but remains hidden from perception due to the dullness of the ordinary mind.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 24,
+        "chapter": "part — said:",
+        "surface_quote": "Atman, hidden in all beings, does not shine forth; but It is seen by subtle seers.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "self",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0106",
+    "canonical_statement": "Realization of the Supreme requires the systematic subordination of sensory and mental faculties to the intellect and the Self.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 24,
+        "chapter": "part — said:",
+        "surface_quote": "control speech by mind, mind by intellect, intellect by the great Atman.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "practice",
+      "consciousness",
+      "methodology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0107",
+    "canonical_statement": "Direct knowledge of Truth is accessible only through the guidance of those who have already attained direct vision.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 24,
+        "chapter": "part — said:",
+        "surface_quote": "only those who have direct vision of Truth are capable of teaching It.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0108",
+    "canonical_statement": "The ultimate reality is an eternal, immutable, and formless substrate that transcends sensory perception.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 25,
+        "chapter": "part — said:",
+        "surface_quote": "That which is soundless, touchless, formless, undecaying; also tasteless, odorless, and eternal.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0109",
+    "canonical_statement": "Immortality is a state of consciousness achieved by detaching from name, form, and perishable objects.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 25,
+        "chapter": "part — said:",
+        "surface_quote": "Immortality is a state of consciousness and is not gained so long as man clings to name and form.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "immortality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0110",
+    "canonical_statement": "The human condition is characterized by a fundamental duality between the perishable form and the imperishable inner Self.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 25,
+        "chapter": "part — said:",
+        "surface_quote": "What dies? Form. Therefore the formful man dies; but not that which dwells within.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0111",
+    "canonical_statement": "Human perception is naturally oriented toward external objects, which obscures the vision of the inner Self.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 25,
+        "chapter": "part — said:",
+        "surface_quote": "Man's mind is constantly drawn outward through the channels of his senses, and this prevents his seeing the inner Self.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0112",
+    "canonical_statement": "The realization of the inner Self requires a deliberate withdrawal of attention from external phenomena.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 25,
+        "chapter": "part — said:",
+        "surface_quote": "Some wise man, however, desiring immortality, with eyes turned away from the external sees the Atman within.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "practice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0113",
+    "canonical_statement": "The phenomenal world is characterized by transience and is distinct from the permanent reality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 26,
+        "chapter": "part — said:",
+        "surface_quote": "distinguish between real and unreal, the fleeting and the permanent",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0114",
+    "canonical_statement": "Suffering arises from the misidentification of the self with transient, perishable forms.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 26,
+        "chapter": "part — said:",
+        "surface_quote": "identify themselves with that which is born and which dies",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0115",
+    "canonical_statement": "All states of consciousness, including waking, dreaming, and sleeping, are dependent upon the existence of the Self.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 26,
+        "chapter": "part — said:",
+        "surface_quote": "all sense perception... is possible only because the Self exists",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0116",
+    "canonical_statement": "The Self (Atman) is the underlying cause and witness of all created objects and temporal events.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 26,
+        "chapter": "part — said:",
+        "surface_quote": "He, the Great Self, is the cause of all created objects",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0117",
+    "canonical_statement": "The Self exists prior to the manifestation of the material elements and the created universe.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 26,
+        "chapter": "part — said:",
+        "surface_quote": "He existed before the first evolution of the five elements",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0118",
+    "canonical_statement": "The ultimate reality is non-dual, encompassing both the visible and invisible worlds as a single essence.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 27,
+        "chapter": "part — said:",
+        "surface_quote": "There is no difference whatever between visible and invisible.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "non-duality",
+      "reality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0119",
+    "canonical_statement": "Perceiving a distinction between the creator and the created leads to the cycle of death and rebirth.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 27,
+        "chapter": "part — said:",
+        "surface_quote": "He who sees difference goes from death to death.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "duality",
+      "reincarnation",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0120",
+    "canonical_statement": "The ultimate truth cannot be apprehended through sensory perception, but only through a purified mind.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 27,
+        "chapter": "part — said:",
+        "surface_quote": "This knowledge cannot be acquired through sense-perception; it can only be attained by the purified mind.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0121",
+    "canonical_statement": "The Self (Purusha) is an all-pervading, eternal entity that appears localized within the physical body.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 27,
+        "chapter": "part — said:",
+        "surface_quote": "Although It is limitless and all-pervading, yet in relation to Its abiding-place It is represented as limited.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "self",
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0122",
+    "canonical_statement": "The Self exists outside the constraints of linear time, acting as the lord of past and future.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 27,
+        "chapter": "part — said:",
+        "surface_quote": "Purusha is the lord of the past and the future.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0123",
+    "canonical_statement": "The essence of the soul is characterized by inherent, unblemished luminosity.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 28,
+        "chapter": "part — said:",
+        "surface_quote": "the effulgent nature of the Soul, whose light is pure like a flame",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0124",
+    "canonical_statement": "The soul is immutable and undergoes no ontological change upon the death of the physical body.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 28,
+        "chapter": "part — said:",
+        "surface_quote": "no real change takes place, because the Soul is ever the same",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0125",
+    "canonical_statement": "The perception of multiplicity and difference in the material world is a cognitive error that leads to fragmentation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 28,
+        "chapter": "part — said:",
+        "surface_quote": "he who sees difference runs after them in various directions",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0126",
+    "canonical_statement": "The liberated individual soul achieves ontological unity with the Supreme Self.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 28,
+        "chapter": "part — said:",
+        "surface_quote": "as pure water poured into pure water becomes one",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "unity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0127",
+    "canonical_statement": "The individual human body is a vessel containing the eternal, unchanging, and unborn Spirit.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 29,
+        "chapter": "Part — THE",
+        "surface_quote": "The human body is called a city with eleven gates, where the eternal unborn Spirit dwells.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0128",
+    "canonical_statement": "The Self (Atman) is distinct from the physical body and remains unaffected by birth, death, or biological change.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 29,
+        "chapter": "Part — THE",
+        "surface_quote": "The Self is above the modifications of birth, death and all human imperfections.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0129",
+    "canonical_statement": "The Supreme Spirit is omnipresent, manifesting as the essence within all physical forms and elements of the universe.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 29,
+        "chapter": "Part — THE",
+        "surface_quote": "He is the sun dwelling in the bright heaven; He is the fire burning on the altar.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "universe",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0130",
+    "canonical_statement": "Biological life is sustained not by breath itself, but by a deeper, underlying principle upon which breath depends.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 29,
+        "chapter": "Part — THE",
+        "surface_quote": "No mortal lives by the in-coming breath or by the out-going breath, but by another.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0131",
+    "canonical_statement": "The trajectory of the soul after death is determined by the law of cause and effect based on past deeds and knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 29,
+        "chapter": "Part — THE",
+        "surface_quote": "Jivas enter wombs to be embodied according to their deeds and knowledge.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "karma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0132",
+    "canonical_statement": "The Atman is a singular, unified entity that appears as multiple distinct forms when it enters the world.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 29,
+        "chapter": "Part — THE",
+        "surface_quote": "As fire, though one, becomes various according to what it burns, so does the Atman.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0133",
+    "canonical_statement": "The singular, formless Self manifests as multiplicity by assuming the characteristics of the forms it inhabits.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 30,
+        "chapter": "Part — THE",
+        "surface_quote": "though one, become various according to what it enters.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0134",
+    "canonical_statement": "The Self is all-pervading and exists independently of the forms it temporarily occupies.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 30,
+        "chapter": "Part — THE",
+        "surface_quote": "It also exists outside.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0135",
+    "canonical_statement": "The essential Self remains untainted by the suffering or impurities of the physical forms it inhabits.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 30,
+        "chapter": "Part — THE",
+        "surface_quote": "the one inner Self of all living beings is not denied by the misery",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0136",
+    "canonical_statement": "The Self is the primary source of consciousness and light, from which all other phenomena derive their existence.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 30,
+        "chapter": "Part — THE",
+        "surface_quote": "When He shines, everything shines after Him; by His light all is lighted.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0137",
+    "canonical_statement": "The phenomenal universe is a derivative structure originating from and rooted in an eternal, unchanging, and pure substrate.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 31,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "The tree of creation is rooted above in Brahman, the Supreme.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0138",
+    "canonical_statement": "All existence is dependent upon the Supreme; nothing possesses independent reality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 31,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "Nothing in the created world can exist independent of Brahman.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "dependency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0139",
+    "canonical_statement": "The laws of the universe are an expression of the Supreme's absolute and impartial authority.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 31,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "He is like an upraised thunderbolt, because of the impartial nature of His law.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "law",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0140",
+    "canonical_statement": "Reincarnation is a cyclical process necessitated by the soul's failure to realize its identity with the Supreme prior to physical death.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 31,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "If he fails to attain such knowledge before his Soul is separated, he must return.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "soul",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0141",
+    "canonical_statement": "The perception of the Supreme varies in clarity depending on the state of consciousness or the realm of experience.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 31,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "As a mirror, so is He seen within oneself; as in a dream, so in the world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0142",
+    "canonical_statement": "The Atman is an eternal, birthless, and deathless entity distinct from the transient physical organism and sensory apparatus.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 32,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "Atman, which is birthless and deathless, with that which has beginning and end.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "atman",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0143",
+    "canonical_statement": "There exists a hierarchical structure of reality ascending from senses to mind, intellect, Atman, the Unmanifested, and finally the Purusha.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 32,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "higher than the senses is the mind, higher than the mind is the intellect",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "hierarchy",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0144",
+    "canonical_statement": "The Absolute is formless and imperceptible to the senses, requiring subtler faculties of heart and intellect for apprehension.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 32,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "The Supreme, being formless, cannot be discerned by the senses",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0145",
+    "canonical_statement": "The highest state of consciousness is achieved when sensory perception and intellectual activity are stilled and unified.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 32,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "When the five organs of perception become still, together with the mind, and the intellect ceases to be active",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "yoga",
+      "meditation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0146",
+    "canonical_statement": "Yoga is the process of uniting the lower self with the Higher Self through the withdrawal of forces from external objects.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 32,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "Yoga comes and goes... means to join or to unite the lower self with the Higher Self",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "yoga",
+      "union",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0147",
+    "canonical_statement": "The ultimate reality is inaccessible to sensory perception and intellectual cognition, requiring a supersensuous faculty for realization.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 33,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "cannot be attained by speech, by mind, or by the eye.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0148",
+    "canonical_statement": "The Divine exists as the singular underlying reality of both the manifest and unmanifest dimensions.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 33,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "He alone exists in both the visible and the invisible world.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0149",
+    "canonical_statement": "Immortality is achieved through the cessation of all worldly desires and the dissolution of emotional attachments.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 33,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "When all the ties of the heart are cut asunder here, then the mortal becomes immortal.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0150",
+    "canonical_statement": "The trajectory of the mind after death is determined by the nature of its desires and tendencies during life.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 33,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "the direction in which it moves is determined by its desires and tendencies.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reincarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0151",
+    "canonical_statement": "The individual Self (Purusha) is an eternal, deathless entity residing within the physical heart.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 33,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "the inner Self, of the size of a thumb, is ever seated in the heart.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0152",
+    "canonical_statement": "The Soul is ontologically distinct from the physical body and can be separated through disciplined discrimination.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 33,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "one should learn to differentiate the Soul from the body.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0153",
+    "canonical_statement": "Knowledge of the true nature of the Self leads to liberation from mortality and union with the Supreme Reality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 34,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "who likewise knows the nature of the Self... attained Brahman",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "self",
+      "liberation",
+      "brahman",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0154",
+    "canonical_statement": "The practice of Yoga is a necessary component for achieving spiritual purification and ultimate realization.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 34,
+        "chapter": "Part — ancient Aswattha tree has its root",
+        "surface_quote": "wisdom taught... together with all the rules of Yoga",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "yoga",
+      "practice",
+      "purification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0155",
+    "canonical_statement": "The individual self-consciousness is capable of expanding until it achieves identity with the Supreme Consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 35,
+        "chapter": "PEACE CHANT",
+        "surface_quote": "expand his self-consciousness until it has become identical with God-Consciousness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0156",
+    "canonical_statement": "The totality of individual existence, including physical and sensory faculties, is fundamentally identical to the Supreme Brahman.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 35,
+        "chapter": "PEACE CHANT",
+        "surface_quote": "All is the Brahman (Supreme Lord) of the Upanishads.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "non-duality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0157",
+    "canonical_statement": "The ultimate reality is the source of all individual life-force and sensory perception.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 35,
+        "chapter": "PEACE CHANT",
+        "surface_quote": "May my limbs, speech, sight, hearing, strength and all my senses, gain in vigor.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0158",
+    "canonical_statement": "The Higher Self (Atman) and the Supreme Reality (Brahman) are the foundational objects of human devotion and realization.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 35,
+        "chapter": "PEACE CHANT",
+        "surface_quote": "May all the virtues declared in the sacred Upanishads be manifest in me, who am devoted to the Atman.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0159",
+    "canonical_statement": "The phenomenal functions of mind, speech, and sensory perception are driven by an underlying, invisible causal principle.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 36,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Commanded by whom does the life-force move? What power directs the eye and the ear?",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "consciousness",
+      "phenomenology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0160",
+    "canonical_statement": "The ultimate reality is the transcendent substrate that enables the operation of all sensory and cognitive faculties.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 36,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "It is the ear of the ear, the mind of the mind, the eye of the eye.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "consciousness",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0161",
+    "canonical_statement": "Human mortality is a consequence of identifying exclusively with the physical body and sensory phenomena.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 36,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "One who clings to the senses and to things that are ephemeral, must die many deaths.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "mortality",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0162",
+    "canonical_statement": "Immortality is achieved by transcending the physical nature and realizing the eternal essence within.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 36,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Immortality is attained when man transcends his apparent nature and finds that subtle, eternal essence.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "immortality",
+      "identity",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0163",
+    "canonical_statement": "The ultimate essence is beyond the reach of finite sensory perception, language, and intellectual comprehension.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 36,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "It is distinct from the known and also It is beyond the unknown.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "absolute",
+      "ineffability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0164",
+    "canonical_statement": "The Absolute (Brahman) is beyond the reach of finite sensory perception and intellectual comprehension.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 37,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "He is unknowable to man's finite nature.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0165",
+    "canonical_statement": "The Absolute is the underlying substrate that enables all sensory and cognitive functions.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 37,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "THAT which cannot be thought by mind, but by which mind is able to think.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0166",
+    "canonical_statement": "Beyond the three ordinary states of consciousness (waking, dreaming, sleeping) exists a fourth, superconscious state.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 37,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "There is, however, a fourth state, the superconscious, which transcends these.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "states"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0167",
+    "canonical_statement": "The Absolute can only be apprehended when the mind is purified and illuminated by Cosmic Intelligence.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 37,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "He can be known, however, by the purified mind only.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0168",
+    "canonical_statement": "Intellectual certainty regarding the nature of the Absolute is an indicator of ignorance.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 37,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "If thou thinkest 'I know It well,' then it is certain that thou knowest but little.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0169",
+    "canonical_statement": "True knowledge of the ultimate reality is achieved only through direct experiential union, not intellectual apprehension.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 38,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Mere intellectual recognition will not give you true knowledge of It.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0170",
+    "canonical_statement": "The ultimate reality, Brahman, exists beyond the reach of sensory perception, speech, and the conceptual mind.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 38,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "There the eye does not go, nor speech, nor mind.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "brahman"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0171",
+    "canonical_statement": "The ultimate reality is simultaneously beyond the known and the unknown, transcending binary categorization.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 38,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "That is distinct from known and also It is beyond the unknown.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0172",
+    "canonical_statement": "Individual existence is derived from the ultimate reality, making the act of seeking a form of inherent, non-conceptual knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 38,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "The very fact that I exist... shows that I know; for It is the source of my being.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0173",
+    "canonical_statement": "Attaining soul-consciousness requires transcending the relative knowledge of material phenomena.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 38,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "One who wishes to attain Soul-consciousness must rise above matter.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0174",
+    "canonical_statement": "Empirical science is limited because it relies on sense perception and excludes the infinite.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 39,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Material science being confined to the sense plane, it ignores what is beyond.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "science"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0175",
+    "canonical_statement": "The ultimate reality, Brahman, is beyond the reach of mind, speech, and sense perception.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 39,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Brahman is unthinkable, because unconditioned.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "brahman",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0176",
+    "canonical_statement": "True knowledge of the infinite is characterized by the recognition of its unknowability.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 39,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "He who thinks he knows It not, knows It.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0177",
+    "canonical_statement": "The true self is the underlying subject that enables perception, rather than the object of perception.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 39,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "The real Self is that within by which he hears and speaks and sees.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "self",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0178",
+    "canonical_statement": "Immortality is attained by realizing the self as the unchanging essence underlying all states of consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 39,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Brahman is known, when It is known in every state of consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "immortality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0179",
+    "canonical_statement": "The individual essence remains untouched by the decay and death of the physical body.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 39,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Although his body may decay and die, the subtle essence of his being remains untouched.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0180",
+    "canonical_statement": "Individual power derived from physical or mental effort is finite and cannot overcome death.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 40,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "strength from muscle and brain is limited and cannot lift one beyond death",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mortality",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0181",
+    "canonical_statement": "Immortality is achieved exclusively through the direct realization of the Self (Atma-jnana).",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 40,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "through Self-knowledge immortality is reached",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "immortality",
+      "self-knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0182",
+    "canonical_statement": "The Absolute (Brahman) is the singular, non-dual source of all manifested existence.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 40,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Brahman is the Absolute, the One without a second, the essence of all",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "brahman",
+      "ontology",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0183",
+    "canonical_statement": "All individual entities are dependent manifestations of the Absolute, lacking independent existence.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 40,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "No manifested form of life can be independent of its source",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "dependence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0184",
+    "canonical_statement": "The Absolute is the sole agent of all action in the universe.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 40,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "He is the only Doer. Nothing moves without that Power.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0185",
+    "canonical_statement": "Personal deities are limited aspects of the Absolute and cannot represent the totality of existence.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 40,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "no one of these can fully represent the Whole",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0186",
+    "canonical_statement": "The Absolute is inherently unknowable and unthinkable in its pure state.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 41,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "The Absolute is declared to be unknowable and unthinkable.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "absolute",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0187",
+    "canonical_statement": "The Absolute manifests in personal, deified forms to facilitate comprehension by seekers.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 41,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "He assumes deified personal aspects to make Himself known to His devotees.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0188",
+    "canonical_statement": "Individual agency is an illusion; all action is derived from the power of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 41,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "It is through His power that you live and act.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "agency",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0189",
+    "canonical_statement": "The belief in independent individual achievement is a product of ignorance.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 41,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Your idea that 'This victory is ours' is based on ignorance.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "ignorance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0190",
+    "canonical_statement": "Proximity to the Absolute is determined by the degree of cognitive realization of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 41,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Indra excels other Devas, because he came nearest to Brahman.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "realization",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0191",
+    "canonical_statement": "Proximity to the Supreme Reality is determined by the degree of purity of the consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 42,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "they were able to do this because they were purer",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "purity",
+      "hierarchy",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0192",
+    "canonical_statement": "Direct realization of the Supreme Reality constitutes the highest state of being.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 42,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Indra stands as the head of the Devas, because he realized the Truth directly",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "realization",
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0193",
+    "canonical_statement": "The Supreme Reality is the sole agent of all action.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 42,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Brahman is the only Doer.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "monism",
+      "brahman"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0194",
+    "canonical_statement": "The Supreme Reality transcends all definite forms and is essentially unfathomable.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 42,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "the whole of the unfathomable Brahman could not be seen in any definite form",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "transcendence",
+      "form",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0195",
+    "canonical_statement": "The human mind serves as the primary instrument for conceptualizing and approaching the Supreme Reality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 42,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Only by the mind can the seeker after knowledge approach Brahman",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind",
+      "epistemology",
+      "meditation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0196",
+    "canonical_statement": "A purified mind functions as a reflective medium for the manifestation of Divine Glory.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 42,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "when by constant thought of Him the mind becomes purified, then like a polished mirror it can reflect His Divine Glory.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mind",
+      "purity",
+      "reflection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0197",
+    "canonical_statement": "The individual who realizes their identity with the Divine becomes a conduit for universal grace.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 43,
+        "chapter": "D RAHMAN",
+        "surface_quote": "Whoever knows Him... serves as a clear channel through which the blessings of Brahman flow.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0198",
+    "canonical_statement": "All phenomenal existence originates from and eventually returns to a single, unified source.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 43,
+        "chapter": "D RAHMAN",
+        "surface_quote": "One tremendous Whole becoming the world, and again the world merging in that Whole.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0199",
+    "canonical_statement": "The ultimate reality is the non-perceivable substrate that enables all sensory and cognitive functions.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 43,
+        "chapter": "D RAHMAN",
+        "surface_quote": "It is the eye of the eye, the ear of the ear... which enables sense-faculties.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0200",
+    "canonical_statement": "The ultimate reality transcends both the known and the unknown, rendering it inaccessible to intellect or sensory perception.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 43,
+        "chapter": "D RAHMAN",
+        "surface_quote": "It is distinct from the known and also It is beyond the unknown.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0201",
+    "canonical_statement": "True knowledge of the ultimate reality is achieved only by recognizing it as the foundation of all consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 43,
+        "chapter": "D RAHMAN",
+        "surface_quote": "It can be known by him who knows It as the basis of all consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0202",
+    "canonical_statement": "The ultimate reality is infinite and transcends the capacity of conceptual knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 44,
+        "chapter": "D RAHMAN",
+        "surface_quote": "The knower of Truth says, 'I know It not,' because he realizes the unbounded nature.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0203",
+    "canonical_statement": "The divine essence permeates both the manifest and unmanifest dimensions of existence.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 44,
+        "chapter": "D RAHMAN",
+        "surface_quote": "Thou art this, Thou art That, and Thou art all that is beyond.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0204",
+    "canonical_statement": "True knowledge encompasses both sensory experience and spiritual intuition.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 44,
+        "chapter": "D RAHMAN",
+        "surface_quote": "He has all the knowledge that comes from the senses and all that comes from Spirit.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0205",
+    "canonical_statement": "Human mortality is a consequence of identifying the self with the ego, body, and mind.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 44,
+        "chapter": "D RAHMAN",
+        "surface_quote": "Mortals become mortals because they fall under the sway of ego.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "mortality",
+      "ego"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0206",
+    "canonical_statement": "All agency and power originate solely from the divine, rendering individual autonomy an illusion.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 44,
+        "chapter": "D RAHMAN",
+        "surface_quote": "There is no real power, no real doer except God.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "agency",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0207",
+    "canonical_statement": "Realizing the divine as the substrate of the self leads to the transcendence of death.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 44,
+        "chapter": "D RAHMAN",
+        "surface_quote": "When we realize Him as the underlying Reality, we transcend death and become immortal.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "immortality",
+      "self",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0208",
+    "canonical_statement": "Spiritual knowledge is transmitted directly from the consciousness of an illumined teacher to the disciple.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 45,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "partaking of the light that streams from the mind of the master to the disciple",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "transmission",
+      "initiation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0209",
+    "canonical_statement": "True wisdom is an inner realization that transcends the literal text of scriptures.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 45,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "learning was only a cloak for his inner realization",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "realization",
+      "scripture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0210",
+    "canonical_statement": "The Absolute can be known through a singular gnosis that encompasses all other knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 46,
+        "chapter": "GAYATRI DEVI",
+        "surface_quote": "What is that, by knowing which everything else becomes known?",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0211",
+    "canonical_statement": "Supreme wisdom is inaccessible through ritual, scripture, or moral action alone.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 46,
+        "chapter": "GAYATRI DEVI",
+        "surface_quote": "Supreme Wisdom cannot be attained by superficial study, religious rites, or good works.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0212",
+    "canonical_statement": "The realization of the Absolute requires the purification of the self through renunciation and meditation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 46,
+        "chapter": "GAYATRI DEVI",
+        "surface_quote": "It can only be realized by the man of meditation, one who has been purified.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "practice",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0213",
+    "canonical_statement": "The attainment of ultimate truth necessitates the stripping away of all non-essential mental constructs.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 46,
+        "chapter": "GAYATRI DEVI",
+        "surface_quote": "The Upanishad itself is shorn of all non-essentials.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0214",
+    "canonical_statement": "The Absolute (Brahman) is the foundational reality from which all other knowledge is derived.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 47,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "knowledge of Brahman which is the foundation of all knowledge.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0215",
+    "canonical_statement": "The personal aspect of Deity (Brahma) acts as the creative power of the universe, distinct from the Absolute (Brahman).",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 47,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Brahma is the personal aspect of Deity as distinguished from Brahman, the Absolute.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0216",
+    "canonical_statement": "Divine beings (Devas) are manifestations of specific qualities of the Divine, functioning as administrators of creation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 47,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Devas are Bright Beings, each manifesting some special Divine quality and holding some office.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0217",
+    "canonical_statement": "There exists a fundamental distinction between lower, intellectual knowledge and higher, direct knowledge of the Imperishable.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 47,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "There are two kinds of knowledge to be known... higher knowledge and lower knowledge.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0218",
+    "canonical_statement": "Direct experiential realization of ultimate truth is superior to theoretical or intellectual knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 48,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "theoretical knowledge must always be inferior to knowledge based on direct experience.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0219",
+    "canonical_statement": "The ultimate source of reality is unconditioned, attribute-less, and imperceptible to sensory or intellectual faculties.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 48,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "That which cannot be seen... has no origin and no attributes",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0220",
+    "canonical_statement": "Ultimate realization requires the cessation of sensory and intellectual turbulence through meditative serenity.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 48,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "It dawns in the soul only when senses, mind and intellect have become pacified.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "meditation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0221",
+    "canonical_statement": "The universe manifests as an expansion or emanation from the Imperishable Source.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 48,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "does the universe come forth from the Imperishable.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0222",
+    "canonical_statement": "The creative process of the universe originates from the wisdom and internal energy of the Supreme.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 48,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Out of this fire of wisdom... come forth, first the creative power, and thence all forms.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0223",
+    "canonical_statement": "Knowledge is categorized into lower knowledge, pertaining to intellectual and ritualistic pursuits, and higher knowledge, pertaining to ultimate truth.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 49,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "The Vedic teaching is divided into two distinct parts: Karma-Kanda and Jnana-Kanda.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0224",
+    "canonical_statement": "Ritual sacrifice serves as a mechanism to test the practitioner's detachment from worldly desires.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 49,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "To test whether his mind is wholly free from desire for earthly rewards.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "detachment",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0225",
+    "canonical_statement": "The universe is structured into seven hierarchical planes or worlds corresponding to grades of experience.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 49,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "The seven worlds represent the rising grades of heavenly pleasure.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0226",
+    "canonical_statement": "The efficacy of ritual action is contingent upon precise alignment with temporal and cosmic conditions.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 49,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "Certain times and conditions were regarded as peculiarly auspicious for performing sacrifice.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "ritual",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0227",
+    "canonical_statement": "The fire of wisdom is an internal process of refining thoughts, words, and deeds.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 49,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "The real fire which every worshipper must light is the fire of wisdom.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "metaphor",
+      "transformation",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0228",
+    "canonical_statement": "Ritualistic actions and good works performed for personal gain are ephemeral and do not lead to ultimate liberation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 50,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "all these sacrifices are inferior and ephemeral.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "karma",
+      "liberation",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0229",
+    "canonical_statement": "Attachment to the fruits of action causes the soul to cycle repeatedly through birth, death, and suffering.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 50,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "again and again come under the dominion of old age and death.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "suffering",
+      "karma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0230",
+    "canonical_statement": "Spiritual ignorance is characterized by the false belief that worldly success or ritual merit constitutes the highest good.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 50,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "regard them as the highest good and delight in them.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ignorance",
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0231",
+    "canonical_statement": "True spiritual guidance requires direct experiential vision rather than mere intellectual or scriptural learning.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 50,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "no one save the man of direct vision shall venture to lead others.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "authority",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0232",
+    "canonical_statement": "Egoism and vanity act as self-imposed bonds that prevent the individual from perceiving higher spiritual realities.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 50,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "they bind themselves with their own vanity and egoism.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ego",
+      "liberation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0233",
+    "canonical_statement": "Actions performed within the finite realm cannot produce permanent results.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 51,
+        "chapter": "OM! PEACE! PEACE! PEACE!",
+        "surface_quote": "man earns by finite actions, however good, cannot be permanent",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "impermanence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0234",
+    "canonical_statement": "All individual beings originate from and ultimately return to an eternal, imperishable source.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 52,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "all beings spring forth from the Imperishable and return thither again.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0235",
+    "canonical_statement": "The Absolute is infinite, formless, and transcends all biological and mental functions.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 52,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "He is without form, without breath and without mind.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "absolute",
+      "nature of reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0236",
+    "canonical_statement": "The manifest universe, including physical elements and life-forces, is a direct emanation from the Absolute.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 52,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "From Him are born the life-force, mind, all sense organs, ether, air, fire, water and earth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "emanation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0237",
+    "canonical_statement": "The Absolute exists as the inner Self within all living beings.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 52,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "He is the inner Self of all living beings.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0238",
+    "canonical_statement": "The distinction between the unconditioned Absolute and the creative, personal aspect of the Divine is fundamental to reality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 52,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "Nirguna-Brahman means Brahman without attributes, while Saguna-Brahman is God with attributes.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0239",
+    "canonical_statement": "The entirety of the manifest universe, including physical elements and living beings, originates from and is identical to the Supreme Brahman.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 53,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "All this is Brahman, the Highest Being.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "monism",
+      "brahman"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0240",
+    "canonical_statement": "The individual self is composed of subtle layers including mind, intellect, and ego.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 53,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "The inner self signifies the body made up of mind, intellect and ego.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "self",
+      "psychology",
+      "subtle-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0241",
+    "canonical_statement": "The ultimate reality resides within the heart of the individual, and realizing this leads to liberation from ignorance.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 53,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "He who knows this Being dwelling in the cave of the heart cuts asunder ignorance.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "liberation",
+      "self-realization",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0242",
+    "canonical_statement": "The physical world and its biological processes are manifestations of a divine causal hierarchy.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 53,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "From Him come all herbs and juices, by which the inner self subsists.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0243",
+    "canonical_statement": "The Supreme Being is the foundational substrate of all existence, encompassing both manifest and unmanifest states.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 54,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "In Him all is fixed... He is both formful and formless.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0244",
+    "canonical_statement": "Individual existence is ontologically dependent on the Supreme Being; nothing exists independently.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 54,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "Nothing can exist apart from Him.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "dependence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0245",
+    "canonical_statement": "The ultimate goal of the individual soul is to achieve non-dual union with the Supreme Being.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 54,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "As the arrow becomes one with the mark, so will he become one with the Supreme.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "liberation",
+      "union"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0246",
+    "canonical_statement": "The Supreme Being is immanent within the heart of every individual.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 54,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "The Supreme Lord abides in every heart.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "immanence",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0247",
+    "canonical_statement": "The Absolute is beyond the capacity of human conceptual understanding.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 54,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "Who is beyond the reach of human understanding.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0248",
+    "canonical_statement": "Focused attention is a necessary prerequisite for the direct perception of ultimate reality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 55,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "If our mind is divided or scattered we cannot meditate.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "meditation",
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0249",
+    "canonical_statement": "The individual soul, upon achieving direct perception, attains ontological unity with the Supreme.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 55,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "We become one with the Supreme.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "union",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0250",
+    "canonical_statement": "The Supreme is the foundational substrate upon which all manifested existence and sensory phenomena depend.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 55,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "There can be no form of manifested life apart from Him.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence",
+      "monism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0251",
+    "canonical_statement": "The Atman dwells within the physical body, specifically centered in the heart, acting as the sustainer of life.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 55,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "The seat of this Divine Principle in us is in the heart.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "body",
+      "atman"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0252",
+    "canonical_statement": "The unchanging Atman appears to undergo emotional and mental modifications due to its interaction with the mind.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 55,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "It appears to take the modifications of the mind.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mind",
+      "soul",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0253",
+    "canonical_statement": "Realization of the Supreme dissolves the causal bonds of karma and eliminates the psychological fetters of ego and doubt.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 55,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "The fetters of the heart are broken, all doubts are cut asunder.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "karma",
+      "liberation",
+      "ego"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0254",
+    "canonical_statement": "Intellectual analysis is insufficient for the realization of ultimate truth.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 56,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "This does not happen when we gain intellectual knowledge only.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0255",
+    "canonical_statement": "The ultimate reality is a self-effulgent light that illuminates the entire universe.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 56,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "When He shines, everything shines after Him.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0256",
+    "canonical_statement": "Direct realization of the divine dissolves the causal chains of karma.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 56,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "all the chains of Karma past, present and future are shattered.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "karma",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0257",
+    "canonical_statement": "The Supreme Brahman is omnipresent and constitutes the entirety of the universe.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 56,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "The Supreme Brahman alone is the whole Universe.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "monism",
+      "brahman"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0258",
+    "canonical_statement": "The individual soul and the Supreme Self coexist within the same body, one experiencing life and the other witnessing.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 56,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "Two inseparable companions of golden plumage perch on the same tree.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "self",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0259",
+    "canonical_statement": "The individual soul is a reflection of the Supreme Soul, and the sense of ego creates the illusion of separation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 56,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "The Jiva or individual soul is merely the reflex of the Supreme Soul.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "ego"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0260",
+    "canonical_statement": "Individual liberation requires the transcendence of both moral sin and merit, as both function as binding attachments to the ego.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 57,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "sin is an iron chain, so merit can be a golden chain",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "liberation",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0261",
+    "canonical_statement": "The ultimate state of being is characterized by the unification of the individual mind and will with the cosmic mind and will.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 57,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "mind and will are completely unified with the cosmic mind and will",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0262",
+    "canonical_statement": "The Supreme Reality is immanent within the human body yet transcends sensory perception and intellectual speculation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 57,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "subtler than the subtlest... yet here (in the body)",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0263",
+    "canonical_statement": "Direct perception of the Absolute is only possible when the mind is purified and the senses are stilled through meditation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 57,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "when the mind is purified by the serene light of knowledge, then alone does the Seer perceive",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "meditation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0264",
+    "canonical_statement": "The vital life-force (Prana) manifests in five distinct forms to animate the physical body.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 57,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "energy manifests in five different forms through which the vital the body are Prana, Apana, Samana, Vyana and Udana",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physiology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0265",
+    "canonical_statement": "Vital energy functions as the intermediary mechanism connecting external sensory data to the internal consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 58,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "senses are avenues through which the vital energy connects the outer world with the inner",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "vitality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0266",
+    "canonical_statement": "The soul's true nature is obscured by the accumulation of sensory impressions within the mind.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 58,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "not until the mind is freed from these obscuring impressions can the soul manifest",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "mind",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0267",
+    "canonical_statement": "A purified mind achieves alignment with the cosmic will, causing individual desires to manifest through natural law.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 58,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "his desires fulfill themselves by the natural course of law",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmic-law",
+      "mind",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0268",
+    "canonical_statement": "Realization of the Self involves recognizing the essential oneness between individual life and the cosmic totality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 58,
+        "chapter": "SECOND MUNDAKA",
+        "surface_quote": "a man's mind is purified, he realizes his oneness with the cosmic life",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "self",
+      "identity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0269",
+    "canonical_statement": "The universe is grounded in and sustained by Brahman, which is the ultimate substrate of reality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 59,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "Brahman, in which all this universe rests",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0270",
+    "canonical_statement": "Desire acts as the causal seed for the cycle of birth, death, and mortal suffering.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 59,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "Every desire is a seed from which spring birth, death and all mortal afflictions.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "causality",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0271",
+    "canonical_statement": "The realization of the Self results in the immediate cessation of all desires.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 59,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "he whose desires are fulfilled and who has known the Self, his desires vanish",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0272",
+    "canonical_statement": "The Self is not attained through intellectual study but through a process of divine selection and revelation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 59,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "He whom the Self chooses, by him alone is It attained.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0273",
+    "canonical_statement": "Spiritual attainment requires the cultivation of inner vigor and the total renunciation of lower desires.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 59,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "Self cannot be attained by one who is devoid of strength... or whose austerity is without renunciation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "practice",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0274",
+    "canonical_statement": "The individual self is ontologically identical to the all-pervading Spirit.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 60,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "realizing the all-pervading Spirit present in all things, enter into all.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0275",
+    "canonical_statement": "At liberation, the constituent parts of the individual being dissolve into the universal Source.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 60,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "fifteen parts return to their source",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "liberation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0276",
+    "canonical_statement": "Liberation involves the transcendence of name and form while retaining the true entity of the self.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 60,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "he does not lose his true entity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0277",
+    "canonical_statement": "The realization of Brahman results in the cessation of individual suffering and the attainment of immortality.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 60,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "he overcomes grief he overcomes sin... he becomes immortal.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0278",
+    "canonical_statement": "The knower of Brahman becomes identical in nature to Brahman.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 60,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "He who knows that highest Brahman becomes like unto Brahman.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0279",
+    "canonical_statement": "Access to metaphysical truth is contingent upon the practitioner's moral and ascetic preparation.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 61,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "It should not be studied by one who has not fulfilled the vow.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "asceticism",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_upanishads_0280",
+    "canonical_statement": "The transmission of higher knowledge to the unprepared results in cognitive dissonance and spiritual regression.",
+    "attributions": [
+      {
+        "source_id": "the_upanishads",
+        "chunk_index": 61,
+        "chapter": "THIRD MUNDAKA",
+        "surface_quote": "To others it will bring only confusion of mind and impede their progress.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  }
+]

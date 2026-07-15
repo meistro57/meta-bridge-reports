@@ -1,0 +1,1732 @@
+[
+  {
+    "id": "cl_pagan_and_christian_rome_0001",
+    "canonical_statement": "Religious and cultural systems undergo transformation through the syncretic assimilation of preceding traditions and symbols.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 12,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "The readiness of the early Church to adopt pagan customs and even myths.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "syncretism",
+      "culture",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0002",
+    "canonical_statement": "The adoption of a spiritual belief system possesses the capacity to ontologically elevate an individual from the status of an object to that of a human being.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 13,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "transform them from things into human beings",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0003",
+    "canonical_statement": "The belief in a future state of existence serves as a functional mechanism for alleviating the psychological burden of present suffering.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 13,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "make them believe in the happiness of a future life; to alleviate their present sufferings",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0004",
+    "canonical_statement": "Non-physical entities possess the capacity to exert mechanical force upon physical objects.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 18,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "the carriage... pushed by invisible hands, began to roll down the slope",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "phenomenology",
+      "interaction",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0005",
+    "canonical_statement": "The human psyche can be permanently altered by direct interaction with non-physical entities.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 18,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "faces still bear marks of the great terror experienced that day",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "trauma",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0006",
+    "canonical_statement": "The practice of religious devotion is fundamentally incompatible with the performance of secular administrative and political duties in a pagan state.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 20,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "how could they fill these places, and leave the temples?",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "religion",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0007",
+    "canonical_statement": "The divine is fundamentally compatible with syncretic integration across disparate religious frameworks.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 21,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "tried to ally it with the official worship of the empire",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "syncretism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0008",
+    "canonical_statement": "The transition of religious adherence is a function of institutional and structural shifts in worship.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 21,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "the temples of the old gods would become deserted",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "religion",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0009",
+    "canonical_statement": "Worldly success and material promises are inherently transient and failing in nature.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 23,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "turn his face from the failing promises of the world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "transience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0010",
+    "canonical_statement": "Religious identity is performative and can be bifurcated or concealed to navigate social environments.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 24,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "a Christian among the Christians... a pagan among the pagans",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "religion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0011",
+    "canonical_statement": "Participation in external rituals constitutes a metaphysical or moral alignment with the underlying belief system of those rituals.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 24,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "sanctioning acts of idolatry by the mere fact of their presence",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0012",
+    "canonical_statement": "Historical change is the result of gradual, inevitable maturation rather than sudden, discontinuous revolution.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 28,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "The transformation of Rome was not a sudden event, but the result of three centuries.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0013",
+    "canonical_statement": "Cultural and religious shifts are determined by the inherent moral superiority of emerging doctrines over established systems.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 28,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "The moral superiority of the new doctrines over the old religions was so evident.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "morality",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0014",
+    "canonical_statement": "Historical events and political outcomes are influenced or directed by divine agency.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 29,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "instinctu divinitatis (by the will of God)",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0015",
+    "canonical_statement": "Human authority is subject to the ultimate judgment of a divine entity.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 30,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "They appeal to me, when I myself must be judged by Christ.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "judgment",
+      "theology",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0016",
+    "canonical_statement": "Religious symbols and iconography can be repurposed across different belief systems to facilitate cultural and spiritual transitions.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 31,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "Orpheus playing on the lyre, while watching his flock, as a substitute for the Good Shepherd.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "religion",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0017",
+    "canonical_statement": "Human life is characterized by a state of entrapment within a complex, inescapable structure.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 37,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "The labyrinth... is symbolical of human life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0018",
+    "canonical_statement": "Human consciousness possesses an innate capacity to derive aesthetic and spiritual fulfillment from the creation and contemplation of beauty.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 38,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "everybody should take delight in looking at it",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "aesthetics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0019",
+    "canonical_statement": "Religious and cultural practices evolve through the substitution of new symbolic structures for ancient guardian entities.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 38,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "substitution of chapels and shrines for the old arae compitales",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "religion",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0020",
+    "canonical_statement": "Human attempts to suppress historical monuments are ineffective at erasing the underlying reality of past events.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 42,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "men who think they can obliterate history by suppressing monuments which bear testimony to it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0021",
+    "canonical_statement": "Moral culpability arises from the internal nature of a life rather than from external actions or rituals.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 42,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "what generates evil for itself is the slippery life, not our duties or the fault of the bath.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "morality",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0022",
+    "canonical_statement": "Moral culpability is derived from individual volitional actions rather than external physical substances.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 43,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "it is not water but our own bad actions that make us sin.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "agency",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0023",
+    "canonical_statement": "The living may influence the state of the deceased through ritualized consumption and offerings at the site of burial.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 46,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "drink now to my memory, and wish that the earth may be light on me.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "commemoration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0024",
+    "canonical_statement": "Spiritual veneration is more authentically expressed through the mortification of physical appetites than through sensory indulgence.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 47,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "We must celebrate the birthday of Peter rather with exaltation of spirit than food.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "asceticism",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0025",
+    "canonical_statement": "The memory or essence of a holy figure is harmed or dishonored by the indulgence of base physical desires.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 47,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "Now you persecute their memory with your intoxicating cups.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sanctity",
+      "memory",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0026",
+    "canonical_statement": "Deceased entities retain the capacity to interact with and influence the physical world through visionary intervention.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 50,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "Gregory appeared thrice to Sabinianus, in a vision... and struck him dead.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "agency",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0027",
+    "canonical_statement": "Human cultural practices and collective memory persist across vast temporal intervals, influencing the behavior of subsequent generations.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 51,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "customs and practices of the classical age were so deeply rooted... noticeable after sixteen centuries",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0028",
+    "canonical_statement": "Supernatural entities may manifest as or inhabit natural phenomena such as flora.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 51,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "Rusalky, who bring prosperity to the fields and forests, which they have inhabited as flowers.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "nature",
+      "supernatural",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0029",
+    "canonical_statement": "The afterlife is a state of existence characterized by joy and spiritual fulfillment.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 52,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "The symbol refers more to the joys of the just in the future life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0030",
+    "canonical_statement": "Disembodied souls exist in a state of active, joyful engagement within a transcendental environment.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 52,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "birds, symbolizing souls who have been separated from their bodies, and are playing.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0031",
+    "canonical_statement": "The afterlife is structurally represented as a garden or floral configuration, signifying divine order.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 52,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "its mystic representation always takes the form of a delightful field of flowers.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0032",
+    "canonical_statement": "The soul or consciousness returns to a state of eternal union with its source after traversing the structure of existence.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 55,
+        "chapter": "PAGAN AND CHRISTIAN ROME.",
+        "surface_quote": "Sank into the great flower... and thence reascended to where its love abideth evermore.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "union"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0033",
+    "canonical_statement": "The population of a city consists of both living beings and inanimate representations, suggesting a dual-layered existence of physical and symbolic entities.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 56,
+        "chapter": "CHAPTER II.",
+        "surface_quote": "Rome had two populations of equal size, one alive, and one of marble.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0034",
+    "canonical_statement": "The identity and gender of divine entities are considered inherently unknowable or beyond human categorization.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 73,
+        "chapter": "CHAPTER II.",
+        "surface_quote": "Sacred to a Divinity, whether male or female.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0035",
+    "canonical_statement": "The efficacy of ritual invocation depends upon the precise identification of the entity's true name and nature.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 73,
+        "chapter": "CHAPTER II.",
+        "surface_quote": "danger of vitiating the ceremony by a false invocation",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "language",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0036",
+    "canonical_statement": "Tutelary spirits possess a specific, localized existence that can be manipulated or coerced through occult rites.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 73,
+        "chapter": "CHAPTER II.",
+        "surface_quote": "force them to abandon the defence of that special place, by mysterious and violent rites",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirit",
+      "locality",
+      "occult"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0037",
+    "canonical_statement": "Geographic locations exhibiting anomalous natural phenomena are perceived as portals or points of contact with infernal realms.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 75,
+        "chapter": "CHAPTER II.",
+        "surface_quote": "The locality became known by the name of the fiery field... relationship with the infernal realms.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sacred-geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0038",
+    "canonical_statement": "Ritual sacrifice and ceremonial observance function as mechanisms to avert unpredictable, non-cyclical calamities.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 75,
+        "chapter": "CHAPTER II.",
+        "surface_quote": "Celebrated for the purpose of averting from the state the recurrence of some great calamity.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ritual",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0039",
+    "canonical_statement": "The efficacy of a sacred oath is contingent upon the participant's direct exposure to the open sky.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 101,
+        "chapter": "CHAPTER II.",
+        "surface_quote": "The oath me-Dius Fidius could not be taken except in the open air.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ritual",
+      "sacred",
+      "oath"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0040",
+    "canonical_statement": "Divine entities associated with light require unroofed architectural spaces for proper veneration.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 101,
+        "chapter": "CHAPTER II.",
+        "surface_quote": "It was hypæthral... so that the sky could be seen by the worshippers.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "architecture",
+      "divinity",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0041",
+    "canonical_statement": "Complex institutional systems and elaborate structures originate from simple, informal, and domestic foundations.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 108,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "An elaborate hierarchy... were to arise out of the informal conclave.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "emergence",
+      "structure",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0042",
+    "canonical_statement": "The identity of the deceased persists beyond physical death, necessitating ongoing ritual commemoration.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 113,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "repeat that feast year by year on the birthday of the dead",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0043",
+    "canonical_statement": "The physical remains of a martyr possess a sacred status that renders their relocation an act of sacrilege.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 116,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "Touching the graves... was out of the question; in the eyes of the early Christians no more impious sacrilege could be perpetrated.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sacred",
+      "remains",
+      "sanctity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0044",
+    "canonical_statement": "The physical site of a martyr's burial serves as the foundational locus for divine worship.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 116,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "No better altar than those graves could be chosen for the celebration of divine service.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "worship",
+      "sacred",
+      "altar"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0045",
+    "canonical_statement": "The dying consciousness may experience precognitive visions of future events.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 159,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "Suetonius thinks this was a vision or premonition of an approaching event.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "precognition",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0046",
+    "canonical_statement": "The soul of a deceased individual may be symbolically or literally transported to a higher celestial realm upon the cremation of the physical body.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 160,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "an eagle rose from the ashes as if carrying the soul of the hero to Heaven",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0047",
+    "canonical_statement": "The occurrence of specific events, including death, is predetermined and inevitable regardless of human intervention.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 179,
+        "chapter": "chapter i., his life became an intolerable burden to him. The fear",
+        "surface_quote": "The half-charred remains did fall a prey to the dogs.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0048",
+    "canonical_statement": "Divine or supernatural entities may withdraw their protection from individuals who have fallen into moral corruption.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 179,
+        "chapter": "chapter i., his life became an intolerable burden to him. The fear",
+        "surface_quote": "Minerva... had suddenly disappeared from his private chapel.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0049",
+    "canonical_statement": "Historical patterns of human behavior and discovery are cyclical and repetitive across time.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 188,
+        "chapter": "chapter i., his life became an intolerable burden to him. The fear",
+        "surface_quote": "there is nothing new under the sun",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0050",
+    "canonical_statement": "The physical world contains hidden, persistent remnants of past civilizations that remain accessible to the present.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 188,
+        "chapter": "chapter i., his life became an intolerable burden to him. The fear",
+        "surface_quote": "such discoveries... take place in all centuries, the present included",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "history",
+      "persistence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0051",
+    "canonical_statement": "The square nimbus serves as a symbolic indicator of a living person in iconographic representation.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 193,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "the square nimbus is the symbol of living persons",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "iconography",
+      "representation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0052",
+    "canonical_statement": "The physical investigation of historical sites and funerary remains serves as a direct method for encountering the reality of death.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 197,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "in Rome... does investigation lead one in the footsteps of Death.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "death",
+      "history",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0053",
+    "canonical_statement": "The souls of individuals can maintain a state of union that transcends their physical separation.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 200,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "their souls had been united as they lived",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0054",
+    "canonical_statement": "Physical proximity of remains can reflect or manifest a pre-existing spiritual union.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 200,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "the bodies of the two friends would be united as their souls had been",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "matter",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0055",
+    "canonical_statement": "The human soul exists independently of the physical body and transitions to a heavenly realm upon death.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 202,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "These tombs contain their remains, but their souls are in the heavenly kingdom.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0056",
+    "canonical_statement": "Non-physical entities possess the capacity to intervene in physical events and influence the cessation of biological crises.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 207,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "angel... sheathe his flaming sword as a sign that the pestilence was about to cease.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "intervention",
+      "entities",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0057",
+    "canonical_statement": "Communication and interaction between human consciousness and non-physical entities are possible within the physical realm.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 207,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "three angels were heard to sing... to which Gregory replied",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "communication",
+      "consciousness",
+      "interdimensional"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0058",
+    "canonical_statement": "The divine presence is inherently associated with physical elevation and high altitudes.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 208,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "Deus in altis habitat.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "space",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0059",
+    "canonical_statement": "Material existence and worldly status are transient and ephemeral in nature.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 213,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "The glory of the world vanisheth like the flame of a handful of straw.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "transience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0060",
+    "canonical_statement": "Physical remains of the deceased can maintain a sympathetic connection to future events or the state of living successors.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 215,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "Whenever one of his successors was approaching the end of life, the bones would stir.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "sympathy",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0061",
+    "canonical_statement": "Human perception is prone to misinterpreting symbolic or spiritual language through the lens of existing cultural or supernatural biases.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 216,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "simple-minded contemporaries, so inclined towards the supernatural, saw in the words an allusion",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0062",
+    "canonical_statement": "Physical remains are subject to total dissolution upon interaction with the external environment, regardless of prior preservation.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 216,
+        "chapter": "chapter iii., p. 134; the second, with the letters \"I L.\" The set of",
+        "surface_quote": "It fell into dust at the touch of our hands",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "matter",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0063",
+    "canonical_statement": "The soul of the deceased persists as an entity capable of receiving petitions and appearing to the living.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 238,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "let him appear to me in the silent hours of the night.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0064",
+    "canonical_statement": "The afterlife is a state of existence where the deceased may be reunited with their loved ones.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 238,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "let me share his fate, that we may be reunited.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0065",
+    "canonical_statement": "Death is governed by laws that are perceived as arbitrary or preposterous by human moral standards.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 238,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "The preposterous laws of death have torn him from my arms!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "death",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0066",
+    "canonical_statement": "Non-human animals possess the capacity for habitual behavior and adherence to traditional patterns over historical timescales.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 243,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "in Rome not only men but animals should remain faithful to old habits",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "nature",
+      "habit",
+      "tradition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0067",
+    "canonical_statement": "Physical preservation of the human form is contingent upon the maintenance of specific chemical or material conditions.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 265,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "if the glutinous substance is washed off, the flesh blackens in less than an hour.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "decay",
+      "physicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0068",
+    "canonical_statement": "The preservation of the physical body is a method utilized to facilitate or prepare for the immortality of the soul.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 266,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "the ancients took care to prepare not only their souls but also their bodies for immortality.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "immortality",
+      "soul",
+      "body",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0069",
+    "canonical_statement": "Post-mortem identity and burial rights are contingent upon adherence to a specific religious belief system.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 287,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "none might be buried in the tomb... except those who belonged to the creed",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "religion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0070",
+    "canonical_statement": "The physical sanctity of a burial site is independent of the religious affiliation of the deceased.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 288,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "a tomb continued to be a locus religiosus, no matter what the creed",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sanctity",
+      "death",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0071",
+    "canonical_statement": "The perceived peace of the deceased can be subject to disturbance by the living.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 288,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "May the wrath of God... fall on the one who dares to disturb the peace",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "death",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0072",
+    "canonical_statement": "The physical proximity of a grave to the remains of a martyr is perceived to hold spiritual or salvific significance.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 293,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "desire of securing a grave in proximity to the shrine of a martyr",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "sacred",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0073",
+    "canonical_statement": "Disembodied consciousness retains the ability to communicate information regarding its physical remains to the living.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 297,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "S. Cæcilia, however, told him in a vision where her grave was",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "afterlife",
+      "communication"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0074",
+    "canonical_statement": "The identity of an individual is known to the Divine regardless of its earthly designation.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 298,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "CUIUS NOMEN DEUS SCIT",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology",
+      "divine-knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0075",
+    "canonical_statement": "Individual identity is ultimately known only to the divine, regardless of social or historical recognition.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 299,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "a pilgrim from Thrace, whose name is known only to God.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0076",
+    "canonical_statement": "The deceased exist in a state of communion with the divine.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 300,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "Paulina, who dwells in Christ among the blessed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0077",
+    "canonical_statement": "Human life is fundamentally characterized as a transient journey or pilgrimage.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 305,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "Viatrix... has its own Christian meaning, as an allusion to the eventful journey of human life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0078",
+    "canonical_statement": "Martyrdom serves as a catalyst for the attainment of an immortal state of existence.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 309,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "The cross is crowned by a triumphal wreath, as a symbol of the immortal recompense.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0079",
+    "canonical_statement": "Symbolic iconography functions as a definitive marker of spiritual hope and metaphysical orientation.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 309,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "the cross-shaped anchor, the mysterious but certain emblem of Christian hope.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "faith"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0080",
+    "canonical_statement": "Kinship can be defined through spiritual affiliation rather than biological or historical lineage.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 310,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "Her kinship with the apostle must consequently be taken in a spiritual sense.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0081",
+    "canonical_statement": "Religious iconography functions as a conventionalized representation of divine ideals rather than a historical likeness.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 315,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "Christian painters... had no intention of making a likeness, but only a conventional type.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "representation",
+      "divinity",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0082",
+    "canonical_statement": "The manifestation of divine concepts in human culture is influenced by socio-political conditions and the prevailing aesthetic expectations of the era.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 315,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "The change was a consequence of the peace and freedom given to the Church.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "culture",
+      "perception",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0083",
+    "canonical_statement": "The deceased continue to exist in a state of union with the divine.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 318,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "Gaianus, live in Christ with Procula.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0084",
+    "canonical_statement": "The human constitution is dualistic, consisting of a soul that returns to the divine and a body that returns to the earth.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 322,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "rendered his soul to God, his body to the earth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "dualism",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0085",
+    "canonical_statement": "The ritual consumption of food and drink serves as a symbolic bridge between human participants and metaphysical entities representing Love and Peace.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 324,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "The banquet is presided over by two mystic figures, Irene or Peace... Agape or Love.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ritual",
+      "symbolism",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0086",
+    "canonical_statement": "Perception is a learned process that requires the calibration of the observer to recognize latent or obscured realities.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 325,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "My eyes, however, soon became initiated to the new experience, and able to read.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0087",
+    "canonical_statement": "The consciousness of the deceased persists in a form accessible to the living through the medium of their recorded identity.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 326,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "names... give the lonely wanderer the impression of meeting living and dear friends",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_pagan_and_christian_rome_0088",
+    "canonical_statement": "Symbols and names function as conduits for the invocation of historical or archetypal forces beyond their literal religious designation.",
+    "attributions": [
+      {
+        "source_id": "pagan_and_christian_rome",
+        "chunk_index": 328,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "Victor, Fortunatus, Genesius... did not represent to the initiated the saints... but the fortunes of ancient Rome.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "archetype",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  }
+]

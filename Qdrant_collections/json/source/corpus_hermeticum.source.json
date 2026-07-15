@@ -1,0 +1,14 @@
+{
+  "id": "corpus_hermeticum",
+  "title": "The Corpus Hermeticum",
+  "author": "Hermes Trismegistus",
+  "medium": "Poemandres",
+  "channel_type": "channeled",
+  "tradition": "Hermeticism",
+  "year": 2001,
+  "region": "",
+  "ingested_at": "2026-05-27T16:53:42.077135437Z",
+  "chunk_count": 150,
+  "claim_count": 664,
+  "source_path": "incoming/corpus_hermeticum.pdf"
+}

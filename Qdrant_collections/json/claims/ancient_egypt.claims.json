@@ -1,0 +1,2714 @@
+[
+  {
+    "id": "cl_ancient_egypt_0001",
+    "canonical_statement": "Human leaders possess a dual nature, transitioning from mortal rulers to divine beings upon death.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 8,
+        "chapter": "Chapter 10: Egyptomania 178",
+        "surface_quote": "Egyptians believed that their leaders were god-kings who became full-fledged gods after their deaths.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0002",
+    "canonical_statement": "The physical world is a manifestation of divine thought.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 10,
+        "chapter": "Chapter 10: Egyptomania 178",
+        "surface_quote": "Ptah, the creator god, was believed to have made the world from his thoughts.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0003",
+    "canonical_statement": "The afterlife is a destination requiring the physical body to remain intact for successful transition.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 11,
+        "chapter": "Chapter 10: Egyptomania 178",
+        "surface_quote": "a body must remain intact to travel through the afterlife",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0004",
+    "canonical_statement": "The monarch functions as a metaphysical mediator between the divine and human realms.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 11,
+        "chapter": "Chapter 10: Egyptomania 178",
+        "surface_quote": "The king held unique status between humanity and the gods.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "hierarchy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0005",
+    "canonical_statement": "The maintenance of cosmic order is dependent upon the ritual benevolence of the gods.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 11,
+        "chapter": "Chapter 10: Egyptomania 178",
+        "surface_quote": "The main religious task of the king was to retain the benevolence of the gods.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0006",
+    "canonical_statement": "The structure of society is a reflection of a descending metaphysical hierarchy originating from the divine.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 23,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "Egyptian society consisted of a descending hierarchy of the gods, the king, the blessed dead",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0007",
+    "canonical_statement": "The monarch functions as a metaphysical mediator between the divine realm and the human collective.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 24,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "To humanity, he manifested the gods on earth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "mediation",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0008",
+    "canonical_statement": "Divine status is not an inherent biological trait but a functional quality derived from office and ritual.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 24,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "His divinity accrued to him from his office and was reaffirmed through rituals.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ritual",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0009",
+    "canonical_statement": "The deceased maintain an active, influential presence in the affairs of the living.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 24,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "the dead... could intervene in human affairs.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0010",
+    "canonical_statement": "The maintenance of cosmic order (ma'at) is a primary metaphysical responsibility of the sovereign.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 24,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "setting order [ma‘at] in place of disorder.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0011",
+    "canonical_statement": "The monarch possesses a charismatic and superhuman nature that serves as the foundational source of political and social order.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 26,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "the charismatic and superhuman power of the king remained vital.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "ontology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0012",
+    "canonical_statement": "The king functions as the ultimate judicial authority over the human collective.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 26,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "the king, whose general role as judge over humanity they put into effect.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "justice",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0013",
+    "canonical_statement": "The artistic and architectural design of sacred monuments serves as a representation of an idealized, sanctified cosmos.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 28,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "The design of the monuments... presents an ideal, sanctified cosmos.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sacred-geometry",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0014",
+    "canonical_statement": "Iconic representations in sacred art may supersede historical accuracy to convey metaphysical or ideological truths.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 28,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "events depicted in relief... were certainly iconic rather than historically factual.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "truth",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0015",
+    "canonical_statement": "Artistic representation functions as a projection of an idealized ontological state where perfection is the norm.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 29,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "an ideal world is represented in which all are beautiful and everything goes well",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "idealism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0016",
+    "canonical_statement": "The present temporal state is perceived as a degraded reflection of a superior, idealized past.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 29,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "awareness of an ideal past that the present could only aspire to emulate",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0017",
+    "canonical_statement": "The structure of creation is organized into distinct, classified categories.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 30,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "canonical lists that classified the categories of creation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "creation",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0018",
+    "canonical_statement": "The monarch functions as the metaphysical agent responsible for maintaining and restoring cosmic order.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 36,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "king is the re-creator of the order of the world and the guarantor of stability",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sovereignty",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0019",
+    "canonical_statement": "Human actions, particularly those of a ruler, are teleologically oriented toward divine service rather than human welfare.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 36,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "goal of his action is to serve not humanity but the gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0020",
+    "canonical_statement": "Historical records function as ritualized narratives rather than objective accounts of events.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 37,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "History is as much a ritual as a process of events.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "history",
+      "perception",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0021",
+    "canonical_statement": "Temporal events are subject to divine retribution based on moral conduct.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 37,
+        "chapter": "ChAPTER 1",
+        "surface_quote": "bad end that would befall... kings as divine retribution for their wicked actions.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "morality",
+      "divinity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0022",
+    "canonical_statement": "The monarch functions as a terrestrial manifestation of a divine entity.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 47,
+        "chapter": "ChAPTER 2",
+        "surface_quote": "reigning king as the manifestation of an aspect of the god Horus",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "kingship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0023",
+    "canonical_statement": "Human beings can undergo a transition from mortal status to divine status through historical deification.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 54,
+        "chapter": "ChAPTER 2",
+        "surface_quote": "The only Egyptian mortal... to attain the honour of total deification.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0024",
+    "canonical_statement": "Dreams serve as a medium for the transmission of knowledge from divine entities to human consciousness.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 54,
+        "chapter": "ChAPTER 2",
+        "surface_quote": "Sufferers who prayed and slept there with the conviction that the god would reveal remedies.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0025",
+    "canonical_statement": "Architectural forms can function as symbolic representations of cosmic creation.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 57,
+        "chapter": "ChAPTER 3",
+        "surface_quote": "resulting profile may reproduce a solar symbol of creation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "creation",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0026",
+    "canonical_statement": "The monarch functions as the earthly manifestation or biological descendant of the solar deity.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 59,
+        "chapter": "ChAPTER 3",
+        "surface_quote": "Kings of the 4th dynasty identified themselves... as Son of Re.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology",
+      "kingship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0027",
+    "canonical_statement": "The afterlife requires the provision of material or symbolic sustenance.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 62,
+        "chapter": "ChAPTER 3",
+        "surface_quote": "religious scenes relating to provision for Sahure in the next life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0028",
+    "canonical_statement": "Historical representation in funerary art functions as a symbolic program rather than a literal record of events.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 62,
+        "chapter": "ChAPTER 3",
+        "surface_quote": "these scenes may not refer to specific events",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "representation",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0029",
+    "canonical_statement": "The transition of the deceased into the afterlife is a precarious process requiring ritual intervention.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 64,
+        "chapter": "ChAPTER 3",
+        "surface_quote": "passage into the next world: it was an undertaking that aroused anxiety",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0030",
+    "canonical_statement": "The afterlife is a distinct state of existence that necessitates specific metaphysical preparation.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 64,
+        "chapter": "ChAPTER 3",
+        "surface_quote": "spells intended to aid the deceased in the hereafter",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0031",
+    "canonical_statement": "The afterlife status of an individual is not inherently restricted to royalty but can be acquired by non-royal persons through ritual identification with divine archetypes.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 69,
+        "chapter": "ChAPTER 3",
+        "surface_quote": "Nonroyal individuals took over some of the privileges of royalty, notably identification with Osiris.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0032",
+    "canonical_statement": "The afterlife is a transitional state requiring navigation through trials and perils.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 82,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "king had to undergo trials and surmount perils in the nether regions.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0033",
+    "canonical_statement": "Material objects and ritual texts facilitate the soul's progression through the afterlife.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 82,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "magical texts designed to help him on his journey through the nether regions.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0034",
+    "canonical_statement": "The ka represents a transcendent aspect of the individual identity.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 91,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "the king’s ka, which represented the transcendent aspect of kingship.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0035",
+    "canonical_statement": "Statues can function as metaphysical intermediaries between human supplicants and divine entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 91,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "statues... were placed to act as intermediaries between supplicants and the gods.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "mediation",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0036",
+    "canonical_statement": "The monarch serves as the exclusive intermediary between the divine source and the material world.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 92,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "The Aton was said to be his father, of whom he alone had knowledge.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0037",
+    "canonical_statement": "The divine essence is non-anthropomorphic and functions as the singular source of life-force.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 92,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "The Aton was depicted not in anthropomorphic form but as a solar disk.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "nature of god"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0038",
+    "canonical_statement": "The manifestation of the divine requires an open, unobstructed environment rather than a concealed or enclosed space.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 92,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "Worship of the Aton in an open-air sanctuary superseded that of Amon.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sacred space",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0039",
+    "canonical_statement": "The sun is the primary source of life-sustaining power in the universe.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 93,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "the accent was upon the sun’s life-sustaining power",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0040",
+    "canonical_statement": "Cultural and social systems are integrated wholes where changing one component necessitates the transformation of the entire structure.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 94,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "in order to change one part, it was necessary to change the whole.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "holism",
+      "systemic-change"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0041",
+    "canonical_statement": "The monarch is ontologically transformed into a divine entity upon death.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 105,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "Ramses III was himself deified as a form of Amon-Re.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0042",
+    "canonical_statement": "Human agency is subordinate to divine will, rendering the future inherently unknowable and beyond individual control.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 108,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "tomorrow is in the hands of god",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "fatalism",
+      "divine-will",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0043",
+    "canonical_statement": "The divine nature is characterized by caprice, making its intentions inaccessible to human understanding.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 108,
+        "chapter": "ChAPTER 4",
+        "surface_quote": "the god may be capricious and that his wishes cannot be known",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0044",
+    "canonical_statement": "Divinity can be transferred or merged between distinct entities upon the transition of death.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 136,
+        "chapter": "ChAPTER 5",
+        "surface_quote": "the sacred Apis bull merged its divinity in some way with the god Osiris",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "death",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0045",
+    "canonical_statement": "The status of a deity or divine figure is socially constructed and maintained through institutional fictions.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 149,
+        "chapter": "ChAPTER 6",
+        "surface_quote": "religious stelae preserved the fiction that... the successor of a dead bull",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0046",
+    "canonical_statement": "Redemption is achieved through the acquisition of knowledge.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 157,
+        "chapter": "ChAPTER 6",
+        "surface_quote": "Gnostics, who believed in redemption through knowledge",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "gnosticism",
+      "redemption",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0047",
+    "canonical_statement": "The ultimate divine reality manifests simultaneously as a hidden transcendent principle, a visible celestial principle, and an immanent earthly principle.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 159,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Three are all gods: Amon, Re and Ptah... hidden... visible... immanent.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "monotheism",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0048",
+    "canonical_statement": "The monarch functions as an ontological bridge between the human realm and the divine realm.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 160,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "The king had a unique status between humanity and the gods.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0049",
+    "canonical_statement": "The afterlife is a structured state of existence requiring specific physical or ritual preparation.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 160,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "constructed great, religiously motivated funerary monuments for his afterlife.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0050",
+    "canonical_statement": "Divine entities possess the capacity to manifest in multiple, non-human, or hybrid forms.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 160,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Egyptian gods are renowned for their wide variety of forms.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature-of-being"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0051",
+    "canonical_statement": "The structure of the universe and divine activity are cyclical, mirroring the alternation of day and night.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 160,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "solar cycle modeled on the alternation of night and day.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0052",
+    "canonical_statement": "The cosmos is a finite structure of order that emerged from a primordial state of disorder and will eventually return to it.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 161,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "order had arisen and to which it would finally revert.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0053",
+    "canonical_statement": "The maintenance of cosmic order requires active, reciprocal engagement between human agents and divine forces.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 161,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "king as the protagonist... retain the benevolence of the gods in maintaining order",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "divinity",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0054",
+    "canonical_statement": "The manifestation of reality in the physical realm is a curated representation that may contrast with the underlying metaphysical state.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 161,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "official presentation... was positive... This implied contrast reaffirmed the fragile order.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "representation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0055",
+    "canonical_statement": "Official religious iconography functions as an idealized representation that systematically excludes the chaotic or negative aspects of human experience.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 163,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Official forms were idealizing, and the untoward... was excluded.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "religion",
+      "representation",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0056",
+    "canonical_statement": "The religious life of a population is not necessarily defined by the formal cultic structures or monuments produced by the elite.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 163,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "people’s lives were not dominated by religion... religious life did not focus on official cult",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "religion",
+      "sociology",
+      "belief"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0057",
+    "canonical_statement": "Religious knowledge and metaphysical truths are hierarchical and restricted to specific initiates.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 164,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Knowledge of some religious texts was reserved to initiates.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "hierarchy",
+      "esotericism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0058",
+    "canonical_statement": "Esoteric knowledge provides functional benefits to the soul in both the current life and the afterlife.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 164,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "initiates, who would benefit from them both in this life and in the next.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0059",
+    "canonical_statement": "The efficacy of magic is derived from the utilization of exotic and esoteric power.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 164,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Magic evoked the power of the exotic and esoteric.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "magic",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0060",
+    "canonical_statement": "Human ethical conduct is fundamentally linked to the maintenance of cosmic order and divine will.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 165,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "inextricable connections between proper conduct, the order of the world, and the gods.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0061",
+    "canonical_statement": "The monarch functions as the metaphysical mediator between the divine realm and human society.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 165,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "The king was the centre of human society, the guarantor of order for the gods.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "kingship",
+      "hierarchy",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0062",
+    "canonical_statement": "Individual existence and vitality are contingent upon divine bestowal mediated through the sovereign.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 165,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "recipient of god-given benefits including life itself.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0063",
+    "canonical_statement": "The monarch functions as an ontological bridge between the human realm and the divine realm.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 166,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "In his intermediate position between humanity and the gods",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "hierarchy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0064",
+    "canonical_statement": "Divinity can be acquired or perfected through the assumption of specific institutional offices.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 166,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "perfected through accession to his office",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0065",
+    "canonical_statement": "The human condition imposes inherent limitations on the attainment of absolute divinity.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 166,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "In death he aspired to full divinity but could not escape the human context.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0066",
+    "canonical_statement": "The cosmos is a finite structure created from pre-existent chaos that will eventually cease to exist.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 167,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "All living beings... would die at the end of time.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0067",
+    "canonical_statement": "The universe is characterized by a fundamental duality between ordered structure and inherent disorder.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 167,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "The ordered cosmos was surrounded by and shot through with disorder.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0068",
+    "canonical_statement": "Human agency and ritual action are necessary to maintain the stability of the cosmic order.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 167,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "The king’s role in maintaining order was cosmic and not merely social.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0069",
+    "canonical_statement": "Divine order is a reciprocal force that flows from the gods to humanity and must be returned to them.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 167,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "He returned to the gods the order that came from them.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "reciprocity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0070",
+    "canonical_statement": "Individual identity can transcend mortality through a process of deification.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 167,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Many nonroyal individuals as kings became deified after death.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0071",
+    "canonical_statement": "The cosmos is a bounded and finite structure subject to decay.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 168,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "the bounded and ultimately perishable cosmos",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmos",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0072",
+    "canonical_statement": "Divine beings are limited in power and knowledge, existing within the cosmic order.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 168,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "gods were neither all-powerful nor all-knowing",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0073",
+    "canonical_statement": "Reality is defined by an inherent order (maat) that separates existence from non-existence.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 168,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "did not know that which is not",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "order",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0074",
+    "canonical_statement": "Deities possess multiple manifestations and are symbolically represented by specific animal species.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 170,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Deities had principal manifestations, and most were associated with one or more species of animal.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "deity",
+      "symbolism",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0075",
+    "canonical_statement": "The ka is a vital essence transmitted across generations.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 170,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "the ka, which was the vital essence of a person that was transmitted",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "ka",
+      "heredity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0076",
+    "canonical_statement": "The ba is a component of the self that enables mobility and shape-shifting in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 170,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "the ba, which granted freedom of movement and the ability to take on different forms",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "ba",
+      "afterlife",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0077",
+    "canonical_statement": "Divine and human natures share common structural aspects of the self.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 170,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "These variable forms relate to aspects of the person that were common to gods and people.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "anthropology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0078",
+    "canonical_statement": "Numerical structures serve as fundamental organizational principles for divine entities and cosmic concepts.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 172,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "The number was significant in itself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "numerology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0079",
+    "canonical_statement": "The state of existence prior to creation is characterized by abstract, inchoate qualities.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 172,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "The Ogdoad embodied the inchoate world before creation.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0080",
+    "canonical_statement": "Divine groupings function as symbolic frameworks to synthesize existing religious and cosmological conceptions.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 172,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "The ennead brought together existing religious conceptions.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0081",
+    "canonical_statement": "Divine identity is fluid and capable of manifesting as composite entities without losing the individual existence of the constituent parts.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 173,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Two or more names of gods were often combined to form a composite identity.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0082",
+    "canonical_statement": "The manifestation of a deity can exist simultaneously as a singular entity and as an aspect of a larger, syncretic whole.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 173,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "these syncretisms expressed the idea of Amon in his aspect as Re.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0083",
+    "canonical_statement": "The solar cycle serves as a structural analogy for the processes of creation, maturity, decay, and regeneration within both individual life and the cosmos.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 174,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "cycle of the sun god... was an analogy for the creation, maturity, decay, and regeneration",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "cyclicality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0084",
+    "canonical_statement": "The divine realm is fundamentally inaccessible to humanity due to the inherent imperfection of the world.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 175,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "This myth provides an explanation for the world’s imperfection and the inaccessibility of the gods.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0085",
+    "canonical_statement": "Knowledge of a deity's true name grants power over the divine essence.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 175,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "he finally revealed to her the secret of his “true” name.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "language",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0086",
+    "canonical_statement": "Ritual interaction with divine images is structured to mirror the patterns of human biological life.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 175,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "cults centred on the daily tending and worship of an image... analogous to human life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ritual",
+      "theology",
+      "anthropomorphism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0087",
+    "canonical_statement": "The movement of celestial bodies is a manifestation of divine withdrawal and return.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 175,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "related to the winter retreat of the sun... and its return in the spring.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0088",
+    "canonical_statement": "The maintenance of the cosmos is a collaborative process requiring reciprocal interaction between humanity and divine entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 176,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "deities and humanity together sustained the cosmos.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "reciprocity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0089",
+    "canonical_statement": "Divine presence within a physical vessel is contingent upon the satisfaction of specific ritual or relational conditions.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 176,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "If the gods were not satisfied, they might cease to inhabit their images.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0090",
+    "canonical_statement": "Physical structures can function as microcosmic representations that mirror and reinforce the structural order of the macrocosm.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 176,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Temples were constructed as microcosms whose purity and wholeness symbolized the proper order.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "microcosm"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0091",
+    "canonical_statement": "Physical space can be architecturally structured to function as a symbolic stage for the interaction between divine and royal realms.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 177,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "cities were remodeled as vast cosmic stages for the enactment of royal-divine relations",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "ritual",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0092",
+    "canonical_statement": "Divine will or guidance can be manifested through the physical movement of sacred objects.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 177,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "response might be given by a forward or backward movement of the barque",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "communication",
+      "oracle"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0093",
+    "canonical_statement": "The divine can be petitioned to grant the existential quality of life to human beings.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 178,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "formula requesting that the deity represented should “give life” to the donor",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "existence",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0094",
+    "canonical_statement": "Human religious experience is fundamentally structured by the attempt to interpret and respond to unpredictable events and misfortune.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 180,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Much of religion concerned attempts to comprehend and respond to the unpredictable and",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0095",
+    "canonical_statement": "The deceased maintain an active influence over the living, capable of affecting them positively or negatively.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 181,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "The recently deceased might exert influence on the living for good or for bad.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0096",
+    "canonical_statement": "Ritual offerings are a mechanism for influencing the disposition of the deceased toward the living.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 181,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Offerings to the dead... were intended... to make them well disposed.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0097",
+    "canonical_statement": "The deceased maintain a proximity to the living and possess the capacity to influence or disturb them.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 182,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "the dead remained near the living and could return and disturb them.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0098",
+    "canonical_statement": "The afterlife is a competitive environment where new arrivals may displace existing inhabitants.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 182,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "newcomers who might oust the less recently dead.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0099",
+    "canonical_statement": "Magic is a primordial, foundational force of the universe, indistinguishable from religious practice.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 182,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Magic was a force present in the world from the beginning of creation.",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0100",
+    "canonical_statement": "The deceased maintain a functional role within the social structure of the living.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 183,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "the dead were an essential part of society",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "society",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0101",
+    "canonical_statement": "The survival of the consciousness in the afterlife is contingent upon the physical preservation of the body.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 183,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "the body must continue intact for the deceased to live in the next world",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "body",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0102",
+    "canonical_statement": "The afterlife is a distinct geographical or dimensional domain, traditionally associated with the west.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 183,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "the west, the domain of the dead",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "geography",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0103",
+    "canonical_statement": "The afterlife is a distinct ontological state that may be spatially located in various realms, including celestial, subterranean, or terrestrial proximity.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 184,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "The next world might be located... near the tomb... among the stars... or in the underworld.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cosmology",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0104",
+    "canonical_statement": "Post-mortem existence is subject to a moral evaluation process that determines the soul's continued participation in the ordered cosmos.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 184,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "One crucial test was the judgment after death... those who failed... would be cast outside the ordered cosmos.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "morality",
+      "judgment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0105",
+    "canonical_statement": "Failure to conform to cosmic order results in a final cessation of existence, described as a second death.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 184,
+        "chapter": "ChAPTER 7",
+        "surface_quote": "Those who failed the judgment would die a second time and would be cast outside the ordered cosmos.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0106",
+    "canonical_statement": "The emergence of writing signifies a shift in human consciousness toward perceiving time as a sequence of unique, discrete historical events.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 192,
+        "chapter": "ChAPTER 8",
+        "surface_quote": "The writing reflected a new attitude toward time and a view of history as unique events.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0107",
+    "canonical_statement": "The application of specific names and titles to individuals functions as a mechanism for the ontological expression of uniqueness and personal identity.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 192,
+        "chapter": "ChAPTER 8",
+        "surface_quote": "a further step toward expressing individuality and uniqueness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "individuality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0108",
+    "canonical_statement": "Symbolic representations possess an inherent ontological potency capable of affecting the deceased.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 194,
+        "chapter": "ChAPTER 8",
+        "surface_quote": "signs were avoided... for fear that the living beings represented... could harm the deceased",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "symbols",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0109",
+    "canonical_statement": "The origin of written language is attributed to divine agency.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 195,
+        "chapter": "ChAPTER 8",
+        "surface_quote": "theology traced the invention of hieroglyphic writing back to the god Thoth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "language",
+      "divinity",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0110",
+    "canonical_statement": "Hieroglyphic script is ontologically categorized as divine speech.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 195,
+        "chapter": "ChAPTER 8",
+        "surface_quote": "Egyptian texts referred to hieroglyphic inscriptions as writing of God’s words.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "language",
+      "sacred",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0111",
+    "canonical_statement": "Symbols possess an inherent metaphysical priority that transcends their linear reading order.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 195,
+        "chapter": "ChAPTER 8",
+        "surface_quote": "symbols... were regularly placed in front of other signs, even if read after",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0112",
+    "canonical_statement": "Knowledge transmission occurs through two distinct modes: rote memorization and the analytical understanding of foundational principles.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 199,
+        "chapter": "ChAPTER 8",
+        "surface_quote": "instruction... based on memorization... there was another tradition that transmitted knowledge of basic principles",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0113",
+    "canonical_statement": "The physical world is structured to reflect a static, divinely ordained primordial perfection.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 206,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "art aimed at the preservation of forms... reflecting the perfection of the world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0114",
+    "canonical_statement": "Human social and political hierarchies are manifestations of a divinely established cosmic order.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 206,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "embody the correct relationship between humankind, the king, and the pantheon",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0115",
+    "canonical_statement": "Artistic representation aims to depict the essential, known nature of an object rather than its transient, perspectival appearance.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 208,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "To render each part... from its most characteristic viewpoint... not simply what he could see.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology",
+      "art"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0116",
+    "canonical_statement": "The tomb functions as a necessary vessel for the preservation of the physical body to facilitate post-mortem existence.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 209,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "The tomb was a place... to ensure continued existence after death.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0117",
+    "canonical_statement": "Tombs and temples are conceptualized as eternal dwellings for the deceased and the divine.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 209,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "stone was generally used for tombs—the eternal dwellings of the dead—and for temples.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "divinity",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0118",
+    "canonical_statement": "The afterlife is a continuation or reflection of the individual's worldly existence and status.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 210,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "pursue magically an afterlife suitable and similar to his worldly existence",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0119",
+    "canonical_statement": "Specific ritual structures and physical preparations are necessary to facilitate the soul's transition to a celestial destiny.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 210,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "the tomb became the vehicle whereby he might achieve his exclusive destiny",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0120",
+    "canonical_statement": "Physical structures can serve as symbolic representations of the celestial vault.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 214,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "the barrel-shaped roof of which represents the vault of heaven.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0121",
+    "canonical_statement": "Post-mortem existence is contingent upon the provision of specific ritualistic funerary arrangements.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 215,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "distinction between royal and nonroyal tombs lies in the provision of funerary cult arrangements.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0122",
+    "canonical_statement": "The ontological status or post-mortem expectation of an individual is determined by their social hierarchy during life.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 215,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "king and commoner had quite different expectations.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0123",
+    "canonical_statement": "Posthumous existence requires physical or symbolic provisions to sustain the deceased.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 216,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "paintings of equipment for the afterlife and niches to hold carved representations",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0124",
+    "canonical_statement": "The status of the deceased in the afterlife is reflected in the architectural arrangement of their burial.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 216,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "groupings of the burials of nobles indicate the vicissitudes of nonroyal posthumous expectations",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0125",
+    "canonical_statement": "The physical structure of a tomb serves as a functional environment for the deceased in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 217,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "the milieu in which the dead owner might expect to spend his afterlife",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0126",
+    "canonical_statement": "The king achieves divine status in the afterlife by ritually assuming the identities of solar and underworld deities.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 223,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "king took on the personae of Re... and of Osiris... necessary for his divine afterlife.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0127",
+    "canonical_statement": "An object requires explicit symbolic identification to function as a representation of a specific individual.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 225,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "a statue could represent no one unless it carried an identification in hieroglyphs.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "representation",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0128",
+    "canonical_statement": "The primary function of funerary sculpture is to serve as a vessel for the individual's presence before divine entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 229,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "sculpture: to represent the individual in death before Osiris",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0129",
+    "canonical_statement": "Physical artifacts can function as metaphysical vehicles for sacred or ritualistic text.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 229,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "the statue was not only a physical representation but also a vehicle for appropriate texts",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0130",
+    "canonical_statement": "Representational art functions as a metaphysical mechanism to ensure the continuity of existence after death.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 230,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "decoration of tomb walls provided some certainty of the perpetuation of life",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ontology",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0131",
+    "canonical_statement": "Symbolic representation possesses the inherent power to sustain the efficacy of ritual actions.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 230,
+        "chapter": "ChAPTER 9",
+        "surface_quote": "mural decoration magically ensured the performance of important ceremonies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "magic",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0132",
+    "canonical_statement": "Secret wisdom can be transmitted across historical epochs through esoteric lineages.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 242,
+        "chapter": "ChAPTER 10",
+        "surface_quote": "members possess secret wisdom that was handed down to them from ancient times",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "esotericism",
+      "tradition",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0133",
+    "canonical_statement": "The ka is a distinct aspect of the human or divine entity capable of inhabiting a physical structure.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 259,
+        "chapter": "ChAPTER 10",
+        "surface_quote": "Hut-ka-Ptah, mansion of the ka of Ptah.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "egyptian-metaphysics",
+      "ka"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0134",
+    "canonical_statement": "Creation occurs through the manifestation of internal conceptualization via divine utterance.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 260,
+        "chapter": "ChAPTER 10",
+        "surface_quote": "Ptah created humans through the power of his heart and speech.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0135",
+    "canonical_statement": "Rigid categorical distinctions are often inadequate for describing the fluid nature of cultural and political realities.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 264,
+        "chapter": "ChAPTER 10",
+        "surface_quote": "distinctions, with their rigidity and exclusiveness, are meaningless in terms of Egyptian culture.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0136",
+    "canonical_statement": "Ritual inscriptions serve as a functional mechanism to ensure the continued existence and sustenance of the deceased in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 270,
+        "chapter": "ChAPTER 10",
+        "surface_quote": "Pyramid Texts, which were designed to protect the dead king and ensure him life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0137",
+    "canonical_statement": "Ritual texts and spells function as protective mechanisms for the soul in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 272,
+        "chapter": "ChAPTER 10",
+        "surface_quote": "Pyramid Texts... intended to protect royalty in the afterlife.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0138",
+    "canonical_statement": "Symbols can embody and represent metaphysical qualities such as growth and effectiveness.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 272,
+        "chapter": "ChAPTER 10",
+        "surface_quote": "scarab... associated with the qualities of development, growth, and effectiveness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_egypt_0139",
+    "canonical_statement": "Human cultures possess formal systems of belief regarding the continuity of existence after physical death.",
+    "attributions": [
+      {
+        "source_id": "ancient_egypt",
+        "chunk_index": 275,
+        "chapter": "ChAPTER 10",
+        "surface_quote": "afterlife, belief in",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  }
+]

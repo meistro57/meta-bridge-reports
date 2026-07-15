@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cl_mkultra_subproject_108_8144430_0001",
+    "canonical_statement": "The essential nature of reality is comprehensible through observation and reasoning.",
+    "attributions": [
+      {
+        "source_id": "mkultra_subproject_108_8144430",
+        "chunk_index": 18,
+        "chapter": "QUE DATE",
+        "surface_quote": "essential nature... observation... reasoning can be accomplished",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_mkultra_subproject_108_8144430_0002",
+    "canonical_statement": "Behavioral characteristics are merely labels and are subordinate to underlying essences.",
+    "attributions": [
+      {
+        "source_id": "mkultra_subproject_108_8144430",
+        "chunk_index": 18,
+        "chapter": "QUE DATE",
+        "surface_quote": "behavioral characteristics... are merely labels and are to be subordinated",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "essence",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_mkultra_subproject_108_8144430_0003",
+    "canonical_statement": "Scientific understanding and personal understanding share a common goal.",
+    "attributions": [
+      {
+        "source_id": "mkultra_subproject_108_8144430",
+        "chunk_index": 18,
+        "chapter": "QUE DATE",
+        "surface_quote": "Both work... same goal: the scientific understanding",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_mkultra_subproject_108_8144430_0004",
+    "canonical_statement": "Understanding the individual's personality is a valid path to understanding the whole.",
+    "attributions": [
+      {
+        "source_id": "mkultra_subproject_108_8144430",
+        "chunk_index": 18,
+        "chapter": "QUE DATE",
+        "surface_quote": "emphasizing the personality of the individual... goal through this",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "holism"
+    ],
+    "editorial_status": "auto"
+  }
+]

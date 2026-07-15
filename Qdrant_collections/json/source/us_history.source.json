@@ -1,0 +1,14 @@
+{
+  "id": "us_history",
+  "title": "U.S. History",
+  "author": "P. Scott Corbett, Jay Precht, Volker Janssen, John M. Lund, Todd Pfannestiel, Paul Vickery",
+  "medium": "",
+  "channel_type": "authored",
+  "tradition": "",
+  "year": 2021,
+  "region": "",
+  "ingested_at": "2026-07-13T18:19:32.584604901Z",
+  "chunk_count": 1521,
+  "claim_count": 62,
+  "source_path": "incoming/us-history.pdf"
+}

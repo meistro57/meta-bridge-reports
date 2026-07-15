@@ -1,0 +1,957 @@
+[
+  {
+    "id": "cl_chopin_awakening_0001",
+    "canonical_statement": "The human soul possesses an inherent capacity for inward contemplation and self-exploration.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "inviting the soul to wander... in mazes of inward contemplation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0002",
+    "canonical_statement": "The initial stage of individual ontological awakening is characterized by chaos and instability.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "beginning of... a world... is necessarily vague, tangled, chaotic",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0003",
+    "canonical_statement": "External natural forces can communicate directly with the human soul.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "The voice of the sea speaks to the soul",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0004",
+    "canonical_statement": "Human consciousness is characterized by a duality consisting of a conforming external existence and a questioning internal life.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "the dual life--that outward existence which conforms, the inward life which questions",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0005",
+    "canonical_statement": "Human unions often occur by chance rather than by predestined cosmic necessity.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "marriage... purely an accident... masquerade as the decrees of Fate",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "determinism",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0006",
+    "canonical_statement": "Destiny or Fate determines an individual's suitability for specific social or moral responsibilities.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "Fate had not fitted her",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "determinism",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0007",
+    "canonical_statement": "Human consciousness or identity persists in distinct existential planes after physical death.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "Monsieur Lebrun been removed to other spheres",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0008",
+    "canonical_statement": "Art can serve as a medium for the transmission of objective, abiding truth to the human being.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "her being was tempered to take an impress of the abiding truth",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "truth",
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0009",
+    "canonical_statement": "Certain aesthetic experiences bypass mental imagery to directly evoke raw emotional or spiritual states within the soul.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "saw no pictures... But the very passions themselves were aroused within her soul",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "perception",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0010",
+    "canonical_statement": "Non-physical entities exist and can interact with the material plane under specific temporal and celestial conditions.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "spirits abroad to-night... twenty-eighth of August... moon is shining",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "spirits",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0011",
+    "canonical_statement": "Certain entities possess the ability to elevate a mortal's consciousness into higher, semi-celestial dimensions.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "exalted for a few hours into realms of the semi-celestials",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "dimension",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0012",
+    "canonical_statement": "Consciousness or thought can exist independently of and precede the physical body in space or time.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "thoughts were elsewhere--somewhere in advance of her body",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0013",
+    "canonical_statement": "Human behavior is often governed by unconscious habit rather than conscious intent.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "yielded to his desire... unthinkingly, as we walk",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "behavior"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0014",
+    "canonical_statement": "Human consciousness experiences a transition from a state of illusory perception to a state of objective reality.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "awakens gradually out of a dream... to feel again the realities",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0015",
+    "canonical_statement": "The soul can be detached from individual agency and surrendered to external or unconscious direction.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 47,
+        "chapter": "General Content",
+        "surface_quote": "freed her soul of responsibility",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0016",
+    "canonical_statement": "The consciousness of the deceased persists as audible and visible entities within the physical environment.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 55,
+        "chapter": "General Content",
+        "surface_quote": "whispering voices of dead men... misty spirit forms were prowling",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0017",
+    "canonical_statement": "The individual possesses a mutable identity consisting of distinct temporal versions of the self.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 56,
+        "chapter": "General Content",
+        "surface_quote": "her present self-was in some way different from the other self",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0018",
+    "canonical_statement": "The present moment is the only domain of existential significance.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 64,
+        "chapter": "General Content",
+        "surface_quote": "The present alone was significant",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0019",
+    "canonical_statement": "The past possesses no inherent instructional or deterministic value for the individual.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 64,
+        "chapter": "General Content",
+        "surface_quote": "The past was nothing to her",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0020",
+    "canonical_statement": "The future is an impenetrable mystery.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 64,
+        "chapter": "General Content",
+        "surface_quote": "The future was a mystery",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0021",
+    "canonical_statement": "The core identity or essential self is distinct from the physical life or material assets of an individual.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 67,
+        "chapter": "General Content",
+        "surface_quote": "give my life... but I wouldn't give myself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0022",
+    "canonical_statement": "The external environment can serve as a mirror or catalyst for the discovery of the internal self.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 73,
+        "chapter": "General Content",
+        "surface_quote": "seeking herself and finding herself in such sweet, half-darkness",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0023",
+    "canonical_statement": "Complete interpersonal fusion of two distinct human identities is possible within the physical plane.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 79,
+        "chapter": "General Content",
+        "surface_quote": "fusion of two human beings into one... accomplished on this sphere",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "relationship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0024",
+    "canonical_statement": "Human beings maintain a socially constructed persona that obscures their authentic identity.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 81,
+        "chapter": "General Content",
+        "surface_quote": "fictitious self which we assume like a garment",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0025",
+    "canonical_statement": "Human consciousness is capable of experiencing a state of ontological unity with the physical environment.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "whole being seemed to be one with the sunlight",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "unity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0026",
+    "canonical_statement": "Human existence may be perceived as a chaotic process leading toward inevitable total destruction.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "humanity like worms struggling blindly toward inevitable annihilation",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "entropy",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0027",
+    "canonical_statement": "Certain innate capacities are prerequisite for artistic mastery and cannot be acquired through effort.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 89,
+        "chapter": "General Content",
+        "surface_quote": "gifts... which have not been acquired by one's own effort",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "capacity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0028",
+    "canonical_statement": "The soul possesses a quality of courage or defiance necessary for creative success.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 89,
+        "chapter": "General Content",
+        "surface_quote": "the artist must possess the courageous soul",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0029",
+    "canonical_statement": "Consciousness possesses an internal dimension that is typically hidden from external observation.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 100,
+        "chapter": "General Content",
+        "surface_quote": "inner life which so seldom unfolds itself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0030",
+    "canonical_statement": "Art possesses the capacity to liberate the human spirit.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 112,
+        "chapter": "General Content",
+        "surface_quote": "by her divine art, seemed to reach Edna's spirit and set it free",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "art",
+      "spirit",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0031",
+    "canonical_statement": "The human soul contains internal regions of darkness that can be illuminated by aesthetic experience.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 115,
+        "chapter": "General Content",
+        "surface_quote": "music... warming and brightening the dark places of her soul",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "perception",
+      "aesthetic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0032",
+    "canonical_statement": "Transcendence of societal norms and traditional constraints requires a specific internal strength or capacity.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 117,
+        "chapter": "General Content",
+        "surface_quote": "bird that would soar above... tradition... must have strong wings",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0033",
+    "canonical_statement": "Human existence is characterized by a fundamental duality of beauty and brutality.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 118,
+        "chapter": "General Content",
+        "surface_quote": "life, that monster made up of beauty and brutality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "nature of reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0034",
+    "canonical_statement": "Certain psychological states of despair or ennui can originate from an external, autonomous source independent of individual will.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 125,
+        "chapter": "General Content",
+        "surface_quote": "hopelessness... like something extraneous, independent of volition",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "volition",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0035",
+    "canonical_statement": "Interpersonal social bonds can manifest as a cohesive, quasi-spiritual energy connecting individuals.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 125,
+        "chapter": "General Content",
+        "surface_quote": "fellowship passed around the circle like a mystic cord",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "connection",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0036",
+    "canonical_statement": "Spiritual ascension is inversely correlated with social status.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 130,
+        "chapter": "General Content",
+        "surface_quote": "descended in the social scale... risen in the spiritual",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "social-status"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0037",
+    "canonical_statement": "The liberation from external obligations increases individual strength and expansion of consciousness.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 130,
+        "chapter": "General Content",
+        "surface_quote": "relieving herself from obligations added to her strength",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0038",
+    "canonical_statement": "True perception requires the transcendence of conventional social frameworks to apprehend the underlying nature of existence.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 130,
+        "chapter": "General Content",
+        "surface_quote": "look with her own eyes... apprehend the deeper undercurrents",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0039",
+    "canonical_statement": "The soul possesses a capacity for internal invitation or intuitive guidance.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 132,
+        "chapter": "General Content",
+        "surface_quote": "when her own soul had invited her",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0040",
+    "canonical_statement": "The human soul contains dormant or latent regions that can be activated by external stimuli.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 138,
+        "chapter": "General Content",
+        "surface_quote": "glance which had penetrated to the sleeping places of her soul",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0041",
+    "canonical_statement": "The individual may exist in a state of detachment where the perception of objective reality is suspended.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 144,
+        "chapter": "General Content",
+        "surface_quote": "all sense of reality had gone out of her life",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0042",
+    "canonical_statement": "Existence is governed by a deterministic force known as Fate.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 144,
+        "chapter": "General Content",
+        "surface_quote": "she had abandoned herself to Fate",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0043",
+    "canonical_statement": "Human encounters are governed by a designing providence.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 146,
+        "chapter": "General Content",
+        "surface_quote": "designing Providence had led him into her path",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "destiny",
+      "providence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0044",
+    "canonical_statement": "Human consciousness can exist in a state of dormant unawareness, described as a lifelong dream, prior to a transformative awakening.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 150,
+        "chapter": "General Content",
+        "surface_quote": "awoke me last summer out of a life-long, stupid dream",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0045",
+    "canonical_statement": "Human souls exist as a vast, continuous collective of individual entities entering and exiting existence.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 152,
+        "chapter": "General Content",
+        "surface_quote": "unnumbered multitude of souls that come and go",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0046",
+    "canonical_statement": "Youth is characterized by inherent illusions designed by nature to ensure biological reproduction.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 153,
+        "chapter": "General Content",
+        "surface_quote": "youth is given up to illusions... a decoy to secure mothers",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "nature",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0047",
+    "canonical_statement": "Biological nature operates independently of human moral frameworks or social constructs.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 153,
+        "chapter": "General Content",
+        "surface_quote": "Nature takes no account of moral consequences",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "nature",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0048",
+    "canonical_statement": "The individual possesses an autonomous internal essence that can be compromised or enslaved by external social or familial obligations.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 159,
+        "chapter": "General Content",
+        "surface_quote": "drag her into the soul's slavery",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_chopin_awakening_0049",
+    "canonical_statement": "The individual soul is an autonomous entity that cannot be possessed by others.",
+    "attributions": [
+      {
+        "source_id": "chopin_awakening",
+        "chunk_index": 161,
+        "chapter": "General Content",
+        "surface_quote": "they need not have thought that they could possess her",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  }
+]

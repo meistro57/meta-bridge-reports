@@ -1,0 +1,6069 @@
+[
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0001",
+    "canonical_statement": "Mythological systems originate from specific geographic locations.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 6,
+        "chapter": "CHAPTER IV.--BABYLONIAN MYTHOLOGY.",
+        "surface_quote": "Mythology local in origin.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mythology",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0002",
+    "canonical_statement": "The primordial state of existence is characterized by chaotic, undifferentiated matter or abyss.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 7,
+        "chapter": "CHAPTER V.--BABYLONIAN LEGEND OF THE CREATION.",
+        "surface_quote": "Description of chaos... Abyss or chaos.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0003",
+    "canonical_statement": "The manifestation of the universe involves the generation of divine entities from a primordial source.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 7,
+        "chapter": "CHAPTER V.--BABYLONIAN LEGEND OF THE CREATION.",
+        "surface_quote": "Generation of gods.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theogony",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0004",
+    "canonical_statement": "Human existence is defined by specific duties and the potential for moral transgression.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 7,
+        "chapter": "CHAPTER V.--BABYLONIAN LEGEND OF THE CREATION.",
+        "surface_quote": "Man... His duties... Fall... Curse for disobedience.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "humanity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0005",
+    "canonical_statement": "The divine realm is characterized by internal conflict and hierarchical governance.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 8,
+        "chapter": "CHAPTER VI.--OTHER BABYLONIAN ACCOUNTS OF THE   CREATION.",
+        "surface_quote": "War in heaven.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0006",
+    "canonical_statement": "Divine beings possess the capacity to undergo transfiguration or assume animal forms.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 8,
+        "chapter": "CHAPTER VI.--OTHER BABYLONIAN ACCOUNTS OF THE   CREATION.",
+        "surface_quote": "Changes to a bird.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "transformation",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0007",
+    "canonical_statement": "The creation of the world is subject to multiple, varying traditional accounts.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 8,
+        "chapter": "CHAPTER VI.--OTHER BABYLONIAN ACCOUNTS OF THE   CREATION.",
+        "surface_quote": "Variations of story.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "tradition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0008",
+    "canonical_statement": "Divine entities possess the capacity to manifest and control large-scale biological catastrophes.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 9,
+        "chapter": "CHAPTER VIII.--THE EXPLOITS OF LUBARA.",
+        "surface_quote": "Lubara.--God of Pestilence.--The Plague.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "pestilence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0009",
+    "canonical_statement": "Human suffering and societal destruction are contingent upon the moral status of the population relative to divine will.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 9,
+        "chapter": "CHAPTER VIII.--THE EXPLOITS OF LUBARA.",
+        "surface_quote": "Sin and destruction of Babylonians.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "morality",
+      "theodicy",
+      "divine-judgment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0010",
+    "canonical_statement": "Ritualized prayer and worship serve as mechanisms to influence or mitigate divine destructive actions.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 9,
+        "chapter": "CHAPTER VIII.--THE EXPLOITS OF LUBARA.",
+        "surface_quote": "Prayer to arrest the Plague.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "agency",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0011",
+    "canonical_statement": "The afterlife is structured as a series of seven distinct gates or thresholds.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 14,
+        "chapter": "CHAPTER XIV.--THE ADVENTURES OF ISHTAR.",
+        "surface_quote": "Ishtar's descent to Hades... The seven gates.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0012",
+    "canonical_statement": "Divine entities possess the capacity to traverse between celestial and subterranean realms.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 14,
+        "chapter": "CHAPTER XIV.--THE ADVENTURES OF ISHTAR.",
+        "surface_quote": "Ascends to Heaven... Her descent to Hades.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0013",
+    "canonical_statement": "The human soul or consciousness can undergo a process of resurrection or post-mortem restoration.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 15,
+        "chapter": "CHAPTER XV.--ILLNESS AND WANDERINGS OF IZDUBAR.",
+        "surface_quote": "Resurrection of Heabani.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "resurrection",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0014",
+    "canonical_statement": "Divine entities possess the capacity to grant immortality or translation to human beings.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 15,
+        "chapter": "CHAPTER XV.--ILLNESS AND WANDERINGS OF IZDUBAR.",
+        "surface_quote": "Translation of Hasisadra.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "immortality",
+      "translation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0015",
+    "canonical_statement": "Human suffering and illness are subject to divine intervention or cure.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 15,
+        "chapter": "CHAPTER XV.--ILLNESS AND WANDERINGS OF IZDUBAR.",
+        "surface_quote": "Cure of Izdubar.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "healing",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0016",
+    "canonical_statement": "The state of the universe prior to creation is characterized by chaos and formless confusion.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 27,
+        "chapter": "CHAPTER I.",
+        "surface_quote": "The narrative... commences with a description of the period before the world was created, when there existed a chaos.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0017",
+    "canonical_statement": "The origin of evil is linked to the rebellion and fall of celestial beings.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 27,
+        "chapter": "CHAPTER I.",
+        "surface_quote": "We are told, in the inscriptions, of the fall of the celestial being who appears to correspond to Satan.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evil",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0018",
+    "canonical_statement": "The physical universe is the result of a deliberate, staged creative process by divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 28,
+        "chapter": "CHAPTER I.",
+        "surface_quote": "the gods in due course creating the universe in stages",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0019",
+    "canonical_statement": "Humanity was originally created in a state of moral perfection and endowed with the capacity for language.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 28,
+        "chapter": "CHAPTER I.",
+        "surface_quote": "man, who is made upright and free from evil, and endowed... with speech.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "humanity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0020",
+    "canonical_statement": "The current state of human suffering is the result of a primordial fall from an initial state of grace.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 28,
+        "chapter": "CHAPTER I.",
+        "surface_quote": "man, yielding to temptation, falls; and the Deity then pronounces upon him a terrible curse",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "fall",
+      "suffering",
+      "theodicy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0021",
+    "canonical_statement": "Cultural traditions undergo iterative transformation and modification over time before being codified into written form.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 36,
+        "chapter": "CHAPTER II.",
+        "surface_quote": "legends... had existed as traditions... showing that they had passed through many changes.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "tradition",
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0022",
+    "canonical_statement": "Natural phenomena function as semiotic indicators of future temporal events.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 40,
+        "chapter": "CHAPTER II.",
+        "surface_quote": "everything in nature is supposed to portend some coming event.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "nature",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0023",
+    "canonical_statement": "Human history and the records of the cosmos extend across a vast, multi-myriad year duration.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 42,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "written accounts... comprehending a period of above fifteen myriads of years",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0024",
+    "canonical_statement": "The primordial state of the universe consisted of darkness and an abyss of waters.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 43,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "There was a time in which there existed nothing but darkness and an abyss.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0025",
+    "canonical_statement": "Initial life forms were manifestations of a dualistic or two-fold principle.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 43,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "hideous beings, which were produced of a two-fold principle.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0026",
+    "canonical_statement": "Humanity's civil and intellectual foundations were introduced by external, amphibious rational beings.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 43,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "an animal endowed with reason... gave them an insight into letters and sciences.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "civilization",
+      "intelligence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0027",
+    "canonical_statement": "The material universe is formed through the division and transformation of a primordial, unified entity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 44,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "Belus came, and cut the woman asunder, and of one half he formed the earth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0028",
+    "canonical_statement": "Human rationality and consciousness are derived from the infusion of divine essence into material form.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 44,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "from thence formed men. On this account it is that they are rational.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "anthropology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0029",
+    "canonical_statement": "The transition from chaos to an ordered universe requires the separation of light from darkness and the establishment of celestial structures.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 44,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "Belus... divided the darkness, and separated the heavens from the earth, and reduced the universe to order.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0030",
+    "canonical_statement": "Biological life forms are contingent upon their ability to adapt to the environmental conditions of the ordered universe.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 44,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "the animals, not being able to bear the prevalence of light, died.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "nature",
+      "adaptation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0031",
+    "canonical_statement": "The divine realm maintains an active, communicative relationship with humanity through visionary intervention.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 45,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "The deity Cronos appeared to him in a vision, and warned him",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "communication"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0032",
+    "canonical_statement": "Human existence is subject to cyclical destruction and renewal orchestrated by divine will.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 45,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "there would be a flood, by which mankind would be destroyed",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "cycles"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0033",
+    "canonical_statement": "The ultimate destination of the soul or human consciousness is union with the divine.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 45,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "Having asked the Deity whither he was to sail, he was answered, 'To the Gods'",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0034",
+    "canonical_statement": "Human beings can undergo a transition from a mortal state to a divine state of existence through the cultivation of piety.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 46,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "it was upon account of his piety that he was translated to live with the gods",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "transcendence",
+      "divinity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0035",
+    "canonical_statement": "Consciousness can persist and communicate with the physical world after the physical body has been translated to a higher plane.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 46,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "they could distinguish his voice in the air",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "post-mortem",
+      "communication"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0036",
+    "canonical_statement": "Human history and civilization are guided by divine ordinances and the recovery of sacred knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 46,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "as it was ordained, search for the writings at Sippara",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "knowledge",
+      "civilization"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0037",
+    "canonical_statement": "Political authority and leadership are divinely ordained and sanctioned by a supreme deity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 47,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "God had appointed him to be the shepherd of the people",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "authority",
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0038",
+    "canonical_statement": "Divine beings or semi-demons periodically emerge from the sea to interact with human civilization.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 48,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "came up from the sea a second Annedotus, a semi-demon",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mythology",
+      "divinity",
+      "intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0039",
+    "canonical_statement": "Human beings can be translated by divine entities into a higher state of existence.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 48,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "the gods translated him from among men",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "transcendence",
+      "afterlife",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0040",
+    "canonical_statement": "Divine entities possess foreknowledge of catastrophic natural events.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 48,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "the deity Cronos foretold that... there would be a deluge",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "divinity",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0041",
+    "canonical_statement": "The diversity of human languages is a divine intervention intended to disrupt human collective ambition.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 49,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "God confounded their design and gave to each tribe a particular language.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divine-intervention",
+      "language",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0042",
+    "canonical_statement": "Human migration and settlement patterns are governed by divine guidance or providential direction.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 49,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "Each settling in such situations as chance or the direction of God led them.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "providence",
+      "geography",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0043",
+    "canonical_statement": "The physical realm is subject to catastrophic divine interventions that reset human progress.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 49,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "God sending forth a whirlwind confounded their design.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "catastrophe",
+      "divine-will",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0044",
+    "canonical_statement": "The universe originates from a duality of primordial principles.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 50,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "they constitute two, Tauthe and Apason",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0045",
+    "canonical_statement": "The intelligible world is a derivative manifestation of primordial principles.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 50,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "Moymis, which I conceive is no other than the intelligible world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "intelligible-world"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0046",
+    "canonical_statement": "The physical world is constructed by a secondary creative entity or demiurge.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 50,
+        "chapter": "CHAPTER III.",
+        "surface_quote": "Belus, who, they say, is the fabricator of the world, the Demiurgus.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "demiurge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0047",
+    "canonical_statement": "Theological systems are historically constructed by synthesizing originally localized, independent deity cults into a unified hierarchy.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 51,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "Babylonian mythology was local in origin; each of the gods had a particular city.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "history",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0048",
+    "canonical_statement": "The perceived hierarchy and attributes of divine entities are projections of human political and social structures.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 52,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "Political changes in early times led to the rise and fall of various cities.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sociology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0049",
+    "canonical_statement": "Divine status is historically contingent and subject to the shifting fortunes of human geopolitical entities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 52,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "Subsequent changes led to the decline of these cities, but their deities still retained position.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0050",
+    "canonical_statement": "The relationship between deities is modeled on human kinship and lineage structures.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 52,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "Colonies considered their gods to be sons of the gods of the mother cities.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "kinship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0051",
+    "canonical_statement": "The universe originates from a primordial state of chaos.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 53,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "These forms are said to have sprung out of the original chaos.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0052",
+    "canonical_statement": "The fundamental nature of reality is a duality of male and female principles.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 53,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "Anu represents abstract divinity... Anatu being the female principle or wife of Anu.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0053",
+    "canonical_statement": "The universe is structured as a hierarchical manifestation of a singular divine principle.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 53,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "Anu represents abstract divinity... he represents the universe as the upper and lower regions.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "structure",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0054",
+    "canonical_statement": "Heaven and earth are distinct manifestations of a singular primordial essence.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 53,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "The upper region or heaven was called Anu, while the lower region or earth was called Anatu.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0055",
+    "canonical_statement": "Divine entities are conceptualized as personified forces governing specific atmospheric and elemental phenomena.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 54,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "Vul is god of the region of the atmosphere... god of rain, of storms.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0056",
+    "canonical_statement": "The evolution of religious worship reflects a shift from abstract celestial principles to sensual or anthropomorphic manifestations.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 54,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "in time a more sensual view prevailed, and the worship of Istar became one of the darkest features.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0057",
+    "canonical_statement": "Celestial bodies are identified as physical manifestations or avatars of specific divine archetypes.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 54,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "The planet Venus, as the evening star, was identified with the Ishtar of Erech.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0058",
+    "canonical_statement": "The divine hierarchy is subject to historical reordering based on the political prominence of the deity's associated city.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 55,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "after Babylon had been made the capital, Merodach... was raised to the head of the Pantheon.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "hierarchy",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0059",
+    "canonical_statement": "The creative process is mediated by a subordinate agent who executes the will of a primary progenitor deity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 55,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "Merodach... appears... as the agent of his father Hea; he receives commissions.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0060",
+    "canonical_statement": "The abyss or lower regions serve as the foundational substrate for generation and wisdom.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 55,
+        "chapter": "CHAPTER IV.",
+        "surface_quote": "Hea is god of the sea and of Hades... lord of generation... lord of wisdom.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0061",
+    "canonical_statement": "The primordial state of existence is an undifferentiated, chaotic watery abyss.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 58,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "The chaos (or water) Tiamat (the sea) was the producing-mother of the whole of them.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "origin",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0062",
+    "canonical_statement": "The manifestation of gods and the establishment of order are subsequent to the primordial chaotic state.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 58,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "When the gods had not sprung up... and order did not exist",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "deity",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0063",
+    "canonical_statement": "The primordial state of existence is a chaotic, undifferentiated watery void.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 59,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "the sea was the origin of all things",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "substrate",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0064",
+    "canonical_statement": "The manifestation of the universe proceeds from a state of formless chaos through a process of divine generation.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 59,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "the first movement of creation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0065",
+    "canonical_statement": "Divine beings are generated or brought into existence through a sequential process.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 59,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "the great gods... they caused to come",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0066",
+    "canonical_statement": "The universe originated from a primordial, undifferentiated state of watery chaos.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 60,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "a watery chaos preceded the creation, and formed the origin and groundwork of the universe.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0067",
+    "canonical_statement": "The creative process involves the emergence of dualistic principles representing motion and production.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 60,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "Lahma or Lahmu, and Lahama or Lahamu; these are male and female personifications of motion.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0068",
+    "canonical_statement": "The structure of the universe is defined by the differentiation of upper and lower expanses.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 60,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "Sar or Ilsar, and Kisar, representing the upper expanse and the lower expanse.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0069",
+    "canonical_statement": "The manifest universe is governed by a tripartite division of heaven, earth, and sea.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 60,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "Anu represents the heaven, Elu the earth, and Hea the sea.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0070",
+    "canonical_statement": "The universe is generated through the interaction of complementary male and female principles.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 61,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "In each case there appears to be a male and female principle, which principles combine.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0071",
+    "canonical_statement": "The material world is fashioned through a series of successive creative acts.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 61,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "successive acts of creation by which the world was fashioned.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0072",
+    "canonical_statement": "The structure of the cosmos and the movement of celestial bodies are determined by divine agency.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 62,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "It was delightful, all that was fixed by the great gods.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0073",
+    "canonical_statement": "Celestial bodies serve as temporal markers to regulate the passage of time.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 62,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "To fix the year through the observation of their constellations.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "astronomy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0074",
+    "canonical_statement": "The physical universe is organized to maintain order and prevent chaotic interference.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 62,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "That they may not do injury, and may not trouble any one.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "order",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0075",
+    "canonical_statement": "The material world is derived from a primordial state of chaos.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 62,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "In its mass (i.e. the lower chaos) he made a boiling.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0076",
+    "canonical_statement": "The physical universe is structured through the deliberate appointment and regulation of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 63,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "shows a marked stage in the Creation, the appointment of the heavenly orbs.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0077",
+    "canonical_statement": "The temporal and physical order of the universe is established by divine decree.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 63,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "God said, Let there be lights... to divide the day from the night.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0078",
+    "canonical_statement": "The celestial bodies function as semiotic indicators of terrestrial events.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 64,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "heavenly bodies gave, by their appearance and positions, signs of events",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "astrology",
+      "divination",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0079",
+    "canonical_statement": "Creative acts are inherently subject to an evaluative judgment of satisfaction or goodness.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 64,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "previous creations were delightful, or satisfactory",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0080",
+    "canonical_statement": "The physical world is constructed from and supported by a primordial chaotic abyss.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 65,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "the world was drawn together out of the waters, and rested upon a vast abyss",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0081",
+    "canonical_statement": "Celestial bodies are brought into existence through the deliberate manipulation of primordial chaotic forces by a deity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 65,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "drawing aside the gates of this abyss... arose the moon like a giant bubble",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0082",
+    "canonical_statement": "The sun functions as a moral and structural regulator of the world through its orbital regularity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 65,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "the sun... its regularity of its orbit, which led to its being considered the type of a judge",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0083",
+    "canonical_statement": "The physical world and its living inhabitants are the result of deliberate creation by divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 66,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "When the gods in their assembly had created... they caused to be living creatures.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "theology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0084",
+    "canonical_statement": "Divine beings function as an assembly or collective to manifest biological life.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 66,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "When the gods in their assembly had created",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0085",
+    "canonical_statement": "The creation of the human race is an act performed by a divine entity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 67,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "the creation of the human race is given to Hea",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0086",
+    "canonical_statement": "Human beings are obligated to maintain a ritualistic and reverent relationship with the divine.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 67,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "Every day thy god thou shalt approach",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "worship",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0087",
+    "canonical_statement": "Human existence is defined by the necessity of fearing and honoring both god and angelic beings.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 67,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "the fear of the angels thou shalt live in",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0088",
+    "canonical_statement": "Humanity was created by divine agency specifically to experience fear of the gods.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 69,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "to fear them he made man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0089",
+    "canonical_statement": "The breath of life is a distinct component of human existence imparted by divine action.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 69,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "the breath of life was in him",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "life",
+      "soul",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0090",
+    "canonical_statement": "Divine entities possess the capacity to intervene in the physical world to remove moral or spiritual corruption.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 69,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "who with his noble charms removes the evil curse",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "morality",
+      "intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0091",
+    "canonical_statement": "Multiple divine titles or manifestations may refer to a single underlying deity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 69,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "divine titles... all apply to the same deity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0092",
+    "canonical_statement": "Humanity is ontologically dependent upon and subject to the direct oversight of divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 70,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "newly created man, who was supposed to be under the especial care of the deities",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "creation",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0093",
+    "canonical_statement": "Divine displeasure or curse can fundamentally alter the efficacy of human will and physical well-being.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 70,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "his desire shall be cut off, and his will be unanswered",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "causality",
+      "divine-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0094",
+    "canonical_statement": "The purity of a created being is a condition that can be corrupted, triggering divine reaction.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 70,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "because his man had corrupted his purity",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "purity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0095",
+    "canonical_statement": "Humanity is categorized into distinct ontological lineages, specifically a dark race and a light race.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 71,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "Babylonians recognized two principal races: the Adamu, or dark race, and the Sarku, or light race.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "humanity",
+      "ontology",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0096",
+    "canonical_statement": "The primordial state of humanity is characterized by inherent purity, which is subsequently lost through a fall.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 71,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "The tablet... leaves him in a state of purity, and... man has already fallen.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "fall",
+      "purity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0097",
+    "canonical_statement": "The term 'Adam' functions as a collective designation for the human species rather than an individual proper name.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 71,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "Adam is evidently not a proper name, but is only used as a term for mankind.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0098",
+    "canonical_statement": "The moral degradation of humanity is facilitated by the intermingling of distinct ontological races.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 71,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "Sons of God intermarried with the race of Adam, and thus spread the evils.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "morality",
+      "lineage",
+      "corruption"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0099",
+    "canonical_statement": "Chaos exists as a self-existent, eternal, and primordial substrate preceding the manifestation of deities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 72,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "chaos... existed before the creation of the universe... self-existent and eternal",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "substrate",
+      "origins"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0100",
+    "canonical_statement": "The creation of the universe is initiated by the differentiation or separation of deities from a primordial chaotic principle.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 72,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "birth or separation of the deities out of this chaos was the first step",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0101",
+    "canonical_statement": "A fundamental duality exists between the principle of divine order and the principle of primordial chaos.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 72,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "spirit of chaos and disorder, a spirit opposed in principle to the gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0102",
+    "canonical_statement": "The acquisition of forbidden knowledge is a primary cause for the existential decline or fall of humanity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 73,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "thirst for knowledge having been a cause of man's fall",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "humanity",
+      "fall",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0103",
+    "canonical_statement": "The Tree of Life functions as a sacred, guarded emblem representing divine existence or immortality.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 73,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "the Tree of Life... corresponds to the sacred grove of Anu",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "symbolism",
+      "immortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0104",
+    "canonical_statement": "Mythological narratives across disparate cultures share a common underlying metaphysical structure regarding the origin of human transgression.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 74,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "the same idea runs through both narratives",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mythology",
+      "archetype",
+      "transgression"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0105",
+    "canonical_statement": "Symbolic representations in ancient iconography are intentional carriers of specific metaphysical or historical events rather than arbitrary artistic choices.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 74,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "none of these figures were chance devices, but all represented events",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "ontology",
+      "representation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0106",
+    "canonical_statement": "The structure of the universe and the order of time are established through divine decree and cosmic conflict.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 76,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "days arranged, five... and establish the resting place of",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0107",
+    "canonical_statement": "The primordial state of existence is characterized by a chaotic, feminine sea-entity representing undifferentiated potential.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 77,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "Tiamat the female personification of the sea",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "primordial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0108",
+    "canonical_statement": "The ordering of the universe requires the violent subjugation of chaotic primordial forces by a divine agent.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 77,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "He made the sword to silence the dragon of the sea",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0109",
+    "canonical_statement": "Divine agency utilizes elemental forces and atmospheric phenomena as instruments of cosmic regulation.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 77,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "He brought out the winds he had created seven-of them",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "elements"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0110",
+    "canonical_statement": "The fundamental structure of the universe is defined by an inherent, primordial conflict between the principles of order and chaos.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 78,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "This war between the powers of good and evil, chaos and order",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0111",
+    "canonical_statement": "The manifestation of order requires the active subjugation or destruction of chaotic primordial forces.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 78,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "Bel or Merodach volunteers... to fight the dragon Tiamat.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "order",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0112",
+    "canonical_statement": "Mythological narratives regarding cosmic conflict and the origin of evil are archetypal and cross-culturally consistent.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 79,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "These fragments... agree... with the Biblical account, and show that... Babylonians believed in a similar story.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "mythology",
+      "archetype",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0113",
+    "canonical_statement": "The physical manifestation of beings and the state of the world precede the existence of written records or conceptual documentation.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 80,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "on a tablet nothing was then written, and there were not left the carcasses",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "time",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0114",
+    "canonical_statement": "The creation of sentient beings is an act performed by divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 80,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "these the great gods created",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0115",
+    "canonical_statement": "The physical world was intentionally constructed by divine entities to serve as a habitat for humanity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 81,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "in the earth the gods created for them a dwelling.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0116",
+    "canonical_statement": "Human vitality and life force are sustained or elevated by divine intervention.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 81,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "their life the mistress of the gods raised",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "life-force",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0117",
+    "canonical_statement": "The ruler lacks the inherent metaphysical or functional capacity to preserve the existence or well-being of the populace.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 82,
+        "chapter": "COLUMN II.",
+        "surface_quote": "the king, am not the preserver of his country, and the ruler is not the preserver",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0118",
+    "canonical_statement": "Human agency and the exercise of will are fundamentally linked to the manifestation of destruction and death.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 82,
+        "chapter": "COLUMN II.",
+        "surface_quote": "When I have done may corpses and waste be left",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "agency",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0119",
+    "canonical_statement": "The primordial state of the universe is characterized by the existence of composite, hybrid entities prior to the current order.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 83,
+        "chapter": "FRAGMENT OF COLUMN III.",
+        "surface_quote": "beings who were killed by the light, and those with men's heads and bird's bodies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0120",
+    "canonical_statement": "The stability and prosperity of a ruler's domain are contingent upon their adherence to divine instructions recorded in sacred texts.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 83,
+        "chapter": "FRAGMENT OF COLUMN III.",
+        "surface_quote": "to the words of this tablet listen... then may thy support be established",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0121",
+    "canonical_statement": "The universe contains antagonistic spiritual entities that operate within the lower celestial realms.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 84,
+        "chapter": "COLUMN I.",
+        "surface_quote": "In the first days the evil gods... in the lower part of heaven had been created.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0122",
+    "canonical_statement": "Celestial bodies and phenomena are manifestations of divine governance and order.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 84,
+        "chapter": "COLUMN I.",
+        "surface_quote": "Sin, Shamas, and Ishtar in the lower part of heaven to control it he appointed.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0123",
+    "canonical_statement": "The structure of the heavens is maintained through the active regulation of light and atmospheric forces.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 84,
+        "chapter": "COLUMN I.",
+        "surface_quote": "Day and night to be united and not to break apart, he urged them.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0124",
+    "canonical_statement": "The universe contains distinct classes of divine entities, including benevolent celestial rulers and malevolent spirits of destruction.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 85,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Seven of them the evil gods, spirits of death, having no fear.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0125",
+    "canonical_statement": "The celestial realm is subject to emotional distress and instability, requiring intervention from higher or external divine authorities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 85,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Sin who in heaven is greatly troubled.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0126",
+    "canonical_statement": "The structure of the universe includes a subterranean or oceanic domain that serves as a repository of wisdom and a source of divine counsel.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 85,
+        "chapter": "COLUMN II.",
+        "surface_quote": "To the god Hea in the ocean repeat.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0127",
+    "canonical_statement": "Malevolent spiritual entities possess the capacity to manifest in the physical world to disrupt natural order.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 85,
+        "chapter": "COLUMN II.",
+        "surface_quote": "From the midst of heaven like a wind to the earth they came down.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0128",
+    "canonical_statement": "Human misfortune is caused by the influence of malevolent spiritual entities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 86,
+        "chapter": "COLUMN II.",
+        "surface_quote": "evil spirits, to whom all misfortunes were attributed",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "spirituality",
+      "evil"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0129",
+    "canonical_statement": "Divine intervention is required to neutralize spiritual curses and malevolent influences.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 86,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Merodach, who goes about the world seeking to remove curses",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "intervention",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0130",
+    "canonical_statement": "Divinity is a categorical status designated by specific markers within the ontological hierarchy.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 87,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "Preceding the name is the determinative of divinity, from which I judge Zu to have been ranked among the gods.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0131",
+    "canonical_statement": "Divinity is an inherent quality associated with specific objects or regalia that can be transferred or stolen.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 89,
+        "chapter": "COLUMN II.",
+        "surface_quote": "The crown of his majesty, the clothing of his divinity, his umsimi, Zu stripped.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0132",
+    "canonical_statement": "The status and authority of divine beings are contingent upon the possession of specific symbolic artifacts.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 89,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Let me carry away the umsimi of the gods, may my throne be established.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "authority",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0133",
+    "canonical_statement": "The theft of divine attributes results in the degradation or destruction of the original divine state.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 89,
+        "chapter": "COLUMN II.",
+        "surface_quote": "divinity was destroyed in.",
+        "claim_type": "implied",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0134",
+    "canonical_statement": "Divine beings possess the capacity to alter their physical form into animal or elemental likenesses.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 91,
+        "chapter": "COLUMN III.",
+        "surface_quote": "to the likeness of a bird he changed",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metamorphosis",
+      "divinity",
+      "form"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0135",
+    "canonical_statement": "Individual volition and internal resolution are the primary drivers of divine action.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 91,
+        "chapter": "COLUMN III.",
+        "surface_quote": "In his own heart a resolution he made",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "volition",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0136",
+    "canonical_statement": "The status of a being within the divine hierarchy is contingent upon adherence to established cosmic order.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 91,
+        "chapter": "COLUMN III.",
+        "surface_quote": "Zu here mentioned whose sin is spoken of is never counted among the gods",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "ethics",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0137",
+    "canonical_statement": "Deities possess the capacity to undergo ontological transformation into animal forms.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 92,
+        "chapter": "COLUMN III.",
+        "surface_quote": "the god Sarturda changes into a Zu bird",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "deity",
+      "transformation",
+      "metamorphosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0138",
+    "canonical_statement": "Divine lineage and familial relationships between deities are fluid or subject to varying mythological traditions.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 92,
+        "chapter": "COLUMN III.",
+        "surface_quote": "Nebo is usually called son of Merodach, but in this inscription he is called son of Anu.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0139",
+    "canonical_statement": "Divinities possess the capacity to undergo morphological transformation into non-human animal forms.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 93,
+        "chapter": "COLUMN III.",
+        "surface_quote": "gods sometimes changing themselves into animals",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "metamorphosis",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0140",
+    "canonical_statement": "Pestilence and famine are manifestations of divine retribution for human moral transgression.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 94,
+        "chapter": "CHAPTER VIII.",
+        "surface_quote": "visitations from pestilence or famine being always supposed to be sent by",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0141",
+    "canonical_statement": "Divine will is the primary causal force governing the destruction and suffering of humanity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 95,
+        "chapter": "CHAPTER VIII.",
+        "surface_quote": "Anu commanding the slaughter.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "causality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0142",
+    "canonical_statement": "The collective will of the gods functions as a singular, unified metaphysical authority.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 95,
+        "chapter": "CHAPTER VIII.",
+        "surface_quote": "his will which was like the will of Anu",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0143",
+    "canonical_statement": "Human illness and suffering are manifestations of divine intervention or cosmic decree.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 95,
+        "chapter": "CHAPTER VIII.",
+        "surface_quote": "the illness which was on the body of the people he placed",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "suffering",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0144",
+    "canonical_statement": "Divine entities exercise agency through the orchestration of human conflict and destruction.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 96,
+        "chapter": "COLUMN I.",
+        "surface_quote": "To that city I send thee... thou destroyest the land",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency",
+      "war"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0145",
+    "canonical_statement": "Human suffering and societal collapse are manifestations of divine decree or punishment.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 96,
+        "chapter": "COLUMN I.",
+        "surface_quote": "punished by Anu and Dagon",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "justice",
+      "divinity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0146",
+    "canonical_statement": "The internal emotional states and resolutions of deities directly determine external reality.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 96,
+        "chapter": "COLUMN I.",
+        "surface_quote": "The great lord Merodach saw and angrily spoke, in his heart he resolved",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0147",
+    "canonical_statement": "Divine entities possess the capacity for emotional states such as anger and distress regarding human affairs.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 97,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Ishtar is angry and troubled over the city of Erech",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0148",
+    "canonical_statement": "The destruction of physical entities by divine agency is final and irreversible.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 97,
+        "chapter": "COLUMN II.",
+        "surface_quote": "The enemies whom thou destroyest do not return",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0149",
+    "canonical_statement": "Divine authority functions as a moral arbiter over human populations.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 97,
+        "chapter": "COLUMN II.",
+        "surface_quote": "I in my city Duran judge uprightly",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0150",
+    "canonical_statement": "Divine judgment or destruction is indifferent to the moral status of the individual.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 98,
+        "chapter": "COLUMN III.",
+        "surface_quote": "who sin against thee... who do not sin against thee",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "theology",
+      "morality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0151",
+    "canonical_statement": "Conflict and mutual destruction among entities are mechanisms that precede the expansion or restoration of a specific group.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 99,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "may they destroy each other, and afterwards may the people of Akkad increase",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "conflict",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0152",
+    "canonical_statement": "Divine entities possess the capacity to reduce human civilizations to ruins and displace local deities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 99,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "his cities to ruins and mounds thou dost reduce... the gods of the country strong thou removest",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0153",
+    "canonical_statement": "Divine wrath acts as a causal mechanism for natural disasters and mass mortality.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 100,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "deity or angel stands with a sword over the devoted people and sweeps them",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theodicy",
+      "divinity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0154",
+    "canonical_statement": "The ritual recitation of divine exploits provides metaphysical protection against adversity and death.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 100,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "Whoever my heroism shall recount, an adversary may he not meet.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ritual",
+      "protection",
+      "efficacy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0155",
+    "canonical_statement": "Human consciousness and perception are subject to divine intervention or opening.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 100,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "In the places of the people... my name they proclaim, their ears I open.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0156",
+    "canonical_statement": "Divine wrath is a causal mechanism for the manifestation of plague and social catastrophe.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 101,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "the plague is sent... that he might sheathe his sword of anger.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theodicy",
+      "causality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0157",
+    "canonical_statement": "Human moral failure, specifically the violation of justice by leadership, triggers divine retribution.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 101,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "the sin of the Babylonians arose from the chief priest... arming the troops",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ethics",
+      "karma",
+      "theodicy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0158",
+    "canonical_statement": "Ritual praise and prayer function as a technology to influence or mitigate the actions of divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 101,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "spread a song in honour of this deity... arresting it than to pray",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "theurgy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0159",
+    "canonical_statement": "The capacity for speech is not restricted to human beings but is a property shared by animals and elements of the natural world.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 102,
+        "chapter": "CHAPTER IX.",
+        "surface_quote": "each creature is endowed with the power of speech",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0160",
+    "canonical_statement": "The ontological status of a narrative is determined by the interpretive framework of the observer, ranging from literal belief to allegorical or dismissive perspectives.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 102,
+        "chapter": "CHAPTER IX.",
+        "surface_quote": "believed in by the devout... treated as allegories by the poets, and repudiated as fabulous",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0161",
+    "canonical_statement": "Deceased individuals exist as inhabitants of an infernal realm.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 103,
+        "chapter": "I. THE STORY OF THE EAGLE.",
+        "surface_quote": "Etana who is mentioned as already dead, and as being an inhabitant of the infernal regions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0162",
+    "canonical_statement": "Divine beings possess the authority to pronounce sentences and determine the fate of living creatures.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 103,
+        "chapter": "I. THE STORY OF THE EAGLE.",
+        "surface_quote": "the sentence which Shamas has pronounced on me",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0163",
+    "canonical_statement": "Divine entities exercise direct governance over human populations and cities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 104,
+        "chapter": "I. THE STORY OF THE EAGLE.",
+        "surface_quote": "the seven gods over the people they raised",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0164",
+    "canonical_statement": "Moral transgressions by non-human entities are subject to divine judgment and retribution.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 104,
+        "chapter": "I. THE STORY OF THE EAGLE.",
+        "surface_quote": "the serpent had committed some sin for which it was condemned",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "morality",
+      "divine-law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0165",
+    "canonical_statement": "The afterlife state is a continuation of existence where individuals retain their identity and status from their earthly life.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 105,
+        "chapter": "I. THE STORY OF THE EAGLE.",
+        "surface_quote": "Etana... one of the terrible monarchs who were inhabiting Hades.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0166",
+    "canonical_statement": "Human actions performed during physical life determine the nature of one's post-mortem existence.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 105,
+        "chapter": "I. THE STORY OF THE EAGLE.",
+        "surface_quote": "inhabiting Hades, probably on account of their deeds.",
+        "claim_type": "implied",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "causality",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0167",
+    "canonical_statement": "The cessation of life is governed by divine volition.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 106,
+        "chapter": "II. STORY OF THE FOX.",
+        "surface_quote": "again by his will is the destruction of life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "divinity",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0168",
+    "canonical_statement": "Individual agency is subordinate to a higher, firm command.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 106,
+        "chapter": "II. STORY OF THE FOX.",
+        "surface_quote": "in a firm command he set my feet",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "agency",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0169",
+    "canonical_statement": "The divine entity possesses the authority to decree the termination of a sentient being's existence.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 107,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "He had offended Shamas by some means and the god sentenced him to death",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "existence",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0170",
+    "canonical_statement": "The fate of a sentient being can be altered through the exercise of persuasive communication with the divine.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 107,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "a sentence which he escaped through powerful pleading on his own behalf",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "fate",
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0171",
+    "canonical_statement": "The natural state of animal existence is characterized by inherent sociality and mutual companionship.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 108,
+        "chapter": "III. FABLE OF THE HORSE AND OX.",
+        "surface_quote": "the tribes of beasts rejoiced in companionship and friendship",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "nature",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0172",
+    "canonical_statement": "Individual destiny and life conditions are determined by external forces or fate.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 108,
+        "chapter": "III. FABLE OF THE HORSE AND OX.",
+        "surface_quote": "fate",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "fate",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0173",
+    "canonical_statement": "Physical strength and the possession of power are inherently linked to negative consequences or suffering.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 109,
+        "chapter": "III. FABLE OF THE HORSE AND OX.",
+        "surface_quote": "strength carries a curse",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0174",
+    "canonical_statement": "Divine entities possess the authority and agency to impose collective suffering upon humanity as a consequence of moral transgression.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 111,
+        "chapter": "CHAPTER X.",
+        "surface_quote": "I am angry at the sin of the world... I will bring down disease.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "morality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0175",
+    "canonical_statement": "The physical environment and biological sustenance of humanity are subject to direct manipulation by divine will.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 111,
+        "chapter": "CHAPTER X.",
+        "surface_quote": "above let Vul drink up his rain, in their stomach let food be exhausted",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0176",
+    "canonical_statement": "Divine agency directly regulates the fertility of the earth and the availability of sustenance.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 112,
+        "chapter": "CHAPTER X.",
+        "surface_quote": "The instrument of punishment was apparently a famine from want of rain.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "nature",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0177",
+    "canonical_statement": "The physical environment is subject to the decrees and assemblies of divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 112,
+        "chapter": "CHAPTER X.",
+        "surface_quote": "Anu opened his mouth and spake... in the assembly of the great gods.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0178",
+    "canonical_statement": "Dreams are objective phenomena containing information that exists independently of the dreamer's conscious knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 113,
+        "chapter": "CHAPTER X.",
+        "surface_quote": "which thou knowest, but I do not know.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epistemology",
+      "dreams"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0179",
+    "canonical_statement": "The material world and natural elements are imbued with divine agency capable of interpreting hidden knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 113,
+        "chapter": "CHAPTER X.",
+        "surface_quote": "Judge, thou judgest, divine concerning this dream.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divination",
+      "nature",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0180",
+    "canonical_statement": "The divine entity possesses the authority to disrupt human collective intent and linguistic unity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 115,
+        "chapter": "COLUMN I.",
+        "surface_quote": "great he confounded their speech",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0181",
+    "canonical_statement": "Humanity's attempts to establish permanent structures or foundations are subject to divine destruction.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 115,
+        "chapter": "COLUMN I.",
+        "surface_quote": "to their strong place in the night entirely he made an end",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "divinity",
+      "impermanence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0182",
+    "canonical_statement": "Divine anger serves as a causal mechanism for the dissolution of human order.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 115,
+        "chapter": "COLUMN I.",
+        "surface_quote": "In his anger also word thus he poured out",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0183",
+    "canonical_statement": "Divine agency actively intervenes to dismantle human architectural efforts that challenge the established order.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 117,
+        "chapter": "REVERSE COLUMN III. OR V.",
+        "surface_quote": "what they built in the day the god destroyed in the night.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "intervention",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0184",
+    "canonical_statement": "Human transgression against divine will results in collective misfortune and grief.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 117,
+        "chapter": "REVERSE COLUMN III. OR V.",
+        "surface_quote": "the anger of the gods at the sin of the world.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "morality",
+      "divinity",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0185",
+    "canonical_statement": "Human beings can be elevated to the status of divinity through cultural or religious deification.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 120,
+        "chapter": "CHAPTER XI.",
+        "surface_quote": "Izdubar is mentioned... on a tablet containing prayers to him as a god.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0186",
+    "canonical_statement": "Distinguished human figures are traditionally understood to possess divine paternity despite having earthly mothers.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 127,
+        "chapter": "TABLET I.",
+        "surface_quote": "men who distinguished themselves... had divine fathers.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "ancestry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0187",
+    "canonical_statement": "The divine is conceptualized as a creator entity within the structure of the universe.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 131,
+        "chapter": "TABLET I.",
+        "surface_quote": "he is represented as one of the creators of the world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0188",
+    "canonical_statement": "Historical figures may be elevated to divine status through the process of deification.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 131,
+        "chapter": "TABLET I.",
+        "surface_quote": "the god Nergal was a deification of Nimrod",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "deification",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0189",
+    "canonical_statement": "Deification of historical figures is a distinct process from the original creation of supreme deities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 133,
+        "chapter": "TABLET I.",
+        "surface_quote": "in no case was a deified king invested as one of the supreme gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "deification",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0190",
+    "canonical_statement": "The gods represent the personification of natural forces within specific cosmic domains.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 133,
+        "chapter": "TABLET I.",
+        "surface_quote": "Bel was the deification of the powers of nature on earth",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "nature",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0191",
+    "canonical_statement": "Deification is a process that can occur following the death of a mortal individual.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 134,
+        "chapter": "TABLET I.",
+        "surface_quote": "Dumuzi... like her was afterwards deified.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "deification",
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0192",
+    "canonical_statement": "Divine entities possess the capacity to undergo physical transformation into non-human forms.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 134,
+        "chapter": "TABLET I.",
+        "surface_quote": "The gods of Erech Suburi turned to flies and fled away.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "metamorphosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0193",
+    "canonical_statement": "Divine entities are subject to the political and military fortunes of the cities they inhabit.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 135,
+        "chapter": "TABLET I.",
+        "surface_quote": "the goddess Istar before her enemies could not lift her head.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0194",
+    "canonical_statement": "The actions of deities are directly linked to the territorial sovereignty and protection of human populations.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 135,
+        "chapter": "TABLET I.",
+        "surface_quote": "my people? my hands have given.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0195",
+    "canonical_statement": "Individual identity is associated with specific divine patronage and regional origin.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 140,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "The deity of Izdubar was Sarturda, from which I suppose he was a native.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0196",
+    "canonical_statement": "Dreams function as symbolic portents of future events or individual destiny.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 141,
+        "chapter": "TABLET II.",
+        "surface_quote": "Thinking that the dream portended some fate to himself",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divination",
+      "time",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0197",
+    "canonical_statement": "Dreams serve as a medium for communicating significant metaphysical or prophetic information.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 142,
+        "chapter": "COLUMN III.",
+        "surface_quote": "a dream I dreamed in my sleep",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "dream",
+      "prophecy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0198",
+    "canonical_statement": "Certain beings possess inherent, extraordinary knowledge of nature and human affairs.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 142,
+        "chapter": "COLUMN III.",
+        "surface_quote": "supposed to possess wonderful knowledge both of nature and human affairs",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0199",
+    "canonical_statement": "Divine entities possess the authority to dictate the social and political elevation of individuals within the mortal realm.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 143,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "Shamas opened his mouth and spake... they shall array thee in trappings of divinity",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0200",
+    "canonical_statement": "The emotional state of an individual can be directly modulated by the reception of divine communication.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 143,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "Heabani heard the words of Shamas... and the anger of his heart was appeased",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0201",
+    "canonical_statement": "True wisdom encompasses both the manifest and the unmanifest aspects of reality.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 144,
+        "chapter": "TABLET III.",
+        "surface_quote": "the knowledge that is seen and that which is hidden",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0202",
+    "canonical_statement": "Divine entities possess the capacity to manifest physical beings through the manipulation of primordial seed or essence.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 145,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Aruru made a warrior, begotten of the seed of the soldier Ninip.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0203",
+    "canonical_statement": "Consciousness can exist in a state of primal integration with the natural world, blurring the distinction between human and animal.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 145,
+        "chapter": "COLUMN II.",
+        "surface_quote": "With the beasts of the field he consorted in the day.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "nature",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0204",
+    "canonical_statement": "Human beings possess a divine nature or ontological status comparable to deities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 147,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "Famous Heabani like a god art thou",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0205",
+    "canonical_statement": "The acquisition of worldly knowledge or social integration can cause the loss of innate, intuitive wisdom.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 147,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "the wisdom of his heart flew away and disappeared",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0206",
+    "canonical_statement": "Divine beings bestow intellectual capacity and understanding upon human individuals.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 148,
+        "chapter": "COLUMN V.",
+        "surface_quote": "the god Samas loves him and Hea have given intelligence to his ears",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "intelligence",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0207",
+    "canonical_statement": "Dreams serve as a medium for revealing future events or symbolic truths.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 148,
+        "chapter": "COLUMN V.",
+        "surface_quote": "Izdubar his dream revealed... he will ponder thy dream",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divination",
+      "perception",
+      "dreams"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0208",
+    "canonical_statement": "Political authority and sovereignty are contingent upon the successful completion of ritual or heroic trials.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 152,
+        "chapter": "TABLET IV.",
+        "surface_quote": "they will make Izdubar king when they have slain Humbaba",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "authority",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0209",
+    "canonical_statement": "Divine entities provide protection and establish the destiny of mortal individuals.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 153,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Why hast thou established Izdubar, in thy heart thou hast given him protection",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destiny",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0210",
+    "canonical_statement": "Ritual sacrifice and prayer serve as mechanisms to secure divine intervention in human endeavors.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 153,
+        "chapter": "COLUMN II.",
+        "surface_quote": "he made a sacrifice... to gain her aid in the enterprise",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0211",
+    "canonical_statement": "Certain geographical locations serve as the physical residence or sanctuary for divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 157,
+        "chapter": "TABLET V.",
+        "surface_quote": "the land of the pine trees, the seat of the gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "geography",
+      "sacred"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0212",
+    "canonical_statement": "Human events and historical outcomes are governed by a preordained structure or 'fate'.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 158,
+        "chapter": "COLUMN II.",
+        "surface_quote": "tablet of the story of fate",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "fate",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0213",
+    "canonical_statement": "The physical body and material beauty are subject to decay, rot, and eventual destruction.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 160,
+        "chapter": "TABLET VI.",
+        "surface_quote": "thy possession... body and rottenness",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "impermanence",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0214",
+    "canonical_statement": "Divine or archetypal entities possess the power to fundamentally alter the physical form and ontological state of other beings.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 161,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Thou didst strike him and to a leopard thou didst change him",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "transformation",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0215",
+    "canonical_statement": "The interaction between divine archetypes and mortal beings is inherently destructive or transformative to the mortal subject.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 161,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Thou didst love also a ruler... and continually thou didst break his weapons.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "archetype",
+      "mortality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0216",
+    "canonical_statement": "Divine entities possess the capacity to influence human affairs through the utterance of curses.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 164,
+        "chapter": "COLUMN V.",
+        "surface_quote": "Ishtar ascended unto the wall... and uttered a curse",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0217",
+    "canonical_statement": "Ritual actions and the dedication of physical objects serve as mechanisms for human interaction with the divine.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 164,
+        "chapter": "COLUMN V.",
+        "surface_quote": "To the ark of his god Sarturda he dedicated it",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "worship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0218",
+    "canonical_statement": "Dreams serve as a medium for the communication of metaphysical or prophetic information.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 165,
+        "chapter": "COLUMN VI.",
+        "surface_quote": "Heabani lay down, slept, and a dream he dreamed.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "divination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0219",
+    "canonical_statement": "The afterlife is a state of existence from which there is no return.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 168,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "the house entering which there is no exit",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0220",
+    "canonical_statement": "The afterlife is characterized by a deprivation of light and a degradation of sensory experience.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 168,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "dwellers long for light, dust is their nourishment",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0221",
+    "canonical_statement": "Post-mortem existence preserves social hierarchy and historical status.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 168,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "with those wearing crowns who from days of old ruled the earth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0222",
+    "canonical_statement": "The afterlife is a structured domain governed by specific divine authorities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 168,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "the queen of the lower regions Ninkigal",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0223",
+    "canonical_statement": "The afterlife state is characterized by a deprivation of light and a degradation of sustenance.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 169,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "Light is never seen in darkness they dwell, dust is their nourishment.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0224",
+    "canonical_statement": "The transition into the underworld requires the systematic divestment of earthly status and identity markers.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 169,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "The keeper took away the great crown of her head.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife",
+      "transition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0225",
+    "canonical_statement": "The underworld functions as a realm of mourning for the failures and losses of the living world.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 169,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "Let her mourn for the husbands who forsake their wives.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0226",
+    "canonical_statement": "The dead possess the potential to manifest and overcome the living under specific conditions.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 169,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "I will raise up the dead... over the living the dead shall triumph.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0227",
+    "canonical_statement": "The transition into the underworld requires the progressive divestment of external identity markers and material attributes.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 170,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "he took away the binding girdle... the bracelets... the covering cloak",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "transition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0228",
+    "canonical_statement": "The descent of a divine or vital principle into the underworld causes a cessation of generative and social functions in the manifest world.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 170,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "with the cow the bull would not unite... the master ceased in his command",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "vitality",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0229",
+    "canonical_statement": "The absence of a divine feminine principle from the manifest world causes a cessation of biological and social reproductive functions.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 171,
+        "chapter": "COLUMN II.",
+        "surface_quote": "with the cow the bull would not unite... the master ceased in his command",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality",
+      "fertility"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0230",
+    "canonical_statement": "The restoration of life to a consciousness trapped in the underworld requires the application of a specific life-giving substance.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 171,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Over Ishtar pour the water of life and bring her before me.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "vitality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0231",
+    "canonical_statement": "The identity and status of a consciousness are defined by the external ornaments and vestments it wears during its transition through gates of reality.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 171,
+        "chapter": "COLUMN II.",
+        "surface_quote": "he restored to her the covering cloak of her body",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "liminality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0232",
+    "canonical_statement": "The acquisition of sovereignty is legitimized by the demonstration of superior physical force.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 172,
+        "chapter": "COLUMN II.",
+        "surface_quote": "The kingdom promised to Izdubar... became his by right of superior force.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "power",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0233",
+    "canonical_statement": "Divine or archetypal entities may manifest as historical or local rulers within the temporal realm.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 172,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Ishtar is represented in the legends as living at the time, and as being the widow of Dumuzi.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "incarnation",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0234",
+    "canonical_statement": "The reproductive power of nature is a fundamental force worthy of religious adoration.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 172,
+        "chapter": "COLUMN II.",
+        "surface_quote": "Ishtar or Venus worship, which was an adoration of the reproductive power of nature.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "theology",
+      "reproduction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0235",
+    "canonical_statement": "The power of love is a universal force that transcends distinctions between species and social hierarchies.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 173,
+        "chapter": "COLUMN II.",
+        "surface_quote": "the author has here typified the universal power of love, extending over high and low",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "love",
+      "universality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0236",
+    "canonical_statement": "Dreams function as symbolic indicators or omens regarding future events or reality.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 179,
+        "chapter": "COLUMN II.",
+        "surface_quote": "good omen of the dream",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "divination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0237",
+    "canonical_statement": "The veracity of dream-based information is subject to deception.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 179,
+        "chapter": "COLUMN II.",
+        "surface_quote": "the dream was deceptive",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0238",
+    "canonical_statement": "The physical body is subject to divine affliction and suffering.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 180,
+        "chapter": "COLUMN III.",
+        "surface_quote": "God will not depart, why do my limbs burn.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "suffering",
+      "divinity",
+      "embodiment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0239",
+    "canonical_statement": "Dreams are transient phenomena that vanish upon waking or realization.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 180,
+        "chapter": "COLUMN III.",
+        "surface_quote": "the dream which I saw entirely disappeared",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "dreams"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0240",
+    "canonical_statement": "Death is a state or entity that can manifest from darkness.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 180,
+        "chapter": "COLUMN III.",
+        "surface_quote": "came out the shadow of death",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "death",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0241",
+    "canonical_statement": "Physical reality is mutable and can undergo transformation.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 180,
+        "chapter": "COLUMN III.",
+        "surface_quote": "he struck it and it turned to a palm tree",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0242",
+    "canonical_statement": "Non-human entities such as trees possess the capacity for consciousness, perception, and communication.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 181,
+        "chapter": "COLUMN VI.",
+        "surface_quote": "trees, and they are supposed to have the power of hearing and answering him.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "animism",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0243",
+    "canonical_statement": "Dreams function as significant, yet potentially opaque, indicators of metaphysical or future realities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 181,
+        "chapter": "COLUMN VI.",
+        "surface_quote": "Heabani unable to interpret a dream",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "dream",
+      "divination",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0244",
+    "canonical_statement": "The soul is susceptible to states of deficiency or weakness in the absence of spiritual guidance.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 182,
+        "chapter": "TABLET IX.",
+        "surface_quote": "Weakness entered into my soul",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0245",
+    "canonical_statement": "Human supplication can reach divine entities, resulting in the reception of spiritual peace.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 182,
+        "chapter": "TABLET IX.",
+        "surface_quote": "into the presence of the gods came my supplication; and they sent peace",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0246",
+    "canonical_statement": "Entities exist that span the entirety of the vertical cosmic hierarchy, from the underworld to the heavens.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 182,
+        "chapter": "TABLET IX.",
+        "surface_quote": "composite monsters with their feet resting in hell, and their heads reaching heaven",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0247",
+    "canonical_statement": "The human condition is defined by the imposition of divine influence or burden upon the physical body.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 183,
+        "chapter": "COLUMN II.",
+        "surface_quote": "The work of god is laid upon the man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "humanity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0248",
+    "canonical_statement": "The boundaries between cosmic realms are guarded by entities that embody the threshold of mortality.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 183,
+        "chapter": "COLUMN II.",
+        "surface_quote": "The scorpion-man guarded the gate",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "liminality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0249",
+    "canonical_statement": "Certain beings possess comprehensive knowledge of the duality of life and death.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 184,
+        "chapter": "COLUMN III.",
+        "surface_quote": "death and life are known to him",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "knowledge",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0250",
+    "canonical_statement": "The progression of a journey through a desolate or sacred landscape imposes a restriction on the traveler's ability to perceive their past or point of origin.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 186,
+        "chapter": "COLUMN V.",
+        "surface_quote": "he was not able to look behind him",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "perception",
+      "liminality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0251",
+    "canonical_statement": "The divine realm or the domain of the gods is characterized by a manifestation of material abundance that mirrors the structure of natural forests.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 186,
+        "chapter": "COLUMN V.",
+        "surface_quote": "to the forest of the trees of the gods in appearance it was equal",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0252",
+    "canonical_statement": "Physical affliction and disease are interpreted as external markings or brands imposed by divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 188,
+        "chapter": "TABLET X.",
+        "surface_quote": "having the brand of the gods on his",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "suffering",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0253",
+    "canonical_statement": "The transition to the afterlife or a transcendent state requires the navigation of 'waters of death'.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 190,
+        "chapter": "COLUMN III.",
+        "surface_quote": "took Urhamsi the waters of death",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "transition",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0254",
+    "canonical_statement": "The transition between states of existence or realms requires the overcoming of mortal limitations or death-like barriers.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 191,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "Let not the waters of death enclose thy hand.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "liminality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0255",
+    "canonical_statement": "Destruction and mortality are inherent, inseparable features of existence.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 194,
+        "chapter": "COLUMN VI.",
+        "surface_quote": "Spoiling and death together exist",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0256",
+    "canonical_statement": "The precise form or nature of death remains fundamentally unobservable to the living.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 194,
+        "chapter": "COLUMN VI.",
+        "surface_quote": "of death the image has not been seen.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "death",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0257",
+    "canonical_statement": "Divine entities facilitate the transition of the individual soul at the moment of death.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 194,
+        "chapter": "COLUMN VI.",
+        "surface_quote": "the spirit of the great gods takes his hand.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0258",
+    "canonical_statement": "Fate is a predetermined construct established by divine agency, governing the span of life and death.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 194,
+        "chapter": "COLUMN VI.",
+        "surface_quote": "The goddess Mamitu maker of fate, to them their fate brings",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "fate",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0259",
+    "canonical_statement": "The temporal endpoint of an individual life is fundamentally unknowable.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 194,
+        "chapter": "COLUMN VI.",
+        "surface_quote": "of death the day is not known.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0260",
+    "canonical_statement": "There exists a distinct boundary or threshold separating the realm of the living from the realm of the immortal.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 195,
+        "chapter": "COLUMN VI.",
+        "surface_quote": "waters of death which separated the abode of Hasisadra from the world of mortals",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence",
+      "threshold"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0261",
+    "canonical_statement": "The gods possess the authority to determine the fate of humanity and intervene in earthly affairs.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 197,
+        "chapter": "TABLET XI.",
+        "surface_quote": "the judgment of the gods be related to thee",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0262",
+    "canonical_statement": "Humanity is subject to divine destruction based on moral judgment.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 197,
+        "chapter": "TABLET XI.",
+        "surface_quote": "I destroy the sinner and life",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "judgment",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0263",
+    "canonical_statement": "The preservation of life is a divine mandate enacted through specific ritual or structural preparation.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 197,
+        "chapter": "TABLET XI.",
+        "surface_quote": "cause to go in the seed of life all of it",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "preservation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0264",
+    "canonical_statement": "The destruction of the physical world is orchestrated by divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 198,
+        "chapter": "COLUMN II.",
+        "surface_quote": "The destroyer Nergal overturned, the spirits carried destruction.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destruction",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0265",
+    "canonical_statement": "The seed of life is a distinct, preservable essence capable of surviving environmental catastrophe.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 198,
+        "chapter": "COLUMN II.",
+        "surface_quote": "all I possessed the strength of it the seed of life, the whole I caused to go up.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "life",
+      "essence",
+      "survival"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0266",
+    "canonical_statement": "Divine beings are subject to fear and seek refuge from cataclysmic natural forces.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 199,
+        "chapter": "COLUMN III.",
+        "surface_quote": "the gods feared the tempest and sought refuge",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0267",
+    "canonical_statement": "Human existence is transient and subject to total dissolution into corruption.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 199,
+        "chapter": "COLUMN III.",
+        "surface_quote": "All to corruption are turned",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0268",
+    "canonical_statement": "The gods experience emotional distress and empathy regarding the destruction of humanity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 199,
+        "chapter": "COLUMN III.",
+        "surface_quote": "The gods concerning the spirits were weeping with her",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0269",
+    "canonical_statement": "Ritual sacrifice and libation serve as a bridge between the human and divine realms following catastrophe.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 199,
+        "chapter": "COLUMN III.",
+        "surface_quote": "I poured out a libation, I built an altar",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ritual",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0270",
+    "canonical_statement": "Divine entities derive sustenance or satisfaction from the essence or offerings of the material world.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 200,
+        "chapter": "COLUMN III.",
+        "surface_quote": "The gods collected at its savour",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sustenance",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0271",
+    "canonical_statement": "The material universe and its phenomena are products of divine creation.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 200,
+        "chapter": "COLUMN III.",
+        "surface_quote": "The great brightness of Anu had created",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0272",
+    "canonical_statement": "Objects can function as conduits or anchors for divine presence or influence.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 200,
+        "chapter": "COLUMN III.",
+        "surface_quote": "the glory of those gods on the charm round my neck",
+        "claim_type": "implied",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "divinity",
+      "objects",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0273",
+    "canonical_statement": "Divine entities possess omniscience regarding the actions and moral status of humanity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 201,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "Hea knew all things.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "omniscience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0274",
+    "canonical_statement": "Human suffering and destruction are subject to the arbitrary or moral judgments of divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 201,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "the doer of sin did his sin... the just prince let him not be cut off.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "judgment",
+      "theodicy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0275",
+    "canonical_statement": "Humanity can be elevated to a divine or immortal state through specific intervention by the gods.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 201,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "Hasisadra, and his wife, and the people, to be like the gods are carried away.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "immortality",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0276",
+    "canonical_statement": "The pursuit of divine health or immortality requires the seeker to endure a transformative, storm-like ordeal.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 201,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "the chief who grasps at health the way like a storm shall be laid upon him.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "initiation",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0277",
+    "canonical_statement": "The human individual possesses a multi-layered metaphysical structure or set of vestments that must be ritually or sequentially accessed.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 202,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "first the sabusat of his kurummat, second the mussukat, third the radbat, fourth she opened his zikaman",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0278",
+    "canonical_statement": "Ritual cleansing in water possesses the metaphysical efficacy to transmute physical disease into health and beauty.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 203,
+        "chapter": "COLUMN V.",
+        "surface_quote": "his disease in the water to beauty may it turn",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "transformation",
+      "healing",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0279",
+    "canonical_statement": "The transition between states of being or realms is facilitated by the symbolic shedding and donning of garments.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 203,
+        "chapter": "COLUMN V.",
+        "surface_quote": "seventh in a cloak I have clothed thee and let thee go free",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "transition",
+      "identity",
+      "liminality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0280",
+    "canonical_statement": "The knowledge of divine judgments and concealed cosmic histories is a privilege granted to the seeker by the enlightened.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 203,
+        "chapter": "COLUMN V.",
+        "surface_quote": "Be revealed to thee Izdubar the concealed story",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "divinity",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0281",
+    "canonical_statement": "The individual possesses the capacity to act against their own self-interest, contrasting with the instinctual alignment of nature.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 205,
+        "chapter": "COLUMN VI.",
+        "surface_quote": "I have not done good to my own self; and the lion of the earth does good.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "agency",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0282",
+    "canonical_statement": "The state of death is characterized by the cessation of agency, social participation, and sensory interaction with the material world.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 206,
+        "chapter": "COLUMN I.",
+        "surface_quote": "The noble banquet thou dost not share... the spoil defies thee.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0283",
+    "canonical_statement": "The earth acts as an encompassing, entombing force that claims the deceased regardless of their earthly status or battle history.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 206,
+        "chapter": "COLUMN I.",
+        "surface_quote": "The arms of the earth have taken thee.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0284",
+    "canonical_statement": "Death is defined as a transition into a state of primordial darkness associated with a maternal chthonic entity.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 206,
+        "chapter": "COLUMN I.",
+        "surface_quote": "O darkness, O darkness, mother Ninazu, O darkness.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0285",
+    "canonical_statement": "The human spirit possesses a transparent or glass-like nature upon exiting the physical earth.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 207,
+        "chapter": "COLUMN III.",
+        "surface_quote": "the spirit of Heabani like glass from the earth arose",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "spirit",
+      "afterlife",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0286",
+    "canonical_statement": "The earth acts as a boundary or container from which the spirit can be released or extracted.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 207,
+        "chapter": "COLUMN III.",
+        "surface_quote": "the divider the earth opened, and the spirit of Heabani arose",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0287",
+    "canonical_statement": "Human existence is characterized by an inevitable transition from youthful vitality to physical decay and death.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 208,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "in youth also thy heart rejoice... become old, the worm entering",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0288",
+    "canonical_statement": "The physical body is destined to return to the earth as dust upon death.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 208,
+        "chapter": "COLUMN IV.",
+        "surface_quote": "become old, the worm entering... full of dust",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "mortality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0289",
+    "canonical_statement": "The experience of death and its aftermath is a shared, observable phenomenon between distinct conscious entities.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 209,
+        "chapter": "COLUMN V.",
+        "surface_quote": "He who in battle is slain, thou seest and I see.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "death",
+      "perception",
+      "intersubjectivity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0290",
+    "canonical_statement": "Theological and mythological narratives are culturally contingent expressions shaped by the environmental and social conditions of the originating civilization.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 210,
+        "chapter": "COLUMN V.",
+        "surface_quote": "each nation should colour them in accordance with its own ideas",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mythology",
+      "culture",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0291",
+    "canonical_statement": "Historical and mythological traditions across disparate cultures share structural archetypes and numerical patterns that suggest a common underlying source or universal transmission.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 213,
+        "chapter": "COLUMN V.",
+        "surface_quote": "It cannot be accidental that in each case we have ten names.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "mythology",
+      "archetype",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0292",
+    "canonical_statement": "The human spirit or ghost can be summoned or manifest from the earth through divine intervention.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 214,
+        "chapter": "COLUMN V.",
+        "surface_quote": "the curious story of his ghost rising from the ground at the bidding of Merodach",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "spirit",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0293",
+    "canonical_statement": "The human soul can be denied entry to post-mortem realms, resulting in a state of confinement to the earthly plane.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 215,
+        "chapter": "COLUMN V.",
+        "surface_quote": "The soul of Heabani was confined to the earth.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0294",
+    "canonical_statement": "The transition of a soul from a state of earthly confinement to a region of blessedness requires external intercession.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 215,
+        "chapter": "COLUMN V.",
+        "surface_quote": "intercession was made to transfer him to the region of the blessed.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "salvation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0295",
+    "canonical_statement": "Historical events and archetypal narratives possess a tendency to recur or repeat across different temporal and cultural contexts.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 219,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "every action, when once performed, has a tendency to be repeated.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0296",
+    "canonical_statement": "Human knowledge of historical truth is progressive and iterative, often requiring the correction of previous errors.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 220,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "we have often had to advance through error to truth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0297",
+    "canonical_statement": "The acquisition of new information necessitates the revision of existing conceptual frameworks.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 220,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "any accession of new material would change again my views",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0298",
+    "canonical_statement": "The origin of all existence is a primordial state of chaos, confusion, and darkness.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 221,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "chaos, the spirit of confusion and darkness, which was the origin of all things",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0299",
+    "canonical_statement": "Evil is an inherent property of the universe that predates the existence of divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 221,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "the presence of evil in the world... was even older than the gods",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evil",
+      "theology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0300",
+    "canonical_statement": "The material universe originated from a primordial state of chaotic, undifferentiated watery matter.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 222,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "there was a chaos of watery matter before the Creation, and from this all things were generated.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0301",
+    "canonical_statement": "Humanity's moral fall is characterized by an alignment with the forces of chaos against the divine order.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 222,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "he joins with the dragon of the deep, the animal of Tiamat, the spirit of chaos",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "humanity",
+      "morality",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0302",
+    "canonical_statement": "The structure of the universe is defined by an ongoing metaphysical conflict between divine order and chaotic principles.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 222,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "war between the dragon and powers of evil, or chaos on one side and the gods",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0303",
+    "canonical_statement": "Mythological narratives regarding creation and primordial history are often shared across distinct cultural traditions.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 223,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "coincidences in respect to the geography... all tend towards the view that it is the Paradise",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "mythology",
+      "history",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0304",
+    "canonical_statement": "Historical or mythological figures may act as external agents of knowledge transmission to human civilization.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 223,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "Oannes, who was supposed to have appeared out of the sea and to have taught",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "civilization",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0305",
+    "canonical_statement": "Historical accounts of pre-diluvian eras often function as moral allegories rather than literal chronological records.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 224,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "the stories are only fables with a moral attached",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "mythology",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0306",
+    "canonical_statement": "Cataclysmic events serve as ontological and historical demarcation points for the development of human civilization.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 224,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "the Flood becomes the starting point for the modern world",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "civilization"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0307",
+    "canonical_statement": "Dreams serve as a medium for accessing hidden knowledge or prophetic insight requiring interpretation.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 225,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "a hermit named Heabani is persuaded... to come to Erech and interpret the dream",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "divination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0308",
+    "canonical_statement": "Divine entities possess the capacity to manifest physical instruments or beings to intervene in human affairs.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 225,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "the goddess... petitioned her father Anu to create a bull for her",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0309",
+    "canonical_statement": "The afterlife is a distinct, structured realm accessible through a process of descent through multiple gates.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 226,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "She descends to the infernal regions... passing through its seven gates.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0310",
+    "canonical_statement": "Human consciousness or the soul can persist and be summoned from the earth after physical death.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 226,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "the ghost of Heabani arises from the ground where the body had lain.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0311",
+    "canonical_statement": "Certain individuals may achieve a state of translation, dwelling eternally with divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 226,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "Hasisadra... had been translated for his piety and now dwelt with the gods.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_chaldean_account_of_genesis_0312",
+    "canonical_statement": "The physical world and the realm of the dead are separated by impassable boundaries, such as the waters of death.",
+    "attributions": [
+      {
+        "source_id": "the_chaldean_account_of_genesis",
+        "chunk_index": 226,
+        "chapter": "CHAPTER XVII.",
+        "surface_quote": "the dwelling of the blessed... surrounded by the waters of death.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  }
+]

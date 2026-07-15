@@ -1,0 +1,846 @@
+[
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0001",
+    "canonical_statement": "Pagan religious systems are characterized by the worship and invocation of personified natural forces and objects.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "Pagan Irish worshipped and invoked... the personified powers of nature, as well as certain natural objects.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "paganism",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0002",
+    "canonical_statement": "Historical religious traditions may contain formal, non-literal references to natural powers intended to evoke an archaic aesthetic.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "introduction of these ornaments as merely formal, and for the sole purpose of giving an antique cast.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mythology",
+      "tradition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0003",
+    "canonical_statement": "The elements of the natural world, such as sun, wind, and water, possess the capacity to enforce moral or contractual obligations.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "he perished there from Sun and from Wind... for transgressing them",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "nature",
+      "morality",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0004",
+    "canonical_statement": "Human beings can invoke and command natural forces to intervene in physical conflicts.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "I beseech the Waters to assist me : I beseech Heaven and Earth",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "invocation",
+      "nature",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0005",
+    "canonical_statement": "The physical universe is composed of wondrous structures that are objects of religious adoration.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "I adore the Lord with the wondrous structures, Bright heaven with angels",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0006",
+    "canonical_statement": "The celestial realm is populated by a vast, uncountable multitude of angelic beings.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "assemblies of angels are frequently compared with the sea",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0007",
+    "canonical_statement": "The divine or celestial state is characterized by an eternal, vast, and oceanic nature.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "that powerful, everlasting sea",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0008",
+    "canonical_statement": "The sophistication of religious consciousness is reflected in the nature of the objects to which divinity is attributed.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "There is a vast difference in height of thought between assigning a deity to a river versus a stone.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "theology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0009",
+    "canonical_statement": "Entities known as 'sidhe' are characterized as immortal beings.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "the sidhe are frequently called the 'everliving livings,' that is, the immortal immortals.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "immortality",
+      "entities",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0010",
+    "canonical_statement": "The manifestation of supernatural wrath is physically observable as an energetic phenomenon rising from the human body.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "his champion wrath was roused, his Ion l?nch... rose from the top of his head",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "energy",
+      "phenomenology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0011",
+    "canonical_statement": "The soul is associated with an energetic or physical manifestation that emerges from the forehead during states of intense martial fervor.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "the luan laith arose from his forehead",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0012",
+    "canonical_statement": "The soul maintains a presence within the body until the moment of death.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "while his soul was in him",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0013",
+    "canonical_statement": "Supernatural entities possess the capacity to manifest in multiple physical forms, including zoomorphic and anthropomorphic shapes.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "The Morrigain appears... in the shape of a bird... on another occasion... in the form of a beautiful lady.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metamorphosis",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0014",
+    "canonical_statement": "Supernatural beings exert direct influence over the physical actions and fates of human individuals.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "She would in the shape of a serpent coil herself around his feet, and hold him fast.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "causality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0015",
+    "canonical_statement": "Divine entities are subject to physical injury and death.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "deities are liable to be wounded, and even slain",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0016",
+    "canonical_statement": "Divine beings possess the capacity to alter their physical form.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "Bona Dea is, on a certain occasion, transformed into a serpent",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "metamorphosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0017",
+    "canonical_statement": "Divinities can manifest as or transform into geographical features or bodies of water.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "the Morrigain meets her... so that she made a pool of water of Odras.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mythology",
+      "metamorphosis",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0018",
+    "canonical_statement": "Multiple distinct mythological entities or titles can represent a single underlying divine essence.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Bona Dea, Fauna, Opis, and Fatua, are one and the same.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0019",
+    "canonical_statement": "Deities function as the source or personification of prosperity and wealth for a region.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Morrigain was also... the goddess of prosperity and wealth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "prosperity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0020",
+    "canonical_statement": "Deities in the Irish mythological tradition are fundamentally deified human beings.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 14,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "All the deities here spoken of... are, according to Iberno-Celtic mythology, Sides, that is to say, deified mortals.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "deity",
+      "mortality",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0021",
+    "canonical_statement": "The burial sites of deities are identified as the physical locations where divine entities are venerated.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 15,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "The temples of these deities I conceive to have been the vaults in which they were buried",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "deity",
+      "sacred-space",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0022",
+    "canonical_statement": "Deities and blessed spirits reside in a transcendent realm known as the Lands of the Living.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 16,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "the deities themselves... had as their special abode... Lands of the Living.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0023",
+    "canonical_statement": "The union of divine beings and humans produces offspring possessing demigod status.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 16,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "Side deities... begat children from the daughters of men: such children were, of course, demigods.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0024",
+    "canonical_statement": "Divine beings possess the capacity to manifest in a state of invisibility to ordinary human perception.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 16,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "a strange personage... was dressed in green, purple, and gold, and invisible to all",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0025",
+    "canonical_statement": "Heroic figures in mythology are often constructed as archetypal reflections of divine or redemptive life cycles.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 17,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "his whole history is a fabrication of this kind",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "mythology",
+      "archetype",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0026",
+    "canonical_statement": "The nature of a hero is defined by a dual parentage consisting of an immortal father and a mortal mother.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 17,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "He has an immortal father, and a mortal mother",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0027",
+    "canonical_statement": "The posture of death holds significance for the state of the soul or the transition of the individual.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 18,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "that it might be in his standing he might die.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "death",
+      "ritual",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0028",
+    "canonical_statement": "The sun was an object of religious veneration in ancient Irish culture.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 18,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "it is usually admitted... that the ancient Irish worshipped the sun.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "worship",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0029",
+    "canonical_statement": "The sun is recognized as a primary deity within the religious framework of the ancient Irish and Gauls.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 19,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "the sun was a chief deity with us, as well as with the Gauls",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "deity",
+      "sun"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0030",
+    "canonical_statement": "The material world contains objects that possess inherent magical properties to regulate and distribute resources according to the needs of the collective.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 21,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "a magical cauldron... which gave his proper share to each, and from which no one ever went dissatisfied",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "magic",
+      "abundance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0031",
+    "canonical_statement": "Ritual actions and performances can be used as a method of divination to detect the presence of external observers.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 21,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "a certain person was going through a certain performance... from this he knew that some one must be looking on",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divination",
+      "ritual",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0032",
+    "canonical_statement": "The maintenance of a perpetual fire serves as a symbolic and ritual anchor for the sovereignty and continuity of a social collective.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 22,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "the existence of a prytaneion anywhere was the symbol of independence.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "sovereignty",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0033",
+    "canonical_statement": "Ritual fire acts as a transmissible essence that preserves the identity of a parent group within a new colonial entity.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 22,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "from the prytaneium of that people was brought the fire to light the new fire.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "identity",
+      "continuity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0034",
+    "canonical_statement": "The state of being in a brudin is ontologically equivalent to existing within the realm of the fairies.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 23,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "the expression for being in the fairies is the same as being in the brudin.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0035",
+    "canonical_statement": "Names possess an indestructible quality that persists even after the physical structures they designate have been abolished.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 23,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "The brudin is abolished, but that indestructible thing—its name—still survives.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "language",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0036",
+    "canonical_statement": "The human soul is immortal and persists beyond the death of the physical body.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 24,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "souls do not die, but after death pass from one to another",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "immortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0037",
+    "canonical_statement": "Individual consciousness can undergo successive incarnations across different biological forms, including both human and animal species.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 24,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "soul's passing from man into other animals",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "transmigration",
+      "identity",
+      "metamorphosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0038",
+    "canonical_statement": "The universe possesses a measurable magnitude and a defined nature governed by celestial mechanics.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 25,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "they discuss much besides about the constellations and their motion, about the size of the universe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0039",
+    "canonical_statement": "Time is measured by the progression of darkness into light, prioritizing the night as the primary unit of temporal existence.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 28,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "ended their periods of time, not by number of days, but of nights",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0040",
+    "canonical_statement": "Human identity is derived from an ancestral origin in the infernal regions or the realm of darkness.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 28,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "considering themselves as descended from Dis, the god of the infernal regions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "ancestry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0041",
+    "canonical_statement": "The destruction of a physical body by supernatural fire necessitates the ritual disposal of the resulting ashes into water to complete the metaphysical process.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 29,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "the ashes of persons thus burned... were usually flung into a river... or into the sea",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "purification",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0042",
+    "canonical_statement": "Supernatural entities or forces possess the capacity to instantaneously transmute physical matter into ash.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 29,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "the cat gave a bound right through him... and instantaneously reduced him to ashes",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "supernatural",
+      "matter",
+      "transmutation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowe_religiousbeliefspagan_1869_0043",
+    "canonical_statement": "Funeral rites and the sacrifice of property or dependents serve to accompany the deceased into the afterlife.",
+    "attributions": [
+      {
+        "source_id": "crowe_religiousbeliefspagan_1869",
+        "chunk_index": 30,
+        "chapter": "318 RELIGIOUS BELIEFS OF THE PAGAN IRISH.",
+        "surface_quote": "that her grave might be dug, that her lamentation might be acted, that her quadruped might be slain.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "death"
+    ],
+    "editorial_status": "auto"
+  }
+]

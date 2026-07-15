@@ -1,0 +1,243 @@
+[
+  {
+    "id": "cl_2604_27054v1_0001",
+    "canonical_statement": "The complexity of a future state is bounded by the volume of its initial causal slice.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "the complexity of the final state cannot exceed the volume of the slice Σ.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "complexity",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27054v1_0002",
+    "canonical_statement": "Complexity increases monotonically along a foliation of time slices.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "CQFT is monotonically increasing along a foliation of slices Σt",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "complexity",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27054v1_0003",
+    "canonical_statement": "The growth of quantum complexity within a finite region of spacetime is bounded.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "finite regions cannot supply an infinite amount of complexity growth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "quantum",
+      "complexity",
+      "spacetime"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27054v1_0004",
+    "canonical_statement": "Singularities arise when the capacity for quantum complexity growth within a finite region is exhausted.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "The singularity appears when the resources of a finite computational budget have run out.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "singularity",
+      "quantum",
+      "complexity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27054v1_0005",
+    "canonical_statement": "The semiclassical complexity of a system is directly related to the vacuum energy density in de Sitter space.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "semiclassical complexity is at precisely the scale needed for the qSEC to hold in vacuum de Sitter",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "quantum physics",
+      "complexity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27054v1_0006",
+    "canonical_statement": "The second derivative of complexity can be negative in the classical limit and function as a classical observable.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "C̈ may remain negative in the classical limit and may exist as a classical observable",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "classical physics",
+      "complexity",
+      "observables"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27054v1_0007",
+    "canonical_statement": "The generalized complexity is a semiclassical construct.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Cgen (Σ) = Vol (Σ) / (h̄Gℓ) + CQF T (Σ) is intrinsically a semiclassical object",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "quantum physics",
+      "classical physics",
+      "complexity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27054v1_0008",
+    "canonical_statement": "For the quantum Strong Energy Condition (qSEC) to be valid in de Sitter-like spacetimes, the renormalized theory must incorporate finite infrared complexity dynamics.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "for the qSEC to make sense in de Sitter-like spacetimes, the renormalized theory must contain finite infrared complexity dynamics",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "quantum physics",
+      "energy conditions"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27054v1_0009",
+    "canonical_statement": "Exact modular flow preserves the reduced vacuum state, preventing its interpretation as the second derivative of exact state complexity.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Exact modular flow leaves the reduced vacuum state invariant, this finite contribution cannot naturally be interpreted as the second derivative of exact state complexity",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "quantum states",
+      "modularity",
+      "complexity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27054v1_0010",
+    "canonical_statement": "Coarse-grained modular flow can exhibit relaxation and saturation, allowing for a negative second derivative of an effective complexity observable.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "coarse-grained modular flow can display relaxation and saturation, making a negative second derivative of an effective complexity observable possible",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "quantum states",
+      "modularity",
+      "complexity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27054v1_0011",
+    "canonical_statement": "The static patch exhibits infrared complexity dynamics in the vacuum if an associated effective complexity observable is non-zero.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "If such an observable is nonzero, then the static patch exhibits infrared complexity dynamics even in the vacuum",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "vacuum",
+      "complexity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27054v1_0012",
+    "canonical_statement": "The presence of a horizon, temperature, and finite de Sitter entropy is compatible with a maximum finite coarse-grained complexity capacity for a patch.",
+    "attributions": [
+      {
+        "source_id": "2604_27054v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "maximum finite coarse-grained complexity capacity for the patch, which is naturally compatible with the presence of a horizon, a temperature, and a finite de Sitter entropy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "thermodynamics",
+      "complexity"
+    ],
+    "editorial_status": "auto"
+  }
+]

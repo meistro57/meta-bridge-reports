@@ -1,0 +1,14 @@
+{
+  "id": "chopin_awakening",
+  "title": "The Awakening",
+  "author": "Kate Chopin",
+  "medium": "",
+  "channel_type": "authored",
+  "tradition": "",
+  "year": 1899,
+  "region": "",
+  "ingested_at": "2026-06-09T20:57:51.882389378Z",
+  "chunk_count": 163,
+  "claim_count": 49,
+  "source_path": "incoming/chopin-awakening.pdf"
+}

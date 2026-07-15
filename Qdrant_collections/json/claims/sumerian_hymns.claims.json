@@ -1,0 +1,3207 @@
+[
+  {
+    "id": "cl_sumerian_hymns_0001",
+    "canonical_statement": "Deities are manifestations of specific personality traits and natural forces.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 4,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "deities... representing different phases of personality and force, conceived of as incorporated in nature",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "deity",
+      "nature",
+      "personality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0002",
+    "canonical_statement": "Divine entities exert causal influence upon human destiny.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 4,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "conceived of as... affecting the destinies of men.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0003",
+    "canonical_statement": "Divine authority is the ultimate source of political legitimacy and earthly sovereignty.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 5,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "to whom a sceptre is given by Bêl",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "theology",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0004",
+    "canonical_statement": "The supreme deity acts as the primary agent in determining the outcomes of military conflicts.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 5,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Upon the command of Bêl a scourge he brought over them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divine-intervention",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0005",
+    "canonical_statement": "A singular deity may function as the foundational progenitor and king of the entire pantheon.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 5,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Bêl, king of the lands, father of the gods",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0006",
+    "canonical_statement": "The existence of primordial entities and sacred structures precedes the act of creation or construction within the temporal order.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 7,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Nippur was not made; E-kur was not built. The abyss was not made.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0007",
+    "canonical_statement": "Divine entities possess anthropomorphic characteristics and social structures analogous to human beings.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 8,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Babylonian gods maintain family relations like human beings.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity",
+      "anthropomorphism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0008",
+    "canonical_statement": "Physical shrines serve as the localized dwelling places for divine beings.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 8,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Here Bêl and his consort, Bêlit... are supposed to dwell.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "sacred_space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0009",
+    "canonical_statement": "The structure of the universe is organized into a tripartite hierarchy of celestial, terrestrial, and subterranean domains.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 9,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Anu, the lord of the heavens, Bêl, the lord of the earth, and Ea, the deep.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0010",
+    "canonical_statement": "The physical earth is cosmologically conceptualized as a mountain resting upon a foundational abyss.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 9,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The earth was conceived of as a mountain resting on the abyss.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0011",
+    "canonical_statement": "Divine authority and the scope of a deity's influence are projected onto the physical landscape through architectural representation.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 9,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The temple with its ziggurrat was built to rise up like a mountain.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0012",
+    "canonical_statement": "Cosmogony originates from a pre-existing state of chaos rather than from nothingness.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 10,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Their cosmogony starts with chaos.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "origins"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0013",
+    "canonical_statement": "Divine creative power is a transferable prerogative between deities.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 10,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "In transferring his rights he must have given over also his power to create.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0014",
+    "canonical_statement": "The manifestation of order in the physical world is the result of divine construction.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 10,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Marduk constructed an enclosure before the waters.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "order",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0015",
+    "canonical_statement": "The divine entity functions as the foundational architect and sustainer of both celestial and terrestrial realms.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 11,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The lord, the life of the land, the massû of heaven and earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0016",
+    "canonical_statement": "The creative process inherently involves the dual capacity for both construction and destruction.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 11,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The idea of destruction is also incorporated in the hymn.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "duality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0017",
+    "canonical_statement": "The divine principle encompasses and transcends gendered parental archetypes.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 11,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Stormy one, father, mother, creator.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "archetype"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0018",
+    "canonical_statement": "Divine entities possess distinct attributes corresponding to both material and intellectual functions within the cosmic order.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 12,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Šis-ki expresses the material relation... En-zu seems to state the intellectual relation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0019",
+    "canonical_statement": "The manifestation of divine wisdom is ontologically linked to the physical phenomenon of light.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 12,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "the intellectual attribute of wisdom being closely related to the physical property of giving light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0020",
+    "canonical_statement": "The temporal structure of reality is defined by the precedence of night over day.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 15,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The day began at evening; not with the morning.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0021",
+    "canonical_statement": "The sun is ontologically derived from the night.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 15,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The sun too was the son of the night; that is, it issued forth from the night.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0022",
+    "canonical_statement": "Celestial phenomena function as primary agents for the regulation and marking of time.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 15,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The regularity of the phases of the moon... showed the moon to be an agent in marking time.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "astral"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0023",
+    "canonical_statement": "Divinity is distributed among multiple entities, each possessing specialized domains of influence and function.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 16,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "each was considered as acting in his own circle",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0024",
+    "canonical_statement": "The structure of the divine realm is non-exclusive, allowing for the simultaneous operation of multiple supreme powers.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 16,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "these circles did not necessarily exclude the one the other",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0025",
+    "canonical_statement": "Divine authority is hierarchical, with specific deities subordinate to a central patron deity.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 16,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Bêl and Nannar still held their positions... in subordination to Marduk",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0026",
+    "canonical_statement": "The supreme deity functions as the singular architect and determiner of cosmic destiny.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 17,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "O lord, who fixest the destiny of heaven and earth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0027",
+    "canonical_statement": "The divine word serves as the primary causal mechanism for physical growth and moral order.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 17,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "As for thee, when thy word is established in the land, it causeth vegetation to grow.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0028",
+    "canonical_statement": "The supreme deity exists as the foundational source of all life and biological generation.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 17,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "O father, begetter of all, who lookest upon the creatures of life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0029",
+    "canonical_statement": "Divine consciousness is transcendent and fundamentally incomprehensible to lesser beings.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 17,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "O mighty prince, whose distant thought no god can declare!",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0030",
+    "canonical_statement": "The supreme deity is an uncaused, self-originating entity.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 18,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "He is named as sovereign god, a self-created god",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0031",
+    "canonical_statement": "The supreme deity acts as the primary generative source and sustainer of all biological life.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 18,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "the begetter of all life, the maintainer of the life of the world",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0032",
+    "canonical_statement": "Divine will functions as the deterministic mechanism governing natural phenomena and human destiny.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 18,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "at his command the forces of nature perform their marvellous functions",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "determinism",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0033",
+    "canonical_statement": "A hierarchical structure exists in the universe where a supreme deity holds authority over all other spiritual and earthly beings.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 18,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "He holds a unique and exalted position in heaven and on earth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0034",
+    "canonical_statement": "Deities originate as manifestations of natural forces before being anthropomorphized into personal entities.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 19,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The god is not an object... but a force; then the force is personified.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "ontology",
+      "personification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0035",
+    "canonical_statement": "Divine entities possess the capacity to manipulate meteorological and environmental phenomena to influence human prosperity or ruin.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 22,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Ramman let loose his showers... the produce of the land has been abundant.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0036",
+    "canonical_statement": "The natural forces of destruction and creation are manifestations of divine judgment and agency.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 22,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The most conspicuous work of Ramman was that of destruction.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "judgment",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0037",
+    "canonical_statement": "Specific deities represent distinct, foundational elements of the physical universe, such as celestial heavens and subterranean waters.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 22,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Ea representing the depths of water and Anu the heaven with its clouds.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "elements"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0038",
+    "canonical_statement": "Divine entities possess a dual nature, existing simultaneously as localized beings within the physical world and as celestial beings in the heavens.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 23,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "His real home was in heaven... but his connection with heaven had been forgotten.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0039",
+    "canonical_statement": "The physical manifestation of a deity in the world is a symbolic representation of their functional domain of power.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 23,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "His dwelling of foliage... was symbolic of the domain in which his power was exercised.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0040",
+    "canonical_statement": "Celestial forces are the ultimate source of biological growth and vitality in the physical realm.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 23,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "From heaven the virtue of plant-growth proceeds with the heat of the sun.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0041",
+    "canonical_statement": "The cycle of vegetation is governed by the interaction between a generative life-force and the destructive influence of solar heat.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 24,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The power of the heat of the sun was superior to the virtue of Tammuz.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nature",
+      "cycles",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0042",
+    "canonical_statement": "The transition of a life-force to the underworld is a consequence of its inability to sustain continuous manifestation against entropic forces.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 24,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The cause of his death was that he was not capable of making plant-growth continuous.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "death",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0043",
+    "canonical_statement": "The manifestation of life on earth requires the complementary union of generative and nurturing principles.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 24,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Had she supplemented his effort... the gardens would have enjoyed perennial fruitage.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0044",
+    "canonical_statement": "Divine or archetypal entities possess the capacity to terminate the existence of lesser manifestations through emotional volatility.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 24,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "In a fit of anger... she had smitten him down.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0045",
+    "canonical_statement": "The dead can be influenced or revitalized by the ritual actions and sensory offerings of the living.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 25,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "That the dead may arise and inhale incense!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0046",
+    "canonical_statement": "The cycle of existence is defined by the alternation between death and resurrection.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 25,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The circle of events not completed without the resurrection of Tammuz.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "time",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0047",
+    "canonical_statement": "Consciousness or the essence of the deceased persists in a state capable of rejuvenation.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 25,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Tammuz rejuvenated on the knees of Ištar.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0048",
+    "canonical_statement": "The soul experiences emotional catharsis and spiritual relief through the externalization of internal grief.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 26,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "The soul found relief in lifting up the voice attuned to some form of elegy.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "catharsis",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0049",
+    "canonical_statement": "Death is a cyclical transition rather than an absolute cessation of existence.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 26,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "He is considered as dead, but his death is not an absolute one.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "death",
+      "cyclicality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0050",
+    "canonical_statement": "The inner dimensions of the earth serve as a generative substrate for the renewal of life.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 26,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "preparing the inner earth for putting forth a new stock of vegetation",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "substrate",
+      "nature",
+      "renewal"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0051",
+    "canonical_statement": "Individual identity and consciousness persist through the process of death and resurrection.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 26,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "To give vitality to his work he still maintains his old personality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "resurrection",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0052",
+    "canonical_statement": "The soul persists in existence after the physical death of the individual.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 27,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "Osiris... became judge of the dead, though his soul continued in existence among men.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0053",
+    "canonical_statement": "The cyclical death and rebirth of nature reflects a divine or archetypal pattern.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 27,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "spring verdure was cut down by the hot blasts of summer.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "nature",
+      "archetype",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0054",
+    "canonical_statement": "Mythological narratives across disparate cultures share a common origin or underlying metaphysical truth.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 27,
+        "chapter": "Chapter I                                                            21",
+        "surface_quote": "most of these accounts having a common origin",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "mythology",
+      "truth",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0055",
+    "canonical_statement": "The supreme deity exists as a self-originated and self-sufficient entity.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 28,
+        "chapter": "Chapter I",
+        "surface_quote": "O lord of wisdom, supreme by thyself!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0056",
+    "canonical_statement": "The supreme deity is the foundational architect and creator of the physical world.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 28,
+        "chapter": "Chapter I",
+        "surface_quote": "The lord of creation, the creator, the true head of the land!",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0057",
+    "canonical_statement": "The divine presence is omnipresent, spanning the entirety of the spatial horizon.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 28,
+        "chapter": "Chapter I",
+        "surface_quote": "From the land of the rising sun to the land of the setting sun!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0058",
+    "canonical_statement": "The supreme deity acts as the essential source and sustainer of life.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 28,
+        "chapter": "Chapter I",
+        "surface_quote": "O mountain, the lord of life, thou the lord indeed art!",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0059",
+    "canonical_statement": "The divine order functions as the binding force that maintains social and cosmic cohesion.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 28,
+        "chapter": "Chapter I",
+        "surface_quote": "The lord whose decrees bind together the city",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "structure",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0060",
+    "canonical_statement": "The divine entity acts as the primary generative force for biological life and agricultural subsistence.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 29,
+        "chapter": "Chapter I",
+        "surface_quote": "O father Bêl, who causest vegetation to sprout, who causest grain to grow",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0061",
+    "canonical_statement": "The divine entity functions as the supreme organizer and sovereign of both natural and social structures.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 29,
+        "chapter": "Chapter I",
+        "surface_quote": "the organizer of city and state",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0062",
+    "canonical_statement": "The divine entity is the fundamental source of vitality and strength for all living beings.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 29,
+        "chapter": "Chapter I",
+        "surface_quote": "the head of life, the head of strength, the power of life thou makest thyself",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "vitalism",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0063",
+    "canonical_statement": "The divine entity exerts absolute authority over the entirety of the physical cosmos, including heaven and earth.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 29,
+        "chapter": "Chapter I",
+        "surface_quote": "His lordship extends not only over the land, but up into the air as well.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0064",
+    "canonical_statement": "The concept of lordship is ontologically linked to the state of being and the exercise of power.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 30,
+        "chapter": "Chapter I",
+        "surface_quote": "umun means being lord, umun equalling being.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0065",
+    "canonical_statement": "The status of lordship is linguistically and conceptually associated with the process of aging or becoming elderly.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 30,
+        "chapter": "Chapter I",
+        "surface_quote": "IGI-DIBBU means lord, having the Assyrian equivalent labaru, to be old.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0066",
+    "canonical_statement": "The concept of 'self' is linguistically and conceptually derived from the experience of fear or the presence of a storm-deity.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 32,
+        "chapter": "Chapter I",
+        "surface_quote": "nì-te may mean “self”... by way of erroneous association for ramânu, “self”.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "linguistics",
+      "etymology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0067",
+    "canonical_statement": "The divine entity is characterized by an inherent, self-contained supremacy.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 32,
+        "chapter": "Chapter I",
+        "surface_quote": "O Bêl, lord of wisdom, ........ supreme by thyself!",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0068",
+    "canonical_statement": "The concept of 'father' is etymologically and symbolically linked to the primordial elements of water and seed.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 33,
+        "chapter": "Chapter I",
+        "surface_quote": "a-a also seems to be a softened form of ad-da... a means seed or water.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "etymology",
+      "archetype"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0069",
+    "canonical_statement": "Spiritual entities categorized as 'lil' represent a class of beings that can manifest as either benevolent or malevolent.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 33,
+        "chapter": "Chapter I",
+        "surface_quote": "lil in magic writings means demon, i. e., a spirit which may be either good or bad.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirit",
+      "ontology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0070",
+    "canonical_statement": "The human race is ontologically distinguished from celestial beings by physical characteristics.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 35,
+        "chapter": "Chapter I",
+        "surface_quote": "blackheaded may mean the human race in contradistinction to the bright celestial beings",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "humanity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0071",
+    "canonical_statement": "The divine entity possesses the attribute of total perception or omniscience.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 35,
+        "chapter": "Chapter I",
+        "surface_quote": "O father Bêl, the only all-seeing one!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "perception",
+      "omniscience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0072",
+    "canonical_statement": "Divine authority is exercised through the issuance of binding decrees that structure the social or cosmic order.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 41,
+        "chapter": "Chapter I",
+        "surface_quote": "The lord whose decrees bind together the city.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "authority",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0073",
+    "canonical_statement": "The concept of a dwelling place is ontologically linked to the notion of a prescribed space.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 42,
+        "chapter": "Chapter I",
+        "surface_quote": "dù really means prescribed space.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0074",
+    "canonical_statement": "The essence of a dwelling is defined by its function as a permanent place of rest.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 42,
+        "chapter": "Chapter I",
+        "surface_quote": "nà-a defines the nature of the dwelling as a permanent place of rest.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0075",
+    "canonical_statement": "The abstract prefix denoting love is derived from the fundamental nature of fire.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 42,
+        "chapter": "Chapter I",
+        "surface_quote": "àm is primarily the fire of love.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0076",
+    "canonical_statement": "The divine entity is identified with the solar principle, functioning as a singular source of light and life.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 43,
+        "chapter": "Chapter I",
+        "surface_quote": "Babbar is the ordinary ideogram for the sun, as well as of the god Šamaš.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0077",
+    "canonical_statement": "The mountain is conceptualized as a sovereign entity possessing the essence of life.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 43,
+        "chapter": "Chapter I",
+        "surface_quote": "O mountain, the lord of life, thou the lord indeed art!",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "animism",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0078",
+    "canonical_statement": "The essence of life is conceptually linked to the notion of height or the acme of existence.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 44,
+        "chapter": "Chapter I",
+        "surface_quote": "nu-um-ti might mean the acme of life",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "life",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0079",
+    "canonical_statement": "The self is defined by an enclosed space or house, representing the boundary of individual existence.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 44,
+        "chapter": "Chapter I",
+        "surface_quote": "ÊŠU is an old Babylonian sign pictorially representing enclosed space",
+        "claim_type": "implied",
+        "confidence": 0.6
+      }
+    ],
+    "tags": [
+      "identity",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0080",
+    "canonical_statement": "The divine entity possesses a nature characterized by supreme authority and the capacity to inspire existential dread.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 45,
+        "chapter": "Chapter I",
+        "surface_quote": "O mighty one, dread of heaven, royal one indeed thou art!",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0081",
+    "canonical_statement": "The divine principle functions as a dualistic force, simultaneously manifesting as both the agent of destruction and the agent of production.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 47,
+        "chapter": "Chapter I",
+        "surface_quote": "Bêl, who bringest forth destruction and who bringest forth production.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "duality",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0082",
+    "canonical_statement": "Natural phenomena, such as atmospheric storms, serve as the physical mechanism through which divine creative and destructive powers are exerted.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 47,
+        "chapter": "Chapter I",
+        "surface_quote": "Bêl is god of the atmosphere... sources of growth on earth or of ruin.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0083",
+    "canonical_statement": "The natural world, specifically avian and aquatic life, possesses an inherent capacity for fear in response to divine presence.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 48,
+        "chapter": "Chapter I",
+        "surface_quote": "The birds of the heavens and the fish of the sea are filled with fear.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0084",
+    "canonical_statement": "The divine entity functions as the sustainer and guiding authority of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 49,
+        "chapter": "Chapter I",
+        "surface_quote": "O father Bêl... the shepherd of the stars!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0085",
+    "canonical_statement": "Life is a fundamental principle or entity that can be represented as a 'head' or primary source.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 49,
+        "chapter": "Chapter I",
+        "surface_quote": "sag-e-zi equals head... of life",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "life",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0086",
+    "canonical_statement": "The deity Bêl is the fundamental source and embodiment of life and strength.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 51,
+        "chapter": "Chapter I",
+        "surface_quote": "O father Bêl, the head of life, the head of strength.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0087",
+    "canonical_statement": "Royal authority is ontologically derived from and vested in the deity.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 51,
+        "chapter": "Chapter I",
+        "surface_quote": "royal authority is vested in Bêl.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "authority",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0088",
+    "canonical_statement": "The identity of a divine being is expressed through the totality of its manifestations or titles.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 51,
+        "chapter": "Chapter I",
+        "surface_quote": "each line of the Hymn being considered a name of Bêl.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0089",
+    "canonical_statement": "The celestial body functions as a divine agent whose cycles of fullness correlate with the generation of life.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 52,
+        "chapter": "Chapter II",
+        "surface_quote": "When thou speakest graciously and engenderest life, thou, when thou art full!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0090",
+    "canonical_statement": "Divine speech acts serve as the mechanism for the manifestation of life and order within the world.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 52,
+        "chapter": "Chapter II",
+        "surface_quote": "Thy father discerns the joyful face and speaks life to the land.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "logos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0091",
+    "canonical_statement": "The structure of time is governed by the sovereign command of the divine, which is issued daily.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 52,
+        "chapter": "Chapter II",
+        "surface_quote": "As an exalted royal command, daily he causes the word to go forth!",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0092",
+    "canonical_statement": "The celestial bodies function as manifestations of divine agency that regulate terrestrial and elemental phenomena.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 53,
+        "chapter": "Chapter II",
+        "surface_quote": "The river is filled with water by Nannar.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0093",
+    "canonical_statement": "Divine entities utilize symbolic vessels to traverse the celestial realms.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 53,
+        "chapter": "Chapter II",
+        "surface_quote": "The sacred ship symbolized Nannar’s transit through the heavens.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0094",
+    "canonical_statement": "Celestial bodies are perceived as vessels or vehicles traversing the firmament.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 54,
+        "chapter": "Chapter II",
+        "surface_quote": "Sin is a man sitting in the half circle of the moon and sailing.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0095",
+    "canonical_statement": "The moon is characterized by an inherent quality of luminosity or shining.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 54,
+        "chapter": "Chapter II",
+        "surface_quote": "azag, shining, refers to the moon.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nature",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0096",
+    "canonical_statement": "Deities function as benevolent guardians or helpers of the terrestrial realm.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 54,
+        "chapter": "Chapter II",
+        "surface_quote": "Sin was probably looked upon as the helper of earth.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0097",
+    "canonical_statement": "The divine entity is the singular foundational source of light.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 56,
+        "chapter": "Chapter II",
+        "surface_quote": "Áš-suḥ-ud means “the only foundation of light”.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0098",
+    "canonical_statement": "The divine entity possesses a state of fullness or completion.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 56,
+        "chapter": "Chapter II",
+        "surface_quote": "síg-ga-zu-ne is a ḥal-clause equal to ina malîka, “in thy fulness”.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "nature of being"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0099",
+    "canonical_statement": "The celestial body is identified as a vessel traversing the interior of the heavens.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 57,
+        "chapter": "Chapter II",
+        "surface_quote": "O ship in the midst of the heavens",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0100",
+    "canonical_statement": "Sovereignty is a state of being that can be occupied by divine entities.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 57,
+        "chapter": "Chapter II",
+        "surface_quote": "when thou art sovereign",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0101",
+    "canonical_statement": "The divine entity functions as the primary agent for the perfection and generation of life.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 59,
+        "chapter": "Chapter II",
+        "surface_quote": "Nannar is the perfecter of life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation",
+      "life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0102",
+    "canonical_statement": "The act of divine speech functions as a generative force that imparts life to the physical realm.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 60,
+        "chapter": "Chapter II",
+        "surface_quote": "Thy father discerns the joyful face and speaks life to the land.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0103",
+    "canonical_statement": "The divine essence manifests its identity through the phenomena of atmospheric power.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 66,
+        "chapter": "Chapter III",
+        "surface_quote": "In the lightning flash thou proclaimest thy name.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "manifestation",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0104",
+    "canonical_statement": "The radiance of the divine entity acts as a pervasive covering over the physical world.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 66,
+        "chapter": "Chapter III",
+        "surface_quote": "Thy brightness covers the land like a garment.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0105",
+    "canonical_statement": "Divine authority and power are transferred from a progenitor deity to a successor.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 67,
+        "chapter": "Chapter III",
+        "surface_quote": "Bêl to his son Adad measures out power.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0106",
+    "canonical_statement": "The act of divine perception or observation initiates temporal events and manifestations.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 67,
+        "chapter": "Chapter III",
+        "surface_quote": "The day thou didst lift up the eye, the day thou didst look.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0107",
+    "canonical_statement": "Divine speech and judgment are the foundational mechanisms for establishing cosmic order and temporal cycles.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 67,
+        "chapter": "Chapter III",
+        "surface_quote": "It was the day of the word of thy judgment.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "judgment",
+      "time",
+      "logos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0108",
+    "canonical_statement": "The manifestation of a deity into the world is synonymous with the determination of destiny and judgment.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 67,
+        "chapter": "Chapter III",
+        "surface_quote": "When he comes out of the house, he fixes the day of judgment.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0109",
+    "canonical_statement": "Divine authority is absolute and possesses the capacity to alter the fundamental conditions of the physical environment.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 68,
+        "chapter": "Chapter III",
+        "surface_quote": "The word of Adad is absolute and all-powerful.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0110",
+    "canonical_statement": "The manifestation of divine power is hierarchical, involving consultation between deities.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 68,
+        "chapter": "Chapter III",
+        "surface_quote": "Yet in all this he consults with father Bêl.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0111",
+    "canonical_statement": "The identity of a deity is intrinsically linked to and revealed through the manifestation of natural phenomena.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 68,
+        "chapter": "Chapter III",
+        "surface_quote": "In the lightning flash thou proclaimest thy name!",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "nature",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0112",
+    "canonical_statement": "The divine name is manifested or declared through the phenomena of atmospheric power.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 69,
+        "chapter": "Chapter III",
+        "surface_quote": "O Adad, in the mighty thunder and the lightning flash thou declarest thy name.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "manifestation",
+      "theophany"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0113",
+    "canonical_statement": "The divine name or essence is manifested through atmospheric phenomena such as thunder and lightning.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 70,
+        "chapter": "Chapter III",
+        "surface_quote": "In the mighty thunder and the lightning flash thou declarest thy name.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "manifestation",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0114",
+    "canonical_statement": "The structure of the universe is organized into hierarchical triads of governing deities.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 70,
+        "chapter": "Chapter III",
+        "surface_quote": "Anu, Bêl and Ea, as rulers of the universe, and Sin, Šamaš and Adad.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0115",
+    "canonical_statement": "Divine entities possess composite natures, integrating multiple distinct functional powers within a single identity.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 71,
+        "chapter": "Chapter III",
+        "surface_quote": "Adad is called “twin” or “companion”, because he possessed a composite nature.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0116",
+    "canonical_statement": "The manifestation of diverse natural phenomena implies a divided or multifaceted underlying metaphysical essence.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 71,
+        "chapter": "Chapter III",
+        "surface_quote": "Manifestations of power... would logically lead to the conclusion that his nature was divided.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "manifestation",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0117",
+    "canonical_statement": "The capacity for extreme emotional or behavioral oscillation indicates a dualistic or twin-like internal structure.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 71,
+        "chapter": "Chapter III",
+        "surface_quote": "Adad may be looked upon as twin-like... could pass suddenly from fiercest anger to gentlest kindness.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "duality",
+      "identity",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0118",
+    "canonical_statement": "The manifestation of a divine name is contingent upon the obscuration of light or the cessation of temporal order.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 72,
+        "chapter": "Chapter III",
+        "surface_quote": "when the light is darkened, thou declarest thy name.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "manifestation",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0119",
+    "canonical_statement": "The divine essence is revealed through the phenomena of thunder and lightning.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 72,
+        "chapter": "Chapter III",
+        "surface_quote": "in the mighty thunder and the lightning flash thou declarest thy name.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0120",
+    "canonical_statement": "The divine presence or radiance acts as a covering or interface between the transcendent and the terrestrial realm.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 72,
+        "chapter": "Chapter III",
+        "surface_quote": "The brightness covers the land like a garment.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0121",
+    "canonical_statement": "The concept of 'mother' is derived from the metaphysical principle of 'amplitude'.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 73,
+        "chapter": "Chapter III",
+        "surface_quote": "The idea of 'mother' arises out of 'amplitude'.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "symbolism",
+      "archetype"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0122",
+    "canonical_statement": "Divine entities are subject to fear and existential distress in the face of cataclysmic natural forces.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 74,
+        "chapter": "Chapter III",
+        "surface_quote": "The gods were dismayed at the flood. They sought refuge... cowering like dogs.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "theology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0123",
+    "canonical_statement": "Divine authority involves the hierarchical distribution of power from a progenitor to a descendant.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 75,
+        "chapter": "Chapter III",
+        "surface_quote": "Bêl to his son Mer measures out power",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0124",
+    "canonical_statement": "The act of perception or observation is a foundational event in the manifestation of a being's timeline.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 75,
+        "chapter": "Chapter III",
+        "surface_quote": "the day thou didst lift up the eye, the day thou didst look",
+        "claim_type": "dramatized",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0125",
+    "canonical_statement": "The abyss is identified as the primordial seat of wisdom and the divine residence.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 77,
+        "chapter": "Chapter III",
+        "surface_quote": "AB.ZU... meaning 'sea of wisdom', the abode of Ea, the god of wisdom.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0126",
+    "canonical_statement": "Divine judgment is an event that manifests as a specific temporal occurrence.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 77,
+        "chapter": "Chapter III",
+        "surface_quote": "It was the day of the word of thy judgment.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "judgment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0127",
+    "canonical_statement": "Natural phenomena such as lightning serve as active messengers of divine terror.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 77,
+        "chapter": "Chapter III",
+        "surface_quote": "As the lightning, a messenger for terror, thou didst go.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0128",
+    "canonical_statement": "Divine entities possess the authority to establish the temporal conditions of judgment.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 80,
+        "chapter": "Chapter III",
+        "surface_quote": "Father Adad... fixes the day of judgment.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "time",
+      "judgment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0129",
+    "canonical_statement": "Divine speech acts function as the imposition of governance upon individuals.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 80,
+        "chapter": "Chapter III",
+        "surface_quote": "Adad, when he speaks... on him he imposes his government.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "governance",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0130",
+    "canonical_statement": "The divine entity possesses the ontological authority to determine and fix the nature of temporal periods.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 81,
+        "chapter": "Chapter III",
+        "surface_quote": "he fixes the mighty day",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0131",
+    "canonical_statement": "The establishment of cosmic or temporal states is intrinsically linked to the manifestation of specific existential conditions, such as curses.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 81,
+        "chapter": "Chapter III",
+        "surface_quote": "he establishes himself... he fixes the day of curse",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "causality",
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0132",
+    "canonical_statement": "The divine entity is omnipresent and remains in close proximity to the physical world.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 82,
+        "chapter": "Chapter IV",
+        "surface_quote": "The son whose temple is not far away.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "omnipresence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0133",
+    "canonical_statement": "The divine entity serves as the foundational substrate for the physical land.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 82,
+        "chapter": "Chapter IV",
+        "surface_quote": "The shining one of Ištar, who is the foundation of the land.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "substrate",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0134",
+    "canonical_statement": "The divine entity is the active principle behind biological growth and natural abundance.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 82,
+        "chapter": "Chapter IV",
+        "surface_quote": "The one of plant-germination, whose heart is full of plant-production.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0135",
+    "canonical_statement": "The divine entity is the source of human speech and communication.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 82,
+        "chapter": "Chapter IV",
+        "surface_quote": "The one of speech, who is not far away.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0136",
+    "canonical_statement": "The divine entity functions as the generative principle for all biological and agricultural life.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 83,
+        "chapter": "Chapter IV",
+        "surface_quote": "The germinator of many fruits, the germinator of the lower world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0137",
+    "canonical_statement": "The divine entity exists simultaneously within the realm of the living and the lower world.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 83,
+        "chapter": "Chapter IV",
+        "surface_quote": "The germinator of the lower world... the son of life; in the midst of life.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0138",
+    "canonical_statement": "The essence of the divine is identified with the principle of life itself.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 83,
+        "chapter": "Chapter IV",
+        "surface_quote": "The son of life; in his fulness, in the midst of life goeth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0139",
+    "canonical_statement": "The divine entity functions as the generative principle for all biological growth and vegetation.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 84,
+        "chapter": "Chapter IV",
+        "surface_quote": "his characteristic and supreme function of plant-germination.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nature",
+      "divinity",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0140",
+    "canonical_statement": "The lower world serves as the domain for occult forces that underpin physical manifestation.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 84,
+        "chapter": "Chapter IV",
+        "surface_quote": "lord over the occult and internal forces inherent beneath the soil",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "occult",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0141",
+    "canonical_statement": "Death and descent into the underworld are necessary precursors to the emergence of new life.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 84,
+        "chapter": "Chapter IV",
+        "surface_quote": "So he became a god of a new life.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "transformation",
+      "cycle",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0142",
+    "canonical_statement": "Divine entities possess the capacity to influence terrestrial biological growth from a celestial location.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 85,
+        "chapter": "Chapter IV",
+        "surface_quote": "stationed in heaven, the rays of his power were felt on earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0143",
+    "canonical_statement": "The identity of a divine being can be defined by their functional role in the cycle of life.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 85,
+        "chapter": "Chapter IV",
+        "surface_quote": "Dumu-zi means “son of life”.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0144",
+    "canonical_statement": "Divine entities undergo cyclical transitions between celestial realms and the underworld corresponding to seasonal shifts in vegetation.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 86,
+        "chapter": "Chapter IV",
+        "surface_quote": "Tammuz lived with Ištar during growth and in the regions below during decline.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cyclicality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0145",
+    "canonical_statement": "The divine entity functions as the foundational principle or structural basis of the terrestrial realm.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 87,
+        "chapter": "Chapter IV",
+        "surface_quote": "the shining one of Ištar, who is the foundation of the land",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0146",
+    "canonical_statement": "Divine beings possess the capacity for authoritative utterance regarding the processes of natural germination.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 87,
+        "chapter": "Chapter IV",
+        "surface_quote": "god endowed with authoritative utterance on the subject of germination",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature",
+      "logos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0147",
+    "canonical_statement": "The divine presence is characterized by an inherent proximity to the human or manifest sphere.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 87,
+        "chapter": "Chapter IV",
+        "surface_quote": "The one of speech, who is not far away",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "immanence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0148",
+    "canonical_statement": "Biological growth and vegetation are the result of intentional design by divine entities.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 88,
+        "chapter": "Chapter IV",
+        "surface_quote": "Plant growth is a matter of intelligent devising on the part of Tammuz.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0149",
+    "canonical_statement": "The divine entity acts as a recipient of human communication and ritual offerings.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 89,
+        "chapter": "Chapter IV",
+        "surface_quote": "The lofty one... to whom they speak.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0150",
+    "canonical_statement": "Wisdom is an inherent quality of the divine or enlightened being.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 89,
+        "chapter": "Chapter IV",
+        "surface_quote": "the son, the shining one of wisdom",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0151",
+    "canonical_statement": "The divine being possesses an enduring or eternal nature.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 89,
+        "chapter": "Chapter IV",
+        "surface_quote": "who indeed liveth!",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "existence",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0152",
+    "canonical_statement": "The underworld functions as a generative source for life and vegetation.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 91,
+        "chapter": "Chapter IV",
+        "surface_quote": "The germinator of the lower world, the germinator of many fruits.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0153",
+    "canonical_statement": "The divine entity is identified as the son of life, whose essence permeates the living.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 91,
+        "chapter": "Chapter IV",
+        "surface_quote": "The son of life, his fulness in the midst of life goeth forth.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0154",
+    "canonical_statement": "The deity Enlil is the sovereign ruler of heaven and earth and the determiner of the destiny of the land.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 102,
+        "chapter": "Chapter IV",
+        "surface_quote": "Bel is lord of heaven and earth, determiner of the destiny of the land.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "destiny",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0155",
+    "canonical_statement": "The existence of sacred structures and cities is contingent upon the creative act of the divine.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 102,
+        "chapter": "Chapter IV",
+        "surface_quote": "Without Enlil, the Ekur is not built; without the gods, cities are not formed.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0156",
+    "canonical_statement": "The divine Enlil is the progenitor and father of the pantheon of gods.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 102,
+        "chapter": "Chapter IV",
+        "surface_quote": "Enlil is the father of the gods.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0157",
+    "canonical_statement": "The creation of humanity and living beings is an act of divine ordering and physical formation.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 103,
+        "chapter": "Chapter IV",
+        "surface_quote": "Marduk created mankind and living creatures, placing them in their proper locations.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0158",
+    "canonical_statement": "Divine entities possess the authority to determine and fix the destinies of beings.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 103,
+        "chapter": "Chapter IV",
+        "surface_quote": "Enlil is the lord who determines destinies which cannot be altered.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0159",
+    "canonical_statement": "The physical and social order of the world is maintained through the active intervention and decree of divine powers.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 103,
+        "chapter": "Chapter IV",
+        "surface_quote": "The gods control the heavens, earth, and the prosperity of the land.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0160",
+    "canonical_statement": "Divine entities possess the agency to influence terrestrial prosperity and agricultural abundance through meteorological phenomena.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 104,
+        "chapter": "Chapter IV",
+        "surface_quote": "Anu and Ramman grant years of abundance and plenty to my reign.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0161",
+    "canonical_statement": "The physical environment and agricultural success are directly contingent upon the release or withholding of divine power.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 104,
+        "chapter": "Chapter IV",
+        "surface_quote": "Ramman released his rains and Ea opened his springs, causing the grain to grow.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nature",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0162",
+    "canonical_statement": "Divine wrath manifests as the systematic destruction of a land's order, resulting in famine and ruin.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 104,
+        "chapter": "Chapter IV",
+        "surface_quote": "May Ramman overwhelm his land with evil, turning it into a ruinous heap.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destruction",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0163",
+    "canonical_statement": "Divine beings are ontologically categorized by their residence in either the celestial or chthonic realms.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 105,
+        "chapter": "Chapter IV",
+        "surface_quote": "Gods of heaven ascend to heaven; gods of the earth enter the earth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0164",
+    "canonical_statement": "The afterlife is a physical location beneath the earth where the dead reside.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 105,
+        "chapter": "Chapter IV",
+        "surface_quote": "The dead go to the breast of the earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sumerian_hymns_0165",
+    "canonical_statement": "The state of the dead is characterized by a continued existence that can be influenced by the rituals of the living.",
+    "attributions": [
+      {
+        "source_id": "sumerian_hymns",
+        "chunk_index": 105,
+        "chapter": "Chapter IV",
+        "surface_quote": "Let the dead come up and smell the incense.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  }
+]

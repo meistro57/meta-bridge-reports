@@ -1,0 +1,5457 @@
+[
+  {
+    "id": "cl_we_2_0001",
+    "canonical_statement": "Human freedom and happiness are mutually exclusive states.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "freedom and happiness are incompatible",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0002",
+    "canonical_statement": "Human beings are inherently incapable of utilizing freedom for constructive purposes.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "men are congenitally incapable of using their freedom",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0003",
+    "canonical_statement": "The human drive for materialistic happiness outweighs the desire for autonomy.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "yearn for a materialistic happiness and are eager to surrender",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "desire"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0004",
+    "canonical_statement": "Human psychological nature is highly plastic and susceptible to long-term behavioral modification through intimidation.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "psychological make-up is so plastic... effectively intimidated",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0005",
+    "canonical_statement": "Human perception fluctuates between the poles of absolute objectivity and absolute subjectivity based on emotional state.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "perception moves between the extreme limits of objectivity and subjectivity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0006",
+    "canonical_statement": "The human psyche is characterized by a conflict between rational and irrational forces.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "duel between the rational and irrational forces within him",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0007",
+    "canonical_statement": "Perception is divided into conscious and unconscious faculties.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "shifting between his conscious and unconscious powers of perception",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0008",
+    "canonical_statement": "Deeply rooted national or particular identity is a prerequisite for achieving universal significance.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "the more genuinely national a man's art... the more universal he becomes",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "universality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0009",
+    "canonical_statement": "The descent of consciousness from a celestial state into a material state is a catastrophic event.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 18,
+        "chapter": "DISCHARGE-THE MATERIAL OF AN IDEATHE ZERO ROCK",
+        "surface_quote": "THE DESCENT FROM HEAVEN-THE GREATEST CATASTROPHE",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "descent",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0010",
+    "canonical_statement": "The material world possesses objective existence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 18,
+        "chapter": "DISCHARGE-THE MATERIAL OF AN IDEATHE ZERO ROCK",
+        "surface_quote": "THE WORLD DOES EXIST",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0011",
+    "canonical_statement": "The ideal state of existence is characterized by linear precision and mathematical order.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 20,
+        "chapter": "THE LAST NUMBER-GALILEO'S MISTAKEWOULD IT NOT BE BETTER?",
+        "surface_quote": "United State is a straight line, a great, divine, precise, wise line",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0012",
+    "canonical_statement": "Individual consciousness can be subsumed into a collective identity.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 20,
+        "chapter": "THE LAST NUMBER-GALILEO'S MISTAKEWOULD IT NOT BE BETTER?",
+        "surface_quote": "the things we think. Yes, \"we\"; that is exactly what I mean",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0013",
+    "canonical_statement": "The universe is composed of a singular, eternal, and transparent substance.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 21,
+        "chapter": "RECORD TWO",
+        "surface_quote": "universe seems to be moulded of the same eternal glass",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0014",
+    "canonical_statement": "The underlying structure of reality is governed by mathematical equations visible through specific states of perception.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 21,
+        "chapter": "RECORD TWO",
+        "surface_quote": "one sees their wonderful equations, hitherto unknown",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0015",
+    "canonical_statement": "Human nature is characterized by an inherent instinct for submission and non-freedom.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 22,
+        "chapter": "RECORD TWO",
+        "surface_quote": "instinct of non-freedom has been characteristic of human nature",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "human nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0016",
+    "canonical_statement": "Aesthetic beauty is derived from the state of absolute submission or lack of freedom.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 22,
+        "chapter": "RECORD TWO",
+        "surface_quote": "dance is beautiful... because it is an unfree movement",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "aesthetics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0017",
+    "canonical_statement": "The individual consciousness can encompass the collective identity of a multitude.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 23,
+        "chapter": "RECORD TWO",
+        "surface_quote": "I, we four, were but one of the innumerable waves",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0018",
+    "canonical_statement": "The physical universe is composed of a luminous, affective substance.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 23,
+        "chapter": "RECORD TWO",
+        "surface_quote": "Everything seems to be made of a kind of smiling, a ray-like matter",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0019",
+    "canonical_statement": "The individual is the primary architect of their perceived external reality.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 23,
+        "chapter": "RECORD TWO",
+        "surface_quote": "I myself, had won a victory... I myself had created all this",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0020",
+    "canonical_statement": "Consciousness is capable of non-linear temporal displacement.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 23,
+        "chapter": "RECORD TWO",
+        "surface_quote": "without warning-a jump through centuries",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0021",
+    "canonical_statement": "Individual consciousnesses are not unique entities but are variations of a singular, shared essence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 24,
+        "chapter": "RECORD TWO",
+        "surface_quote": "nobody is one, but one of",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0022",
+    "canonical_statement": "Individuals are characterized by distinct numerical or symbolic identifiers within a structured system.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 24,
+        "chapter": "RECORD TWO",
+        "surface_quote": "I saw her number now",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0023",
+    "canonical_statement": "Human evolution is characterized by a progression from nomadic to sedentary states of existence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 28,
+        "chapter": "RECORD THREE",
+        "surface_quote": "history of mankind... transition from nomadic forms to more sedentary ones",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evolution",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0024",
+    "canonical_statement": "The most sedentary form of existence represents the highest state of perfection.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 28,
+        "chapter": "RECORD THREE",
+        "surface_quote": "most sedentary form of life... is at the same time the most perfect",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perfection",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0025",
+    "canonical_statement": "Individual identity can be subsumed into a collective, synchronized organism.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 29,
+        "chapter": "RECORD THREE",
+        "surface_quote": "United into a single body with a million hands",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0026",
+    "canonical_statement": "Absolute happiness is a problem that can be solved through systemic organization.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 29,
+        "chapter": "RECORD THREE",
+        "surface_quote": "not attained the absolute, exact solution of the problem of happiness",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0027",
+    "canonical_statement": "Total existence can be fully quantified and incorporated into a deterministic formula.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 29,
+        "chapter": "RECORD THREE",
+        "surface_quote": "all of the 86,400 seconds will be incorporated",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0028",
+    "canonical_statement": "Ethics can be formulated as a precise mathematical system of calculation.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 30,
+        "chapter": "RECORD THREE",
+        "surface_quote": "ethics based on adding, subtracting, multiplying, and dividing",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0029",
+    "canonical_statement": "Human reproduction can be managed as a scientific process of production.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 30,
+        "chapter": "RECORD THREE",
+        "surface_quote": "production of children... Maternal and Paternal Norms",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "biology",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0030",
+    "canonical_statement": "The universe or collective existence operates as a vast, deterministic machine.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 31,
+        "chapter": "RECORD THREE",
+        "surface_quote": "eternal great march of the whole machine",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "universe",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0031",
+    "canonical_statement": "Individual entities are components of a larger systemic whole, subject to repair or removal by higher authorities.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 31,
+        "chapter": "RECORD THREE",
+        "surface_quote": "eliminate a broken peg we have the skillful heavy hand",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0032",
+    "canonical_statement": "Mathematical structures are the causal foundation of musical composition.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 32,
+        "chapter": "RECORD FOUR",
+        "surface_quote": "mathematICs is the cause, music the effect",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "mathematics",
+      "art"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0033",
+    "canonical_statement": "Creative inspiration is a physiological manifestation of a neurological disorder.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 32,
+        "chapter": "RECORD FOUR",
+        "surface_quote": "inspiration, an extinct form of epilepsy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "biology",
+      "creativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0034",
+    "canonical_statement": "Individual identity is a state that can be interrupted and subsequently recovered.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 33,
+        "chapter": "RECORD FOUR",
+        "surface_quote": "That bubble brought me back to myself. I was again I.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0035",
+    "canonical_statement": "Physical privacy and opaque environments contribute to a fragmented or isolated psychology.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 34,
+        "chapter": "RECORD FOUR",
+        "surface_quote": "opaque dwellings of the ancients were responsible for their pitiful cellish psychology",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0036",
+    "canonical_statement": "Biological imperatives, specifically love and hunger, are the primary governing forces of the world.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 35,
+        "chapter": "RECORD FIVE",
+        "surface_quote": "Love and Hunger rule the world",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0037",
+    "canonical_statement": "Happiness is a mathematical ratio where bliss is the numerator and envy is the denominator.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 36,
+        "chapter": "RECORD FIVE",
+        "surface_quote": "bliss and envy are only the numerator and the denominator... of happiness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "emotion",
+      "mathematics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0038",
+    "canonical_statement": "The elimination of envy or jealousy results in an infinite state of happiness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 36,
+        "chapter": "RECORD FIVE",
+        "surface_quote": "denominator... reduced to zero and the whole fraction is... magnificent infiniteness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "emotion",
+      "mathematics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0039",
+    "canonical_statement": "The application of logic can transform chaotic existential experiences into harmonious biological functions.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 37,
+        "chapter": "RECORD FIVE",
+        "surface_quote": "power of logic purifies everything it happens to touch",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "logic",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0040",
+    "canonical_statement": "Physical or psychological remnants of primitive evolutionary stages can persist within a highly evolved consciousness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 37,
+        "chapter": "RECORD FIVE",
+        "surface_quote": "trace of a primitive epoch",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0041",
+    "canonical_statement": "The current state of civilization has achieved total mastery over the physical elements of nature.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 37,
+        "chapter": "RECORD FIVE",
+        "surface_quote": "we have conquered all the elements",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0042",
+    "canonical_statement": "The ideal state of existence is characterized by the total absence of eventfulness or change.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 38,
+        "chapter": "RECORD SIX",
+        "surface_quote": "The ideal... is to be found where nothing happens",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "ideal",
+      "stasis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0043",
+    "canonical_statement": "Life undergoes a process of hardening and crystallization toward a state of absolute predictability.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 38,
+        "chapter": "RECORD SIX",
+        "surface_quote": "process of the hardening and crystallization of life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0044",
+    "canonical_statement": "Causal necessity governs all natural elements, precluding the existence of unconditional or arbitrary affection.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 40,
+        "chapter": "RECORD SIX",
+        "surface_quote": "all elements of nature should be... love because of",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "causality",
+      "nature",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0045",
+    "canonical_statement": "Human consciousness is largely inaccessible, with the eyes serving as the only limited portals to the internal state.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 41,
+        "chapter": "RECORD SIX",
+        "surface_quote": "heads are opaque... two very small windows... the eyes",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0046",
+    "canonical_statement": "The internal psychic landscape contains autonomous, hidden life and energetic processes distinct from the external persona.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 41,
+        "chapter": "RECORD SIX",
+        "surface_quote": "behind them... strange hidden life... fire, burning",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0047",
+    "canonical_statement": "Originality is defined as the violation of the law of equality.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 42,
+        "chapter": "RECORD SIX",
+        "surface_quote": "to be original means to violate the law of equality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0048",
+    "canonical_statement": "Dreaming is a pathological mental state rather than a natural cognitive function in the contemporary human condition.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 45,
+        "chapter": "RECORD SEVEN",
+        "surface_quote": "dreaming is a serious mental disease",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0049",
+    "canonical_statement": "The human brain is a precise, mechanical apparatus.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 45,
+        "chapter": "RECORD SEVEN",
+        "surface_quote": "my brain, this precise, clean, glittering mechanism",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0050",
+    "canonical_statement": "The individual is a constituent part of a larger, unified collective entity.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 46,
+        "chapter": "RECORD SEVEN",
+        "surface_quote": "I see myself as a part of an enormous, vigorous, united body",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "collective"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0051",
+    "canonical_statement": "Physical existence can be refined or transformed through a process of spiritualization via fire.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 46,
+        "chapter": "RECORD SEVEN",
+        "surface_quote": "body of the Integral, not yet spiritualized by fire",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "transformation",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0052",
+    "canonical_statement": "Sensory impressions can be recorded by the mind without being consciously registered.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 47,
+        "chapter": "RECORD SEVEN",
+        "surface_quote": "optical impression which remained unregistered by consciousness",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0053",
+    "canonical_statement": "Human freedom is the necessary prerequisite for the commission of crime.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 48,
+        "chapter": "RECORD SEVEN",
+        "surface_quote": "if human liberty is equal to zero, man does not commit any crime",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "freedom",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0054",
+    "canonical_statement": "The removal of freedom is the only method to eliminate criminality.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 48,
+        "chapter": "RECORD SEVEN",
+        "surface_quote": "way to rid man of criminality is to rid him of freedom",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "freedom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0055",
+    "canonical_statement": "In a cosmic temporal scale, centuries are negligible durations.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 48,
+        "chapter": "RECORD SEVEN",
+        "surface_quote": "in the cosmic sense centuries are only a 'no sooner'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0056",
+    "canonical_statement": "Sensory perceptions, such as odors, are qualitatively neutral and cannot be inherently categorized as good or bad.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 49,
+        "chapter": "RECORD SEVEN",
+        "surface_quote": "cannot say about an odor... that it is good or bad",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "value",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0057",
+    "canonical_statement": "Engagement with mathematical or arithmetical logic serves to stabilize and purify conscious thought.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 50,
+        "chapter": "RECORD SEVEN",
+        "surface_quote": "arithmetical problems... calms and purifies our thoughts",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0058",
+    "canonical_statement": "The pursuit of formal knowledge can function as a psychological defense mechanism to avoid confronting the infinite.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 52,
+        "chapter": "RECORD EIGHT",
+        "surface_quote": "knowledge is but a form of cowardice... encircle the infinite with a wall",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "infinite",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0059",
+    "canonical_statement": "Human identity is structured by restrictive boundaries or conceptual limitations.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 53,
+        "chapter": "RECORD EIGHT",
+        "surface_quote": "Walls are the foundation of every human",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0060",
+    "canonical_statement": "The individual consciousness can experience a fragmentation or duality of the self.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 53,
+        "chapter": "RECORD EIGHT",
+        "surface_quote": "strange new self who... bore my number",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0061",
+    "canonical_statement": "Higher consciousness or spiritual advancement is achieved through the completion of an 'Integral'.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 54,
+        "chapter": "RECORD EIGHT",
+        "surface_quote": "how is your Integral?",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "enlightenment",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0062",
+    "canonical_statement": "Enlightened beings possess the capacity to travel between planets.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 54,
+        "chapter": "RECORD EIGHT",
+        "surface_quote": "hop off to enlighten the inhabitants of the planets",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0063",
+    "canonical_statement": "Interpersonal connections can exist as invisible, non-physical links between individuals.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 55,
+        "chapter": "RECORD EIGHT",
+        "surface_quote": "thin, invisible thread stretched between her and R",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "connection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0064",
+    "canonical_statement": "The state can function as a rational deity providing absolute truth and the elimination of doubt.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 56,
+        "chapter": "RECORD NINE",
+        "surface_quote": "we serve our rational god... he has rid us of any kind of doubt",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "truth",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0065",
+    "canonical_statement": "The universe undergoes cyclical phases of creation, technological stabilization, and catastrophic destruction.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 58,
+        "chapter": "RECORD NINE",
+        "surface_quote": "the world had perished... the world was renovated",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0066",
+    "canonical_statement": "A hierarchical structure of governing entities exists, including a primary creator and subordinate guardians.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 58,
+        "chapter": "RECORD NINE",
+        "surface_quote": "face to face with the Well-Doer... hosts of Guardians",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "deity",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0067",
+    "canonical_statement": "Human physical matter is composed of atoms that can be dissociated into chemically pure water.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 59,
+        "chapter": "RECORD NINE",
+        "surface_quote": "dissociation of matter-yes, the splitting of the atoms of the human body",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "matter",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0068",
+    "canonical_statement": "Aesthetic value is derived exclusively from rationality and utility.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 59,
+        "chapter": "RECORD NINE",
+        "surface_quote": "Only rational and useful things are beautiful",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "value"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0069",
+    "canonical_statement": "Every human being is assigned a guardian entity from birth.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 60,
+        "chapter": "RECORD NINE",
+        "surface_quote": "Guardian Angels assigned to each person from the day of his birth",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0070",
+    "canonical_statement": "Certain entities originate from a non-physical or subconscious dimension characterized as a land of dreams.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 63,
+        "chapter": "RECORD TEN",
+        "surface_quote": "she comes from beyond, from the wild, ancient land of dreams",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "origin",
+      "dimension",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0071",
+    "canonical_statement": "The state maintains a moral or legal mandate to punish the consumption of intoxicants to prevent collective degeneration.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 65,
+        "chapter": "RECORD TEN",
+        "surface_quote": "anyone who poisons himself... is severely treated by the United State",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "governance",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0072",
+    "canonical_statement": "Physical appearance and clothing serve as a deceptive layer that obscures the true form of a being.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 66,
+        "chapter": "RECORD TEN",
+        "surface_quote": "discard the deception of clothes and appear in public in his true form",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "form"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0073",
+    "canonical_statement": "The physical world conceals a volatile, destructive energetic substrate beneath its surface.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 67,
+        "chapter": "RECORD TEN",
+        "surface_quote": "walking over a seething red sea of fire... hidden",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0074",
+    "canonical_statement": "Human identity is composed of multiple, distinct internal selves.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 67,
+        "chapter": "RECORD TEN",
+        "surface_quote": "There were two selves in me",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0075",
+    "canonical_statement": "The perception of reality can be distorted by chemical agents.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 68,
+        "chapter": "RECORD TEN",
+        "surface_quote": "the effect of the poison",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0076",
+    "canonical_statement": "The perceived physical identity is distinct from the essential self.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 69,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "The real I is not he.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0077",
+    "canonical_statement": "The observer exists as a consciousness separate from the observed physical form.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 69,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "I look at myself-at \"him.\"",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0078",
+    "canonical_statement": "Certainty in knowledge is functionally equivalent to faith.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 69,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "Knowledge... which is sure that it is faultless, is faith.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0079",
+    "canonical_statement": "Human reason is subject to profound disorientation and confusion.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 70,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "how strangely confused Our precise and sharp human reason may become",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0080",
+    "canonical_statement": "Temporal perception is subjective and may diverge from linear measurement.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 70,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "Twenty minutes! Perhaps two hundred or hvo hundred thousand!",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0081",
+    "canonical_statement": "Consciousness is capable of a detached, third-person observation of its own physical state.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 70,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "watching curiously how you yourself shrivel",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0082",
+    "canonical_statement": "True happiness is contingent upon the absence of freedom.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 71,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "preserves our non-freedom, that is, our happiness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "consciousness",
+      "freedom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0083",
+    "canonical_statement": "Moral deliberation is a byproduct of freedom and an obstacle to happiness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 71,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "break their heads trying to make out what was moral",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0084",
+    "canonical_statement": "The state of innocence is characterized by a lack of distinction between good and evil.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 71,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "No more meddling with good and evil",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0085",
+    "canonical_statement": "The individual consciousness can be fragmented into multiple, distinct identities, some of which are perceived as pathological or illusory.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 72,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "I of before is the real one; my I of late is... an illness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0086",
+    "canonical_statement": "Direct mental communication or telepathic perception of another's thoughts is possible.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 72,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "R- read my thought in my face... I distinctly heard his thoughts",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0087",
+    "canonical_statement": "The perceived self may be dissociated from the physical body, allowing for an externalized observation of one's own physical form.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 72,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "I, the real I, suddenly saw in the mirror",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0088",
+    "canonical_statement": "The individual consciousness can be fragmented into multiple, distinct self-entities.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 73,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "grasped my other wild, hairy, heavily breathing self",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0089",
+    "canonical_statement": "Consciousness can exist as an observer detached from the physical body.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 73,
+        "chapter": "RECORD ELEVEN",
+        "surface_quote": "watch curiously from some indefinite \"there\" how I... am shriveling",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0090",
+    "canonical_statement": "Human cognition functions by partitioning the infinite into finite, manageable segments.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 74,
+        "chapter": "RECORD TWELVE",
+        "surface_quote": "judgment... directed toward the constant limiting of the infinite",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "infinity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0091",
+    "canonical_statement": "The concept of a Guardian Angel is a materialized reality rather than a mere dream.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 75,
+        "chapter": "RECORD TWELVE",
+        "surface_quote": "materialization of the dream of the ancients about a Guardian Angel",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0092",
+    "canonical_statement": "The creator of humanity is fallible and capable of error.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 75,
+        "chapter": "RECORD TWELVE",
+        "surface_quote": "the ancient god himself made a mistake",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0093",
+    "canonical_statement": "Truth is singular, absolute, and accessible through a single, correct methodology.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 76,
+        "chapter": "RECORD TWELVE",
+        "surface_quote": "one truth, and there is but one path to it",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0094",
+    "canonical_statement": "The universe operates according to eternal, immutable laws.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 76,
+        "chapter": "RECORD TWELVE",
+        "surface_quote": "correct, eternal laws of the multiplication table",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "law",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0095",
+    "canonical_statement": "Divinity is immanent within the material and mundane structures of social organization.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 77,
+        "chapter": "RECORD TWELVE",
+        "surface_quote": "Our gods are here, below... in the Bureau, in the kitchen",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "immanence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0096",
+    "canonical_statement": "The attainment of godhood is achieved through the alignment of existence with rationality and systemic correctness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 77,
+        "chapter": "RECORD TWELVE",
+        "surface_quote": "make your life as godlike, as rational, and as correct",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0097",
+    "canonical_statement": "The perceived boundary between terrestrial and celestial realms is permeable or illusory.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 78,
+        "chapter": "RECORD THIRTEEN",
+        "surface_quote": "boundary between earth and sky disappeared",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "reality",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0098",
+    "canonical_statement": "Material structures are subject to dissolution into a fluid or amorphous state.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 78,
+        "chapter": "RECORD THIRTEEN",
+        "surface_quote": "houses... dissolved in the fog like crystals",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "matter",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0099",
+    "canonical_statement": "Human submission to inevitable natural or cosmic law produces a state of joy.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 79,
+        "chapter": "RECORD THIRTEEN",
+        "surface_quote": "joy it was to submit to what should be",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "emotion",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0100",
+    "canonical_statement": "Human experience of destiny is analogous to the physical laws governing inanimate matter.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 79,
+        "chapter": "RECORD THIRTEEN",
+        "surface_quote": "fragment of iron ore probably feels the same joy",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "analogy",
+      "determinism",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0101",
+    "canonical_statement": "The individual is the central point of existence, and all external phenomena exist for the benefit or perception of the self.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 80,
+        "chapter": "RECORD THIRTEEN",
+        "surface_quote": "everything existed only for me",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0102",
+    "canonical_statement": "Pre-incarnate consciousnesses exist in a state of gradual maturation or ripening prior to birth.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 80,
+        "chapter": "RECORD THIRTEEN",
+        "surface_quote": "we who were in her body were not yet born; we were ripening",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0103",
+    "canonical_statement": "The subjective experience of the individual can supersede the objective cosmological center of the universe.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 81,
+        "chapter": "RECORD THIRTEEN",
+        "surface_quote": "everything was revolving around me",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0104",
+    "canonical_statement": "The individual consciousness can expand to encompass the entirety of the universe.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 82,
+        "chapter": "RECORD THIRTEEN",
+        "surface_quote": "I was the Universe!",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0105",
+    "canonical_statement": "Subjective perception of time can dilate, allowing vast epochs to occur between momentary physical events.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 82,
+        "chapter": "RECORD THIRTEEN",
+        "surface_quote": "between drops whole epochs, eras, were elapsing",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0106",
+    "canonical_statement": "Intense experiential states can lead to the dissolution of the individual ego and social identity.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 82,
+        "chapter": "RECORD THIRTEEN",
+        "surface_quote": "no United State; I was myself no more",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "ego"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0107",
+    "canonical_statement": "The nature of experienced reality may be indistinguishable from the state of dreaming.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 83,
+        "chapter": "RECORD THIRTEEN",
+        "surface_quote": "Does it not all resemble the ancient disease of dream seeing?",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0108",
+    "canonical_statement": "Human existence or the current state of being is characterized as a form of illness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 84,
+        "chapter": "RECORD FOURTEEN",
+        "surface_quote": "All this is an illness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0109",
+    "canonical_statement": "The nature of reality can shift from a rational state to an irrational or paradoxical state.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 84,
+        "chapter": "RECORD FOURTEEN",
+        "surface_quote": "no longer live in our rational world but in the ancient delirious world",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0110",
+    "canonical_statement": "The individual possesses a core identity distinct from the immediate impulses or actions of the physical body.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 86,
+        "chapter": "RECORD FOURTEEN",
+        "surface_quote": "I, my real self, did not mean",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0111",
+    "canonical_statement": "Universal laws are precise and inevitable, overriding individual will.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 86,
+        "chapter": "RECORD FOURTEEN",
+        "surface_quote": "the law is precise, inevitable",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0112",
+    "canonical_statement": "Individual consciousness can consciously choose to experience illness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 87,
+        "chapter": "RECORD FIFTEEN",
+        "surface_quote": "You chose to be ill",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "will",
+      "soma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0113",
+    "canonical_statement": "The moral value of an action is determined by its purpose rather than the physical act itself.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 88,
+        "chapter": "RECORD FIFTEEN",
+        "surface_quote": "one is a well-doer, the other is a murderer",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "value"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0114",
+    "canonical_statement": "Certain physical or sensory experiences can persist after the source of the stimulus has vanished.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 88,
+        "chapter": "RECORD FIFTEEN",
+        "surface_quote": "she had disappeared... I still feel... that sweet pain",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0115",
+    "canonical_statement": "Imagination can be conceptualized as a pathological state or illness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 89,
+        "chapter": "RECORD FIFTEEN",
+        "surface_quote": "I know that I have imagination; that is what my illness consists of",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0116",
+    "canonical_statement": "Subjective perception can attribute vitality and sentience to inanimate matter.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 89,
+        "chapter": "RECORD FIFTEEN",
+        "surface_quote": "the stones seem soft and living, iron living and warm",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0117",
+    "canonical_statement": "The dissolution of the distinction between biological organisms and mechanical systems creates a state of aesthetic and functional harmony.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 90,
+        "chapter": "RECORD FIFTEEN",
+        "surface_quote": "All seemed one: humanized machine and mechanized humans.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "harmony"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0118",
+    "canonical_statement": "Cognitive activity (thinking) is characterized as a form of mental instability or pathology.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 90,
+        "chapter": "RECORD FIFTEEN",
+        "surface_quote": "foreheads unclouded by the insanity of thinking",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0119",
+    "canonical_statement": "Subjective perception can diverge from objective reality, creating a state of cognitive dissonance regarding the nature of existence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 91,
+        "chapter": "RECORD FIFTEEN",
+        "surface_quote": "obvious to me that all this was my imagination",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0120",
+    "canonical_statement": "The individual is linked to a non-physical or shadow-entity by invisible metaphysical bonds.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 93,
+        "chapter": "RECORD SIXTEEN",
+        "surface_quote": "attached to me by unseen ties",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0121",
+    "canonical_statement": "A shadow-entity possesses the capacity for conscious observation of the physical self.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 93,
+        "chapter": "RECORD SIXTEEN",
+        "surface_quote": "your shadow sees you, sees you all the time",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0122",
+    "canonical_statement": "The emergence of a soul is a distinct, potentially hazardous developmental event within a conscious being.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 95,
+        "chapter": "RECORD SIXTEEN",
+        "surface_quote": "Apparently a soul has formed in you.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0123",
+    "canonical_statement": "The consciousness or soul acts as an absorbent medium that permanently preserves every sensory perception and experience.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 96,
+        "chapter": "RECORD SIXTEEN",
+        "surface_quote": "it keeps forever a trace of everything that touches it",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "memory",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0124",
+    "canonical_statement": "Physical reality is a superficial layer that can be penetrated to reveal a deeper, volumetric dimension of existence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 96,
+        "chapter": "RECORD SIXTEEN",
+        "surface_quote": "The surface becomes a volume, a body, a world",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "dimension",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0125",
+    "canonical_statement": "Sensory impressions are eternally archived within the internal structure of the being.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 96,
+        "chapter": "RECORD SIXTEEN",
+        "surface_quote": "this wrinkle is forever preserved within you",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "memory",
+      "soul",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0126",
+    "canonical_statement": "The human soul is viewed as a pathological condition or a biological anomaly that can be surgically removed.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 97,
+        "chapter": "RECORD SIXTEEN",
+        "surface_quote": "extirpate the center for fancy. Only surgery can help",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0127",
+    "canonical_statement": "The emergence of spiritual or soulful consciousness can occur as a contagious epidemic within a population.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 97,
+        "chapter": "RECORD SIXTEEN",
+        "surface_quote": "My colleague is right when he speaks of an epidemic",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epidemiology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0128",
+    "canonical_statement": "The soul is located beneath the surface of the physical body.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 99,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "rotating wildly beneath the molten surface, there where the \"soul\" is located",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "anatomy",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0129",
+    "canonical_statement": "Human identity is characterized as a precise mechanism.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 99,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "from a man, from the finest and most precise mechanism which I am",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "nature of man"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0130",
+    "canonical_statement": "The eyes serve as conduits connecting the superficial layer of reality to a deeper, underlying dimension of existence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 100,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "Eyes are shafts which lead... into a world which is beneath the surface.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0131",
+    "canonical_statement": "A structured, artificial environment separates a rational, calculated existence from an irrational, organic state of being.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 100,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "isolated our machine-like, perfect world from the irrational, ugly world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0132",
+    "canonical_statement": "All distinct entities and elements of nature are fundamentally unified by a single, shared essence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 101,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "I, the sun, the old woman... all seemed to be one",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nonduality",
+      "identity",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0133",
+    "canonical_statement": "The locus of consciousness or vital function can exist independently of the physical body.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 101,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "tick-tack of my heart... outside me",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "body",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0134",
+    "canonical_statement": "A state of temporary death exists where consciousness remains active and mobile.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 102,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "I was in a state of temporary death.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "death",
+      "consciousness",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0135",
+    "canonical_statement": "During temporary death, the conscious entity experiences a loss of physical weight and increased agility.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 102,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "I became lightfooted again, extremely light!",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "body",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0136",
+    "canonical_statement": "The transition from a state of temporary death back to life involves a sensation of descending and a dimming of perception.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 102,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "floated somewhere downward; my eyes were dimmed-I died!",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "death",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0137",
+    "canonical_statement": "The soul can exist in a state of chronic or incurable dysfunction.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 104,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "I have a soul .... incurable",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0138",
+    "canonical_statement": "Consciousness persists after physical death.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 104,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "A shadow ... behind me. I died.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0139",
+    "canonical_statement": "Physical manifestations or injuries can persist across different states of consciousness or dimensions of experience.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 105,
+        "chapter": "RECORD SEVENTEEN",
+        "surface_quote": "One real sign remains: on my right hand the skin has been rubbed",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0140",
+    "canonical_statement": "The boundary between dream states and objective reality is permeable or indistinguishable.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 106,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "no longer able to distinguish what is dream from what is actuality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0141",
+    "canonical_statement": "Non-Euclidean or irrational mathematical structures can manifest within a tridimensional physical existence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 106,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "irrational numbers grow through my solid, habitual, tridimensional life",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "dimension",
+      "substrate",
+      "mathematics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0142",
+    "canonical_statement": "Mathematical truths imply the existence of physical or metaphysical entities beyond human perception.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 107,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "unseen by us they do exist... for in mathematics",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "mathematics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0143",
+    "canonical_statement": "The soul is a real entity despite its invisibility to the observer.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 107,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "the \"soul,\" is as real as my uniform",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0144",
+    "canonical_statement": "Subjective experiences and perceptions persist regardless of the state of conscious awareness or external lighting conditions.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 108,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "All I saw and felt neither died nor disappeared",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0145",
+    "canonical_statement": "The individual consciousness can exist as a private, autonomous reality separate from the collective environment.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 108,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "beyond that wall there was my own world",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0146",
+    "canonical_statement": "The individual is a constituent part of a larger collective whole.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 109,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "Imagine a finger cut off from the whole",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0147",
+    "canonical_statement": "The individual is separated from the external world by a psychological or energetic barrier.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 110,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "curtains which separate me from the rest of the world",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "separation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0148",
+    "canonical_statement": "Subjective experience of time can decouple from linear chronological time during periods of intense emotional or psychological distress.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 111,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "lived through ten years, or perhaps twenty years",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0149",
+    "canonical_statement": "The human psyche or identity can undergo fragmentation, requiring a process of reintegration.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 111,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "paste together the fragments of myself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0150",
+    "canonical_statement": "Individual entities are infinitesimal components of a larger collective state.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 112,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "dozen Numbers represent scarcely one hundred millionth part of the United State",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "scale"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0151",
+    "canonical_statement": "Empathy and pity are products of mathematical ignorance rather than inherent moral truths.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 112,
+        "chapter": "RECORD EIGHTEEN",
+        "surface_quote": "Pity, a result of arithmetical ignorance... to us it seems absurd",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0152",
+    "canonical_statement": "Physical boundaries are normally impermeable to consciousness but can undergo a state of softening.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 113,
+        "chapter": "RECORD NINETEEN",
+        "surface_quote": "softening of the surface which is normally as hard as diamond",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0153",
+    "canonical_statement": "Consciousness can perceive through solid physical matter.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 113,
+        "chapter": "RECORD NINETEEN",
+        "surface_quote": "Through the walls full of sunshine I see",
+        "claim_type": "dramatized",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0154",
+    "canonical_statement": "Events are governed by a deterministic necessity akin to a mathematical formula.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 115,
+        "chapter": "RECORD NINETEEN",
+        "surface_quote": "felt the necessity, the naturalness of that insignificant occurrence",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "determinism",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0155",
+    "canonical_statement": "Interpersonal connections and spatial arrangements form geometric projections of future events.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 115,
+        "chapter": "RECORD NINETEEN",
+        "surface_quote": "three points... lines were drawn, a projection of some-as-yet-unforeseen events",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "destiny",
+      "geometry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0156",
+    "canonical_statement": "Consciousness can be transferred or accessed via external technological mechanisms.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 117,
+        "chapter": "RECORD NINETEEN",
+        "surface_quote": "I turned the switch; my thoughts went out",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "technology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0157",
+    "canonical_statement": "The human soul can be experienced as a source of psychological or spiritual torment.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 118,
+        "chapter": "RECORD TWENTY",
+        "surface_quote": "cured me at last of my torturing 'soul'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0158",
+    "canonical_statement": "Individual identity is subsumed into a collective or universal state of being.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 118,
+        "chapter": "RECORD TWENTY",
+        "surface_quote": "Again I am like all of us",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0159",
+    "canonical_statement": "Moral right is a derivative function of power and collective strength.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 119,
+        "chapter": "RECORD TVVENTY",
+        "surface_quote": "the source of right was-might! Right is a function of might.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0160",
+    "canonical_statement": "Individual identity is negligible when weighed against the collective entity of the state.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 119,
+        "chapter": "RECORD TVVENTY",
+        "surface_quote": "On one side \"I,\" on the other \"we,\" the United State.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "collective"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0161",
+    "canonical_statement": "Enduring existence is predicated upon adherence to fundamental, simple mathematical laws.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 119,
+        "chapter": "RECORD TVVENTY",
+        "surface_quote": "mortality will be unshakable and eternal which is built upon those four rules.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "mathematics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0162",
+    "canonical_statement": "Human history progresses in a cyclical, ascending spiral pattern.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 120,
+        "chapter": "RECORD TVVENTY",
+        "surface_quote": "Human history moves upward in circles, like an aero.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0163",
+    "canonical_statement": "The return to a point of origin in a cycle results in a qualitatively different state of existence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 120,
+        "chapter": "RECORD TVVENTY",
+        "surface_quote": "this zero is different: it is a perfectly new zero",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0164",
+    "canonical_statement": "Opposing states of existence may be separated by an infinitesimal boundary.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 121,
+        "chapter": "RECORD TWENTY",
+        "surface_quote": "separated from the other black side... by the thickness of a blade",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "duality",
+      "existence",
+      "boundary"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0165",
+    "canonical_statement": "Human maturity or completion is achieved through the total elimination of existential uncertainty.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 122,
+        "chapter": "RECORD TWENTY-ONE",
+        "surface_quote": "man becomes man... when his punctuation includes no question marks",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0166",
+    "canonical_statement": "The author/creator functions as the primary ontological source for the characters within a narrative reality.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 123,
+        "chapter": "RECORD TWENTY-ONE",
+        "surface_quote": "Perhaps all of you are only my shadows.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "ontology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0167",
+    "canonical_statement": "Human beings typically perceive themselves as three-dimensional physical realities, though this may be a misconception.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 123,
+        "chapter": "RECORD TWENTY-ONE",
+        "surface_quote": "doubt as to the fact that he or she is a three-dimensional reality",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "dimension",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0168",
+    "canonical_statement": "Past experiences may be illusory or the product of subconscious dreaming rather than objective historical events.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 124,
+        "chapter": "RECORD TWENTY-ONE",
+        "surface_quote": "Probably all that was only one of my absurd 'dreams.'",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "memory",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0169",
+    "canonical_statement": "Collective identity can manifest as a single entity with multiple heads and shared limbs.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 128,
+        "chapter": "RECORD TWENTY-ONE",
+        "surface_quote": "thousand heads and two composite, integrated legs",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0170",
+    "canonical_statement": "The transition from a state of conscious existence to a subsequent state is characterized by a loss of perception.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 130,
+        "chapter": "RECORD TWENTY-TWO",
+        "surface_quote": "My light went out; I waited obediently.",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "transition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0171",
+    "canonical_statement": "The boundary between a perceived reality and a state of non-existence or separation is experienced as a curtain.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 130,
+        "chapter": "RECORD TWENTY-TWO",
+        "surface_quote": "a heavy curtain was about to separate me from this beautiful world",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0172",
+    "canonical_statement": "Collective identity is divine, whereas individual identity is a manifestation of evil.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 131,
+        "chapter": "RECORD TWENTY-TWO",
+        "surface_quote": "\"We\" is from \"God,\" \"I,\" from the devil",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0173",
+    "canonical_statement": "Self-consciousness is a pathological state rather than a healthy condition.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 131,
+        "chapter": "RECORD TWENTY-TWO",
+        "surface_quote": "consciousness of oneself is a sickness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0174",
+    "canonical_statement": "Normal existence is characterized by a lack of self-awareness, akin to the unconsciousness of healthy organs.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 131,
+        "chapter": "RECORD TWENTY-TWO",
+        "surface_quote": "A healthy eye... is nonexistent, as it were",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0175",
+    "canonical_statement": "Material objects and biological entities share a common capacity for sudden, transformative manifestation.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 132,
+        "chapter": "RECORD TWENTY-THREE",
+        "surface_quote": "thousand-year-old buds burst... armchairs, shoes... cheeks of U-",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "matter",
+      "transformation",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0176",
+    "canonical_statement": "The individual identity can dissolve into a state of universal oneness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 133,
+        "chapter": "RECORD TWENTY-THREE",
+        "surface_quote": "I was dissolving in her... she was not she but the whole universe",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "unity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0177",
+    "canonical_statement": "The boundary between the self and external objects can be erased in states of ecstasy.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 133,
+        "chapter": "RECORD TWENTY-THREE",
+        "surface_quote": "I and that armchair... we were one",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0178",
+    "canonical_statement": "The entirety of the external universe can be contained within the individual consciousness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 133,
+        "chapter": "RECORD TWENTY-THREE",
+        "surface_quote": "all this was within me",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "universe",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0179",
+    "canonical_statement": "Human consciousness or intelligence is subject to transformation and refinement over vast timescales.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 134,
+        "chapter": "RECORD TWENTY-THREE",
+        "surface_quote": "through centuries... transformed into something very precious",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0180",
+    "canonical_statement": "Individuals within the social structure possess an internalized, subconscious temporal synchronization mechanism.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 134,
+        "chapter": "RECORD TWENTY-THREE",
+        "surface_quote": "unseen metronome that tick-tocks silently",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0181",
+    "canonical_statement": "Linear or sequential order in recorded information may be fundamentally unattainable due to inherent, undiscoverable unknowns.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 135,
+        "chapter": "RECORD TWENTY-THREE",
+        "surface_quote": "there will be no real order; there are obstacles... undiscoverable unknowns",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "order",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0182",
+    "canonical_statement": "Death is the ultimate state of the self's dissolution into the universe.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 137,
+        "chapter": "RECORD TWENTY-FOUR",
+        "surface_quote": "death is exactly the most complete dissolution of the self",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "death",
+      "identity",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0183",
+    "canonical_statement": "Love is functionally equivalent to the process of death.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 137,
+        "chapter": "RECORD TWENTY-FOUR",
+        "surface_quote": "love is the function of death",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "love",
+      "death",
+      "function"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0184",
+    "canonical_statement": "The narrator exists in a temporal state or civilization advanced by centuries relative to the reader.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 138,
+        "chapter": "RECORD TWENTY-FOUR",
+        "surface_quote": "you who still lag centuries behind, below",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0185",
+    "canonical_statement": "Certain cyclical events can evoke the same emotional intensity upon every repetition as if experienced for the first time.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 138,
+        "chapter": "RECORD TWENTY-FOUR",
+        "surface_quote": "fresh emotions, as if we saw it for the first time",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0186",
+    "canonical_statement": "The universe is deterministic and devoid of contingency or randomness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 139,
+        "chapter": "RECORD TWENTY-FOUR",
+        "surface_quote": "nothing unexpected can happen",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0187",
+    "canonical_statement": "Individual identities are subsumed into a single, unified collective organism.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 139,
+        "chapter": "RECORD TWENTY-FOUR",
+        "surface_quote": "united, powerful organism of millions of cells",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0188",
+    "canonical_statement": "The distinction between the individual self and the collective whole is an illusion; they are a single entity.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 139,
+        "chapter": "RECORD TWENTY-FOUR",
+        "surface_quote": "all and I are one we",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0189",
+    "canonical_statement": "Supernatural guardians exist to monitor and correct human error.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 140,
+        "chapter": "RECORD TWENTY-FOUR",
+        "surface_quote": "unseen Guardians... register the Numbers who might fall into error",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "guardian",
+      "morality",
+      "supernatural"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0190",
+    "canonical_statement": "The perceived reality of the physical world is contingent upon the emotional state of the observer.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 140,
+        "chapter": "RECORD TWENTY-FOUR",
+        "surface_quote": "tomorrow's sun will appear... as a little circle cut out of a tin sheet",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0191",
+    "canonical_statement": "Physical reality is a fragile, tenuous construct resembling a web.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 142,
+        "chapter": "RECORD TWENTY-FIVE",
+        "surface_quote": "everything was really a very thin spiderweb",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0192",
+    "canonical_statement": "Consciousness can be synchronized or tuned to the same frequency as other entities.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 142,
+        "chapter": "RECORD TWENTY-FIVE",
+        "surface_quote": "tuned to the same wave-length... a corresponding quiver",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0193",
+    "canonical_statement": "Non-physical causality can manifest as physical sensation.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 143,
+        "chapter": "RECORD TWENTY-FIVE",
+        "surface_quote": "non-physical causes produce physical pain",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "perception",
+      "body-mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0194",
+    "canonical_statement": "The nature of individual and collective identity is unstable or unknown.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 146,
+        "chapter": "RECORD TWENTY-FIVE",
+        "surface_quote": "But who are 'they'? And who am I?",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0195",
+    "canonical_statement": "The state of being a singular point represents a condition of maximum potentiality and uncertainty.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 147,
+        "chapter": "RECORD TWENTY-FIVE",
+        "surface_quote": "A point has more unknowns than any other entity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence",
+      "potentiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0196",
+    "canonical_statement": "The individual identity can be reduced to an infinitesimal geometric point.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 147,
+        "chapter": "RECORD TWENTY-FIVE",
+        "surface_quote": "I was dissolved, I became infinitesimal, a geometrical point",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0197",
+    "canonical_statement": "Linear time is subject to instability or non-sequential recall.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 147,
+        "chapter": "RECORD TWENTY-FIVE",
+        "surface_quote": "or was this another time?",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0198",
+    "canonical_statement": "Physical reality may persist as a residual effect of a ceased causal force.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 148,
+        "chapter": "RECORD TWENTY-SIX",
+        "surface_quote": "generator already switched out, while the armature is still roaring",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "reality",
+      "causality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0199",
+    "canonical_statement": "The soul is subject to total erasure or displacement by intense emotional or physical union.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 152,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "whirlwind which sweeps, out of my soul everything",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "union"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0200",
+    "canonical_statement": "Perception of reality is filtered and diminished by structural barriers.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 153,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "dimmed and hazy through the cloudy glass of the Wall",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0201",
+    "canonical_statement": "Existence is stratified into distinct realms or worlds of varying quality.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 153,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "kept clean of that lower world",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "structure",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0202",
+    "canonical_statement": "The physical environment of the non-material or transitional realm may possess non-Euclidean or biologically anomalous properties.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 154,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "under my foot... something disgustingly soft, yielding, living",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0203",
+    "canonical_statement": "Post-corporeal or extra-dimensional existence involves the presence of diverse humanoid entities.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 154,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "In the clearing... beings... apparently they were humans",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0204",
+    "canonical_statement": "The physical world and its inhabitants are capable of a state of floating or detachment from a fixed terrestrial foundation.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 155,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "all were silently floating like a ship",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "reality",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0205",
+    "canonical_statement": "There exists a conceptual or physical construct termed the 'Integral' capable of absorbing or transcending systemic boundaries.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 155,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "the Integral is going to take these walls up",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "structure",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0206",
+    "canonical_statement": "The individual consciousness can transcend its ordinary state to experience a sense of absolute unity and ontological separation from the collective.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 156,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "I ceased to be the usual item; I became unity",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0207",
+    "canonical_statement": "There exists a unifying principle or symbolic thread that binds disparate elements of reality together.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 156,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "simple thread binding everything together",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "structure",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0208",
+    "canonical_statement": "The human essence or spiritual core is characterized by a concentrated, luminous energy center located in the chest.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 156,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "transparent body... heart, a blinding, red, blazing coal",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0209",
+    "canonical_statement": "Individual consciousnesses can exist in a state of collective unity or shared respiratory synchronization.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 157,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "all of them breathed one breath",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0210",
+    "canonical_statement": "The perception of reality is characterized by fragmented, transient, and bubble-like manifestations of form.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 157,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "faces appearing for a second and disappearing like bursting bubbles",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0211",
+    "canonical_statement": "There exists a spatial or dimensional boundary that separates distinct realms of existence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 158,
+        "chapter": "RECORD TWENTY-SEVEN",
+        "surface_quote": "those within the Wall",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "space",
+      "dimension",
+      "boundary"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0212",
+    "canonical_statement": "The human psyche consists of multiple, potentially conflicting internal identities.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 160,
+        "chapter": "RECORD TWENTY-EIGHT",
+        "surface_quote": "controlling with difficulty the other self within me",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0213",
+    "canonical_statement": "Human existence is characterized by an inherent unpredictability regarding its conclusion.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 161,
+        "chapter": "RECORD TWENTY-EIGHT",
+        "surface_quote": "Man is like a novel: one does not know what the end will be",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0214",
+    "canonical_statement": "Existence is characterized by a fundamental duality or fragmentation that requires unification to achieve a complete state.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 162,
+        "chapter": "RECORD TWENTY-EIGHT",
+        "surface_quote": "The half we have lost... those two halves must be united.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "existence",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0215",
+    "canonical_statement": "There exists a realm or state of being located beyond the perceived boundaries of the material world.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 162,
+        "chapter": "RECORD TWENTY-EIGHT",
+        "surface_quote": "go there beyond the Wall",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "dimension"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0216",
+    "canonical_statement": "The universe is governed by two opposing fundamental forces: entropy and energy.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 163,
+        "chapter": "RECORD TWENTY-EIGHT",
+        "surface_quote": "two forces in the world, entropy and energy",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "energy",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0217",
+    "canonical_statement": "Entropy leads toward a state of equilibrium and quietude.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 163,
+        "chapter": "RECORD TWENTY-EIGHT",
+        "surface_quote": "One leads into, blessed quietude, to happy equilibrium",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "entropy",
+      "equilibrium"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0218",
+    "canonical_statement": "Energy acts as a force that destroys equilibrium.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 163,
+        "chapter": "RECORD TWENTY-EIGHT",
+        "surface_quote": "the other to the destruction of equilibrium",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "energy",
+      "equilibrium"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0219",
+    "canonical_statement": "Certain historical belief systems conceptualized entropy as a divine entity.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 164,
+        "chapter": "RECORD TWENTY-EIGHT",
+        "surface_quote": "ancestors, the Christians, worshiped entropy like a God",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "entropy",
+      "belief"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0220",
+    "canonical_statement": "The soul or consciousness is not a point-source but is distributed throughout the physical body.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 166,
+        "chapter": "RECORD TWENTY-EIGHT",
+        "surface_quote": "my soul again distributed itself evenly throughout my whole body",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0221",
+    "canonical_statement": "The physical environment is subject to the influence of unseen supervisory entities.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 167,
+        "chapter": "RECORD TWENTY-EIGHT",
+        "surface_quote": "educational influence of the Guardians who are ever present",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "governance",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0222",
+    "canonical_statement": "Existence is structured by a boundary known as the Wall, beyond which other realms or materials exist.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 167,
+        "chapter": "RECORD TWENTY-EIGHT",
+        "surface_quote": "threads in the air... brought here from beyond the Wall",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spatial-structure",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0223",
+    "canonical_statement": "Emotional states such as love and pity are pathological malfunctions of the biological heart's mechanical function.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 168,
+        "chapter": "RECORD TVVENTY-NINE",
+        "surface_quote": "absurd, unnatural, and pathological are all these 'loves' and 'pities'",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "emotion",
+      "biology",
+      "pathology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0224",
+    "canonical_statement": "Physical matter or structures may undergo a process of disintegration and prolonged descent through an infinite void.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 169,
+        "chapter": "RECORD TVVENTY-NINE",
+        "surface_quote": "blue towers... falling... fly through the infinite",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "matter",
+      "space",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0225",
+    "canonical_statement": "The sequence of historical or systemic upheavals is infinite.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 171,
+        "chapter": "RECORD THIRTY",
+        "surface_quote": "their number is infinite",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0226",
+    "canonical_statement": "The concept of a final or ultimate event is a psychological construct used to mitigate the fear of infinity.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 171,
+        "chapter": "RECORD THIRTY",
+        "surface_quote": "The 'last one' is a child's story",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "infinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0227",
+    "canonical_statement": "Life and vitality are predicated upon the existence of differences and contrasts rather than uniformity.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 172,
+        "chapter": "RECORD THIRTY",
+        "surface_quote": "only differences... make for life",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0228",
+    "canonical_statement": "The universe is structured as a series of nested orbits or systems, where relative truths are subordinate to larger, absolute centers.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 172,
+        "chapter": "RECORD THIRTY",
+        "surface_quote": "solar system revolves around some other center",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "universe",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0229",
+    "canonical_statement": "There is no ultimate or final limit to numerical or systemic progression.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 172,
+        "chapter": "RECORD THIRTY",
+        "surface_quote": "there is no last number",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mathematics",
+      "infinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0230",
+    "canonical_statement": "All entities are subject to an inevitable process of decay and obsolescence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 172,
+        "chapter": "RECORD THIRTY",
+        "surface_quote": "everything inevitably grows old",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0231",
+    "canonical_statement": "The boundaries of individual identity can be dissolved through intense union with another consciousness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 172,
+        "chapter": "RECORD THIRTY",
+        "surface_quote": "embraced me... my self disappeared",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0232",
+    "canonical_statement": "Cognitive beings possess an inherent psychological need for predictability and structural regularity in their environment.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 173,
+        "chapter": "RECORD THIRTY",
+        "surface_quote": "unnatural for a thinking... human being to live among irregularities",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0233",
+    "canonical_statement": "Human reason and cognitive processes are analogous to the logical precision of mechanical systems.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 174,
+        "chapter": "RECORD THIRTY-ONE",
+        "surface_quote": "every spark from a dynamo is a spark of pure reason",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reason",
+      "mechanism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0234",
+    "canonical_statement": "Human existence can be structured to achieve the immutable precision and rhythm of a machine.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 174,
+        "chapter": "RECORD THIRTY-ONE",
+        "surface_quote": "have you not become as precise as a pendulum",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "mechanism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0235",
+    "canonical_statement": "Imagination or 'fancy' is a pathological state that impairs the functional integrity of the individual.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 175,
+        "chapter": "HAVE NO FANCY.",
+        "surface_quote": "you are ill. And the name of your illness is: FANCY.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0236",
+    "canonical_statement": "Imagination is a localized biological function of the brain.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 176,
+        "chapter": "RECORD THIHTY-ONE",
+        "surface_quote": "center for fancy... nervous knot in the lower region of the frontal lobe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0237",
+    "canonical_statement": "Human perfection and happiness are achievable through the mechanical alteration of biological structures.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 176,
+        "chapter": "RECORD THIHTY-ONE",
+        "surface_quote": "you are mechanized; the road to one-hundred-per-cent happiness is open",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0238",
+    "canonical_statement": "Physical recovery or medical intervention can result in a state of ontological renewal.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 178,
+        "chapter": "RECORD THIRTY-ONE",
+        "surface_quote": "tomorrow... you will be healthy again, as if born anew",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0239",
+    "canonical_statement": "Past experiences can be rendered metaphysically distant or irrelevant through a shift in current consciousness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 178,
+        "chapter": "RECORD THIRTY-ONE",
+        "surface_quote": "Now it was only history; it was a ridiculously far-off distance",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0240",
+    "canonical_statement": "Material opacity is a transient state and will eventually be replaced by universal luminosity.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 179,
+        "chapter": "RECORD THIRTY-ONE",
+        "surface_quote": "tomorrow all shadows will disappear... sun will be shining through everything",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "luminosity",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0241",
+    "canonical_statement": "Consciousness can inhabit or perceive non-biological, organized sentient forms.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 179,
+        "chapter": "RECORD THIRTY-ONE",
+        "surface_quote": "rational stones were unified into one organized society",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0242",
+    "canonical_statement": "Absolute happiness is defined as the total absence of desire.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 180,
+        "chapter": "RECORD THIRTY-ONE",
+        "surface_quote": "happiness is when there are no longer any desires",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "happiness",
+      "desire",
+      "state-of-being"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0243",
+    "canonical_statement": "The highest state of existence or the apex of being is characterized by a state of absolute zero or void.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 180,
+        "chapter": "RECORD THIRTY-ONE",
+        "surface_quote": "Absolute zero... prove that we are at the summit",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "void",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0244",
+    "canonical_statement": "Human consciousness possesses an inherent, somatic denial of its own mortality that overrides rational knowledge of death.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 181,
+        "chapter": "RECORD THIRTY-ONE",
+        "surface_quote": "you cannot believe this... that is why you haven't jumped",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "mortality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0245",
+    "canonical_statement": "The perceived physical world can be experienced as a superficial projection or a fragile representation of reality.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 182,
+        "chapter": "RECORD THIRTY-ONE",
+        "surface_quote": "all this seems... like a draft on a sheet of paper",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0246",
+    "canonical_statement": "Moral categories such as duty and crime are not absolute but are contingent upon the initial logical premise of a situation.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 184,
+        "chapter": "RECORD THIRTY-TWO",
+        "surface_quote": "everything depends upon the first logical premise",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "logic",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0247",
+    "canonical_statement": "Physical movement and bodily coordination can occur asynchronously with linear time.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 185,
+        "chapter": "RECORD THIRTY-TWO",
+        "surface_quote": "arms became foreign, swinging out of time",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "body",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0248",
+    "canonical_statement": "Physical form is a transient state of manifestation that can fluctuate between solidity and evaporation.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 186,
+        "chapter": "RECORD THIRTY-TWO",
+        "surface_quote": "sinking slowly, as if she were evaporating",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "body",
+      "manifestation",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0249",
+    "canonical_statement": "The physical body and its sensory organs are perceived as external instruments or tools rather than integral parts of the self.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 188,
+        "chapter": "RECORD THIRTY-THREE",
+        "surface_quote": "my eyes now are like a pen... something foreign",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0250",
+    "canonical_statement": "The individual consciousness consists of a superficial operational persona and a distinct inner self.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 191,
+        "chapter": "RECORD THIRTY-FOUR",
+        "surface_quote": "phonograph... within me... but I, my inner self, was busy",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0251",
+    "canonical_statement": "The physical body can experience a state of extreme lightness or vibrational instability during specific transitions.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 192,
+        "chapter": "RECORD THIRTY-FOUR",
+        "surface_quote": "body, which was so light that the walls... was quivering",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "body",
+      "perception",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0252",
+    "canonical_statement": "The transition from a terrestrial environment to outer space occurs instantaneously upon piercing a specific atmospheric boundary.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 192,
+        "chapter": "RECORD THIRTY-FOUR",
+        "surface_quote": "pierced it, and there was the sun and the blue sky",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "space",
+      "transition",
+      "atmosphere"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0253",
+    "canonical_statement": "Consciousness can exist and operate independently of the physical body.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 193,
+        "chapter": "RECORD THIRTY-FOUR",
+        "surface_quote": "soaring bodiless to a new world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0254",
+    "canonical_statement": "The individual self may function as a mechanical or automated process.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 193,
+        "chapter": "RECORD THIRTY-FOUR",
+        "surface_quote": "perhaps it was not I but a phonograph",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0255",
+    "canonical_statement": "The physical form of a conscious entity can manifest as an energetic or ethereal projection.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 194,
+        "chapter": "RECORD THIRTY-FOUR",
+        "surface_quote": "wingy, sparkling, flying like an ancient Valkyrie",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0256",
+    "canonical_statement": "Consciousness or identity can exist in a state or location beyond a definitive boundary or threshold.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 194,
+        "chapter": "RECORD THIRTY-FOUR",
+        "surface_quote": "she is already beyond the Wall",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0257",
+    "canonical_statement": "Physical reality can experience moments of incoherence or fragmentation.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 196,
+        "chapter": "RECORD THIRTY-FOUR",
+        "surface_quote": "the little world around me became incoherent, dispersed",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0258",
+    "canonical_statement": "The physical environment can undergo sudden shifts in perceived materiality.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 196,
+        "chapter": "RECORD THIRTY-FOUR",
+        "surface_quote": "glass plates under my feet seemed soft cotton-like",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0259",
+    "canonical_statement": "The internal consciousness can maintain a private, hidden state of existence separate from external perception.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 197,
+        "chapter": "RECORD THIRTY-FOUR",
+        "surface_quote": "I locked myself into myself as though into an opaque house",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0260",
+    "canonical_statement": "External reality can be perceived as a collection of fragmented, unstable, and disconnected elements rather than a cohesive whole.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 199,
+        "chapter": "RECORD THIRTY-FOUR",
+        "surface_quote": "the whole world was broken up into separate, sharp, independent fragments",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0261",
+    "canonical_statement": "Certain states of existence or spiritual processes aim to eliminate existential questioning in favor of a state of passive contentment.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 200,
+        "chapter": "RECORD THIRTY-FIVE",
+        "surface_quote": "liberate you from these gnawing, worm-like, torturing question marks",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0262",
+    "canonical_statement": "The pursuit of desire is a cyclical process where the attainment of an object necessitates the creation of a new desire.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 200,
+        "chapter": "RECORD THIRTY-FIVE",
+        "surface_quote": "swallow it and fall snoring; a new tail will become necessary",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "desire",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0263",
+    "canonical_statement": "Human consciousness can experience states of total sensory and communicative detachment from the external world.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 204,
+        "chapter": "RECORD TIDRTY-FIVE",
+        "surface_quote": "all communicating wires between me and the world were cut",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0264",
+    "canonical_statement": "The realization of universal truth is inherently linked to cruelty.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 205,
+        "chapter": "RECORD TIDRTY-FIVE",
+        "surface_quote": "the inevitable mark of truth is cruelty",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0265",
+    "canonical_statement": "Genuine love for humanity necessitates inhumanity.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 205,
+        "chapter": "RECORD TIDRTY-FIVE",
+        "surface_quote": "algebraic love for humanity must inevitably be inhuman",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "love",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0266",
+    "canonical_statement": "The divine acts as an executioner within the structure of cosmic tragedy.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 205,
+        "chapter": "RECORD TIDRTY-FIVE",
+        "surface_quote": "Christian God himself... is He not an executioner?",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0267",
+    "canonical_statement": "The state of ultimate bliss or paradise is characterized by the total eradication of desire, pity, and love.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 206,
+        "chapter": "RECORD TIDRTY-FIVE",
+        "surface_quote": "in paradise they know no desires anymore, no pity, no love",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0268",
+    "canonical_statement": "Divine or angelic bliss is achieved through the modification or removal of the capacity for imagination and desire.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 206,
+        "chapter": "RECORD TIDRTY-FIVE",
+        "surface_quote": "operation has been performed upon their center of fancy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0269",
+    "canonical_statement": "Individual identity can be subsumed into a collective systemic entity, erasing personal autonomy.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 207,
+        "chapter": "RECORD THIRTY-SIX",
+        "surface_quote": "not a molecule of the United State",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "collective"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0270",
+    "canonical_statement": "Linear time or causal progression can be abruptly disrupted or derailed.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 208,
+        "chapter": "RECORD THIRTY-SEVEN",
+        "surface_quote": "everything became confused, jumped off the centuries-old tracks",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0271",
+    "canonical_statement": "The individual self can be fragmented into discrete, physical manifestations.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 211,
+        "chapter": "RECORD THIRTY-SEVEN",
+        "surface_quote": "drops of myself, of my molten, poured-out self",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0272",
+    "canonical_statement": "Time is experienced as a non-linear or compressed elasticity rather than a constant flow.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 212,
+        "chapter": "RECORD THIRTY-SEVEN",
+        "surface_quote": "minutes... cruelly twisted into a very firm spring",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0273",
+    "canonical_statement": "Rebirth is contingent upon the prior termination of a previous state of existence.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 215,
+        "chapter": "RECORD THIRTY-NINE",
+        "surface_quote": "only what is killed can be reborn",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife",
+      "cycle"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0274",
+    "canonical_statement": "The individual identity is fragmented into multiple distinct versions of the self.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 218,
+        "chapter": "RECORD THIRTY-NINE",
+        "surface_quote": "About my real self, and about my hairy self",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0275",
+    "canonical_statement": "There exists a realm or state of existence located beyond a boundary known as the Wall.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 218,
+        "chapter": "RECORD THIRTY-NINE",
+        "surface_quote": "everything you saw beyond the Wall",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0276",
+    "canonical_statement": "The universe is finite in extent and spherical in geometry.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 219,
+        "chapter": "RECORD THIRTY-NINE",
+        "surface_quote": "the universe is finite; it is spherical in form",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0277",
+    "canonical_statement": "Infinity does not exist within the structure of the universe.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 219,
+        "chapter": "RECORD THIRTY-NINE",
+        "surface_quote": "I have calculated that there is no infinity",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mathematics",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0278",
+    "canonical_statement": "The non-zero average density of matter necessitates a finite universe.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 219,
+        "chapter": "RECORD THIRTY-NINE",
+        "surface_quote": "since we know it is not zero, therefore the universe is finite",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0279",
+    "canonical_statement": "The perceived universe is finite in scope.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 220,
+        "chapter": "RECORD THIRTY-NINE",
+        "surface_quote": "where your finite universe ends",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "universe",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0280",
+    "canonical_statement": "The presence of a soul is a pathological condition or a form of mental illness.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 221,
+        "chapter": "RECORD FORTY",
+        "surface_quote": "explanation seems to be my illness-my soul",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0281",
+    "canonical_statement": "The universe is finite in its spatial extent.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 221,
+        "chapter": "RECORD FORTY",
+        "surface_quote": "neighbor who discovered the finiteness of the universe",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "universe",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_we_2_0282",
+    "canonical_statement": "Reason is the ultimate governing principle of existence and is destined to prevail.",
+    "attributions": [
+      {
+        "source_id": "we_2",
+        "chunk_index": 222,
+        "chapter": "RECORD FORTY",
+        "surface_quote": "For Reason must prevail.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reason",
+      "teleology",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  }
+]

@@ -1,0 +1,5742 @@
+[
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0001",
+    "canonical_statement": "The individual soul originates from the divine source.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "I came from you.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0002",
+    "canonical_statement": "The divine source functions as the essential mind of the individual.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "You are my mind.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0003",
+    "canonical_statement": "The divine source is the ontological fullness and rest of the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "You are my fullness: accept me. You are my rest.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0004",
+    "canonical_statement": "The divine exists prior to the manifestation of the temporal world.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "you who exist and preexisted",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0005",
+    "canonical_statement": "Human consciousness can transcend sensory and cognitive limitations to perceive divine mysteries.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "Grant what eyes of angels have not seen, what ears of rulers have not heard.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0006",
+    "canonical_statement": "The physical body is a temporary vessel that obscures the true nature of the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "The body is a temporary vessel obscuring the soul.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0007",
+    "canonical_statement": "The material world is a state of ignorance or illusion that prevents the recognition of divine origin.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "The world is a state of ignorance preventing divine recognition.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "gnosis",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0008",
+    "canonical_statement": "Liberation is achieved through the acquisition of secret knowledge regarding one's spiritual essence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "Liberation is achieved through secret knowledge of spiritual essence.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "salvation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0009",
+    "canonical_statement": "The kingdom of heaven is an internal state of fullness achieved through knowledge rather than external command.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "no one will ever enter the kingdom of heaven because I ordered it, but rather because you yourselves are filled.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "salvation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0010",
+    "canonical_statement": "The human soul is distinct from the spirit, and the spirit serves as the animating force for the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Be filled with spirit but lack in reason, for reason is of the soul. It is soul.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0011",
+    "canonical_statement": "The physical body is a destructive force that kills the soul unless both the soul and spirit are purified.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "The spirit animates the soul but the body kills it. The soul kills itself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0012",
+    "canonical_statement": "Existence in the material world is transient and illusory compared to the eternal life of the spirit.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "If you consider how long the world has existed... you will see that your life is but a day.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0013",
+    "canonical_statement": "True identity is found by transcending the material self and recognizing one's origin in the divine.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "I say this to you that you may know yourselves.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0014",
+    "canonical_statement": "The divine realm is accessible through the intentional elevation of consciousness and spirit.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "We knelt down... and sent our hearts up to heaven.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0015",
+    "canonical_statement": "The totality of existence originates from the Father, who is the source of all emanations.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "The totality is in the Father, from whom all things come forth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0016",
+    "canonical_statement": "Ignorance of the Father manifests as a state of terror and confusion, creating a phantom-like reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "Ignorance of the Father brought about terror and confusion.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ignorance",
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0017",
+    "canonical_statement": "The manifestation of the Son serves to reveal the Father and dissolve the illusion of ignorance.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "The Son appeared to reveal the Father and end the terror of ignorance.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "revelation",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0018",
+    "canonical_statement": "Individual identity is fundamentally rooted in the Father, and returning to this source constitutes the restoration of the self.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "Each one will know himself, returning to the Father from whom he came.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "return"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0019",
+    "canonical_statement": "The Father is an illimitable, inconceivable, and perfect unity from whom all existence emanates.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "all was inside of him, that illimitable, inconceivable one",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0020",
+    "canonical_statement": "Ignorance of the Father is the root cause of error, fear, and the illusion of separate existence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "This ignorance of the father brought about terror and fear.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "error"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0021",
+    "canonical_statement": "The material world is a deficient, illusory substitute for truth, lacking a root in the Father.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Since error had no root, she was in a fog regarding the father.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0022",
+    "canonical_statement": "Knowledge (Gnosis) is the mechanism by which forgetfulness is destroyed and the soul returns to the Father.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "knowledge, which was revealed so that forgetfulness might be destroyed",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0023",
+    "canonical_statement": "The Son is the revealed name and manifestation of the Father, acting as the bridge between the fullness and the deficient.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "The name of the father is the son.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0024",
+    "canonical_statement": "Individual souls are emanations of the Father that must return to their source to achieve perfection.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "it is necessary for all to ascend to him",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0025",
+    "canonical_statement": "The state of ignorance is akin to a dream or sleep; awakening to knowledge reveals the unreality of the material condition.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "as if they were fast asleep and found themselves a prey to troubled dreams.",
+        "claim_type": "dramatized",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0026",
+    "canonical_statement": "The Father's will is the foundational cause of all things, even those not yet manifest.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Nothing happens without him, nor does anything occur without the will of the father.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0027",
+    "canonical_statement": "The resurrection is not a future event but a present realization of the spirit.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "Do not think the resurrection is an illusion. It is not, but it is truth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "resurrection",
+      "time",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0028",
+    "canonical_statement": "The soul possesses an inherent immortality that transcends the death of the physical body.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "You have risen. You have died and risen again.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "immortality",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0029",
+    "canonical_statement": "The material world is a temporary state, while the spiritual reality is the true, enduring existence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "The world is a passing thing, but the spirit is eternal.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0030",
+    "canonical_statement": "Individual identity is maintained through the transition from physical existence to spiritual realization.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "You are the one who has risen, and you remain yourself.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0031",
+    "canonical_statement": "The human condition is a synthesis of humanity and divinity, designed to reconcile the finite world with the infinite pleroma.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "He embraced both qualities, possessing humanity and divinity so he could... restore the pleroma.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "pleroma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0032",
+    "canonical_statement": "The material world is an illusory, transient state, while the resurrection is the revelation of an eternal, unchanging truth.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "It is more proper to say that the world is illusion, rather than the resurrection.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "resurrection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0033",
+    "canonical_statement": "Resurrection is not a future event but an immediate, internal realization of one's imperishable nature.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Flee from being scattered... and then you already have resurrection.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "resurrection",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0034",
+    "canonical_statement": "The soul's origin is a pre-existent, eternal realm; the current life is a temporary descent into corruption.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "At the beginning he was above as a seed of truth, which was before the cosmos.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "origin",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0035",
+    "canonical_statement": "True salvation involves the shedding of the perishable material body and the preservation of the living, spiritual essence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "The visible parts of the body that are dead will not be saved.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0036",
+    "canonical_statement": "The Father is the unbegotten, immutable, and singular root of all existence, existing prior to any other being.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 9,
+        "chapter": "Part I",
+        "surface_quote": "He existed before anything other than himself came into being.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0037",
+    "canonical_statement": "The Father is incomprehensible and transcends all human conceptual categories, names, and sensory perception.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 9,
+        "chapter": "Part I",
+        "surface_quote": "It is impossible for mind to conceive him, nor can any speech convey him.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0038",
+    "canonical_statement": "The Son and the Church exist eternally as emanations of the Father, sharing in his nature.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 9,
+        "chapter": "Part I",
+        "surface_quote": "Not only did the Son exist from the beginning, but the Church, too, existed from the beginning.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0039",
+    "canonical_statement": "The aeons are emanations of the Father's thought, initially existing as potential seeds before achieving individual consciousness.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 9,
+        "chapter": "Part I",
+        "surface_quote": "They only had existence in the manner of a seed... they did not exist for themselves.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0040",
+    "canonical_statement": "The Logos's attempt to comprehend the incomprehensible Father resulted in a defect, manifesting as division, ignorance, and the creation of a material world.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 9,
+        "chapter": "Part I",
+        "surface_quote": "He looked into the depth and he doubted. Out of this there was a division.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0041",
+    "canonical_statement": "The material world is a system of shadows, copies, and likenesses of the spiritual Pleroma, lacking inherent reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 9,
+        "chapter": "Part I",
+        "surface_quote": "They are their likenesses, copies, shadows, and phantasms, lacking reason and the light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0042",
+    "canonical_statement": "The Savior is the knowledge of the Father, acting as a bridge to restore the defective aeons to unity.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 9,
+        "chapter": "Part I",
+        "surface_quote": "The Son... is the knowledge of the Father, whom he wanted them to know.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0043",
+    "canonical_statement": "The universe is organized into hierarchical ranks of powers, archons, and spirits, reflecting the degree of their proximity to or distance from the Pleroma.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 9,
+        "chapter": "Part I",
+        "surface_quote": "The whole establishment of matter is divided into three.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "structure",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0044",
+    "canonical_statement": "Material reality is a shadow-like projection of higher powers, serving as an educational environment for the development of consciousness.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 10,
+        "chapter": "Part II",
+        "surface_quote": "visible creations are like a shadow cast from and following a body",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "creation",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0045",
+    "canonical_statement": "Humanity is a composite being formed from spiritual, psychic, and material substances, reflecting the influence of multiple cosmic orders.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 10,
+        "chapter": "Part II",
+        "surface_quote": "The first human being is a mixed formation, a deposit of those of the left and right.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "humanity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0046",
+    "canonical_statement": "Ignorance of the Totality is equivalent to death, while eternal life is defined as the attainment of firm knowledge of the Totalities.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 10,
+        "chapter": "Part II",
+        "surface_quote": "that which is dead is ignorance; life eternal is firm knowledge of the Totalities.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0047",
+    "canonical_statement": "The experience of evil and death is a providential mechanism designed to facilitate the eventual transition to higher states of existence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 10,
+        "chapter": "Part II",
+        "surface_quote": "It was a work of providence that man should experience the great evil, which is death.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0048",
+    "canonical_statement": "The spiritual substance is unified, whereas material and psychic substances are characterized by fragmentation and multiple forms of inclination.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 10,
+        "chapter": "Part II",
+        "surface_quote": "The spiritual substance is a single thing; its weakness is the determination in many forms.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0049",
+    "canonical_statement": "Humanity is divided into three essential types—spiritual, psychic, and material—based on their origin and disposition.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 11,
+        "chapter": "Part III",
+        "surface_quote": "Mankind came to be in three essential types, the spiritual, the psychic, and the material.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "anthropology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0050",
+    "canonical_statement": "The ultimate goal of existence is the restoration of all things to a unitary state within the Pleroma.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 11,
+        "chapter": "Part III",
+        "surface_quote": "The end will receive a unitary existence, just as the beginning is unitary.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "teleology",
+      "restoration",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0051",
+    "canonical_statement": "Redemption is the process of returning to the pre-existent, ineffable state of unity through knowledge of the truth.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 11,
+        "chapter": "Part III",
+        "surface_quote": "The freedom is the knowledge of the truth which existed before the ignorance was ruling.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "redemption",
+      "knowledge",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0052",
+    "canonical_statement": "The Savior, as an image of the unitary Totality, underwent incarnation to provide a path for the restoration of all beings.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 11,
+        "chapter": "Part III",
+        "surface_quote": "The Savior was an image of the unitary one, he who is the Totality in bodily form.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "christology",
+      "incarnation",
+      "salvation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0053",
+    "canonical_statement": "The material race is inherently dark and destined for destruction, as it resists the light of the unitary truth.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 11,
+        "chapter": "Part III",
+        "surface_quote": "The material race, however, is alien in every way; since it is dark, it shuns the shining of the light.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "destruction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0054",
+    "canonical_statement": "The psychic race occupies an intermediate position, possessing the potential for both good and evil through faith and instruction.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 11,
+        "chapter": "Part III",
+        "surface_quote": "The psychic race, since it is in the middle when it is brought forth and also when it is created, is double.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0055",
+    "canonical_statement": "The Father is fundamentally unknowable and incomprehensible, yet manifests himself to allow for the salvation of the Totality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 11,
+        "chapter": "Part III",
+        "surface_quote": "His Father is one, and alone is truly a father to him, the invisible, unknowable, the incomprehensible.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "nature of god"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0056",
+    "canonical_statement": "The material world is a flawed imitation created by an ignorant demiurge.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 12,
+        "chapter": "Part III",
+        "surface_quote": "The ruler created a world in ignorance.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "demiurge",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0057",
+    "canonical_statement": "Humanity possesses a divine spiritual essence that transcends the physical realm.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 12,
+        "chapter": "Part III",
+        "surface_quote": "The spiritual man is more powerful than the rulers.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirit",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0058",
+    "canonical_statement": "The physical body acts as a prison or limitation for the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 12,
+        "chapter": "Part III",
+        "surface_quote": "The soul is trapped within the material form.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "embodiment",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0059",
+    "canonical_statement": "The material universe is a flawed projection originating from a shadow cast by the divine realm.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 13,
+        "chapter": "Part III",
+        "surface_quote": "A veil exists between the world above and the realms below, and shadow came into being.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0060",
+    "canonical_statement": "The creator of the material world is an ignorant, arrogant entity unaware of the higher divine reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 13,
+        "chapter": "Part III",
+        "surface_quote": "Their chief is blind. Because of his power and his ignorance he said, 'I am god.'",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0061",
+    "canonical_statement": "Human identity is dualistic, consisting of a material/psychic component modeled by lower rulers and a spiritual component originating from the incorruptible light.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 13,
+        "chapter": "Part III",
+        "surface_quote": "The spirit came forth from the adamantine land. It descended and came to dwell in him.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0062",
+    "canonical_statement": "The material world and its rulers are inherently powerless against those who possess the spirit of truth.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 13,
+        "chapter": "Part III",
+        "surface_quote": "None of them can prevail against the root of truth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0063",
+    "canonical_statement": "Death is a construct of the lower authorities and can be transcended through the realization of one's divine origin.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 13,
+        "chapter": "Part III",
+        "surface_quote": "All who have known this way exist deathless in the midst of dying people.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0064",
+    "canonical_statement": "The material world is a secondary manifestation derived from a higher, primordial spiritual reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 14,
+        "chapter": "Part III",
+        "surface_quote": "The world originated from a higher, primordial spiritual reality.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "ontology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0065",
+    "canonical_statement": "The physical universe is characterized by limitation and imperfection compared to the infinite nature of the source.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 14,
+        "chapter": "Part III",
+        "surface_quote": "The material world is limited and imperfect.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0066",
+    "canonical_statement": "Human consciousness possesses an inherent connection to the divine, despite its current state of material entrapment.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 14,
+        "chapter": "Part III",
+        "surface_quote": "Human consciousness is connected to the divine.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0067",
+    "canonical_statement": "Chaos is not the primordial state, but a secondary product derived from a preceding shadow.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 15,
+        "chapter": "Part III",
+        "surface_quote": "chaos comes from a shadow... it existed before chaos came into being",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0068",
+    "canonical_statement": "The material world and its rulers are products of a defect or error in the divine emanation process.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 15,
+        "chapter": "Part III",
+        "surface_quote": "Pistis saw what had resulted from her defect",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0069",
+    "canonical_statement": "The demiurgic ruler is characterized by ignorance of his own origin and the existence of higher divine realms.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 15,
+        "chapter": "Part III",
+        "surface_quote": "the ruler Yaltabaoth, he is ignorant of the force of Pistis",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0070",
+    "canonical_statement": "Humanity is composed of three distinct types: the spirit-endowed, the soul-endowed, and the earthly.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 15,
+        "chapter": "Part III",
+        "surface_quote": "the spirit-endowed of eternity, and the soul-endowed, and the earthly",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "anthropology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0071",
+    "canonical_statement": "The physical body serves as a prison or enclosure for the light of the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 15,
+        "chapter": "Part III",
+        "surface_quote": "their modelled form became an enclosure of the light",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0072",
+    "canonical_statement": "Knowledge (gnosis) acts as a catalyst that awakens the intellect and reveals the illusory nature of the material rulers.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 15,
+        "chapter": "Part III",
+        "surface_quote": "when they had eaten, the light of knowledge had shone upon them",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0073",
+    "canonical_statement": "The material world is governed by fate, which limits the lifespan and experience of embodied beings.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 15,
+        "chapter": "Part III",
+        "surface_quote": "fate, which had been fixed since the beginning",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0074",
+    "canonical_statement": "The process of spiritual initiation or purification occurs in a tripartite structure.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 16,
+        "chapter": "Part III",
+        "surface_quote": "there are three baptisms",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "initiation",
+      "purification",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0075",
+    "canonical_statement": "The material world is governed by inferior rulers who maintain control through ignorance and distraction.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 17,
+        "chapter": "Part III",
+        "surface_quote": "the rulers were master over it - that is, they kept it restrained by ignorance.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0076",
+    "canonical_statement": "Humanity is composed of multiple distinct races, with the 'kingless' race being the highest and most perfect.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 17,
+        "chapter": "Part III",
+        "surface_quote": "the fourth race is kingless and perfect, being the highest of all.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0077",
+    "canonical_statement": "The ultimate destiny of an individual is determined by their origin, acts, and knowledge.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 17,
+        "chapter": "Part III",
+        "surface_quote": "everyone must go to the place from which he has come.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0078",
+    "canonical_statement": "The material universe is a temporary construct destined for dissolution and return to the unbegotten light.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 17,
+        "chapter": "Part III",
+        "surface_quote": "the light will withdraw up to its root. And the glory of the unbegotten will appear.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0079",
+    "canonical_statement": "The appearance of enlightened beings in the material world serves to condemn the rulers and reveal hidden truth.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 17,
+        "chapter": "Part III",
+        "surface_quote": "they reveal the pattern of imperishability as a condemnation of the rulers.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0080",
+    "canonical_statement": "The soul originates from a higher, divine realm and is cast into the material world.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 18,
+        "chapter": "Part III",
+        "surface_quote": "The soul came from the upper world and was cast into the body.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "origin",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0081",
+    "canonical_statement": "The material body acts as a prison or a place of suffering for the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 18,
+        "chapter": "Part III",
+        "surface_quote": "The body is a place of suffering for the soul.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "body",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0082",
+    "canonical_statement": "The soul possesses a dual nature, capable of both divine recollection and worldly corruption.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 18,
+        "chapter": "Part III",
+        "surface_quote": "The soul is double, having both divine and earthly aspects.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0083",
+    "canonical_statement": "Salvation is achieved through the soul's recognition of its divine origin and subsequent return.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 18,
+        "chapter": "Part III",
+        "surface_quote": "The soul must recognize its origin to return to the light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "salvation",
+      "gnosis",
+      "return"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0084",
+    "canonical_statement": "The soul is inherently feminine in nature and possesses a womb.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 19,
+        "chapter": "Part III",
+        "surface_quote": "Sages gave the soul a feminine name. In nature she is also feminine.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0085",
+    "canonical_statement": "The soul originated in an androgynous state of unity with the Father before descending into a physical body.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 19,
+        "chapter": "Part III",
+        "surface_quote": "While she was alone with her father, she was a virgin and in an androgynous form.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0086",
+    "canonical_statement": "The material world and the physical body are domains of deception that defile the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 19,
+        "chapter": "Part III",
+        "surface_quote": "The domain of the flesh and the perceptible realm... by which the soul is defiled.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0087",
+    "canonical_statement": "The soul's womb is naturally oriented outward toward the material world but can be turned inward through repentance.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 19,
+        "chapter": "Part III",
+        "surface_quote": "The soul's womb is turned to the outside... when the womb... turns itself inward, she is baptized.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0088",
+    "canonical_statement": "Salvation is the process of the soul's regeneration and return to its original state through divine grace.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 19,
+        "chapter": "Part III",
+        "surface_quote": "It is right that the soul be regenerated and be as she formerly was.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "salvation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0089",
+    "canonical_statement": "True spiritual marriage involves the soul reuniting with its divine counterpart to become a single life.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 19,
+        "chapter": "Part III",
+        "surface_quote": "In this marriage once they join they become a single life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0090",
+    "canonical_statement": "The material world is a transient illusion that obscures the true, eternal nature of the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 20,
+        "chapter": "Part III",
+        "surface_quote": "The visible world is a deception that hides the truth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "illusion",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0091",
+    "canonical_statement": "Self-knowledge is the primary mechanism for recognizing one's divine origin and escaping the cycle of ignorance.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 20,
+        "chapter": "Part III",
+        "surface_quote": "He who knows himself knows the All.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0092",
+    "canonical_statement": "The physical body is a temporary vessel or prison for the spirit, which originates from a higher, non-material realm.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 20,
+        "chapter": "Part III",
+        "surface_quote": "The body is a fire that consumes the spirit.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0093",
+    "canonical_statement": "Self-knowledge is the prerequisite for understanding the totality of existence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 21,
+        "chapter": "Part III",
+        "surface_quote": "he who has known himself has at the same time already achieved knowledge about the depth",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0094",
+    "canonical_statement": "The physical body is a perishable, bestial formation that decays and lacks inherent life.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 21,
+        "chapter": "Part III",
+        "surface_quote": "that which changes will decay and perish, and has no hope of life",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "body",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0095",
+    "canonical_statement": "Visible reality is an illusion sustained by the fire of bodily lust and passion.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 21,
+        "chapter": "Part III",
+        "surface_quote": "the fire that blazes in the bodies of men... will give them an illusion of truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0096",
+    "canonical_statement": "Souls that remain attached to the material world are subject to repeated reincarnation and suffering.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 21,
+        "chapter": "Part III",
+        "surface_quote": "the vessel of their flesh will dissolve... they will be gathered back to that which is visible",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "reincarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0097",
+    "canonical_statement": "The ultimate goal of the soul is to escape the cycle of bodily existence and achieve rest in the Pleroma.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 21,
+        "chapter": "Part III",
+        "surface_quote": "come forth from the bondage of the bitterness of this life... you will receive rest",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0098",
+    "canonical_statement": "The kingdom of the divine is not a physical location but an internal state of awareness.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 22,
+        "chapter": "Part III",
+        "surface_quote": "The kingdom is inside you and it is outside you.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0099",
+    "canonical_statement": "Individual identity is a construct that obscures the pre-existing unity of the self.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 22,
+        "chapter": "Part III",
+        "surface_quote": "When you make the two one, you will become the son of man.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "unity",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0100",
+    "canonical_statement": "The material world is a derivative manifestation of a primary, non-material light.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 22,
+        "chapter": "Part III",
+        "surface_quote": "If you are asked where you come from, say, 'We have come from the light.'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "origin",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0101",
+    "canonical_statement": "The kingdom of God is an internal state of being rather than a geographic location.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 23,
+        "chapter": "Part III",
+        "surface_quote": "the kingdom is inside you and it is outside you.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "kingdom",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0102",
+    "canonical_statement": "Self-knowledge is the prerequisite for recognizing one's divine origin.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 23,
+        "chapter": "Part III",
+        "surface_quote": "When you know yourselves, then you will be known.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0103",
+    "canonical_statement": "The material world is a transient, illusory state that will eventually pass away.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 23,
+        "chapter": "Part III",
+        "surface_quote": "This heaven will pass away and the one above it will pass away.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0104",
+    "canonical_statement": "The ultimate spiritual goal is the unification of dualities into a single, whole state.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 23,
+        "chapter": "Part III",
+        "surface_quote": "When you make the two into one... then you will enter the kingdom.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "duality",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0105",
+    "canonical_statement": "The divine presence is immanent and pervasive within all material objects.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 23,
+        "chapter": "Part III",
+        "surface_quote": "Split a piece of wood. I am there. Lift up the stone and you will find me.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "immanence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0106",
+    "canonical_statement": "The soul is fundamentally distinct from the body and should not depend upon it.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 23,
+        "chapter": "Part III",
+        "surface_quote": "How miserable is the body that depends on a body, and how miserable is the soul.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0107",
+    "canonical_statement": "The kingdom of heaven is currently present and manifest, but remains invisible to those lacking perception.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 23,
+        "chapter": "Part III",
+        "surface_quote": "The father's kingdom is spread out upon the earth and people do not see it.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "kingdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0108",
+    "canonical_statement": "Truth is not presented in a naked form but through symbols and images.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 24,
+        "chapter": "Part III",
+        "surface_quote": "Truth did not come into the world naked, but it came in types and images.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "epistemology",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0109",
+    "canonical_statement": "The soul must undergo a transformation or rebirth to perceive the divine reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 24,
+        "chapter": "Part III",
+        "surface_quote": "One must be born again to enter the kingdom.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "rebirth",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0110",
+    "canonical_statement": "The material world is a reflection or shadow of a higher, spiritual reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 24,
+        "chapter": "Part III",
+        "surface_quote": "The world came into being through a mistake.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0111",
+    "canonical_statement": "The material world and the eternal realm are inseparable, causing worldly dualities like life and death to lose their absolute nature.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 25,
+        "chapter": "Part III",
+        "surface_quote": "Light and darkness, life and death... are siblings of one another, and inseparable.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "duality",
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0112",
+    "canonical_statement": "Human language in the world is deceptive because it designates worldly objects rather than the eternal realities the words represent.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 25,
+        "chapter": "Part III",
+        "surface_quote": "The names of worldly things are utterly deceptive, for they turn the heart from what is real.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "language",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0113",
+    "canonical_statement": "The soul is a precious entity currently residing within a worthless physical body.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 25,
+        "chapter": "Part III",
+        "surface_quote": "It is something precious, and it has come to be in a worthless body.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0114",
+    "canonical_statement": "In the realm of truth, perception is transformative; to see a thing is to become that thing.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 25,
+        "chapter": "Part III",
+        "surface_quote": "People cannot see anything that really is without becoming like it.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0115",
+    "canonical_statement": "The material world originated from a mistake by its creator, rendering it and its creator corruptible.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 25,
+        "chapter": "Part III",
+        "surface_quote": "The world came into being through a mistake.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0116",
+    "canonical_statement": "Resurrection is a state of being that must be attained while still alive in the body, rather than an event occurring after death.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 25,
+        "chapter": "Part III",
+        "surface_quote": "If they do not receive the resurrection first, while they are alive, they will receive nothing.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "time",
+      "resurrection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0117",
+    "canonical_statement": "Evil is a root that remains powerful only as long as it is hidden; recognizing and bringing it to light destroys it.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 25,
+        "chapter": "Part III",
+        "surface_quote": "As long as the root of evil is hidden, it is strong. When it is recognized, it is undone.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evil",
+      "knowledge",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0118",
+    "canonical_statement": "Truth does not exist in the world in a manifest form, but is represented through symbols and images.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 26,
+        "chapter": "Part III",
+        "surface_quote": "Truth did not come into the world naked, but in symbols and images.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "reality",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0119",
+    "canonical_statement": "The soul undergoes a process of transformation or rebirth through the acquisition of spiritual knowledge.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 26,
+        "chapter": "Part III",
+        "surface_quote": "One must be reborn to enter the kingdom.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "rebirth",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0120",
+    "canonical_statement": "The material world is a construct that obscures the perception of the underlying spiritual reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 26,
+        "chapter": "Part III",
+        "surface_quote": "The world is a deception that hides the truth.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "illusion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0121",
+    "canonical_statement": "The material world and the eternal realm are distinct, with the former being a temporary, illusory reflection of the latter.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 27,
+        "chapter": "Part III",
+        "surface_quote": "The names of earthly things are illusory. We stray from the real to the unreal.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0122",
+    "canonical_statement": "True identity is found by becoming the object of one's perception, whereas in the world, the observer remains separate from the observed.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 27,
+        "chapter": "Part III",
+        "surface_quote": "In the other truth you are what you see.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0123",
+    "canonical_statement": "The soul's liberation requires the internal recognition and uprooting of the source of evil, which otherwise masters the individual.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 27,
+        "chapter": "Part III",
+        "surface_quote": "Dig down after the root of evil that is within us and pluck it out.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "evil"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0124",
+    "canonical_statement": "Ignorance is the fundamental cause of death and non-existence, while knowledge of truth confers freedom and eternal life.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 27,
+        "chapter": "Part III",
+        "surface_quote": "Ignorance is the mother of all evil. Ignorance will eventuate in death.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0125",
+    "canonical_statement": "The physical body is an image or garment that must be transcended or transformed through spiritual mystery to inherit the eternal realm.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 27,
+        "chapter": "Part III",
+        "surface_quote": "Flesh and blood cannot inherit the kingdom of god.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0126",
+    "canonical_statement": "The world was created through error and is inherently impermanent, whereas the eternal realm is characterized by fullness and stability.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 27,
+        "chapter": "Part III",
+        "surface_quote": "The world came into being through error.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0127",
+    "canonical_statement": "The union of male and female principles in the 'bridal chamber' represents the restoration of original wholeness and the overcoming of death.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 27,
+        "chapter": "Part III",
+        "surface_quote": "When the image and angel are joined, none can force themselves on the man and woman.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0128",
+    "canonical_statement": "The ultimate reality is an unbegotten, self-existent principle that precedes all temporal and spatial manifestation.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 28,
+        "chapter": "Part III",
+        "surface_quote": "He is unbegotten, having no beginning and no end.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "absolute",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0129",
+    "canonical_statement": "The divine essence is inherently unknowable and transcends all linguistic or conceptual categorization.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 28,
+        "chapter": "Part III",
+        "surface_quote": "No name can be named for him.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ineffability",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0130",
+    "canonical_statement": "The structure of the universe is hierarchical, emanating from a singular, primordial source into multiple levels of existence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 28,
+        "chapter": "Part III",
+        "surface_quote": "He is the father of all, existing before all things.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "emanation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0131",
+    "canonical_statement": "The ultimate divine principle is unbegotten, beginningless, nameless, and transcends all human-like form or definition.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 29,
+        "chapter": "Part III",
+        "surface_quote": "He-Who-Is is ineffable... He has no name; for whoever has a name is the creation.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0132",
+    "canonical_statement": "Entities originating from the imperishable realm possess an inherent, immutable nature that cannot perish.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 29,
+        "chapter": "Part III",
+        "surface_quote": "Whatever came from imperishableness will not perish but will become imperishable.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0133",
+    "canonical_statement": "The material world and its temporal structures are lower-order reflections or types of higher, spiritual aeonic realities.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 29,
+        "chapter": "Part III",
+        "surface_quote": "Our aeon came to be as the type of Immortal Man. Time came to be.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0134",
+    "canonical_statement": "The universe is structured through a hierarchical emanative process where thoughts and powers manifest as distinct aeons.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 29,
+        "chapter": "Part III",
+        "surface_quote": "From thoughts, reflectings; from reflectings, considerings; from considerings, rationalities.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0135",
+    "canonical_statement": "The ultimate divine reality is self-reflective, perceiving itself within itself as a mirror.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 29,
+        "chapter": "Part III",
+        "surface_quote": "He sees himself within himself, like a mirror, having appeared in his likeness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0136",
+    "canonical_statement": "The ultimate reality is an unbegotten, infinite, and incomprehensible spirit existing beyond all temporal and spatial categories.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 30,
+        "chapter": "Part III",
+        "surface_quote": "The Imperishable One is unbegotten, and there is no one who begot him.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0137",
+    "canonical_statement": "The manifest universe is a series of emanations originating from a singular, transcendent source.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 30,
+        "chapter": "Part III",
+        "surface_quote": "He is the beginning of all things, and he is the end of all things.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "emanation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0138",
+    "canonical_statement": "Individual consciousness is a reflection or extension of the divine, capable of returning to its source through knowledge.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 30,
+        "chapter": "Part III",
+        "surface_quote": "He who knows the truth knows the place from which he came.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0139",
+    "canonical_statement": "Time and material existence are secondary, illusory constructs compared to the eternal nature of the spirit.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 30,
+        "chapter": "Part III",
+        "surface_quote": "He is not in time, for he was not created.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0140",
+    "canonical_statement": "The ultimate reality is an ineffable, unbegotten, and nameless principle that transcends all created forms and authorities.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 31,
+        "chapter": "Part III",
+        "surface_quote": "He Who Is is ineffable. No principle knew him... he has no name.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0141",
+    "canonical_statement": "The universe is structured by emanations from the Infinite Light, descending from perfection into lower, defective states.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 31,
+        "chapter": "Part III",
+        "surface_quote": "Everything that came from the perishable will perish... whatever came from imperishableness does not perish.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0142",
+    "canonical_statement": "Human consciousness contains a divine spark or 'drop' of light that is currently trapped in a state of forgetfulness within the material world.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 31,
+        "chapter": "Part III",
+        "surface_quote": "All who come into the world, like a drop from the Light, are sent... by the bond of his forgetfulness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0143",
+    "canonical_statement": "The material world and its governing authorities are products of ignorance and arrogance, distinct from the true, transcendent God.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 31,
+        "chapter": "Part III",
+        "surface_quote": "I came... because of the arrogance of Arch-Begetter and his angels, since they say... they are gods.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0144",
+    "canonical_statement": "Salvation is achieved through the acquisition of gnosis, which allows the soul to transcend material forgetfulness and return to the source.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 31,
+        "chapter": "Part III",
+        "surface_quote": "Whoever, then, knows the Father in pure knowledge will depart to the Father.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0145",
+    "canonical_statement": "The primordial reality is androgynous, reflecting a union of male and female principles that generate all subsequent aeons.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 31,
+        "chapter": "Part III",
+        "surface_quote": "Immortal Androgynous Man... and his consort is the Great Sophia.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0146",
+    "canonical_statement": "The physical body is a temporary, corruptible vessel distinct from the eternal, incorruptible intellectual essence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 32,
+        "chapter": "Part III",
+        "surface_quote": "The body is a perishable vessel for the incorruptible spirit.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0147",
+    "canonical_statement": "Sensory perception of the material world is an illusion that obscures the true, transcendent reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 32,
+        "chapter": "Part III",
+        "surface_quote": "Those who see with physical eyes are blind to the true light.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0148",
+    "canonical_statement": "The material universe is a construct governed by lower powers, separate from the ultimate divine source.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 32,
+        "chapter": "Part III",
+        "surface_quote": "The world is ruled by powers that do not know the true God.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0149",
+    "canonical_statement": "The human soul is not universally immortal; only those of an immortal substance possess true existence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 33,
+        "chapter": "Part III",
+        "surface_quote": "not every soul is of the truth, nor of immortality.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0150",
+    "canonical_statement": "The physical body is a temporary, replaceable substitute for the true, incorporeal, intellectual spirit.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 33,
+        "chapter": "Part III",
+        "surface_quote": "the body is the substitute... what they released was my incorporeal body.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0151",
+    "canonical_statement": "Reality is divided into two distinct ontological categories: the immortal Pleroma and the transient, illusory creation.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 33,
+        "chapter": "Part III",
+        "surface_quote": "that which is always becoming is in that from which it is... that which comes to be in the Eternal One.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0152",
+    "canonical_statement": "Perception of truth is dependent on the nature of the observer; the uninitiated are ontologically blind.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 33,
+        "chapter": "Part III",
+        "surface_quote": "these (people) are blind and deaf.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0153",
+    "canonical_statement": "The material world and its structures are governed by entities that lack true perception and are destined for dissolution.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 33,
+        "chapter": "Part III",
+        "surface_quote": "all that which exists not will dissolve into what exists not.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0154",
+    "canonical_statement": "The physical body is a temporary, illusory vessel that obscures the true, eternal nature of the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 34,
+        "chapter": "Part III",
+        "surface_quote": "the body is a temporary vessel",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0155",
+    "canonical_statement": "True knowledge of the divine is achieved through the transcendence of material perception.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 34,
+        "chapter": "Part III",
+        "surface_quote": "transcendence of material perception",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "perception",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0156",
+    "canonical_statement": "The material world is a construct of limitation that separates the individual from their primordial origin.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 34,
+        "chapter": "Part III",
+        "surface_quote": "material world is a construct of limitation",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0157",
+    "canonical_statement": "The material world and its governing powers originated from a deficiency caused by the mother's unauthorized attempt to create eternal realms.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 35,
+        "chapter": "Part III",
+        "surface_quote": "The disobedience and the foolishness of the mother... wanted to set up eternal realms.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0158",
+    "canonical_statement": "Mortal bodies are artificial constructs created by lower powers as a misrepresentation of true forms.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 35,
+        "chapter": "Part III",
+        "surface_quote": "He assigned the powers within his authority to mold mortal bodies.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0159",
+    "canonical_statement": "The divine savior enters the mortal realm to restore the fallen seed to the fullness of the father.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 35,
+        "chapter": "Part III",
+        "surface_quote": "I was sent down in the body for the seed that had fallen away.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "salvation",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0160",
+    "canonical_statement": "Human consciousness is currently detained in a mortal dwelling place because it belongs to the divine fullness.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 35,
+        "chapter": "Part III",
+        "surface_quote": "Concerning the fact that you are being detained, it is because you are mine.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0161",
+    "canonical_statement": "The inner person is the primary site of conflict between the divine spirit and the lower governing powers.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 35,
+        "chapter": "Part III",
+        "surface_quote": "The rulers fight against the inner person.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0162",
+    "canonical_statement": "Suffering is an inherent condition of existence within the fallen mortal realm.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 35,
+        "chapter": "Part III",
+        "surface_quote": "We are the ones who have suffered through the mother's transgression.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0163",
+    "canonical_statement": "The material world is a place of suffering and deception that obscures the true nature of the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 36,
+        "chapter": "Part III",
+        "surface_quote": "The city is full of great poverty and suffering.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "duality",
+      "gnosis",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0164",
+    "canonical_statement": "True identity is found by transcending the physical form and the limitations of the worldly city.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 36,
+        "chapter": "Part III",
+        "surface_quote": "I am the one who has come from the light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "transcendence",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0165",
+    "canonical_statement": "The divine realm is hidden from those who remain attached to material wealth and sensory perception.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 36,
+        "chapter": "Part III",
+        "surface_quote": "You cannot enter the city if you carry the burden of gold.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "materialism",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0166",
+    "canonical_statement": "The path to the divine realm requires the total renunciation of worldly attachments and material desires.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 37,
+        "chapter": "Part III",
+        "surface_quote": "No man is able to go on that road, except one who has forsaken everything.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "asceticism",
+      "salvation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0167",
+    "canonical_statement": "The divine presence can adopt multiple, shifting forms to interact with humanity while remaining hidden from the proud.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 37,
+        "chapter": "Part III",
+        "surface_quote": "Lithargoel, having changed, came out to us. We did not recognize him.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0168",
+    "canonical_statement": "True spiritual healing addresses the heart, with physical healing serving as a sign to validate the healer's authority.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 37,
+        "chapter": "Part III",
+        "surface_quote": "The physicians of souls, however, heal the heart.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "healing",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0169",
+    "canonical_statement": "The material world is a place of trial and endurance, where the kingdom of heaven is inhabited through perseverance.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 37,
+        "chapter": "Part III",
+        "surface_quote": "By everyone who endures his trials, cities are inhabited, and a precious kingdom comes.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0170",
+    "canonical_statement": "Divine wisdom and the name of the Savior possess a value that transcends all material wealth.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 37,
+        "chapter": "Part III",
+        "surface_quote": "My name, which you teach, surpasses all riches.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "value",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0171",
+    "canonical_statement": "The material world is a realm of temporary limitation and suffering distinct from the divine fullness.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 38,
+        "chapter": "Part III",
+        "surface_quote": "This world is a place of suffering and temporary existence.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "duality",
+      "existence",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0172",
+    "canonical_statement": "Human identity is fundamentally rooted in a divine origin that transcends the physical body.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 38,
+        "chapter": "Part III",
+        "surface_quote": "You are not of this world, but come from the fullness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0173",
+    "canonical_statement": "Knowledge (gnosis) of one's true nature is the mechanism for liberation from the cycle of material entrapment.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 38,
+        "chapter": "Part III",
+        "surface_quote": "Know yourself and you shall be free from the archons.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "liberation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0174",
+    "canonical_statement": "The physical body and the sensory world act as obstacles or veils preventing the realization of the spirit.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 38,
+        "chapter": "Part III",
+        "surface_quote": "The body is a prison that hides the light of the spirit.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "duality",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0175",
+    "canonical_statement": "The ultimate reality is an unnameable, ineffable, and pre-existent source from which all existence derives.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 39,
+        "chapter": "Part III",
+        "surface_quote": "Nothing existed except Him-who-is. He is unnameable and ineffable.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0176",
+    "canonical_statement": "Individual identity is a construct of the material world; true identity is realized by transcending the physical body and returning to the pre-existent source.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 39,
+        "chapter": "Part III",
+        "surface_quote": "You will reach Him-who-is. And you will no longer be James; rather you are the One-who-is.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0177",
+    "canonical_statement": "The material world and its governing powers (archons) are subordinate to a higher, non-material order.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 39,
+        "chapter": "Part III",
+        "surface_quote": "These are the seventy-two heavens, which are their subordinates.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0178",
+    "canonical_statement": "The physical body is a temporary, restrictive state that obscures the soul's true nature and origin.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 39,
+        "chapter": "Part III",
+        "surface_quote": "cast away from your blind thought, this bond of flesh which encircles you.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0179",
+    "canonical_statement": "The soul's return to its origin requires specific knowledge of its divine lineage to bypass the detainers of the lower realms.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 39,
+        "chapter": "Part III",
+        "surface_quote": "Who are you or where are you from? You are to say to him, 'I am a son, and I am from the Father.'",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0180",
+    "canonical_statement": "The material world is characterized by forgetfulness and ignorance, which can be overcome through the recollection of one's divine origin.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 39,
+        "chapter": "Part III",
+        "surface_quote": "You have come with knowledge, that you might rebuke their forgetfulness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0181",
+    "canonical_statement": "The material world is a realm of temporary illusion and suffering that obscures the true divine origin of the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 40,
+        "chapter": "Part III",
+        "surface_quote": "This world is a place of suffering and temporary existence.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "soul",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0182",
+    "canonical_statement": "True knowledge of the self is equivalent to the recognition of one's divine nature and origin.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 40,
+        "chapter": "Part III",
+        "surface_quote": "Know yourself and you shall know the Father.",
+        "claim_type": "stated",
+        "confidence": 0.98
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0183",
+    "canonical_statement": "The physical body acts as a prison or limitation for the eternal spirit.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 40,
+        "chapter": "Part III",
+        "surface_quote": "The body is a garment that binds the spirit.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "embodiment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0184",
+    "canonical_statement": "The material world and its creator are inferior, temporary, and distinct from the eternal Pleroma.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 41,
+        "chapter": "Part III",
+        "surface_quote": "His labor, which is far from the aeons, is nothing.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0185",
+    "canonical_statement": "Human beings are imprisoned in physical forms fashioned by a demiurgic power to resemble itself.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 41,
+        "chapter": "Part III",
+        "surface_quote": "After he imprisoned those from the Father, he seized them and fashioned them to resemble himself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0186",
+    "canonical_statement": "Liberation from the material condition is achieved through gnosis (knowledge) rather than moral judgment.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 41,
+        "chapter": "Part III",
+        "surface_quote": "It is by knowledge that I shall come forth from the flesh.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0187",
+    "canonical_statement": "The true self is an eternal entity that existed before incarnation and returns to its original state upon stripping away the flesh.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 41,
+        "chapter": "Part III",
+        "surface_quote": "You are also the first who will strip himself, and you shall become as you were before.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0188",
+    "canonical_statement": "The creator of the material world is not the ultimate Father, but a subordinate entity who falsely claims sole authority.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 41,
+        "chapter": "Part III",
+        "surface_quote": "Your father is not my father. But my father has become a father to you.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0189",
+    "canonical_statement": "The physical body and its actions are not the true essence of the individual, but are controlled by external forces.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 41,
+        "chapter": "Part III",
+        "surface_quote": "It is not you that did them, but it is your Lord that did them.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0190",
+    "canonical_statement": "The soul undergoes a process of ascent through celestial realms after death.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 42,
+        "chapter": "Part III",
+        "surface_quote": "The soul ascends through the heavens to reach the place of rest.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0191",
+    "canonical_statement": "Human consciousness is subject to judgment by celestial entities based on earthly conduct.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 42,
+        "chapter": "Part III",
+        "surface_quote": "The soul is examined by toll collectors at the gates of the heavens.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "judgment",
+      "ethics",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0192",
+    "canonical_statement": "The material world is a lower, restricted domain compared to the divine realm.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 42,
+        "chapter": "Part III",
+        "surface_quote": "The soul leaves the lower world to return to its original divine home.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "duality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0193",
+    "canonical_statement": "The material world is a realm of death, and human bodies are entities revealed to a soul-seed by higher powers.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 43,
+        "chapter": "Part III",
+        "surface_quote": "the one that reveals bodies to a soul-seed",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0194",
+    "canonical_statement": "Visible reality contains hidden metaphysical structures that can be perceived through awakened consciousness.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 43,
+        "chapter": "Part III",
+        "surface_quote": "know the hidden things in those that are visible",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0195",
+    "canonical_statement": "The soul's post-mortem journey involves passing through hierarchical celestial realms governed by gatekeepers and toll-collectors.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 43,
+        "chapter": "Part III",
+        "surface_quote": "angels bringing a soul out of the land of the dead",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0196",
+    "canonical_statement": "Individual identity is subject to judgment based on past actions, with witnesses testifying to sins committed in the material world.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 43,
+        "chapter": "Part III",
+        "surface_quote": "the three witnesses came... I charge you with the murders you committed",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0197",
+    "canonical_statement": "Reincarnation is a process where souls are cast down from celestial judgment into prepared physical bodies.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 43,
+        "chapter": "Part III",
+        "surface_quote": "The soul that had been cast down went to a body which had been prepared",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "reincarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0198",
+    "canonical_statement": "Access to higher celestial realms requires specific signs or spiritual credentials to bypass the authority of lower archons.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 43,
+        "chapter": "Part III",
+        "surface_quote": "Give him the sign that you have, and he will open for you",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0199",
+    "canonical_statement": "The true origin of the soul is a transcendent realm beyond the material creation and its governing authorities.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 43,
+        "chapter": "Part III",
+        "surface_quote": "I am going to the place from which I came",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0200",
+    "canonical_statement": "The primordial human consciousness originated from a divine source distinct from the creator of the material world.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 44,
+        "chapter": "Part III",
+        "surface_quote": "We came from the great eternal realms, not from the creator of this world.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "origin",
+      "divinity",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0201",
+    "canonical_statement": "The material world is a construct of limited, inferior powers that seek to obscure the true divine origin of the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 44,
+        "chapter": "Part III",
+        "surface_quote": "The powers of this world seek to hide the knowledge of our eternal origin.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "duality",
+      "illusion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0202",
+    "canonical_statement": "True identity is found through the recollection of a pre-existent state of being prior to the fall into materiality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 44,
+        "chapter": "Part III",
+        "surface_quote": "Remember the light that was in you before the world was made.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "memory",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0203",
+    "canonical_statement": "Human consciousness originates from an eternal, non-material realm, distinct from the creator of the physical world.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 45,
+        "chapter": "Part III",
+        "surface_quote": "Eve and I didn't come from this realm.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0204",
+    "canonical_statement": "The physical body and the material world are under the authority of death and are inherently separate from eternal life.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 45,
+        "chapter": "Part III",
+        "surface_quote": "The whole creation that came from the dead earth will be under the authority of death.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0205",
+    "canonical_statement": "True knowledge of the eternal god is an internal, incorruptible essence that transcends the physical senses and the creator-god's powers.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 45,
+        "chapter": "Part III",
+        "surface_quote": "Those who reflect on the knowledge of the eternal god in their hearts will not perish.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0206",
+    "canonical_statement": "The material world is governed by powers that demand fear and slavery, contrasting with the freedom of the eternal realm.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 45,
+        "chapter": "Part III",
+        "surface_quote": "We served him in fear and slavery.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0207",
+    "canonical_statement": "The soul's origin determines its destiny; those originating from eternal angels are not subject to the corruption of the material creator.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 45,
+        "chapter": "Part III",
+        "surface_quote": "Their souls did not come from a defiled hand, but from an eternal angel's great command.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0208",
+    "canonical_statement": "The 'Illuminator' is a trans-historical entity that periodically enters the material realm to liberate souls from the authority of the creator-powers.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 45,
+        "chapter": "Part III",
+        "surface_quote": "The illuminator of knowledge passes by in great glory to leave some of the seed.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0209",
+    "canonical_statement": "The ultimate reality is characterized by the simultaneous existence of contradictory attributes.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 46,
+        "chapter": "Part III",
+        "surface_quote": "I am the whore and the holy one.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "duality",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0210",
+    "canonical_statement": "The divine consciousness is both the creator and the created, existing in all states of being.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 46,
+        "chapter": "Part III",
+        "surface_quote": "I am the one who is hated everywhere and who has been loved everywhere.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0211",
+    "canonical_statement": "Individual identity is a manifestation of a singular, universal consciousness.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 46,
+        "chapter": "Part III",
+        "surface_quote": "I am the knowledge of my inquiry and the finding of those who seek me.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0212",
+    "canonical_statement": "The nature of existence transcends conventional temporal and spatial limitations.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 46,
+        "chapter": "Part III",
+        "surface_quote": "I am the first and the last.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "infinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0213",
+    "canonical_statement": "The ultimate reality is a paradoxical unity that encompasses all contradictory states and binary opposites simultaneously.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 47,
+        "chapter": "Part III",
+        "surface_quote": "I am the first and the last... the whore and holy... the mother and daughter.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0214",
+    "canonical_statement": "The external world is a reflection or projection of the internal state of the observer.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 47,
+        "chapter": "Part III",
+        "surface_quote": "What is in you is outside, and one who fashions you on the outside shapes you inside.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0215",
+    "canonical_statement": "The divine source is both the origin of existence and the ultimate destination of the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 47,
+        "chapter": "Part III",
+        "surface_quote": "There they will find me and live, and they will not die again.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0216",
+    "canonical_statement": "The nature of the divine is incomprehensible and transcends human linguistic categories.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 47,
+        "chapter": "Part III",
+        "surface_quote": "I am a silence incomprehensible and an idea remembered often.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0217",
+    "canonical_statement": "The relationship between the divine and the individual is characterized by a reciprocal, shifting proximity.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 47,
+        "chapter": "Part III",
+        "surface_quote": "On the day I am close to you, you are far, and on the day I am far, I am close.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0218",
+    "canonical_statement": "The divine realm exists as an incorruptible, eternal substrate beyond the reach of material authorities.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 48,
+        "chapter": "Part III",
+        "surface_quote": "The incorruptible realm exists above the authorities of chaos.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0219",
+    "canonical_statement": "Human consciousness possesses an inherent, uncreated spark that originates from the transcendent source.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 48,
+        "chapter": "Part III",
+        "surface_quote": "The spark of light within the human soul is uncreated.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0220",
+    "canonical_statement": "The material world is a construct of inferior, ignorant powers rather than the ultimate reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 48,
+        "chapter": "Part III",
+        "surface_quote": "The world was fashioned by powers who do not know the true God.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0221",
+    "canonical_statement": "The individual soul possesses a pre-existent divine mind that predates the creation of the material world.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 49,
+        "chapter": "Part III",
+        "surface_quote": "possessing that which she had received before the world came into being.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "pre-existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0222",
+    "canonical_statement": "The Pleroma is a state of fullness and completeness, contrasted with the state of deficiency.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 49,
+        "chapter": "Part III",
+        "surface_quote": "she will behold the Pleroma, and she will not be in deficiency",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "pleroma",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0223",
+    "canonical_statement": "The divine essence is immanent within all human manifestations of the primordial Adam.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 49,
+        "chapter": "Part III",
+        "surface_quote": "He it is who is within all of the Adams",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0224",
+    "canonical_statement": "The ultimate goal of the soul is to achieve self-generation and union with the Imperishable Ones.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 49,
+        "chapter": "Part III",
+        "surface_quote": "she (too) might generate herself... and that she might be joined to all of the Imperishable Ones",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0225",
+    "canonical_statement": "The human mind is a reflection of the divine intellect and possesses the capacity to return to its source.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 50,
+        "chapter": "Part III",
+        "surface_quote": "The mind is the dwelling place of God.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0226",
+    "canonical_statement": "Ignorance functions as a state of spiritual darkness that obscures the true nature of the self.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 50,
+        "chapter": "Part III",
+        "surface_quote": "Ignorance is the mother of all evils.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "perception",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0227",
+    "canonical_statement": "The soul undergoes a process of purification to transcend material attachments.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 50,
+        "chapter": "Part III",
+        "surface_quote": "Cleanse your heart from the filth of the world.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "transcendence",
+      "asceticism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0228",
+    "canonical_statement": "Time and material existence are transient conditions compared to the eternal nature of the spirit.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 50,
+        "chapter": "Part III",
+        "surface_quote": "The world is a passing shadow.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "reality",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0229",
+    "canonical_statement": "The human soul is composed of three distinct substances: an earthly body, a formed soul, and a divine mind.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 51,
+        "chapter": "Part III",
+        "surface_quote": "You have come into being from three races: from the earth, from the formed, and from the created.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0230",
+    "canonical_statement": "The mind is a non-local entity that exists in the body by being but transcends place through thought.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 51,
+        "chapter": "Part III",
+        "surface_quote": "The mind, with respect to actual being, is in a place... but with respect to thought, the mind is not in a place.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0231",
+    "canonical_statement": "God is simultaneously omnipresent in power and transcendent of all location in divinity.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 51,
+        "chapter": "Part III",
+        "surface_quote": "With respect to power, to be sure, he is in every place; but with respect to divinity, he is in no place.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0232",
+    "canonical_statement": "The material world is a deceptive copy of a hidden, spiritual reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 51,
+        "chapter": "Part III",
+        "surface_quote": "Everything which is visible is a copy of that which is hidden.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0233",
+    "canonical_statement": "Self-knowledge is the necessary prerequisite for understanding the nature of God and the spiritual hierarchy.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 51,
+        "chapter": "Part III",
+        "surface_quote": "If you do not know yourself, you will not be able to know all of these.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0234",
+    "canonical_statement": "Christ functions as the bridge between the human and the divine, acting as the image through which the Father is known.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 51,
+        "chapter": "Part III",
+        "surface_quote": "You cannot know God through anyone except Christ, who has the image of the Father.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0235",
+    "canonical_statement": "The soul's state is determined by its alignment with either the animal/fleshly nature or the rational/divine nature.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 51,
+        "chapter": "Part III",
+        "surface_quote": "You will take on the likeness of the part toward which you will turn yourself.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0236",
+    "canonical_statement": "The soul is a distinct entity that originates from a realm beyond the material world.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 52,
+        "chapter": "Part III",
+        "surface_quote": "The soul comes from a place of truth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "origin",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0237",
+    "canonical_statement": "The material world is a construct of ignorance or deception that obscures true reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 52,
+        "chapter": "Part III",
+        "surface_quote": "The world is a place of error and ignorance.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0238",
+    "canonical_statement": "True knowledge of the divine is achieved through the rejection of worldly attachments.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 52,
+        "chapter": "Part III",
+        "surface_quote": "One must abandon the world to know the truth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "asceticism",
+      "enlightenment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0239",
+    "canonical_statement": "True knowledge of the self is identical to knowledge of the divine All.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 53,
+        "chapter": "Part III",
+        "surface_quote": "This is the perfect life, that man know himself by means of the All.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0240",
+    "canonical_statement": "The material world and carnal procreation are under the governance of archons and are antithetical to the light.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 53,
+        "chapter": "Part III",
+        "surface_quote": "The dominion of carnal procreation had come to an end.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0241",
+    "canonical_statement": "Salvation is achieved through the renunciation of the material world and the acquisition of spiritual knowledge, not through ritual or legalistic adherence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 53,
+        "chapter": "Part III",
+        "surface_quote": "The baptism of truth is something else; it is by renunciation of the world.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "salvation",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0242",
+    "canonical_statement": "The human soul is currently bound by ignorance and the influence of lower powers, requiring a process of self-liberation.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 53,
+        "chapter": "Part III",
+        "surface_quote": "They came to know themselves... and what is the place in which they will rest.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0243",
+    "canonical_statement": "The physical body and its sensory pleasures are a form of defilement that obscures the truth.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 53,
+        "chapter": "Part III",
+        "surface_quote": "The Jordan river is the power of the body, that is, the senses of pleasures.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0244",
+    "canonical_statement": "The true spiritual essence of a person exists independently of the corruptible flesh.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 53,
+        "chapter": "Part III",
+        "surface_quote": "Do not expect, therefore, the carnal resurrection, which is destruction.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0245",
+    "canonical_statement": "The divine essence is immutable and remains unaffected by the material world or human suffering.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 54,
+        "chapter": "Part III",
+        "surface_quote": "I was not afflicted in any way, nor did I suffer.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0246",
+    "canonical_statement": "The physical body is a temporary, illusory vessel distinct from the true, incorporeal self.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 54,
+        "chapter": "Part III",
+        "surface_quote": "I did not die in reality but in appearance.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality",
+      "illusion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0247",
+    "canonical_statement": "The material realm is a construct of ignorance, separate from the true spiritual reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 54,
+        "chapter": "Part III",
+        "surface_quote": "They were in error, not knowing who I am.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0248",
+    "canonical_statement": "The individual consciousness is fundamentally unified with the divine source, existing as a singular, non-dual reality.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 55,
+        "chapter": "Part III",
+        "surface_quote": "I am in you and you are in me.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0249",
+    "canonical_statement": "The material world and its physical bodies are constructed by lower, ignorant powers using inferior elements.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 55,
+        "chapter": "Part III",
+        "surface_quote": "She took materials from the elements below to build bodily dwellings.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0250",
+    "canonical_statement": "The death of the enlightened being in the physical realm is an illusion; the true self remains untouched by physical suffering.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 55,
+        "chapter": "Part III",
+        "surface_quote": "I did not die in reality but in appearance.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0251",
+    "canonical_statement": "The historical figures and religious authorities of the world are counterfeit imitations, ignorant of the true divine nature.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 55,
+        "chapter": "Part III",
+        "surface_quote": "Adam and Abraham and Isaac and Jacob were a laughingstock.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0252",
+    "canonical_statement": "The ultimate state of existence is a return to a state of undivided, perfect union within the divine pleroma.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 55,
+        "chapter": "Part III",
+        "surface_quote": "They will be perfected in the third glory.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0253",
+    "canonical_statement": "The physical body is a temporary, deceptive vessel that obscures the true, imperishable nature of the soul.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 55,
+        "chapter": "Part III",
+        "surface_quote": "You do not know this because the fleshly cloud overshadows you.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0254",
+    "canonical_statement": "The universe is composed of two opposing principles, light and darkness, which are fundamentally distinct and unmixed.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 56,
+        "chapter": "Part III",
+        "surface_quote": "The light and the darkness are two separate powers.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "dualism",
+      "cosmology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0255",
+    "canonical_statement": "The material world is a product of the interaction or conflict between primordial forces.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 56,
+        "chapter": "Part III",
+        "surface_quote": "The world came into being through the conflict of light and darkness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0256",
+    "canonical_statement": "Human consciousness possesses a spark of the divine light that is currently trapped within the material darkness.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 56,
+        "chapter": "Part III",
+        "surface_quote": "The light is held captive within the darkness of the world.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "soul",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0257",
+    "canonical_statement": "The universe originated from three distinct roots: light, darkness, and a spirit existing between them.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 57,
+        "chapter": "Part III",
+        "surface_quote": "There was light and darkness, and there was spirit between them.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0258",
+    "canonical_statement": "The material world and human nature are products of the interaction between light and the chaotic, ignorant darkness.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 57,
+        "chapter": "Part III",
+        "surface_quote": "Nature was divided into four parts... chaotic fires.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0259",
+    "canonical_statement": "The human soul is a burden to the darkness and originates from a source distinct from the material world.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 57,
+        "chapter": "Part III",
+        "surface_quote": "The soul is a burden to the darkness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0260",
+    "canonical_statement": "Individual consciousness is a particle of light trapped within the body and nature, requiring remembrance to return to its source.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 57,
+        "chapter": "Part III",
+        "surface_quote": "Through remembrance he will be able to grasp them.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0261",
+    "canonical_statement": "Physical existence and material rituals, such as baptism, are forms of bondage that perpetuate ignorance.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 57,
+        "chapter": "Part III",
+        "surface_quote": "They are deceived by manifold demons, thinking that through baptism... the water will take away sins.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0262",
+    "canonical_statement": "The material universe is destined for destruction, at which point the light will be separated from the darkness.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 57,
+        "chapter": "Part III",
+        "surface_quote": "In the last day the forms of nature will be destroyed.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0263",
+    "canonical_statement": "The ultimate reality is a singular, undivided, and transcendent essence that precedes all existence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 58,
+        "chapter": "Part III",
+        "surface_quote": "the first aeon, the self-begotten, the self-generated",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "monism",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0264",
+    "canonical_statement": "The structure of reality is hierarchical, manifesting through successive emanations from the primary source.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 58,
+        "chapter": "Part III",
+        "surface_quote": "the three steles of Seth, the living ones",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "emanation",
+      "hierarchy",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0265",
+    "canonical_statement": "Individual consciousness can achieve union with the divine through intellectual and spiritual ascent.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 58,
+        "chapter": "Part III",
+        "surface_quote": "you have known yourselves, that you are from above",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "gnosis",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0266",
+    "canonical_statement": "The ultimate reality is a singular, unborn, non-being spirit that precedes all existence and knowledge.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 59,
+        "chapter": "Part III",
+        "surface_quote": "You are spirit, alone and living. There is nothing active prior to you.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0267",
+    "canonical_statement": "The divine emanates through a process of division and replication while remaining essentially unified.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 59,
+        "chapter": "Part III",
+        "surface_quote": "You have been divided everywhere, you have remained one.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0268",
+    "canonical_statement": "Salvation is achieved through the acquisition of knowledge of the divine and the act of glorification.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 59,
+        "chapter": "Part III",
+        "surface_quote": "Knowledge of you is our salvation.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0269",
+    "canonical_statement": "The structure of reality is hierarchical, consisting of emanations that act as shadows of the preceding level.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 59,
+        "chapter": "Part III",
+        "surface_quote": "We are a shadow of you, as you are a shadow of that first preexistent one.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0270",
+    "canonical_statement": "The process of spiritual ascent and descent through levels of reality is identical in structure.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 59,
+        "chapter": "Part III",
+        "surface_quote": "The way of ascent is the way of descent.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0271",
+    "canonical_statement": "Individual identity is derived from and dependent upon the divine mind.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 59,
+        "chapter": "Part III",
+        "surface_quote": "I am your son and you are my mind, O my father.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0272",
+    "canonical_statement": "The attainment of divine knowledge facilitates a transition from a mortal state to a divine, immortal state.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 60,
+        "chapter": "Part III",
+        "surface_quote": "You have received the eighth, which reveals the ninth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "transformation",
+      "immortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0273",
+    "canonical_statement": "The structure of reality is hierarchical, consisting of distinct levels of consciousness or spiritual realms.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 60,
+        "chapter": "Part III",
+        "surface_quote": "The eighth reveals the ninth.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0274",
+    "canonical_statement": "The ultimate nature of reality is accessible through the direct experience of divine illumination.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 60,
+        "chapter": "Part III",
+        "surface_quote": "We have received the power of the eighth and the ninth.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0275",
+    "canonical_statement": "The ultimate reality is a self-contained, self-supporting, and invisible divine unity that generates all existence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 61,
+        "chapter": "Part III",
+        "surface_quote": "who, being self within self, supports everything, being perfect, the invisible god",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0276",
+    "canonical_statement": "Human consciousness can ascend through hierarchical stages of reality, culminating in the eighth and ninth spheres.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 61,
+        "chapter": "Part III",
+        "surface_quote": "take my mind to the eighth heavenly sphere and after that to the ninth",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0277",
+    "canonical_statement": "The individual mind is an instrument of the divine spirit, capable of perceiving its own true nature through visionary experience.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 61,
+        "chapter": "Part III",
+        "surface_quote": "I am mind, and I see another mind... I see myself.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0278",
+    "canonical_statement": "Spiritual forces exist as immortal entities that nurture and sustain individual human souls.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 61,
+        "chapter": "Part III",
+        "surface_quote": "they exist as forces that nurture other souls. That is why I say they are immortal.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0279",
+    "canonical_statement": "The universe receives its soul from the divine, and all conceived things originate from the self-conceived creator.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 61,
+        "chapter": "Part III",
+        "surface_quote": "From you the universe received soul. From you, one unconceived, one that has been conceived came into being.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0280",
+    "canonical_statement": "True spiritual knowledge is ineffable and transcends the capacity of language, requiring silence for its expression.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 61,
+        "chapter": "Part III",
+        "surface_quote": "Speech cannot reveal this. For all of the eighth... sing a song in silence.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0281",
+    "canonical_statement": "The divine essence is the singular source and sustainer of all existence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 62,
+        "chapter": "Part III",
+        "surface_quote": "You are the light that the mind beholds.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0282",
+    "canonical_statement": "Human consciousness achieves union with the divine through the act of intellectual praise.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 62,
+        "chapter": "Part III",
+        "surface_quote": "It is through your grace that we receive the knowledge of your light.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0283",
+    "canonical_statement": "The material world is a manifestation of the divine will.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 62,
+        "chapter": "Part III",
+        "surface_quote": "You are the one who has established the universe.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0284",
+    "canonical_statement": "Human beings can be transformed into divine entities through the acquisition of spiritual knowledge.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 63,
+        "chapter": "Part III",
+        "surface_quote": "while we were in the body, You have made us divine through Your knowledge.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "gnosis",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0285",
+    "canonical_statement": "The ultimate reality is an intellectual light that serves as the source and womb of all existence.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 63,
+        "chapter": "Part III",
+        "surface_quote": "We have known You, intellectual light. Life of life... Womb of every creature.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "source",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0286",
+    "canonical_statement": "Human consciousness is structured to facilitate the comprehension, expression, and recognition of the Divine.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 63,
+        "chapter": "Part III",
+        "surface_quote": "giving us mind, speech, and knowledge: mind to understand, speech to expound, knowledge to know.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0287",
+    "canonical_statement": "The Pleroma is a unified, infinite totality of divine emanations existing beyond temporal limitation.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 64,
+        "chapter": "Part III",
+        "surface_quote": "The Pleroma is the totality of the aeons.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "pleroma",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0288",
+    "canonical_statement": "Individual consciousness originates from a process of emanation from the divine source, resulting in a state of separation.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 64,
+        "chapter": "Part III",
+        "surface_quote": "The aeons emanated from the Father.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "emanation",
+      "consciousness",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0289",
+    "canonical_statement": "The material world is a product of deficiency or ignorance arising from the limitation of divine light.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 64,
+        "chapter": "Part III",
+        "surface_quote": "The world was formed from the deficiency of the aeons.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "cosmology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0290",
+    "canonical_statement": "Human identity is fundamentally dualistic, consisting of a material vessel and a latent divine spark.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 64,
+        "chapter": "Part III",
+        "surface_quote": "The soul is trapped within the material body.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "anthropology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0291",
+    "canonical_statement": "Salvation is the process of gnosis, or the recollection of one's divine origin and subsequent return to the Pleroma.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 64,
+        "chapter": "Part III",
+        "surface_quote": "Knowledge of the Father leads to the restoration of the soul.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "salvation",
+      "return"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0292",
+    "canonical_statement": "The ultimate source of all existence is a singular, ineffable Monad existing in absolute silence and tranquility.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 65,
+        "chapter": "Part III",
+        "surface_quote": "The Ineffable One who dwells in the Monad. He dwells alone in silence.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0293",
+    "canonical_statement": "The Pleroma is structured through successive emanations of pairs (syzygies) representing divine attributes.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 65,
+        "chapter": "Part III",
+        "surface_quote": "He dwells in the Dyad and in the Pair, and his Pair is Silence.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0294",
+    "canonical_statement": "The material world and its inhabitants are shadows, images, and likenesses of pre-existing divine realities.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 65,
+        "chapter": "Part III",
+        "surface_quote": "The creature is a shadow of pre-existing things.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0295",
+    "canonical_statement": "Human suffering and the creation of the material realm resulted from a rupture in the divine order, specifically the separation of an Aeon from her consort.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 65,
+        "chapter": "Part III",
+        "surface_quote": "She dwells in herself alone without her consort. That she should suffer... was not the will.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0296",
+    "canonical_statement": "The restoration of the All occurs when the fragmented seeds of divinity are reunited with their divine counterparts within the Pleroma.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 65,
+        "chapter": "Part III",
+        "surface_quote": "The All will come to be in unity and reconciliation.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_nag_hammadi_library_gnosis_0297",
+    "canonical_statement": "The Demiurge functions as a secondary creator, shaping the material world using the patterns and seeds derived from the higher Pleroma.",
+    "attributions": [
+      {
+        "source_id": "nag_hammadi_library_gnosis",
+        "chunk_index": 65,
+        "chapter": "Part III",
+        "surface_quote": "The Demiurge began to create a man according to his image.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  }
+]

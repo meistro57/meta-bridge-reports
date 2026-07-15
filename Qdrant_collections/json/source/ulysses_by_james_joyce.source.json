@@ -1,0 +1,14 @@
+{
+  "id": "ulysses_by_james_joyce",
+  "title": "Ulysses",
+  "author": "James Joyce",
+  "medium": "",
+  "channel_type": "authored",
+  "tradition": "",
+  "year": 0,
+  "region": "",
+  "ingested_at": "2026-06-09T21:10:53.597679821Z",
+  "chunk_count": 689,
+  "claim_count": 450,
+  "source_path": "incoming/Ulysses-by-James-Joyce.txt"
+}

@@ -1,0 +1,3759 @@
+[
+  {
+    "id": "cl_records_of_the_past_vol2_0001",
+    "canonical_statement": "The afterlife state requires the continuous provision of material sustenance to maintain the deceased's existence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 6,
+        "chapter": "THE INSCRIPTION OF UNI",
+        "surface_quote": "offering to OSIRIS... in order that there may be given to him a revenue",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "sustenance",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0002",
+    "canonical_statement": "The sovereign acts as the divine mediator through whom the deceased receives sustenance in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 6,
+        "chapter": "THE INSCRIPTION OF UNI",
+        "surface_quote": "ROYAL offering to OSIRIS the lord of BUSIRIS",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0003",
+    "canonical_statement": "The human soul persists as a distinct entity after physical death and remains an object of veneration.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 11,
+        "chapter": "THE INSCRIPTION OF UNI",
+        "surface_quote": "I adore above all the gods, the souls of the king Mirin-ri.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0004",
+    "canonical_statement": "The human personality possesses a 'double' or ka that serves as a source of metaphysical guidance and authority.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 11,
+        "chapter": "THE INSCRIPTION OF UNI",
+        "surface_quote": "according to the order of which his double has given unto me.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0005",
+    "canonical_statement": "Death is conceptualized as a transition to an alternative state of existence, metaphorically described as reaching the opposite bank.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 15,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "the day arrived when one attains the other bank.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "death",
+      "transition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0006",
+    "canonical_statement": "The Pharaoh is ontologically identified with the deity Horus.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 18,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "Pharaoh, who was identified with Horus",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "kingship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0007",
+    "canonical_statement": "The death of a monarch is described as the transition of the divine essence into the celestial realm.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 19,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "the god entered his double horizon, the king Shotphitri ascended to heaven",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "afterlife",
+      "kingship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0008",
+    "canonical_statement": "The soul of the deceased ruler achieves a state of union with the solar deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 19,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "united himself with the solar disk",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "divinity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0009",
+    "canonical_statement": "The physical sensation of extreme thirst and physiological distress is interpreted by the individual as the imminent transition of death.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 21,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "my throat rattled and contracted and I already said to myself: 'It is the taste of death'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "death",
+      "consciousness",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0010",
+    "canonical_statement": "Human displacement and life events are governed by divine will rather than individual agency or moral failing.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 22,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "it is as it were by the will of God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "divine-will",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0011",
+    "canonical_statement": "The sovereign ruler possesses a unique, singular ontological status as a divine being without equal.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 22,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "He is a god who verily has no second",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0012",
+    "canonical_statement": "The sovereign possesses a divine essence inherent from birth.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 23,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "he is also an unique being, of the divine essence",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0013",
+    "canonical_statement": "The capacity for governance is an innate quality present from the moment of conception.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 23,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "As king he governs since he was in the egg",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0014",
+    "canonical_statement": "Divine favor acts as a protective force that ensures the success of an individual in conflict.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 25,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "Will God forget any one whom he has always favoured until now?",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "fate",
+      "protection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0015",
+    "canonical_statement": "The outcome of a mortal conflict is predetermined by divine will, rendering the challenger's defeat inevitable.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 25,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "It is as if the challenger were already among those who are laid on the funeral couch!",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "predestination",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0016",
+    "canonical_statement": "Divine agency actively intervenes in the life of the individual who maintains trust in the deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 26,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "Now behold what God has done for me who have trusted in him.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-intervention",
+      "providence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0017",
+    "canonical_statement": "The reversal of fortune and material prosperity are manifestations of divine favor.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 26,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "I had quitted my country naked and behold I am clothed in fine linen.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "providence",
+      "fortune"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0018",
+    "canonical_statement": "The soul possesses an inherent orientation toward its place of origin, which functions as its metaphysical center.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 27,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "directing his course towards the country where he has trodden the earth for the first time",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0019",
+    "canonical_statement": "Death is a transition to an eternal state of existence governed by a Universal Master.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 27,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "I shall follow thither the Universal Master; ah, may he... bring eternity unto me!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "death",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0020",
+    "canonical_statement": "Physical decay and the cessation of bodily functions are the precursors to the soul's departure from the material realm.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 27,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "old age comes, feebleness has attacked me... the heart ceases: death approaches me",
+        "claim_type": "implied",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "death",
+      "body",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0021",
+    "canonical_statement": "The monarch functions as a terrestrial manifestation of the divine celestial order.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 28,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "Pharaoh is thy heaven unto thee.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0022",
+    "canonical_statement": "Human existence is characterized by an inevitable decline in physical vitality leading toward death.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 28,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "From day to day, behold, thou art ever growing older; thou hast lost the strength of manhood.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0023",
+    "canonical_statement": "The ritualized preparation of the corpse facilitates the transition into a state of post-mortem beatitude.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 28,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "Behold thyself arrived at the state of beatitude; on the night whereon the oils of embalming are applied.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0024",
+    "canonical_statement": "The monarch functions as a terrestrial manifestation or image of the divine, possessing authority over the cosmic order.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 29,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "thy majesty is a HORUS, and the power of thine arms extends over all lands",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sovereignty",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0025",
+    "canonical_statement": "Divine entities possess the capacity to grant or withhold the extension of time and eternity to human subjects.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 29,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "may they give... time without limit, eternity without measure",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "eternity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0026",
+    "canonical_statement": "The sovereign acts as a direct agent of the divine will in the governance and deliberation of human subjects.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 29,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "the mighty god... has himself laid his hand to the work",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "providence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0027",
+    "canonical_statement": "Human actions are often directed by an external divine will rather than conscious premeditation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 30,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "the divine will which had destined me to this exile led me along.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "agency",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0028",
+    "canonical_statement": "The experience of physical movement can be perceived as a trance-like state or dream-like displacement.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 30,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "it was like a trance, like the dream of a man who sees himself elsewhere.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0029",
+    "canonical_statement": "The sovereign acts as the metaphysical anchor or sustainer of the physical environment and its natural processes.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 30,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "Thou art the vesture of this place; the sun rises at thy pleasure.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0030",
+    "canonical_statement": "Individual life and sustenance are dependent upon the divine favor channeled through the sovereign.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 30,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "we live on the air thou givest.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0031",
+    "canonical_statement": "The presence of a divine or sovereign figure can induce a state of ego-dissolution or loss of self-awareness in the subject.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 31,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "I sank on my stomach, I lost consciousness of myself in his presence.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0032",
+    "canonical_statement": "The experience of extreme awe or terror in the presence of the divine reveals the ontological distinction between life and death.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 31,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "my heart was no longer in my breast, and I knew what is the difference between life and death.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "death",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0033",
+    "canonical_statement": "The sovereign ruler is identified as the embodiment or source of life itself.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 31,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "I replied thus in answer: I am afraid; nevertheless... thou art life",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0034",
+    "canonical_statement": "The sovereign embodies the divine essence of the sun deity, functioning as the supreme authority over the cosmic order.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 32,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "thou art proclaimed RA, master of the two countries",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sovereignty",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0035",
+    "canonical_statement": "The king possesses the power to grant life to those who have undergone annihilation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 32,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "Grant that he may live who is in annihilation!",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0036",
+    "canonical_statement": "The royal presence exerts a metaphysical influence that compels fear and submission in the observer.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 32,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "does not the face grow pale which sees thy face?",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0037",
+    "canonical_statement": "The monarch is ontologically identified with the divine entity Horus.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 34,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "The hawk who flies is the new king, identified with the hawk-god.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "monarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0038",
+    "canonical_statement": "The identity of an individual is fundamentally tied to their cultural and spiritual origin, yet it is capable of undergoing a transformative renewal that shifts their essential nature.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 35,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "my heart was renewed there for me... it made him an Asiatic",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0039",
+    "canonical_statement": "The royal uraeus serpent functions as an autonomous metaphysical entity that provides guidance and offensive power to the sovereign.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 36,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "the royal uraeus serpent... was supposed to think and fight for him.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0040",
+    "canonical_statement": "The tomb serves as a permanent metaphysical residence for the deceased, designated as an eternal house.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 36,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "That is the tomb, also called the 'eternal house.'",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "death",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0041",
+    "canonical_statement": "The deceased individual enters into a state of perpetual service and imitation of the deity Osiris.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 36,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "Osiris, whom every dead Egyptian served and followed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0042",
+    "canonical_statement": "The efficacy of ritual language is contingent upon the precise vibrational or tonal modulation of the spoken word.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 37,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "prayer to be of avail... necessary that it should be recited in the traditional cadence.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ritual",
+      "vibration",
+      "language",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0043",
+    "canonical_statement": "Divine power over malevolent forces is exercised through the correct vocalization of specific linguistic formulas.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 37,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "The gods triumphed over evil by the correctness of their voice.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "evil",
+      "power",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0044",
+    "canonical_statement": "Post-mortem existence is characterized by the continuous recitation of incantations to maintain spiritual status.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 37,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "The dead man... passed the whole of his funerary existence in reciting incantations.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0045",
+    "canonical_statement": "The deity Atumu functions as the creator and sustainer of the world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 38,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "Tumu or Atumu was the god... who had created and preserved the world.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "theology",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0046",
+    "canonical_statement": "The human soul undergoes a post-mortem journey through a celestial ocean to achieve rebirth.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 39,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "Every Egyptian was supposed after death to journey... and be born again.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "rebirth",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0047",
+    "canonical_statement": "The sky and the earth constitute a primordial divine couple whose union forms the structure of the cosmos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 39,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "With Sibu, the god of the earth, she formed a divine couple.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0048",
+    "canonical_statement": "The monarch functions as a living incarnation of the divine, specifically identified with the third member of the trinity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 39,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "The Egyptian monarch was the incarnation of the deity.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "monarchy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0049",
+    "canonical_statement": "The monarch possesses a divine nature, equating his state of being to that of the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 40,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "In fact, he is the god himself.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "monarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0050",
+    "canonical_statement": "Divine beings are characterized by an ontological state of perpetual satiety, transcending physical lack.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 40,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "the gods, who never suffer from hunger.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0051",
+    "canonical_statement": "The sovereign functions as a singular vessel for the totality of solar divine powers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 40,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "sums up in himself all the powers of the solar deities.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0052",
+    "canonical_statement": "The human soul possesses a 'double' that requires a physical statue as a vessel for its continued existence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 41,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "the statue itself which should sustain the double of Sinuhit",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0053",
+    "canonical_statement": "The funerary environment functions as a metaphysical replica of the terrestrial home to facilitate the deceased's continued existence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 41,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "The ideal tomb being above all things the image of the terrestrial house",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0054",
+    "canonical_statement": "The deceased retains the capacity for social interaction and leisure activities within the afterlife environment.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 41,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "The defunct came there like the living, to converse with his wife",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0055",
+    "canonical_statement": "The deceased maintains a proprietary relationship with material resources in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 42,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "The fields of the sepulchral domain were the property of the deceased.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0056",
+    "canonical_statement": "The well-being of the deceased in the afterlife is contingent upon ritual maintenance performed by the living.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 42,
+        "chapter": "THE ADVENTURES OF SINUHIT (OF THE TWELFTH DYNASTY)",
+        "surface_quote": "The family made a contract with them... for the well-being of the deceased.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0057",
+    "canonical_statement": "The sovereign power of a ruler is inextricably linked to the exclusive worship of a specific deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 46,
+        "chapter": "THE LEGEND OF THE EXPULSION OF THE HYKSOS",
+        "surface_quote": "he no longer served any other deity... excepting only SUTEKHU",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0058",
+    "canonical_statement": "Scribes possess specialized knowledge of magic that transcends the capabilities of civil and military leadership.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 47,
+        "chapter": "THE LEGEND OF THE EXPULSION OF THE HYKSOS",
+        "surface_quote": "Apopi summoned his scribes versed in magic.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "magic",
+      "knowledge",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0059",
+    "canonical_statement": "The legitimacy and authority of a ruler are contingent upon the exclusive worship of a specific deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 48,
+        "chapter": "THE LEGEND OF THE EXPULSION OF THE HYKSOS",
+        "surface_quote": "If the chief of the South cannot answer, let him serve no other god.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "divine-authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0060",
+    "canonical_statement": "The success or failure of political actions is tied to the favor of specific deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 48,
+        "chapter": "THE LEGEND OF THE EXPULSION OF THE HYKSOS",
+        "surface_quote": "The penalty is always stated to which he must submit in case of ill-success.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "causality",
+      "divine-intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0061",
+    "canonical_statement": "Human identity and conduct can be modeled after divine archetypes.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 49,
+        "chapter": "THE LEGEND OF THE EXPULSION OF THE HYKSOS",
+        "surface_quote": "arraying himself for the combat like the god MONTU",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0062",
+    "canonical_statement": "The monarchical authority is derived from and sanctioned by divine appointment within the cosmic order.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 55,
+        "chapter": "THE STELE OF THOTHMES IV (OF THE EIGHTEENTH DYNASTY)",
+        "surface_quote": "I have caused Men-khopiru-Ri to rise on the throne of SEB, Thothmos Khakeu in the function of TUM.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0063",
+    "canonical_statement": "Divine entities possess the capacity to bestow life and power upon human rulers through ritual interaction.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 55,
+        "chapter": "THE STELE OF THOTHMES IV (OF THE EIGHTEENTH DYNASTY)",
+        "surface_quote": "I have given life stable and pure to the master of the two lands.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0064",
+    "canonical_statement": "The monarch serves as a terrestrial manifestation and vessel for divine power.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 57,
+        "chapter": "THE STELE OF THOTHMES IV",
+        "surface_quote": "The good god lives, the son of Tuna, who lays claim on HARMAKHIS.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "kingship",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0065",
+    "canonical_statement": "The ruler acts as the maintainer of cosmic order through the ritual offering of truth to the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 57,
+        "chapter": "THE STELE OF THOTHMES IV",
+        "surface_quote": "offering the truth to TUM, presenting it to the master of the southern wall.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "ritual",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0066",
+    "canonical_statement": "The earthly king is an ontological successor to the archetypal deity Horus.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 57,
+        "chapter": "THE STELE OF THOTHMES IV",
+        "surface_quote": "heir of HORUS, master of his throne.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "lineage",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0067",
+    "canonical_statement": "The divine entity possesses a 'ka' or double that persists and requires sustenance through offerings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 58,
+        "chapter": "THE STELE OF THOTHMES IV",
+        "surface_quote": "magnificent offerings for his double (ka)",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0068",
+    "canonical_statement": "The consciousness of the deity and the human initiate can achieve a state of reciprocal identification.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 58,
+        "chapter": "THE STELE OF THOTHMES IV",
+        "surface_quote": "Thine is my face, thine is my heart; thy heart is mine.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0069",
+    "canonical_statement": "The physical representation of a deity serves as a conduit for the deity's presence and agency.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 58,
+        "chapter": "THE STELE OF THOTHMES IV",
+        "surface_quote": "Khafri, image made for TUM-HARMAKHIS",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "representation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0070",
+    "canonical_statement": "States of altered consciousness, such as sleep, facilitate direct communication between the human and divine realms.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 58,
+        "chapter": "THE STELE OF THOTHMES IV",
+        "surface_quote": "was overcome by slumber and slept... the Majesty of this august god spoke",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0071",
+    "canonical_statement": "The concept of 'the first time' refers to the primordial moment of creation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 60,
+        "chapter": "THE STELE OF THOTHMES IV",
+        "surface_quote": "Literally, 'of the first time,' an expression generally used of the creation.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0072",
+    "canonical_statement": "Divine intervention or communication can occur through the medium of a dream state.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 60,
+        "chapter": "THE STELE OF THOTHMES IV",
+        "surface_quote": "Or 'a dream which sleep produces took him.'",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0073",
+    "canonical_statement": "Human destiny is perceived as an external force that provides protection to the physical body.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 60,
+        "chapter": "THE STELE OF THOTHMES IV",
+        "surface_quote": "Behold for thee my destiny, as being in protection of my limbs.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "identity",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0074",
+    "canonical_statement": "The sovereign ruler is ontologically identical to the solar deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 66,
+        "chapter": "ON THE EDGE",
+        "surface_quote": "The Egyptian Pharaoh was identified with the Sun-god himself.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0075",
+    "canonical_statement": "The sovereign ruler functions as the primary creator and maintainer of the worldly order.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 70,
+        "chapter": "ON THE EDGE",
+        "surface_quote": "O creator of everything which is great",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0076",
+    "canonical_statement": "The king acts as the ultimate judicial authority and the source of divine oracles.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 70,
+        "chapter": "ON THE EDGE",
+        "surface_quote": "a mouth of judgment in thy presence exists",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "authority",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0077",
+    "canonical_statement": "The divine entity possesses the capacity to bestow life upon its servant.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 71,
+        "chapter": "ON THE EDGE",
+        "surface_quote": "the god brought life to his servant",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0078",
+    "canonical_statement": "The king is guided or inspired by a divine presence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 71,
+        "chapter": "ON THE EDGE",
+        "surface_quote": "The god who inspires the king",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0079",
+    "canonical_statement": "Human rulers derive their legitimacy and biological origin from divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 75,
+        "chapter": "INSCRIPTIONS OF UR-BAU",
+        "surface_quote": "the offspring begotten by the god Nin-agal",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0080",
+    "canonical_statement": "Physical objects can be consecrated to serve as conduits for the preservation of human life.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 75,
+        "chapter": "INSCRIPTIONS OF UR-BAU",
+        "surface_quote": "for the life of Ur-bau... he has consecrated it",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "ritual",
+      "life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0081",
+    "canonical_statement": "Deities function as protective entities for specific geographic populations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 76,
+        "chapter": "VII. INSCRIPTIONS OF GUDEA",
+        "surface_quote": "the goddess who protects the city, the mother of its inhabitants",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0082",
+    "canonical_statement": "Divinity possesses the capacity to determine and establish the destinies of both celestial and terrestrial realms.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 77,
+        "chapter": "COLUMN II",
+        "surface_quote": "O goddess who fixes the destinies of heaven and earth",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destiny",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0083",
+    "canonical_statement": "The divine entity functions as the generative source or progenitor of the pantheon.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 77,
+        "chapter": "COLUMN II",
+        "surface_quote": "NIN-TU mother of the gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0084",
+    "canonical_statement": "The physical representation of an individual within a sacred space serves to extend their existence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 78,
+        "chapter": "COLUMN IV",
+        "surface_quote": "the builder of the temple prolong the life!",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence",
+      "sacred"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0085",
+    "canonical_statement": "Ritual offerings establish a reciprocal link between the divine and the physical structure of the temple.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 78,
+        "chapter": "COLUMN IV",
+        "surface_quote": "such are the offerings which it institutes.",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "divine",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0086",
+    "canonical_statement": "Human authority and sovereignty are derived from and bestowed by divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 79,
+        "chapter": "COLUMN II",
+        "surface_quote": "dowered with sovereignty and the sceptre supreme by the god GAL-ALIM",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0087",
+    "canonical_statement": "The human individual is subject to an unchangeable divine will.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 79,
+        "chapter": "COLUMN II",
+        "surface_quote": "the shepherd chosen by the unchangeable will of the god NIN-GIRSU",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0088",
+    "canonical_statement": "Divine favor and selection are prerequisites for the legitimate exercise of earthly authority.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 80,
+        "chapter": "COLUMN III",
+        "surface_quote": "Gudea had chosen as the faithful shepherd of the country",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0089",
+    "canonical_statement": "The physical environment must undergo ritual purification to align with divine presence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 80,
+        "chapter": "COLUMN III",
+        "surface_quote": "then he purified the city and cleansed it",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "purity",
+      "sacred-space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0090",
+    "canonical_statement": "The physical environment and social order are maintained through the ritual purity of temple construction.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 81,
+        "chapter": "COLUMN IV",
+        "surface_quote": "The temple of the god NIN-GIRSU in a pure place he has constructed.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "ritual",
+      "sacred",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0091",
+    "canonical_statement": "The preservation of funerary monuments is a necessary condition for the maintenance of cosmic or social harmony.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 81,
+        "chapter": "COLUMN IV",
+        "surface_quote": "No tomb has been destroyed, no sepulchral urn has been broken.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "mortality",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0092",
+    "canonical_statement": "The construction of a sacred temple functions as a mechanism for the illumination of darkness.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 82,
+        "chapter": "COLUMN V",
+        "surface_quote": "his temple E-NINNu which illuminates the darkness",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sacred architecture",
+      "metaphysics of light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0093",
+    "canonical_statement": "The establishment of a divine temple correlates with the cessation of social disorder and conflict.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 82,
+        "chapter": "COLUMN V",
+        "surface_quote": "a man at variance to the place of oath has taken no one",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "social order",
+      "divine influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0094",
+    "canonical_statement": "The construction of a sacred space establishes a reciprocal relationship between the human agent and the divine entity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 84,
+        "chapter": "COLUMN VII",
+        "surface_quote": "O my king, whose temple I have built, may life be my recompense!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "reciprocity",
+      "sacred"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0095",
+    "canonical_statement": "The ritual consecration of a physical object allows it to function as a vessel for divine presence or communication.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 84,
+        "chapter": "COLUMN VII",
+        "surface_quote": "Gudea unto the statue has given command: 'To the statue of my king speak!'",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "divinity",
+      "vessel"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0096",
+    "canonical_statement": "The establishment of a sacred order necessitates the temporary suspension of social hierarchies and the equalization of status.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 84,
+        "chapter": "COLUMN VII",
+        "surface_quote": "The female slave has been made the equal of her mistress.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "social-order",
+      "sacred",
+      "equality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0097",
+    "canonical_statement": "Divine authority and the sanctity of religious inscriptions are immutable and protected by cosmic retribution.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 85,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "the god EN-KI, whose word is unchangeable",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "authority",
+      "sanctity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0098",
+    "canonical_statement": "The identity and legacy of a ruler are inextricably linked to the preservation of their dedicatory acts and divine service.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 85,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "whoever shall change his words or transgress his judgments",
+        "claim_type": "implied",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "identity",
+      "legacy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0099",
+    "canonical_statement": "The destiny of an individual is subject to alteration by divine intervention.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 86,
+        "chapter": "COLUMN IX",
+        "surface_quote": "may my god NIN-GISHZIDA, change his destiny!",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "destiny",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0100",
+    "canonical_statement": "The erasure of an individual's name and memory constitutes a form of existential annihilation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 86,
+        "chapter": "COLUMN IX",
+        "surface_quote": "His name, in the temple of his god may they efface from the tablets!",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0101",
+    "canonical_statement": "Divine entities possess the capacity to manipulate natural elements to enact ruin upon human domains.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 86,
+        "chapter": "COLUMN IX",
+        "surface_quote": "May he ravage it with rains from heaven! May he ravage it with the waters of the earth!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0102",
+    "canonical_statement": "Divine favor acts as a causal prerequisite for human architectural and creative achievement.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 87,
+        "chapter": "COLUMN I",
+        "surface_quote": "After that the goddess NINNI her favourable regard had cast upon him... he has ordered",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0103",
+    "canonical_statement": "The construction of a sacred space requires the use of ritually purified materials and consecrated ground.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 88,
+        "chapter": "COLUMN III",
+        "surface_quote": "His clay in a pure place he has caused to be taken.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacred",
+      "ritual",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0104",
+    "canonical_statement": "The physical manifestation of a temple is an act of establishing a permanent foundation for divine presence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 88,
+        "chapter": "COLUMN III",
+        "surface_quote": "The temple of E-ANNA in GIRSU-KI, he has built.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "temple",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0105",
+    "canonical_statement": "Divine entities possess the authority to govern and terminate the political and biological continuity of human rulers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 89,
+        "chapter": "COLUMN IV",
+        "surface_quote": "may she annihilate his race! may she cut off the years of his reign!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sovereignty",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0106",
+    "canonical_statement": "The physical representation of a name or identity within a sacred space functions as a locus for divine protection or retribution.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 89,
+        "chapter": "COLUMN IV",
+        "surface_quote": "by this name he has named it... and in the temple... he has placed it.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "sacred",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0107",
+    "canonical_statement": "Human sovereignty and authority are derived from and bestowed by divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 90,
+        "chapter": "COLUMN I",
+        "surface_quote": "endowed with sovereignty and the sceptre supreme",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0108",
+    "canonical_statement": "The course of human life and leadership is determined by immutable divine will.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 90,
+        "chapter": "COLUMN I",
+        "surface_quote": "the shepherd chosen by the immutable will of the god",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "determinism",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0109",
+    "canonical_statement": "Sacred architecture serves as a medium for illuminating the darkness of the material realm.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 91,
+        "chapter": "COLUMN II",
+        "surface_quote": "his temple of E-NINNu, which illumines the darkness",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sacred space",
+      "metaphysics",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0110",
+    "canonical_statement": "Divine entities possess the authority to determine the teleological outcomes of specific geographic locations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 95,
+        "chapter": "COLUMN I",
+        "surface_quote": "the lady who fixes the destinies of GIRSU-KI",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "divinity",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0111",
+    "canonical_statement": "The relationship between a deity and a human agent is predicated upon a divine act of selection originating from the deity's internal state.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 95,
+        "chapter": "COLUMN I",
+        "surface_quote": "the goddess BAU... in her august heart had chosen him",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency",
+      "predestination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0112",
+    "canonical_statement": "Human identity is defined by a subordinate relationship to divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 96,
+        "chapter": "COLUMN II",
+        "surface_quote": "as a servant full of reverential fear, for his mistress",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0113",
+    "canonical_statement": "The construction of physical temples serves as a ritual act of devotion to divine beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 96,
+        "chapter": "COLUMN II",
+        "surface_quote": "for the goddess BAU... the temple of E-SIL-SIRSIRA... he has constructed",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0114",
+    "canonical_statement": "The physical construction of sacred space requires the ritual purification of materials and site.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 97,
+        "chapter": "COLUMN III",
+        "surface_quote": "Its clay in a pure place he has caused to be taken.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "sacred-space",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0115",
+    "canonical_statement": "Deities possess specific domains of influence and governance over geographical locations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 97,
+        "chapter": "COLUMN III",
+        "surface_quote": "the mistress who URU-AZAGGA directs",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "governance",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0116",
+    "canonical_statement": "The divine presence is localized and manifested through the construction of sacred spaces.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 98,
+        "chapter": "COLUMN IV",
+        "surface_quote": "he has built the temple... in her sanctuary he has placed it.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sacred",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0117",
+    "canonical_statement": "Divinity requires a physical or symbolic anchor to interface with the manifest world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 98,
+        "chapter": "COLUMN IV",
+        "surface_quote": "The holy throne of his divinity he has made.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0118",
+    "canonical_statement": "The duration of a human life is determined and extended by divine agency.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 102,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "of his life the days having been prolonged",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "divinity",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0119",
+    "canonical_statement": "Political authority and the right to rule are granted through divine bestowal.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 102,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "the sceptre of command having been placed in the hand",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "authority",
+      "divinity",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0120",
+    "canonical_statement": "The physical representation of an individual within a sacred space serves as a permanent anchor for their identity and actions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 103,
+        "chapter": "COLUMN IX",
+        "surface_quote": "in the temple he has placed it",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "sacred",
+      "representation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0121",
+    "canonical_statement": "The identity of an individual is defined by their devotional relationship to a specific deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 103,
+        "chapter": "COLUMN IX",
+        "surface_quote": "the man of the goddess GATUMDUG",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0122",
+    "canonical_statement": "Divine entities possess specific territorial jurisdictions and maintain preferential relationships with human representatives.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 104,
+        "chapter": "COLUMN I",
+        "surface_quote": "the goddess GATUMDUG, the mother of SHIRPURLA",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy",
+      "territory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0123",
+    "canonical_statement": "Sacred architecture serves as a mechanism for the manifestation of light within a state of darkness.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 104,
+        "chapter": "COLUMN I",
+        "surface_quote": "the temple of E-NINNu which illuminates the darkness",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "architecture",
+      "metaphysics",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0124",
+    "canonical_statement": "Human agency is subordinate to divine command in the execution of sacred architecture.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 105,
+        "chapter": "COLUMN II",
+        "surface_quote": "his lady to construct has given him the order.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency",
+      "sacred"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0125",
+    "canonical_statement": "Material construction requires ritual purification of the physical substrate.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 105,
+        "chapter": "COLUMN II",
+        "surface_quote": "The clay in a pure place he has caused to be taken.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "matter",
+      "ritual",
+      "purity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0126",
+    "canonical_statement": "The act of creation involves the establishment of order, hierarchy, and stewardship over living forms.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 106,
+        "chapter": "COLUMN III",
+        "surface_quote": "he has formed into a herd, their herdsman he has established.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "order",
+      "stewardship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0127",
+    "canonical_statement": "Sacred spaces are defined by the ritual purification of a site and the construction of divine infrastructure.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 106,
+        "chapter": "COLUMN III",
+        "surface_quote": "In URU-AZAGGA, in a pure place, he has built the temple.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacred",
+      "space",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0128",
+    "canonical_statement": "Divine entities possess the capacity to influence or determine the distribution of favorable outcomes for humanity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 107,
+        "chapter": "COLUMN I",
+        "surface_quote": "the god NIN-GIRSU dispenses favourable fortunes",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0129",
+    "canonical_statement": "Physical structures serve as conduits or focal points for divine interaction with the material world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 107,
+        "chapter": "COLUMN I",
+        "surface_quote": "from the summit whereof the god NIN-GIRSU dispenses favourable fortunes",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sacred-space",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0130",
+    "canonical_statement": "Deities possess distinct individual identities and hierarchical relationships within the divine order.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 108,
+        "chapter": "COLUMN II",
+        "surface_quote": "the god NIN-GIRSU to the goddess BAU, the daughter of ANNA",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0131",
+    "canonical_statement": "Human rulers act as intermediaries who establish reciprocal relationships with divine entities through ritual offerings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 108,
+        "chapter": "COLUMN II",
+        "surface_quote": "the offerings which in the joy of his heart to the god... he presented",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0132",
+    "canonical_statement": "Divine entities possess specific terrestrial locations or structures as their primary domains of influence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 113,
+        "chapter": "COLUMN I",
+        "surface_quote": "the temple of E-SIL-SIRSIRA, her favourite temple",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sacred-space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0133",
+    "canonical_statement": "Physical objects, such as statues, can serve as conduits or manifestations for divine presence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 113,
+        "chapter": "COLUMN I",
+        "surface_quote": "for her statue he has caused it to be cut",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "divinity",
+      "materiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0134",
+    "canonical_statement": "The construction and dedication of a temple serves as a mechanism to manifest or sustain divine life within the physical realm.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 114,
+        "chapter": "COLUMN III",
+        "surface_quote": "in the temple... to Gudea give life!",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "manifestation",
+      "temple"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0135",
+    "canonical_statement": "Architectural structures can function as conduits for illumination, specifically defined as the negation of darkness.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 114,
+        "chapter": "COLUMN III",
+        "surface_quote": "his temple... which illumines the darkness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "light",
+      "structure",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0136",
+    "canonical_statement": "Deities possess hierarchical relationships and familial lineages within the divine structure.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 115,
+        "chapter": "INSCRIPTIONS ON TWO UNPUBLISHED VOTIVE TABLETS",
+        "surface_quote": "GAL-ALIM, the favourite son of the god NIN-GIRSU",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0137",
+    "canonical_statement": "The physical construction of a temple serves as a ritual act of devotion to a divine entity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 115,
+        "chapter": "INSCRIPTIONS ON TWO UNPUBLISHED VOTIVE TABLETS",
+        "surface_quote": "Gudea... her temple... has constructed.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ritual",
+      "worship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0138",
+    "canonical_statement": "Deities possess the authority to determine the destinies of individuals and entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 116,
+        "chapter": "UNPUBLISHED INSCRIPTION ON A BRICK",
+        "surface_quote": "the goddess NINa, the lady of destinies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0139",
+    "canonical_statement": "Sacred architecture serves as a physical conduit for divine communication and oracular reception.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 116,
+        "chapter": "UNPUBLISHED INSCRIPTION ON A BRICK",
+        "surface_quote": "the place of his oracles, he has constructed for him",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sacred-space",
+      "divination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0140",
+    "canonical_statement": "Deities possess specific domains of influence such as destiny and oracles.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 120,
+        "chapter": "XI. INSCRIPTIONS OF DUNGI, KING OF UR",
+        "surface_quote": "the goddess NINa, the lady of destinies, the lady of oracles",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0141",
+    "canonical_statement": "Human rulers act as agents for divine entities by constructing physical temples for their worship.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 120,
+        "chapter": "XI. INSCRIPTIONS OF DUNGI, KING OF UR",
+        "surface_quote": "For the god NIN-GIRSU... the temple... has constructed.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0142",
+    "canonical_statement": "The return of deities to their temples signifies the restoration of divine presence or legitimacy within a physical location.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 131,
+        "chapter": "THE ASSYRIAN CHRONICLE",
+        "surface_quote": "To their temples [the gods] returned.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0143",
+    "canonical_statement": "Ritual acts performed by a sovereign in a specific location function as a mechanism for validating political and metaphysical legitimacy.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 131,
+        "chapter": "THE ASSYRIAN CHRONICLE",
+        "surface_quote": "This ceremony... implied that the king was recognised as legitimate sovereign.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0144",
+    "canonical_statement": "The stability of the cosmic order is contingent upon the existence and activity of the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 138,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "the god without whom the laws of heaven and earth are unmade",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0145",
+    "canonical_statement": "Divine authority is the ultimate source and legitimizer of earthly governance and law.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 138,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "the giver of the sceptre and law to all cities",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0146",
+    "canonical_statement": "The divine consciousness maintains active, direct oversight of the physical extremities of the universe.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 138,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "who the extremities of heaven and earth superintends with his hand",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "omnipresence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0147",
+    "canonical_statement": "The identity and essence of a divine being are immutable and fixed within the cosmic assembly.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 138,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "whose name in the assembly of the gods no god has changed",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0148",
+    "canonical_statement": "Political authority and military conquest are divinely sanctioned and delegated by the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 139,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "in reliance on the great gods... entrusted his weapon that spares not",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theocracy",
+      "sovereignty",
+      "divine-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0149",
+    "canonical_statement": "The ruler serves as a mediator between the divine realm and the earthly temples.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 139,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "established his high-priesthood in the temples for ever",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "priesthood",
+      "mediation",
+      "sacred-order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0150",
+    "canonical_statement": "The success of a monarch is contingent upon the active support and intervention of deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 139,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "ASSUR and SAMAS, the gods his helpers",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "providence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0151",
+    "canonical_statement": "Political sovereignty and royal authority are divine emanations originating from the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 140,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "from the mouth of ASSUR (and) the great gods kingdom, sovereignty (and) majesty issued forth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "theocracy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0152",
+    "canonical_statement": "Individual destiny is pre-ordained and firmly established by the decree of the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 140,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "This is the destiny which from the mouth of the great gods has issued forth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0153",
+    "canonical_statement": "The success of human agency and military conquest is contingent upon divine favor and empowerment.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 140,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "whom BEL has caused to obtain the desire of his heart so that his hand conquered.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "agency",
+      "divine-intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0154",
+    "canonical_statement": "Human political and military authority is sanctioned and directed by divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 142,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "by the command of ASSUR (and) ISTAR the great gods my lords I departed",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0155",
+    "canonical_statement": "The sovereign possesses absolute power over the life and death of subjects.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 143,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "Thou willest it and it is death, thou willest it and it is life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "authority",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0156",
+    "canonical_statement": "Divine entities act as the primary agents for the expansion of earthly sovereignty.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 143,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "Assur and Rimmon, the great gods, the enlargers of my sovereignty.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0157",
+    "canonical_statement": "Political authority and military success are sanctioned and commanded by divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 144,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "By the command of ASSUR, SAMAS, and RIMMON, the gods my ministers I assembled my armies.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "authority",
+      "divine-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0158",
+    "canonical_statement": "The erection of royal imagery serves as a metaphysical extension of the ruler's presence and power.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 144,
+        "chapter": "THE ANNALS OF ASSUR-NATSIR-PAL",
+        "surface_quote": "An image of my majesty grandly I made; my power and exaltation I inscribed upon it.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "representation",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0159",
+    "canonical_statement": "Military victory and political authority are contingent upon the active support and guidance of divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 147,
+        "chapter": "COLUMN II",
+        "surface_quote": "In reliance on ASSUR the great lord... and NERGAL who marches before me",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "divine-intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0160",
+    "canonical_statement": "Divine beings possess the capacity to physically precede and influence the outcomes of human warfare.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 147,
+        "chapter": "COLUMN II",
+        "surface_quote": "NERGAL who marches before me",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0161",
+    "canonical_statement": "Divine entities act as active agents and facilitators in the military and political endeavors of earthly rulers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 150,
+        "chapter": "COLUMN II",
+        "surface_quote": "In reliance upon ASSUR and SAMAS the gods my helpers",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0162",
+    "canonical_statement": "The sovereign ruler acts as an instrument of divine will, attributing military success to the favor of the deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 153,
+        "chapter": "COLUMN II",
+        "surface_quote": "In reliance on ASSUR my lord I departed",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "divine-agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0163",
+    "canonical_statement": "The destruction of physical structures and the subjugation of populations are manifestations of divine power channeled through the ruler.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 153,
+        "chapter": "COLUMN II",
+        "surface_quote": "Through the hands supreme of ASSUR my lord... I rained destruction upon them.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divine-agency",
+      "power",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0164",
+    "canonical_statement": "The physical construction of a temple serves as a localized manifestation or anchoring point for divine entities within the material world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 156,
+        "chapter": "COLUMN II",
+        "surface_quote": "The holy of holies of URAS my lord I constructed firmly in the midst of it.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "manifestation",
+      "sacred-space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0165",
+    "canonical_statement": "Divine beings possess specific images or representations that can be physically erected to establish their presence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 156,
+        "chapter": "COLUMN II",
+        "surface_quote": "the image of EA the king (and) the image of RIMMON the master of heaven and earth I erected.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "representation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0166",
+    "canonical_statement": "The success of military conquest and the exercise of power are divinely sanctioned and directed by the deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 160,
+        "chapter": "COLUMN III",
+        "surface_quote": "By the command of ASSUR the great lord, my lord, and NERGAL",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "divine-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0167",
+    "canonical_statement": "The sovereign ruler acts as an instrument of divine will, with military victory being a direct manifestation of divine support.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 165,
+        "chapter": "COLUMN III",
+        "surface_quote": "who in reliance on the great gods his lords has marched",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "divine-agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0168",
+    "canonical_statement": "The king's identity and authority are derived from and validated by the proclamation of the deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 165,
+        "chapter": "COLUMN III",
+        "surface_quote": "ASSUR the lord the proclaimer of my name",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0169",
+    "canonical_statement": "Physical temples are constructed as terrestrial representations of a primordial cosmic temple archetype.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 167,
+        "chapter": "COLUMN III",
+        "surface_quote": "Temples were built after the supposed likeness of this temple of the earth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sacred-architecture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0170",
+    "canonical_statement": "The underworld is conceptualized as a distinct realm governed by specific deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 167,
+        "chapter": "COLUMN III",
+        "surface_quote": "Mul-lil, the lord of the ghost-world.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0171",
+    "canonical_statement": "Physical temples are named after a mythological archetype representing the sky.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 174,
+        "chapter": "COLUMN III",
+        "surface_quote": "E-sarra, the temple of the firmament, was properly the mythological name of the sky.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mythology",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0172",
+    "canonical_statement": "Military actions and human decisions are mediated by prophetic proclamations to determine divine alignment.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 174,
+        "chapter": "COLUMN III",
+        "surface_quote": "An army was accompanied by a prophet who determined by his proclamations whether to engage.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divination",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0173",
+    "canonical_statement": "Divine intervention is a causal factor in the restoration of physical health.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 176,
+        "chapter": "NUMBER 1",
+        "surface_quote": "if the king would only cause prayer to be made to his gods",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theurgy",
+      "healing",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0174",
+    "canonical_statement": "The capacity to inflict harm and the capacity to heal are dual aspects of the same metaphysical power.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 178,
+        "chapter": "NUMBER 1",
+        "surface_quote": "The warrior, able to cause wounds, was supposed to be able also to remove them.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0175",
+    "canonical_statement": "Divine entities possess the power to animate or restore life to the deceased.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 178,
+        "chapter": "NUMBER 1",
+        "surface_quote": "Nin-tin-badaga, the lady giving life to the dead.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0176",
+    "canonical_statement": "The term for wind is linguistically synonymous with the term for spirit.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 179,
+        "chapter": "NUMBER 1",
+        "surface_quote": "wind, saru, a word which seems to mean also spirit.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirit",
+      "language",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0177",
+    "canonical_statement": "The favor and protection of divine entities are necessary for the longevity and prosperity of a monarch.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 180,
+        "chapter": "NUMBER 2",
+        "surface_quote": "May these great gods... let the king my lord live for a hundred years.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0178",
+    "canonical_statement": "The individual's name and reputation function as an objective record of their moral and political standing before the sovereign and the world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 182,
+        "chapter": "NUMBER 3",
+        "surface_quote": "Do not make your name, which is before me, and before all the world, evil.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "ethics",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0179",
+    "canonical_statement": "Actions taken against the established order are categorized as a transgression against the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 182,
+        "chapter": "NUMBER 3",
+        "surface_quote": "commit not, yourselves, a sin against God.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0180",
+    "canonical_statement": "The concept of a singular, unified deity can emerge as a latent or inherited cognitive framework within polytheistic cultures.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 183,
+        "chapter": "NUMBER 3",
+        "surface_quote": "the One-God idea was uppermost in his mind... inherited from the time when monotheism... existed",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "monotheism",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0181",
+    "canonical_statement": "Human moral accountability is fundamentally situated before the presence of the Divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 183,
+        "chapter": "NUMBER 3",
+        "surface_quote": "a sin concerning the agreement is before God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "divinity",
+      "accountability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0182",
+    "canonical_statement": "The celestial bodies possess divine agency and consciousness.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 187,
+        "chapter": "HYMN TO THE SETTING SUN",
+        "surface_quote": "O Sun... Lord of E-BARA",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0183",
+    "canonical_statement": "The sun functions as the supreme arbiter of moral and legal order for humanity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 187,
+        "chapter": "HYMN TO THE SETTING SUN",
+        "surface_quote": "Thou art the lord of judgments over all nations.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0184",
+    "canonical_statement": "The afterlife or the transition of the sun is a structured, guided process through celestial gates.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 187,
+        "chapter": "HYMN TO THE SETTING SUN",
+        "surface_quote": "may the bright gates welcome thee favourably",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0185",
+    "canonical_statement": "Celestial entities maintain interpersonal relationships and emotional states.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 187,
+        "chapter": "HYMN TO THE SETTING SUN",
+        "surface_quote": "May the Moon, thy beloved spouse, come to meet thee",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0186",
+    "canonical_statement": "The temporal cycle of existence is defined by the primacy of the night over the day.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 188,
+        "chapter": "COLOPHON OF THE TEMPLE COPY",
+        "surface_quote": "the Babylonians, like the Jews, placed the night first.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0187",
+    "canonical_statement": "The act of commissioning religious texts serves as a mechanism for the preservation of individual life.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 188,
+        "chapter": "COLOPHON OF THE TEMPLE COPY",
+        "surface_quote": "for the preservation of his life has had this tablet written",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0188",
+    "canonical_statement": "Divine favor is the causal mechanism behind the territorial and military success of a nation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 192,
+        "chapter": "THE MOABITE STONE",
+        "surface_quote": "Chemosh then showed favour to his nation and Moab was victorious.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0189",
+    "canonical_statement": "Ritual violence against religious figures serves as a propitiatory act before a deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 192,
+        "chapter": "THE MOABITE STONE",
+        "surface_quote": "hewed them in pieces before Chemosh",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0190",
+    "canonical_statement": "Divine entities directly intervene in human political and military affairs to favor specific nations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 193,
+        "chapter": "THE MOABITE STONE",
+        "surface_quote": "Chemosh was angry with his land... Chemosh said, I will see my desire.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0191",
+    "canonical_statement": "The destruction of human life can serve as a ritual offering or act of devotion to a deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 193,
+        "chapter": "THE MOABITE STONE",
+        "surface_quote": "I slew all... for the pleasure of Chemosh... I devoted them.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ritual",
+      "sacrifice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol2_0192",
+    "canonical_statement": "Deities maintain a localized, immanent presence within the physical territories they govern.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol2",
+        "chunk_index": 194,
+        "chapter": "THE MOABITE STONE",
+        "surface_quote": "CHEMOSH dwelt in it during my days.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity",
+      "territory"
+    ],
+    "editorial_status": "auto"
+  }
+]

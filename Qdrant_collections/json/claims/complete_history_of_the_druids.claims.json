@@ -1,0 +1,1884 @@
+[
+  {
+    "id": "cl_complete_history_of_the_druids_0001",
+    "canonical_statement": "Human self-knowledge is the primary and most essential form of knowledge.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "the knowledge which is necessary for man to possess... is that of himself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0002",
+    "canonical_statement": "The human capacity for understanding is divinely intended for the contemplation of the world's wonders.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "Almighty... view in granting it... was... that we should daily contemplate",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "teleology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0003",
+    "canonical_statement": "Virtuous conduct during life leads to a state of rest in the presence of the Divine after death.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "glorious and delightful rest, reserved at his side for the virtuous",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0004",
+    "canonical_statement": "The moral or spiritual quality of a physical site is determined by the intent and actions of those who utilize it.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "Setting up of Pillars, was, in the original use and intention, innocent and pious.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sacredness",
+      "intent",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0005",
+    "canonical_statement": "Physical structures can be desecrated or rendered impure through the introduction of idolatrous practices.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "They were to be destroyed... because they had been abused there.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacredness",
+      "idolatry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0006",
+    "canonical_statement": "The circle serves as a symbolic representation of the infinity inherent to the Supreme Being.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "The circle will be allowed an apposite emblem of that infinity which is applicable only to the Supreme Being.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "divinity",
+      "infinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0007",
+    "canonical_statement": "Natural phenomena such as the sun, its light, and the spirit of air are primary emblems of the Divine.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "The body of the sun, the light thence issuing and the spirit or air... were the great natural emblems of the Divine.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0008",
+    "canonical_statement": "The serpent is a symbolic representation of light, wisdom, life, and health.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "This serpent was the symbol of light and wisdom, of life and health.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "wisdom",
+      "archetype"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0009",
+    "canonical_statement": "The Divine is manifested through the archetypal symbol of light.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "distinguished as the Divine Light; the Wisdom of God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "symbolism",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0010",
+    "canonical_statement": "Hierarchical spiritual entities are characterized by their luminosity and radiance.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Seraph, particularly, is so expressive of that blaze of brightness",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "angels",
+      "hierarchy",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0011",
+    "canonical_statement": "Physical phenomena serve as symbolic reflections of higher spiritual realities.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "reflecting the splendor of the sun-beams",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0012",
+    "canonical_statement": "The Divine Nature is infinite, possessing neither beginning nor end.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "the sphere shews the Divine Nature to be without beginning or end",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "infinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0013",
+    "canonical_statement": "The Divine Word acts as the animating force that renders the world prolific.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "the serpent his word, which animates the world and makes it prolific",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "logos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0014",
+    "canonical_statement": "The Spirit of God is the kinetic principle that imparts life to the mundane system.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "his wings, the Spirit of God, that by its motion gives life",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "spirit",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0015",
+    "canonical_statement": "Visual focus upon sacred symbols or divine emblems serves as a mechanism for spiritual salvation.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "looking unto this figure was to give health and salvation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "salvation",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0016",
+    "canonical_statement": "Salvation is mediated not by physical objects or symbols, but by the divine presence acting through them.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "not saved by the things that he saw, but by Thee that art the Saviour",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "salvation",
+      "divinity",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0017",
+    "canonical_statement": "The divine presence can reside within specific physical symbols or representations to facilitate spiritual healing.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "the presence, in the manner it was in the Cherubim, resided",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "presence",
+      "sacred"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0018",
+    "canonical_statement": "Faith in the divine manifestation is the mechanism for achieving eternal existence.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "whosoever believeth in Him should not perish, but have everlasting life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "faith",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0019",
+    "canonical_statement": "Physical symbols or emblems can serve as conduits for a divine presence or healing power.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "the presence resident in the emblem",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "symbolism",
+      "sacred"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0020",
+    "canonical_statement": "The physical structure of a sacred site is distinct from the divinity that inhabits it.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "no man adores the temple, but the divinity supposed to inhabit there",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sacred",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0021",
+    "canonical_statement": "Symbols function as a language of communication for metaphysical truths prior to the development of written script.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "answered the end of an inscription, before the use of letters",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "semiotics",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0022",
+    "canonical_statement": "Historical narratives often contain metaphysical or ontological truths embedded within fabulous or impossible accounts.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "there may be many truths couched under the whole",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0023",
+    "canonical_statement": "Human cultural and religious orders are derived from ancestral lineages and primordial social structures.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "the first, from which they were derived",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "lineage",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0024",
+    "canonical_statement": "The human soul possesses an inherent quality of immortality.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "singing of the essence and immortality of the soul",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "immortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0025",
+    "canonical_statement": "The universe is structured according to a principle of order and celestial harmony.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "the order and harmony of the spheres",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "harmony"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0026",
+    "canonical_statement": "The natural world and its processes are subjects of metaphysical inquiry.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "the works of nature, the course of celestial bodies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0027",
+    "canonical_statement": "The performance of ritual ceremonies and sacrifices serves as a mechanism to facilitate divine manifestation or communication.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "he performed there all other ceremonial rites... and there appeared unto him",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "divinity",
+      "theurgy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0028",
+    "canonical_statement": "Specific natural environments, such as oak groves, possess a sacred quality that facilitates religious practice and divine encounter.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "Abraham planted a grove... and there invoked the name of JEHOVAH",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacred-space",
+      "nature",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0029",
+    "canonical_statement": "The physical world contains objects that serve as sacred emblems for divine covenants between the divine and humanity.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "the oak tree... was esteemed a sacred emblem of that covenant",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "covenant",
+      "sacred",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0030",
+    "canonical_statement": "Religious rituals and ceremonies are often imitative derivations of historical or archetypal pious examples.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "The Druids, wishing to imitate his example... performed all invented rites",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "tradition",
+      "imitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0031",
+    "canonical_statement": "Esoteric knowledge is intentionally restricted to a priestly caste to prevent public dissemination.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "it was accounted unlawful to reveal any of their mysteries",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "esotericism",
+      "knowledge",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0032",
+    "canonical_statement": "Sacred or metaphysical truths are often encoded in languages inaccessible to the uninitiated.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "public records were preserved in characters of the Greek tongue, which being unintelligible by the vulgar",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "language",
+      "esotericism",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0033",
+    "canonical_statement": "The human soul is immortal.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "the immortality of the soul was the chief",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0034",
+    "canonical_statement": "An omnipotent power exists that monitors and evaluates individual human conduct.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "an Almighty power, who strictly examined the actions of every man",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theism",
+      "morality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0035",
+    "canonical_statement": "Virtuous and vicious actions result in corresponding metaphysical rewards or punishments.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "taught rewards of virtue and punishments of vice",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "morality",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0036",
+    "canonical_statement": "All existence originates from a divine or celestial source.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Every thing derived its origin from heaven.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0037",
+    "canonical_statement": "The individual soul is eternal and persists beyond physical death.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Souls are immortal.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0038",
+    "canonical_statement": "The soul undergoes reincarnation, transitioning into different physical bodies after death.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "The soul after death goes into other bodies.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0039",
+    "canonical_statement": "The physical world is subject to cyclical destruction by elemental forces.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "If the world is destroyed, it will be by fire or water.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "eschatology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0040",
+    "canonical_statement": "Future events are encoded in the physical movements and biological processes of dying entities.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "According as the body falls... future events are foretold.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divination",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0041",
+    "canonical_statement": "The afterlife is a continuation of earthly existence where debts and social relationships persist.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "Money lent in this world, will be repaid, in the next.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0042",
+    "canonical_statement": "Suicide results in the soul transitioning to the afterlife alongside those it was connected to in life.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "those who kill themselves accompany their friends thither",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0043",
+    "canonical_statement": "Physical objects or messages transferred to the deceased are accessible in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "Letters given to dying persons... will be faithfully delivered in the other world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0044",
+    "canonical_statement": "The moon possesses inherent metaphysical properties capable of healing all things.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "The moon is a sovereign remedy for all things",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "nature",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0045",
+    "canonical_statement": "The divine or cosmic order accepts human sacrifice as a valid mechanism for appeasement.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "They sacrificed men... whose blood would be most acceptable to the gods.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sacrifice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0046",
+    "canonical_statement": "Physical locations and elevated geographical features serve as conduits or focal points for the observation of celestial phenomena.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "nothing could be better adapted... to their observations of the heavenly bodies.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sacred-geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0047",
+    "canonical_statement": "The number three holds a sacred or foundational status in metaphysical and theological systems.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "both these people were fond of the number three, as being the next odd number to unity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "numerology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0048",
+    "canonical_statement": "Philosophical and metaphysical truths are often transmitted through enigmatic symbols rather than direct exposition.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "they taught philosophy obscurely or enigmatically by symbols.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0049",
+    "canonical_statement": "The human soul is immortal and persists beyond the cessation of biological life.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "No parting souls to grisly Pluto go... But forth they fly immortal in their kind.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "immortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0050",
+    "canonical_statement": "Upon death, the soul undergoes reincarnation into new bodies and new worlds.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "And other bodies in new worlds they find.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "soul",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0051",
+    "canonical_statement": "Life is a continuous, endless process, and death is merely a temporary interruption or transition point.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "The life for ever runs its endless race, And like a line, death but divides the space.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "existence",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0052",
+    "canonical_statement": "Death is a momentary point of transition between the past and the future.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "A point between the future and the past.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0053",
+    "canonical_statement": "Natural phenomena, specifically botanical growths, can serve as indicators of divine presence or selection of a location.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "mistletoe... sure sign the god they served had chosen that tree",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sacred",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0054",
+    "canonical_statement": "Specific physical environments are necessary conditions for the efficacy of ritual and divine communication.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "no divine service could be performed but under the shades of their groves",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "sacred",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0055",
+    "canonical_statement": "Ritualistic actions and symbolic objects can be imbued with the power to act as metaphysical antidotes or protective agents.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "it was esteemed a sovereign antidote against all poison",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "sympathetic magic",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0056",
+    "canonical_statement": "Sacrificial ritual is a divinely instituted practice originating from the earliest human history.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "The high antiquity and universality of sacrifices, bespeak it originally a divine institution.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "ritual",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0057",
+    "canonical_statement": "The seven-day cycle is a temporal structure sanctified by the Creator at the inception of existence.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "observance of one day in seven; made holy by the Creator from the beginning",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "creation",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0058",
+    "canonical_statement": "Physical locations can be consecrated as sacred spaces through ritual acts and the erection of pillars.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "Jacob set up a pillar and called the place Bethel, the House of God.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacred",
+      "ritual",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0059",
+    "canonical_statement": "The divine presence can be localized and interacted with at specific geographic sites.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "Where these altars were placed there was said to be a house or temple of Jehovah.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "location",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0060",
+    "canonical_statement": "The relationship between the divine and the individual is established through reciprocal vows and offerings.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "Jacob vowed a vow, saying, if God will be with me, then shall the Lord be my God.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "covenant",
+      "theology",
+      "reciprocity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0061",
+    "canonical_statement": "Physical structures and natural features serve as symbolic representations of the Divine Presence.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "groves and stones were made to surround the altars... as best expressive of the irradiation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "divinity",
+      "worship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0062",
+    "canonical_statement": "The Divine is characterized by infinity, which is symbolically represented by circular forms.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "whose infinity was likewise by the same figure acknowledged and intended",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "infinity",
+      "divinity",
+      "geometry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0063",
+    "canonical_statement": "The circle serves as a specific symbolic emblem for the Father aspect of the Divinity.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "the circle was particularly applied to distinguish the person of the Father",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0064",
+    "canonical_statement": "The physical tabernacle serves as a symbolic representation of the future incarnation of the divine within human infirmity.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "tabernacle... emblematical of Him who was one day to be covered with human flesh",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "incarnation",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0065",
+    "canonical_statement": "Ritual consecration of physical objects through anointing establishes a stable foundation for divine presence or auspicious activity.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "sacrifice on them, and they were to become fixed and stable",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "consecration",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0066",
+    "canonical_statement": "Humanity historically perceives the divine as entities requiring propitiation through sacrifice.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "nations to immolate living creatures unto their gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "ritual",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0067",
+    "canonical_statement": "Religious practice evolves from direct, open-air orientation toward the heavens to the use of temples and statues.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "first generations of men had neither temples, nor statues for their gods",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "religion",
+      "history",
+      "worship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0068",
+    "canonical_statement": "Physical environments, specifically secluded natural spaces, possess an inherent capacity to induce states of religious awe and reverence in human consciousness.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "The solitude of groves was thought very fit to create a religious awe.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0069",
+    "canonical_statement": "The human perception of divinity is triggered by environmental solitude and the imposing scale of nature.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "the height of the trees... possesses us with an opinion that some deity inhabits there",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0070",
+    "canonical_statement": "Human life is subject to the principle of substitutionary sacrifice, where one life may be exchanged to preserve another.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "life of a man... could not be secured unless another suffered in his stead",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sacrifice",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0071",
+    "canonical_statement": "Death is perceived as a transition of minimal significance, justifying its use as a disciplinary tool.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "death must have been looked upon by them as very little pain",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "death",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0072",
+    "canonical_statement": "Ritual sacrifice is a structured practice intended to commemorate or reenact mythological events involving divine victory.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "they might do it in remembrance of Jupiter's victories over the titans and giants.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "mythology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0073",
+    "canonical_statement": "The physical destruction of living beings is perceived as a valid mechanism for religious or metaphysical appeasement.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "The most acceptable sacrifice to their gods they esteemed murderers, thieves, and robbers.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sacrifice",
+      "theology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0074",
+    "canonical_statement": "The universe is created and sustained through the agency of a tripartite divine structure.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "god Achari created the world by the administration of three perfect beings",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "theology",
+      "trinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0075",
+    "canonical_statement": "Creation is an act of penetration, while preservation is defined by the quality of existing in all things.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "Bramba, (viz. Penetration) by this he created the universe; Breschen, (viz. existing in all things)",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0076",
+    "canonical_statement": "The soul undergoes a process of transmigration through various human and animal forms.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 41,
+        "chapter": "General Content",
+        "surface_quote": "metampsychosis, or transmigration of souls, through several human bodies and beasts",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "reincarnation",
+      "metempsychosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0077",
+    "canonical_statement": "The ultimate goal of the soul is to achieve a state of pure spirituality and liberation.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 41,
+        "chapter": "General Content",
+        "surface_quote": "before they can arrive at pleasure and being purely spiritual",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "teleology",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0078",
+    "canonical_statement": "The divine nature is characterized by a plurality of aspects or persons within a singular unity.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 41,
+        "chapter": "General Content",
+        "surface_quote": "the Covenants, or ever-blessed Trinity, being one God",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "theology",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0079",
+    "canonical_statement": "The divine nature is inherently incompatible with physical confinement or anthropomorphic representation.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "it derogated from the greatness of the gods to confine them within close places",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "transcendence",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0080",
+    "canonical_statement": "The divine principle is a singular, universal entity manifesting under diverse cultural and local nomenclature.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "Jupiter was worshipped under many names... each nation seems to have had one peculiar.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity",
+      "universalism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0081",
+    "canonical_statement": "The ultimate source of existence is a non-dual, gender-transcendent, and omnipotent foundation of the cosmos.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "He was believed to be both male and female, and immortal.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0082",
+    "canonical_statement": "The supreme deity functions as the immanent cause of all biological life and physical phenomena.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "He was looked upon as the cause of life... and brought forward the fruits.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "immanence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0083",
+    "canonical_statement": "Divine entities or cosmic powers require propitiation through the sacrifice of human life to mitigate natural phenomena.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 44,
+        "chapter": "General Content",
+        "surface_quote": "they atoned that power under whose hand they lay",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "sacrifice",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0084",
+    "canonical_statement": "The intensity of environmental or meteorological conditions correlates with the perceived necessity of ritualistic appeasement of divine forces.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 44,
+        "chapter": "General Content",
+        "surface_quote": "country being more infected with sudden thunder and violent storms, they oftener atoned",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "theology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0085",
+    "canonical_statement": "Physical structures can function as hieroglyphic representations of the nature of the Divine.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "temples were laid out in such figures as were hieroglyphical, and intended to describe the nature",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "symbolism",
+      "sacred-geometry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0086",
+    "canonical_statement": "Sacred architecture is designed to mirror the structural forms of living entities.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 48,
+        "chapter": "General Content",
+        "surface_quote": "This was to be the picture of an animal, the Druids followed nature's drawing.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacred geometry",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0087",
+    "canonical_statement": "Physical sites possess inherent properties for ritual purification linked to subterranean water sources.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 48,
+        "chapter": "General Content",
+        "surface_quote": "a bason always full... proceeding from a spring underneath; which may have been here... for purifications.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "purification",
+      "sacred space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0088",
+    "canonical_statement": "Physical landscapes and architectural arrangements are designed to function as symbolic representations of cosmic or spiritual entities.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "It is the hinder part of the hieroglyphic Seraph, which the Druids thus pourtrayed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "sacred geometry",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0089",
+    "canonical_statement": "Physical reality functions as an external manifestation or vent for the internal states of the animal soul.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 50,
+        "chapter": "General Content",
+        "surface_quote": "reality so far, that it may properly be called the vent of the animal",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "soul",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0090",
+    "canonical_statement": "Physical structures can serve as symbolic representations of divine or metaphysical entities.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 51,
+        "chapter": "General Content",
+        "surface_quote": "The whole was an emblematical representation of the Mighty Ones.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "divinity",
+      "architecture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0091",
+    "canonical_statement": "The physical environment and landscape possess an inherent quality that influences human consciousness and emotional state.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 51,
+        "chapter": "General Content",
+        "surface_quote": "The prospect seems all enchantment, and dilates the heart beyond expression.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "environment",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0092",
+    "canonical_statement": "The experience of profound architectural ruins can induce an ineffable state of ecstatic consciousness.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 52,
+        "chapter": "General Content",
+        "surface_quote": "you are struck into an extatic reverie, which none can describe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "ineffability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0093",
+    "canonical_statement": "Physical structures can be designed to evoke specific emotional or spiritual states in the observer.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 55,
+        "chapter": "General Content",
+        "surface_quote": "to see so many of them placed together... creates such emotion in the mind",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "aesthetics",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0094",
+    "canonical_statement": "A sacred space is defined by the presence of an altar and the invocation of the divine, rather than by architectural enclosure.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 58,
+        "chapter": "General Content",
+        "surface_quote": "wherever an altar was placed... and the Deity invoked... that place was properly a patriarchal temple.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sacredness",
+      "ritual",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0095",
+    "canonical_statement": "Physical proximity to sacred sites in death signifies an alignment of the soul with the object of worship.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 59,
+        "chapter": "General Content",
+        "surface_quote": "Religiously disposed persons are generally desirous of being interred near the places of religious worship.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "sacred",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_complete_history_of_the_druids_0096",
+    "canonical_statement": "Geographic centers of landmasses serve as natural focal points for the transmission of spiritual discipline and authority.",
+    "attributions": [
+      {
+        "source_id": "complete_history_of_the_druids",
+        "chunk_index": 59,
+        "chapter": "General Content",
+        "surface_quote": "In such a consecrated place, in the territory of the Carnutes, the centre of Gaul... the Druids of this country were wont to meet.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sacred",
+      "authority",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  }
+]

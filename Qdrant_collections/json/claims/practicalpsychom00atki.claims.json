@@ -1,0 +1,5166 @@
+[
+  {
+    "id": "cl_practicalpsychom00atki_0001",
+    "canonical_statement": "Consciousness possesses senses capable of perceiving non-physical realities.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 2,
+        "chapter": "YOGA PUBLICATION SOCIETY",
+        "surface_quote": "Sensing objects by the Astral Senses.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0002",
+    "canonical_statement": "Consciousness can be projected beyond the physical body.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 2,
+        "chapter": "YOGA PUBLICATION SOCIETY",
+        "surface_quote": "Projection of the Astral Body.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0003",
+    "canonical_statement": "Consciousness can perceive distant events or locations without physical means.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 2,
+        "chapter": "YOGA PUBLICATION SOCIETY",
+        "surface_quote": "Seeing Through Solid Objects. Seeing Down Into the Earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0004",
+    "canonical_statement": "Consciousness can access information about the past through non-physical means.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 2,
+        "chapter": "YOGA PUBLICATION SOCIETY",
+        "surface_quote": "Reading the past associations of an object.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0005",
+    "canonical_statement": "Consciousness can perceive future events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 2,
+        "chapter": "YOGA PUBLICATION SOCIETY",
+        "surface_quote": "Reading the Future. Future events cast their shadows before.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness",
+      "precognition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0006",
+    "canonical_statement": "The term 'Psychomancy' refers to the sensing of information through non-physical senses.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 4,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "Psychomancy... may be said to mean 'Psychic Sensing'",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0007",
+    "canonical_statement": "Clairvoyance is the perception of entities on other planes of existence.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 4,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "Clairvoyance... 'transcendental vision, or the perception of beings on another plane'",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0008",
+    "canonical_statement": "Psychomancy encompasses the perception of past and future events, and distant scenes.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 4,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "Psychomancy, all the various phenomena known as Psychometry; Crystal Gazing; Perceiving Distant Scenes",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0009",
+    "canonical_statement": "Consciousness possesses sensory faculties beyond the five physical senses.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 5,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "each individual is also possessed of Five Astral Senses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "senses"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0010",
+    "canonical_statement": "There exists a non-physical realm of existence, the Astral Plane, which is distinct from the physical realm.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 5,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "the Astral Plane, which is next above the Physical Plane",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "planes",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0011",
+    "canonical_statement": "Astral senses perceive the Astral Plane, analogous to how physical senses perceive the Physical Plane.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 5,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "Astral Senses operate upon the Astral Plane. Just as do the Physical Senses operate upon the Physical Plane",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "senses"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0012",
+    "canonical_statement": "Consciousness possesses sensory faculties independent of the physical body.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 6,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "one may sense outside objects without the use of the physical senses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0013",
+    "canonical_statement": "Consciousness can perceive events across spatial distances through non-physical means.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 6,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "perceive occurrences, scenes, etc., at a distance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0014",
+    "canonical_statement": "Consciousness can perceive past events recorded in a non-physical medium.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 6,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "see records of past occurrences in the Astral Ether",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "time",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0015",
+    "canonical_statement": "Consciousness can perceive future events projected in time.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 6,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "see Future Scenes thrown ahead in Time",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0016",
+    "canonical_statement": "Consciousness can perceive events across temporal durations through non-physical means.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 6,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "sense sounds over immense distances and often after the passage of great periods of time",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0017",
+    "canonical_statement": "Consciousness can possess an awareness of distant events and impressions beyond physical sensory input.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 6,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "Awareness, than a mere Feeling... aware of certain occurrences, other than by Astral Sight or Hearing",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "awareness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0018",
+    "canonical_statement": "Consciousness can experience sympathetic resonance with the states of other conscious entities.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 6,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "feels the pain of another, which phenomena is commonly known as \"sympathetic pains\"",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "empathy",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0019",
+    "canonical_statement": "Consciousness is associated with a non-physical body or vehicle.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 6,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "existence of that which Occultists know as \"The Astral Body.\"",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "body",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0020",
+    "canonical_statement": "A non-physical body, the Astral Body, is an exact duplicate of the physical body and composed of ethereal matter.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 7,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "The Astral Body... is an exact counterpart of the perfect physical body.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "body",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0021",
+    "canonical_statement": "The Astral Body can detach from the physical body and travel at speeds exceeding light.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 7,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "the Astral Body may become detached and sent on long journeys, traveling at a rate of speed greater than that of light waves.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "travel",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0022",
+    "canonical_statement": "A connection between the Astral Body and the physical body must be maintained for survival.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 7,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "If this link were to become broken, the person would die instantly.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "body",
+      "survival"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0023",
+    "canonical_statement": "The Astral Body persists after physical death but eventually disintegrates.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 7,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "The Astral Body exists a long time after the death of the physical body, but it disintegrates in time.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0024",
+    "canonical_statement": "The Astral Body is a temporary outer layer of the soul, distinct from the soul itself.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 7,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "it is merely a shell or finer outer coating of the soul.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0025",
+    "canonical_statement": "The Astral Body can project itself to loved ones before physical death due to strong desire.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 7,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "The Astral Body of a dying person is often projected to the presence of friends and loved ones.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "projection",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0026",
+    "canonical_statement": "Consciousness can exist and perceive independently of the physical body.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 8,
+        "chapter": "THB NATURE OP PSVCHOMANCV",
+        "surface_quote": "The Astral Body frequently travels from its physical counterpart",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0027",
+    "canonical_statement": "Consciousness can interact with other disembodied consciousnesses.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 8,
+        "chapter": "THB NATURE OP PSVCHOMANCV",
+        "surface_quote": "holds mental conversation with other Astral Bodies, or with disembodied entities",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0028",
+    "canonical_statement": "The physical brain is an imperfect receiver of non-physical sensory data.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 8,
+        "chapter": "THB NATURE OP PSVCHOMANCV",
+        "surface_quote": "the brain not having received perfect impressions transmitted to it",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "body",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0029",
+    "canonical_statement": "There exists an 'Astral Plane' accessible to consciousness.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 8,
+        "chapter": "THB NATURE OP PSVCHOMANCV",
+        "surface_quote": "mysteries of the Astral Plane",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0030",
+    "canonical_statement": "Consciousness perceives reality through distinct sensory modalities that can be developed or augmented.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 9,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "three distinct ways in which, and by which, these impressions are received",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0031",
+    "canonical_statement": "Astral senses are the medium through which psychic impressions are received.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 9,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "impressions are received by and through the Astral Senses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0032",
+    "canonical_statement": "Consciousness can perceive etheric vibrations and auric emanations.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 9,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "perceive more clearly the etheric vibrations or currents, the auric emanations",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0033",
+    "canonical_statement": "Consciousness can be extended through will or desire to perceive distant phenomena.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 9,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Astral Tube, erected in the Ether by the operation of one's Will or Desire",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "will",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0034",
+    "canonical_statement": "Consciousness can project its astral body to distant locations for direct perception.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 9,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "actual projection of one's own Astral Body to the distant scene",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0035",
+    "canonical_statement": "Astral senses are distinct faculties of perception operating on the astral plane, analogous to physical senses on the physical plane.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 10,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "both are Astral Senses functioning on the Astral Plane, just as they physical senses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "astral plane"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0036",
+    "canonical_statement": "Astral senses are governed by the same fundamental laws and principles as physical senses.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 10,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "both forms of Astral Sensing are subject to the same laws and rules",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "laws"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0037",
+    "canonical_statement": "Astral perception can manifest in various forms, including simple awareness, spatial awareness, and temporal awareness (past/future).",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 10,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "Simple Clairaudience; Space Clairaudience; Past Time Clairaudience; Future Time Clairaudience",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0038",
+    "canonical_statement": "Astral senses can be employed in conjunction with other psychometric or divinatory techniques.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 10,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "Clairaudient Psychometry; Clairaudience through Crystal Gazing",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "techniques"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0039",
+    "canonical_statement": "Astral sight and astral hearing are distinct but often correlated forms of astral perception.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 10,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "Psychomantic Vision is the employment of the Astral Sight, while Clairaudience is the similar employment of the Astral Hearing",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "astral senses"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0040",
+    "canonical_statement": "The presence or absence of one astral sense does not necessitate the presence or absence of another.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 10,
+        "chapter": "THE NATURE OF PSYCHOMANCY",
+        "surface_quote": "there may be... an accompaniment of Clairaudience; while in others it may be missing.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "astral senses"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0041",
+    "canonical_statement": "The capacity for psychomancy is an inherent, dormant faculty within all individuals.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 11,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "the faculty of Psychomancy lies dormant in every person",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "potential"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0042",
+    "canonical_statement": "Astral senses are universally present in all individuals, capable of activation.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 11,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "the Astral Senses are present in everyone, and the possibility of their being awakened",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0043",
+    "canonical_statement": "The degree of psychic ability is determined by the level of development, not inherent strength.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 11,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "depend chiefly upon the degree of development, or unfoldment",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "potential"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0044",
+    "canonical_statement": "Intuition and premonitions are perceived manifestations of psychomancy.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 11,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Flashes of what are considered to be \"intuition,\" premonitions, etc., are really manifestations of Psychomancy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0045",
+    "canonical_statement": "Materialistic focus can lead to the atrophy or suppression of astral senses.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 11,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "the Astral Senses are almost atrophied, so merged in materialistic thought",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0046",
+    "canonical_statement": "Belief facilitates the activation of latent psychic powers, while disbelief inhibits them.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 11,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "one's belief tends to open up the latent powers... disbelief tends to prevent the unfoldment",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "belief"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0047",
+    "canonical_statement": "Consciousness possesses latent faculties that unfold with evolutionary progression.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 12,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Astral Senses and faculties of the human race will unfold as the race progresses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0048",
+    "canonical_statement": "The potential for psychomantic abilities exists within humanity and will become common.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 12,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Psychomantic Power will be a common possession of all persons",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "potential"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0049",
+    "canonical_statement": "The manifestation of latent consciousness faculties can be dismissed as ordinary phenomena.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 12,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "pass by the phenomena as \"imagination,\" and \"foolishness\"",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0050",
+    "canonical_statement": "The manifestation of latent consciousness faculties can be dismissed as dreams.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 12,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "dismiss the matter as \"merely a dream\"",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0051",
+    "canonical_statement": "Consciousness can perceive realities beyond the ordinary sensory apparatus.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 13,
+        "chapter": "HOW TO DEVELOP YOURSELF",
+        "surface_quote": "seeing and hearing something to which those around them are blind and deaf",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0052",
+    "canonical_statement": "Consciousness can access information about other times and places through non-ordinary means.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 13,
+        "chapter": "HOW TO DEVELOP YOURSELF",
+        "surface_quote": "recollect with greater and greater clearness what they have seen and heard on other planes during sleep",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "space",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0053",
+    "canonical_statement": "Intuition and presentiment are valid forms of knowledge acquisition.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 13,
+        "chapter": "HOW TO DEVELOP YOURSELF",
+        "surface_quote": "intuitions\"; \"notions\"; \"presentiments,\" and the faculty of getting ideas",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0054",
+    "canonical_statement": "Certain faculties of consciousness can be developed through practice.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 13,
+        "chapter": "HOW TO DEVELOP YOURSELF",
+        "surface_quote": "develop rapidly by practice",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0055",
+    "canonical_statement": "Consciousness possesses the faculty of forming mental representations of external reality.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 15,
+        "chapter": "HOW TO DEVELOP YOURSELF",
+        "surface_quote": "forming Mental Pictures of distant scenes, places, people, etc.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0056",
+    "canonical_statement": "The faculty of visualization can be developed through deliberate mental exercises.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 15,
+        "chapter": "HOW TO DEVELOP YOURSELF",
+        "surface_quote": "cultivate the faculty of forming Mental Pictures",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0057",
+    "canonical_statement": "Mental journeys to places, real or imagined, are a training for higher psychic abilities.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 15,
+        "chapter": "HOW TO DEVELOP YOURSELF",
+        "surface_quote": "make a mental journey to some place",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "training",
+      "psychic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0058",
+    "canonical_statement": "The ability to perceive information from objects is a trainable faculty.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 15,
+        "chapter": "HOW TO DEVELOP YOURSELF",
+        "surface_quote": "practice Psychometry",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "training"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0059",
+    "canonical_statement": "Consciousness can perceive the past history of objects and persons through direct psychic impression.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 16,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "await calmly the impressions. After a while you will begin to receive impressions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0060",
+    "canonical_statement": "Psychic faculties can be developed through focused practice and experimentation.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 16,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "gradually develop the Psychometric power by such practice",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0061",
+    "canonical_statement": "The universe contains subtle informational fields accessible to trained consciousness.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 16,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "psychic clue afforded by a sample of the rock",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness",
+      "information"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0062",
+    "canonical_statement": "Consciousness can be developed through focused intention and the use of specific instruments.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 17,
+        "chapter": "HOW TO DEVELOP Y0UR8ELF",
+        "surface_quote": "focus the concentrated desire, will, and thought of the person",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "development",
+      "intention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0063",
+    "canonical_statement": "Certain instruments can serve as focal points for psychic phenomena and astral projection.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 17,
+        "chapter": "HOW TO DEVELOP Y0UR8ELF",
+        "surface_quote": "focal point for the erection and operation of the Astral Tube",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "astral",
+      "instrument"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0064",
+    "canonical_statement": "The development of psychic abilities is a gradual process.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 17,
+        "chapter": "HOW TO DEVELOP Y0UR8ELF",
+        "surface_quote": "passes by easy, gradual and natural stages",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0065",
+    "canonical_statement": "Instruments used for psychic development possess no inherent magical properties; their function is instrumental.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 17,
+        "chapter": "HOW TO DEVELOP Y0UR8ELF",
+        "surface_quote": "no special virtue or magical properties or qualities in the Crystal itself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "instrument",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0066",
+    "canonical_statement": "Consciousness can perceive information or images through a scrying medium.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 20,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "actual \"seeing\" in the Crystal",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0067",
+    "canonical_statement": "The process of psychomantic perception can involve stages of indistinctness before clarity.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 20,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "cloudiness,\" or \"milky-mist\" in the crystal, which slowly resolves itself into a form",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0068",
+    "canonical_statement": "Mental visualization can be a precursor to direct psychomantic perception.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 20,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "visualize\" something... endeavor to reproduce it there. It is claimed that this practice will often gradually lead to actual \"seeing\"",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0069",
+    "canonical_statement": "Consciousness possesses latent faculties that can be developed through focused effort.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 21,
+        "chapter": "HOW TO DEVELOP YOURSELF",
+        "surface_quote": "unfolding faculties, which otherwise would 'be Greek' to him",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "potential",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0070",
+    "canonical_statement": "The acquisition of esoteric knowledge or power requires diligent personal effort and is not achieved through shortcuts.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 21,
+        "chapter": "HOW TO DEVELOP YOURSELF",
+        "surface_quote": "no royal road to occult or psychic power",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "power",
+      "effort"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0071",
+    "canonical_statement": "Consciousness possesses distinct sensory faculties that can be developed and categorized by their range and focus.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 23,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "the phenomena of Psychomancy may be divided into three general classes",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0072",
+    "canonical_statement": "The lowest level of psychomantic ability involves a heightened sensitivity to immediate energetic and auric fields.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 23,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "sensing by means of the Astral Senses in the degree of a mere quickening",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0073",
+    "canonical_statement": "Advanced psychomantic abilities include perceiving events across spatial and temporal distances.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 23,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "sense distant scenes... sense objects, events, persons, etc., in the records of the past",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "time",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0074",
+    "canonical_statement": "Consciousness can be transmitted between minds via non-physical channels.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 24,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "receive the thought vibrations emanating from the mind of another, but not over the physical channels",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "transmission",
+      "non-physical"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0075",
+    "canonical_statement": "Consciousness can be transmitted between minds via physical channels.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 24,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Telepathy is occasioned by the passage of Thought Waves or Currents, passing from one brain to another",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "transmission",
+      "physical"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0076",
+    "canonical_statement": "The Pineal Gland functions as a receiver for thought vibrations.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 24,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "receiving them by means of the Pineal Gland",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "pineal gland"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0077",
+    "canonical_statement": "The astral senses possess a greater capacity for registering subtle impressions than the physical senses.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 25,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "Astral Senses being far more keen and acute than the Physical Senses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0078",
+    "canonical_statement": "Developed astral senses allow for the perception of thoughts and ideas not yet consciously formed or expressed.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 25,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "impressions of the thoughts of others... ideas forming in the mind of the other person not yet expressed",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0079",
+    "canonical_statement": "Psychomancy is a development that can arise from telepathic abilities.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 25,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "development of Telepathic powers very frequently grow into a development of Psychomantic powers",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0080",
+    "canonical_statement": "Psychomancy enables the direct perception of the mental and emotional states of others.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 25,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "often \"feels\" the thoughts, ideas, emotions, and other mental states of the people around him",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0081",
+    "canonical_statement": "The perception of mental states can be facilitated by sensing the 'Aura' of others.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 25,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "ability to sense the \"Aura\" of the other persons heighten the impression",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "aura"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0082",
+    "canonical_statement": "Consciousness emanates a field of psychic energy that reflects internal states.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 26,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "all persons, and objects, are surrounded by an emanation called an \"Aura\"",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "aura",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0083",
+    "canonical_statement": "The energetic emanation surrounding an individual is modulated by their thoughts and emotions.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 26,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "charged with the thought-vibrations of the persons, and is really the \"atmosphere\"",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "aura",
+      "consciousness",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0084",
+    "canonical_statement": "Specific qualities of consciousness manifest as distinct colors within the energetic emanation.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 26,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "see the colors by which the various emotions, thoughts, etc., are indicated",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "aura",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0085",
+    "canonical_statement": "The energetic emanation surrounding an individual is in a constant state of flux corresponding to internal changes.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 26,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "constantly changing in hue and brilliancy with every variation of the person's thoughts and feelings",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "aura",
+      "consciousness",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0086",
+    "canonical_statement": "Consciousness can perceive subtle energetic emanations from objects and beings, which are not detectable by conventional scientific instruments.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 27,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "the Astral Senses of the developed Psychomancer register and record many of the finer vibrations",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "energy",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0087",
+    "canonical_statement": "The sense of feeling is the foundational and primary physical sense from which other senses develop.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 27,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "the sense of Feeling was the first developed of any of the physical senses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0088",
+    "canonical_statement": "Astral senses correspond to physical senses in their developmental principles and function.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 27,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "there is a close correspondence between this phenomena of the Physical Senses, and that of the Astral Senses",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0089",
+    "canonical_statement": "Consciousness can perceive energetic emanations invisible to the physical senses.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 28,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "Psychomancer sees through solid object and the most solid material becomes transparent to his Astral Sight.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0090",
+    "canonical_statement": "The universe is permeated by energetic emanations that can be perceived by specialized consciousness.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 28,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "The fine streams or waves of energy constantly being emanated by all objects, which are invisible to the naked physical eye, are registered",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "energy",
+      "perception",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0091",
+    "canonical_statement": "Consciousness can perceive information from distant or obscured locations through subtle energetic vibrations.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 29,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "see what is going on in an adjoining room, or other nearby place",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0092",
+    "canonical_statement": "Consciousness can perceive information through solid objects by means of specialized faculties.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 29,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "seeing things through solid coverings",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0093",
+    "canonical_statement": "Consciousness possesses faculties for magnified and diminished perception.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 29,
+        "chapter": "SIMPLE PSYCHOMANCY",
+        "surface_quote": "telescopic and microscopic vision",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0094",
+    "canonical_statement": "The range of extrasensory perception is limited by distance, analogous to physical senses.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 30,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Astral Sense... fails to clearly register after a certain distance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "distance",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0095",
+    "canonical_statement": "The clarity of extrasensory perception diminishes with distance, similar to physical sight through obscuring mediums.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 30,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "presents a similar appearance to that obtained when one is seeing objects through water or mist",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "clarity",
+      "distance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0096",
+    "canonical_statement": "The effective range of extrasensory perception varies between individuals.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 30,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "distance varies in the case of different persons using their Astral Vision",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "individual",
+      "variation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0097",
+    "canonical_statement": "The Astral Plane is a form of matter finer than physical matter, governed by laws.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 32,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "The Astral Plane is composed of an ethereal form of matter, very much rarer and finer than the matter of the Physical Plane",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0098",
+    "canonical_statement": "Lines of force can be established in astral matter, forming channels for vibration and communication.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 32,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "it is possible to set up and establish a \"line of force\" on the Astral Plane, that will serve as a ready conductor of Astral vibrations",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "communication"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0099",
+    "canonical_statement": "An Astral Tube is a line of force on the Astral Plane, acting as a communication channel.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 32,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "this Astral Tube is really such a \"line of force.\"",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "communication"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0100",
+    "canonical_statement": "The human Will, driven by Desire or Determination, can polarize astral matter to create an Astral Tube.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 32,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "the process of erecting the Astral Tube is practically that of the \"polarization\" of the particles of Astral matter by an effort of the human Will",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "will",
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0101",
+    "canonical_statement": "Consciousness can establish directed pathways through a non-physical medium.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 33,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "human Will directed toward a distant person or object tends to 'polarize' a path",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "astral",
+      "will",
+      "connection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0102",
+    "canonical_statement": "Consciousness can perceive distant phenomena through non-physical senses while the physical body remains intact.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 34,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "Astral Senses... are able to readily \"sense\" the impressions being manifested at a far distant point in space.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "astral plane"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0103",
+    "canonical_statement": "Non-physical sensory perception is facilitated by a conduit or channel, which can be disrupted.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 34,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "the Astral Tube... is besides affected by certain Astral happenings, such as the breaking up of the tube",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "astral plane",
+      "mechanism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0104",
+    "canonical_statement": "Astral perception is limited by positional perspective, analogous to physical sight through a telescope.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 35,
+        "chapter": "THE ASTRAL TUBE",
+        "surface_quote": "Astral sight, when it is cramped by being directed along what is practically a tube, is limited very much as physical sight would be",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "astral plane",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0105",
+    "canonical_statement": "Astral sight provides an additional dimension of perception, but is still subject to directional limitations.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 35,
+        "chapter": "THE ASTRAL TUBE",
+        "surface_quote": "Astral sight gives us the advantage of an additional dimension, but there is still such a thing as position in that dimension",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "dimension",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0106",
+    "canonical_statement": "Consciousness can perceive distant scenes while remaining within the physical body.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 35,
+        "chapter": "THE ASTRAL TUBE",
+        "surface_quote": "the Astral at all. as a consciousness remains within his physical body.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0107",
+    "canonical_statement": "Consciousness can project information about emotions and thoughts across distances.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 36,
+        "chapter": "PRACTICAL PSYCHOMA NCY",
+        "surface_quote": "show, even at that distance, the auras, and therefore all the emotions and most of the thoughts",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "distance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0108",
+    "canonical_statement": "Consciousness can spontaneously form structures or connections (Astral Tube) under the influence of strong emotion, desire, or will.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 36,
+        "chapter": "PRACTICAL PSYCHOMA NCY",
+        "surface_quote": "springs into existence spontaneously, under the power of some strong emotion, desire or will",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "will",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0109",
+    "canonical_statement": "Consciousness can be directed by will to form specific structures (Astral Tube) for information gathering.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 36,
+        "chapter": "PRACTICAL PSYCHOMA NCY",
+        "surface_quote": "hypnotist uses his will to cause his subject id form an Astral Tube",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "will",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0110",
+    "canonical_statement": "Trained consciousness can form specific structures (Astral Tube) through concentrated will alone.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 36,
+        "chapter": "PRACTICAL PSYCHOMA NCY",
+        "surface_quote": "exercise of his trained, developed and concentrated will",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "will",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0111",
+    "canonical_statement": "External objects can serve as focal points or starting points for directed consciousness.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 36,
+        "chapter": "PRACTICAL PSYCHOMA NCY",
+        "surface_quote": "object serving as a \"starting point,\" or \"focal centre.\"",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "focus"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0112",
+    "canonical_statement": "The psychic connection between associated objects persists across time and space.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 37,
+        "chapter": "LESSON V.",
+        "surface_quote": "psychic connection ever existing between things once associated",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "connection",
+      "object",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0113",
+    "canonical_statement": "Psychometry utilizes physical objects to establish psychic rapport with associated entities or events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 37,
+        "chapter": "LESSON V.",
+        "surface_quote": "using some bit of physical material associated with that scene",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "psychometry",
+      "object",
+      "connection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0114",
+    "canonical_statement": "Memory recall can be triggered by associative objects, analogous to psychometric object association.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 37,
+        "chapter": "LESSON V.",
+        "surface_quote": "sight of some object will recall at once memories",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "memory",
+      "association",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0115",
+    "canonical_statement": "Psychometry is a method for activating latent psychic senses.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 37,
+        "chapter": "LESSON V.",
+        "surface_quote": "method employed to bring into action the Astral Senses",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "psychometry",
+      "senses",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0116",
+    "canonical_statement": "All memories and experiences are universally recorded and accessible.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 38,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "all memories are registered and recorded",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "memory",
+      "akashic records",
+      "information"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0117",
+    "canonical_statement": "Physical objects retain a record of their history and can act as conduits to that information.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 38,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "magnetic attachment or affinity between any particle of matter and the record which contains its history",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "psychometry",
+      "information",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0118",
+    "canonical_statement": "Consciousness can access recorded information through a link to a physical object.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 38,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "associated object furnishes us with a ready means of starting our Astral Tube",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "information",
+      "access"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0119",
+    "canonical_statement": "Personal memory functions similarly to psychometric access of external records.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 38,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "our ordinary memory is really only another presentment of the same idea",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "memory",
+      "consciousness",
+      "information"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0120",
+    "canonical_statement": "Experiences imprint upon physical or biological matter, creating a record accessible to consciousness.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 38,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "scenes...seem to act in the same manner upon the cells of our brain as did the history of Stonehenge upon that particle of stone",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "memory",
+      "consciousness",
+      "imprint"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0121",
+    "canonical_statement": "Information about a person's characteristics, habits, and health can be accessed through physical contact with their belongings.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 39,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "locate the person, but will also be able to give an idea of his characteristics, habits, health, etc.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0122",
+    "canonical_statement": "Consciousness can access information about a person's characteristics, past, and future through a state of rapport.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 40,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Describing a person's characteristics, past, future, etc., by means of the rapport condition.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "information access",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0123",
+    "canonical_statement": "Consciousness can perceive distant scenes by interacting with objects originating from that location.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 40,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Describing a present distant scene by means of a bit of mineral, plant, or similar object.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0124",
+    "canonical_statement": "Consciousness can perceive environmental characteristics, including underground features, through interaction with objects from that environment.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 40,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Describing the surrounding underground characteristics by means of a bit of mineral, etc.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0125",
+    "canonical_statement": "The past history of an object and its surroundings can be accessed through direct interaction with the object itself.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 40,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Getting into touch with the past history of an object, or its surroundings, by means of the object itself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "information access",
+      "time",
+      "object"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0126",
+    "canonical_statement": "Manifestations of psychometric power can be classified into categories of simple, spatial, past-temporal, and future-temporal information access.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 40,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Each Occurrence or manifestation will be found to fit into the class of Simple Psychomancy; Space Psychomancy; Past Time Psychomancy; or Future Time Psychomancy.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "information access",
+      "classification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0127",
+    "canonical_statement": "Crystal gazing is a method for activating psychic faculties, not a distinct phenomenon.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 41,
+        "chapter": "CRYSTAL GAZING",
+        "surface_quote": "Crystal Gazing is not a distinct phenomenon, but is merely a method of bringing into action the Psychomantic faculties.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0128",
+    "canonical_statement": "Crystals facilitate the awakening of astral vision due to their atomic and molecular structure.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 41,
+        "chapter": "CRYSTAL GAZING",
+        "surface_quote": "the Crystal or Glass Ball is the best for the purpose because of certain atomic and molecular arrangements which tend to promote the manifestation of the psychic power and faculties.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0129",
+    "canonical_statement": "A crystal acts as a 'magic mirror' reflecting whatever comes within its field, which can be directed by focused will.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 41,
+        "chapter": "CRYSTAL GAZING",
+        "surface_quote": "it is really a \"Magic Mirror\" which is turned first this way and that, and which reflects whatever comes within its field, just as does any other mirror.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0130",
+    "canonical_statement": "Crystals are the easiest method for beginners to awaken astral vision.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 41,
+        "chapter": "CRYSTAL GAZING",
+        "surface_quote": "it is the easiest method known by which the Astral Vision may be awakened.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0131",
+    "canonical_statement": "Physical objects can serve as a starting point or focus for psychic power.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 41,
+        "chapter": "CRYSTAL GAZING",
+        "surface_quote": "the aid of some physical object which may act as a starting-point for the Astral Tube, or as one writer has expressed it, \"a convenient focus for the Will-power.\"",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0132",
+    "canonical_statement": "Consciousness can perceive events occurring at a distance, independent of normal sensory input.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 44,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "you were sitting under a standard lamp, in a dress I never saw you wear",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "distance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0133",
+    "canonical_statement": "The mind can form images of unknown individuals based on information not consciously received.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 44,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "described with considerable detail an elderly gentleman whom she had never seen before",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0134",
+    "canonical_statement": "Certain individuals possess the innate ability to perceive visual phenomena within reflective surfaces without conscious effort.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 44,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "seeing pictures form themselves, without any effort or will on their part, in the crystal globe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0135",
+    "canonical_statement": "Consciousness can be projected outside the physical body via the astral body to distant locations.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 46,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "consciousness of the person does not remain within the physical organism, but is actually projected",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "projection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0136",
+    "canonical_statement": "The astral body possesses senses capable of perceiving distant objects and events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 46,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "examines objects there situated, receiving sensations through and by means of the Astral Senses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "astral body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0137",
+    "canonical_statement": "Projection of the astral body can occur during trance, sleep, or states of deep abstraction.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 46,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "arise while the person is in a trance, or sleep, etc., or else in a moment of concentrated abstraction",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "states"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0138",
+    "canonical_statement": "A developed psychomancer can manifest their astral form in distant physical locations.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 46,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "learn how to materialize himself, he will be able to take part in physical events",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "astral body",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0139",
+    "canonical_statement": "Consciousness can navigate non-physical planes of existence via an astral body.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 47,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "direct his Astral Body to definite places on the Astral Plane",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "astral plane",
+      "navigation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0140",
+    "canonical_statement": "Psychic connection to a person or place can be established through physical objects associated with them.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 47,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "following up the psychic clue afforded by a piece of clothing",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "psychometry",
+      "connection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0141",
+    "canonical_statement": "The Astral Body is a distinct vehicle of consciousness capable of independent locomotion and interaction with reality.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 48,
+        "chapter": "ASTRAL PROJECTION",
+        "surface_quote": "the Astral Body of persons have traveled to distant scenes",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "body",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0142",
+    "canonical_statement": "Consciousness possesses varying degrees of control and power over the Astral Body, which can be developed through training.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 48,
+        "chapter": "ASTRAL PROJECTION",
+        "surface_quote": "not so highly developed is not able to have such control over his Astral Body",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "power",
+      "training"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0143",
+    "canonical_statement": "The Astral Body can manifest with a degree of tangibility or visibility in the physical realm.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 48,
+        "chapter": "ASTRAL PROJECTION",
+        "surface_quote": "sometimes materializing so as to be seen by the persons",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0144",
+    "canonical_statement": "Consciousness can project itself independently of the physical body and interact with distant locations.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 49,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "he had visited her husband in a coffee-house in London",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "projection",
+      "location"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0145",
+    "canonical_statement": "The astral body can manifest in a physical form, appearing to others as a distinct entity.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 49,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "materialize the same unconsciously",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0146",
+    "canonical_statement": "Perception of an independently existing astral form can be mistaken for a supernatural apparition.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 49,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "supposed must be the \"ghost\" of the lady",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0147",
+    "canonical_statement": "Consciousness can project itself to a distant location and interact with the physical environment and its inhabitants.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 51,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "I willed that I should do this at one o'clock in the morning, and having willed it, I went to sleep.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "projection",
+      "interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0148",
+    "canonical_statement": "Consciousness can be projected to a specific time and place, and its presence can be perceived by others.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 51,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "I willed to be in the front bedroom of that house at Kew at twelve, and to make my presence felt by the inmates.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "projection",
+      "perception",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0149",
+    "canonical_statement": "Consciousness can perceive information about a location and its inhabitants without physical presence.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 51,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "I seemed to be actually in the house. I was conscious, but was in a kind of mesmeric sleep.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "remote-viewing"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0150",
+    "canonical_statement": "Consciousness can exist and perceive independently of the physical body.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 52,
+        "chapter": "ASTRAL PROJECTION",
+        "surface_quote": "the individual actually travels in his Astral Body to the distant scene",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0151",
+    "canonical_statement": "Consciousness can manifest a material form separate from the physical body.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 52,
+        "chapter": "ASTRAL PROJECTION",
+        "surface_quote": "appearance of a materialised Astral Body",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "materialization"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0152",
+    "canonical_statement": "The non-physical aspect of consciousness can travel to distant locations.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 52,
+        "chapter": "ASTRAL PROJECTION",
+        "surface_quote": "travels away from our physical body and \"sees things\" at far-off points",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "location"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0153",
+    "canonical_statement": "Consciousness can be projected independently of the physical body.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 53,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "The Psychomancer actually travels from the location of the physical body",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "projection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0154",
+    "canonical_statement": "The development of metaphysical abilities is a gradual process.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 53,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "It is all a matter of successive steps of development",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "development",
+      "ability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0155",
+    "canonical_statement": "Consciousness can perceive distant realities through direct projection or an astral tube.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 54,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "impression is received by means of either the erection of the Astral Tube, or else by the actual projection of the consciousness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "astral body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0156",
+    "canonical_statement": "Astral senses can receive impressions from objects via their rays or vibrations.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 54,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "impression is received by means of the rays, or vibrations from the objects themselves, by means of the developed Astral Senses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "astral senses"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0157",
+    "canonical_statement": "Physical plane perception is limited by physical senses and distance.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 54,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "man on the physical Plane with ordinary eyesight could not see an object beyond the average distance of vision",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "physical plane"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0158",
+    "canonical_statement": "Consciousness can perceive realities beyond the normal sensory apparatus through specialized faculties or instruments.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 55,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "see things invisible to the first man",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0159",
+    "canonical_statement": "Consciousness can extend its perceptive range through non-physical means, analogous to technological augmentation.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 55,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "using a telescope... see things that neither of the other two could perceive",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0160",
+    "canonical_statement": "Consciousness can achieve direct, unmediated perception of distant realities through non-physical projection.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 55,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "project his Astral Body, and thus view the distant scenes at will",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "projection",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0161",
+    "canonical_statement": "The projected consciousness can perceive objects from multiple perspectives and dimensions.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 55,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "see the object on any and all sides, and from all points of view",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0162",
+    "canonical_statement": "Consciousness can experience detailed perceptions of physical events while in a non-physical state.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 55,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "remarkably clear vision in which appeared a band of emigrants perishing",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "state"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0163",
+    "canonical_statement": "Consciousness can perceive events occurring at a distance in space and time.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 56,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "saw a huge, perpendicular cliff of white rock; and the emigrants cutting off what appeared to be the tops of trees",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "space",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0164",
+    "canonical_statement": "The content of consciousness can accurately reflect external reality, even when not directly perceived by the physical senses.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 56,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "found that he could not get the \"dream\" out of his mind",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0165",
+    "canonical_statement": "Information perceived through non-physical means can be verified by physical observation.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 56,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "found the scene as described by Captain Yount",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0166",
+    "canonical_statement": "Consciousness can access information about distant events through means other than physical senses.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 56,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "had a strange vision of a scene in France",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0167",
+    "canonical_statement": "Consciousness can perceive events occurring at a distance in space and time.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 57,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "she could only see the doctor's back. Then the scene had faded",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "distance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0168",
+    "canonical_statement": "Consciousness can perceive events occurring at a distance in space and time.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 57,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "Swedenborg said that there was a fire at Stockholm, 200 miles distant",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "distance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0169",
+    "canonical_statement": "Consciousness can perceive events occurring at a distance in space and time.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 57,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "he told when and where the fire had started; how it had begün",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "distance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0170",
+    "canonical_statement": "The mental state of an observer can influence the perceptions of another.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 57,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "his mind had involuntarily dwelt upon her and her family.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0171",
+    "canonical_statement": "Consciousness can perceive events at a distance in space and time.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 58,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "I saw quite distinctly my home in Richmond in flames.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "distance",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0172",
+    "canonical_statement": "Specific details of future events can be accurately perceived.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 58,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "The fire had broken out in one wing of the house",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "future",
+      "detail"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0173",
+    "canonical_statement": "Consciousness can experience events as if physically present, regardless of physical location.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 58,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "exactly as if I had actually been present and seen everything.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "location"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0174",
+    "canonical_statement": "Consciousness can perceive future events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 59,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "I had seen it. The fire had broken out in the wing I had seen blazing.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "precognition",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0175",
+    "canonical_statement": "Consciousness can perceive events occurring at a distance.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 59,
+        "chapter": "SPACE PSYCHOMANCY",
+        "surface_quote": "saw one night the ship foundering amid the waves",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "remote viewing",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0176",
+    "canonical_statement": "Consciousness can perceive future events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 60,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "owner remembered his sins one day, and hunted up the letter describing the vision.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0177",
+    "canonical_statement": "Consciousness can perceive future events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 60,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "He had a vision in which he saw himself called out on a professional visit",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0178",
+    "canonical_statement": "Consciousness can perceive future events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 60,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "he saw all the details that had appeared to him in his vision.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0179",
+    "canonical_statement": "All events, actions, and thoughts leave an indelible record on the universal ether.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 62,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "every action, thought, happening, event, occurence, etc., leaves an indelible record on the Akasha",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "memory",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0180",
+    "canonical_statement": "The Akashic Records preserve a record of all past events within the universal substance.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 62,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "records of all that has happened and occurred during the entire World Cycle",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "memory",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0181",
+    "canonical_statement": "Past events are accessible through a phenomenon called Past Time Psychomancy utilizing Astral Vision.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 62,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "enables one to use his Astral Vision to explore the records of the past",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0182",
+    "canonical_statement": "Energy is never destroyed, but always exists in some form.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 62,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "there is no such thing as a destruction of Energy, but that Energy always exists in some form",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0183",
+    "canonical_statement": "All past events leave an imprint or record within a universal medium.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 64,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "all events leave an impression in the Universal Ether",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "time",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0184",
+    "canonical_statement": "The perception of distant phenomena is a perception of their past state, not their present.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 64,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "we do not see them as they now are, but where they were",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0185",
+    "canonical_statement": "Energy emanations persist and are detectable long after their source has ceased to exist.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 64,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "vibrations of light would persist for centuries after their source had disappeared",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "energy",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0186",
+    "canonical_statement": "The physical universe inherently records all existence.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 64,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "nothing can exist without leaving a record in the Universal Ether",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0187",
+    "canonical_statement": "Mental faculties, such as memory, demonstrate the existence of stored records of past experiences within the individual.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 64,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Stored away in our brain cells are records of things, events",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "memory",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0188",
+    "canonical_statement": "The universal ether contains a complete record of all past events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 65,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "The Universal Ether, or Akasha, has within itself a true and full record of anything, and everything, that has ever existed within its space.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "memory",
+      "reality",
+      "akashic records"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0189",
+    "canonical_statement": "Consciousness can develop the ability to access the record of past events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 65,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "if one develops the power to read these records at will, he has a full and complete key to the past",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "memory",
+      "akashic records"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0190",
+    "canonical_statement": "Access to higher planes of existence is restricted to advanced practitioners.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 66,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "none but the most advanced and highly-developed Occultists and Masters have clear access to the planes",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "planes",
+      "access",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0191",
+    "canonical_statement": "The Akashic Records are imperfectly reflected on lower planes.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 66,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "majority of Psychomancers merely see on the \"Lower Astral Plane\" a reflection of the Akashic Records",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "akashic records",
+      "planes",
+      "reflection",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0192",
+    "canonical_statement": "Perceptions of past events are distorted reflections of true records.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 66,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "records of the Past... are merely \"reflections of records,\" which are apt to be more or less distorted",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "perception",
+      "records",
+      "distortion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0193",
+    "canonical_statement": "Consciousness can access information about past lives of other individuals.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 67,
+        "chapter": "PAST TIME P8YCH0MANCY",
+        "surface_quote": "impressions of his or her past life, past scenes",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "pastlife",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0194",
+    "canonical_statement": "Access to past life information can occur involuntarily and without conscious effort.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 67,
+        "chapter": "PAST TIME P8YCH0MANCY",
+        "surface_quote": "passed quite involuntarily, and, as it were, dream-like",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "pastlife",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0195",
+    "canonical_statement": "Detailed sensory information, including visual and emotional aspects, can be perceived from past lives.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 67,
+        "chapter": "PAST TIME P8YCH0MANCY",
+        "surface_quote": "showed me even the dress and emotions of the actors, rooms, furniture",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "pastlife",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0196",
+    "canonical_statement": "Consciousness can perceive information about individuals without direct sensory input or prior knowledge.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 68,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "my vision agreed with reality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "information"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0197",
+    "canonical_statement": "Information perceived through non-sensory means can be verified against objective reality.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 68,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "the confirmation followed, not without amazement",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "verification",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0198",
+    "canonical_statement": "The contents of consciousness can include detailed accounts of an individual's past life.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 68,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "the facts of her former life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "memory",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0199",
+    "canonical_statement": "Consciousness can access information about individuals' past lives.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 68,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "the substance of my visions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "past lives",
+      "information"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0200",
+    "canonical_statement": "Consciousness can access information about an individual's past life events and personal history without direct sensory input.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 69,
+        "chapter": "PAST TIME P8YCH0MANCY",
+        "surface_quote": "I related what my vision had shown me, and the whole company were made acquainted with the private history of the young merchant",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "information",
+      "past"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0201",
+    "canonical_statement": "The accuracy of psychically obtained information can be verified through direct confirmation by the subject.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 69,
+        "chapter": "PAST TIME P8YCH0MANCY",
+        "surface_quote": "The startled young man confirmed every particular",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "information",
+      "verification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0202",
+    "canonical_statement": "Future events cast psychic impressions upon the astral plane.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 70,
+        "chapter": "LESSON X",
+        "surface_quote": "sense the Astral Plane impression of coming events",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "astral plane"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0203",
+    "canonical_statement": "The unfolding of effects follows the initiation of causes, unless counteracting causes intervene.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 70,
+        "chapter": "LESSON X",
+        "surface_quote": "when Causes are set into motion, the Effects follow, unless other Causes intervene",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0204",
+    "canonical_statement": "The intervention of new causes can alter predetermined outcomes.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 70,
+        "chapter": "LESSON X",
+        "surface_quote": "effects have been averted by reason of the previous Vision",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "causality",
+      "free will",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0205",
+    "canonical_statement": "Attempts to evade certain causes may inadvertently lead one to their predetermined effects.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 70,
+        "chapter": "LESSON X",
+        "surface_quote": "person seems unable to escape Causes once set into motion",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "destiny",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0206",
+    "canonical_statement": "The Angel of Death executes divine orders regarding the timing and location of life cessation.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 70,
+        "chapter": "LESSON X",
+        "surface_quote": "Angel of Death was wafted away to Damascus to take the man, according to orders",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "death",
+      "divine will",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0207",
+    "canonical_statement": "Precognition and clairvoyance are manifestations of a singular underlying faculty.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 71,
+        "chapter": "LESSON X",
+        "surface_quote": "Premonitions, Prevision, and Second Sight, are all forms or phases of",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0208",
+    "canonical_statement": "Consciousness can perceive future events with precise detail.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 72,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "the deed was foreseen by John Williams... the vision being perfect",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "precognition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0209",
+    "canonical_statement": "The exercise of psychic abilities can be contingent upon geographical location.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 72,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "a native of the island loses the power when he moves to the mainland",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "location",
+      "ability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0210",
+    "canonical_statement": "Consciousness can perceive future events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 73,
+        "chapter": "FUTURE TIME PSYCHOMANCV",
+        "surface_quote": "he seriously contemplated going to London to warn the victim",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "precognition",
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0211",
+    "canonical_statement": "Precognitive impressions can be dismissed as irrational.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 73,
+        "chapter": "FUTURE TIME PSYCHOMANCV",
+        "surface_quote": "ridiculed him and persuaded him not to go on \"a fool's errand.\"",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "precognition",
+      "perception",
+      "rationality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0212",
+    "canonical_statement": "Specific future events can be accurately foreseen.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 73,
+        "chapter": "FUTURE TIME PSYCHOMANCV",
+        "surface_quote": "precisely the manner indicated by the vision",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "precognition",
+      "time",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0213",
+    "canonical_statement": "Precognitive impressions can manifest as sensory phenomena.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 73,
+        "chapter": "FUTURE TIME PSYCHOMANCV",
+        "surface_quote": "a waft of death",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "precognition",
+      "perception",
+      "sensory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0214",
+    "canonical_statement": "Consciousness can foresee political and historical events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 73,
+        "chapter": "FUTURE TIME PSYCHOMANCV",
+        "surface_quote": "foretold the expulsion of the \"Rump Parliament;\"",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "precognition",
+      "history",
+      "politics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0215",
+    "canonical_statement": "Consciousness can foresee personal and public calamities.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 73,
+        "chapter": "FUTURE TIME PSYCHOMANCV",
+        "surface_quote": "Caesar's wife had a warning of her husband's death.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "precognition",
+      "warning",
+      "calamity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0216",
+    "canonical_statement": "The universe contains numerous instances of precognition.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 73,
+        "chapter": "FUTURE TIME PSYCHOMANCV",
+        "surface_quote": "The Bible is filled with similar instances.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "precognition",
+      "history",
+      "evidence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0217",
+    "canonical_statement": "The progression of reality involves the displacement of superstition by philosophy.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 74,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "superstition and fanaticism should give place to philosophy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "progress"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0218",
+    "canonical_statement": "Certain individuals possess the faculty of prophecy.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 74,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "I am a little inclined to prophesy",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0219",
+    "canonical_statement": "The future can be known through prophetic insight.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 74,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "you will all see this great and sublime revolution",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0220",
+    "canonical_statement": "Future events are predetermined and can be known.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 75,
+        "chapter": "FUTURE TIME PSYCHOMANCY",
+        "surface_quote": "Six years will not pass over, before all that I have said to you shall be accomplished.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "fate",
+      "prediction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0221",
+    "canonical_statement": "The manner of one's death is a predetermined event.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 75,
+        "chapter": "FUTURE TIME PSYCHOMANCY",
+        "surface_quote": "you will yield up your last breath on the floor of a dungeon; you will die from poison",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "fate",
+      "death",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0222",
+    "canonical_statement": "The future is knowable through precognition.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 76,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "you will be conducted to the scaffold, you and many other ladies with you",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0223",
+    "canonical_statement": "The social hierarchy of the present is not necessarily preserved in the afterlife or future events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 76,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "higher ladies than yourself will go, like you, in the common car",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0224",
+    "canonical_statement": "The ultimate fate of individuals is predetermined and can be revealed.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 76,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "you will be conducted to the scaffold",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0225",
+    "canonical_statement": "The nature of reality can be revealed through prophetic pronouncements.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 76,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "The amazing sequel to this historical prediction that it was verified in every detail",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0226",
+    "canonical_statement": "The physical body's dominance over attention hinders the clear manifestation of psychic faculties.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 77,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "physical nature...holds the attention...to prevent...manifesting the psychic faculties clearly",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0227",
+    "canonical_statement": "When the physical body is at rest (sleep), the astral senses are unimpeded and capable of manifestation.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 77,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "when the physical body sinks into sleep then the field is clear for the exercise of the Astral Senses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "body",
+      "sleep"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0228",
+    "canonical_statement": "Psychic phenomena occur with equal principle in both waking and dream states, differing primarily in memory recall.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 77,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "The principle in both the waking and dream phenomena is precisely the same",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "time",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0229",
+    "canonical_statement": "Dreams can be experiences of visiting other places and perceiving unfamiliar elements.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 77,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "dreams' in which you seemed to visit other places, scenes, lands, countries, etc.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "dream"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0230",
+    "canonical_statement": "Consciousness can perceive events occurring at a distance, independent of normal sensory channels.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 78,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "I distinctly saw my husband being carried off the field",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "distance",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0231",
+    "canonical_statement": "Information can be transmitted between minds without physical mediation.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 78,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "heard his voice, saying. Take this ring off my finger",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "telepathy",
+      "communication",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0232",
+    "canonical_statement": "Dreams can contain precognitive or telepathic information.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 78,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "dreamt that he received a summons to attend a patient",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "dreams",
+      "precognition",
+      "telepathy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0233",
+    "canonical_statement": "The mind can receive premonitions of future events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 78,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "dreamt that he received a summons to attend a patient",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "premonition",
+      "dreams",
+      "future"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0234",
+    "canonical_statement": "Consciousness can perceive future events through precognitive dreams.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 79,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "dream he should not have known in what direction to run for safety.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0235",
+    "canonical_statement": "The content of a dream can provide guidance for navigating future events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 79,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "but for the dream he should not have known in what direction to run for safety.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time",
+      "guidance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0236",
+    "canonical_statement": "Dreams can manifest as symbolic representations of future dangers.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 79,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "dreamt one night that she had been left alone in the house on a Sunday evening",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0237",
+    "canonical_statement": "Consciousness can perceive future events through dreams.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 80,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "Had she not been warned by the dream of several years previous, she would have met with a fate such as she had dreamed of.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0238",
+    "canonical_statement": "Dreams can represent experiences occurring in a different physical location from the dreamer.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 80,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "He found himself suddenly at the gate of Major N. M.'s avenue, many miles from his home.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "location"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0239",
+    "canonical_statement": "Dreaming can be a form of astral projection.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 80,
+        "chapter": "PRACTICAL P8YCH0MANCY",
+        "surface_quote": "The following case of Dream Psychomancy, which is a good example of Astral Projection during sleep",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "astral projection",
+      "sleep"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0240",
+    "canonical_statement": "Consciousness can experience a state of unsubstantiality where physical actions have no effect on the external world.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 81,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "my arms, although visible to my eye, were without substance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0241",
+    "canonical_statement": "Bodily sensations can persist after a subjective experience of unsubstantiality.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 81,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "experienced the stiffness and soreness of violent bodily exercise",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "body",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0242",
+    "canonical_statement": "Subjective experiences in altered states of consciousness can correspond to external events.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 81,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "his tenant had been found on Tuesday morning at Major N. M.'s gate",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "synchronicity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0243",
+    "canonical_statement": "Consciousness can perceive events occurring at a distance through non-physical means.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 82,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "vision of a murder seen in all of its details by a brother",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "distance",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0244",
+    "canonical_statement": "Identical accounts can be given by multiple individuals regarding the same event, even if perceived independently.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 82,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "three men gave identical accounts of the occurrence",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "consensus"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0245",
+    "canonical_statement": "The physical body can be affected by events that occur outside of normal physical interaction.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 82,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "assaulted H. W., while the other prevented his friends",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "body",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0246",
+    "canonical_statement": "Consciousness can project a non-corporeal presence that perceives events at a distance.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 83,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "my spiritual presence, for he seemed quite unconscious that I was near him",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "presence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0247",
+    "canonical_statement": "Spiritual presence can perceive danger but is powerless to intervene.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 83,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "I was powerless to aid him!",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "intervention",
+      "powerlessness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0248",
+    "canonical_statement": "The presence of a spiritual entity can signify impending danger.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 83,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "my being thus present in this strange way betokened some hidden danger",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "danger",
+      "omen"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0249",
+    "canonical_statement": "Consciousness can perceive future events through precognitive visions.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 84,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Hart had been killed as he had dreamt",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0250",
+    "canonical_statement": "The physical body ceases to exist upon death.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 84,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "Hart dropped lifeless from the saddle",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0251",
+    "canonical_statement": "The universe contains a principle of retribution or karmic consequence.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 84,
+        "chapter": "PRACTICAL PSYCHOMANCY",
+        "surface_quote": "retribution was by his means to fall on the murderers",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0252",
+    "canonical_statement": "Consciousness can perceive events occurring at a distance through dream states.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 85,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "I saw the foul deed committed in a dream I had the night of the murder",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "dream",
+      "time",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0253",
+    "canonical_statement": "The content of dreams can correspond to objective reality.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 85,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "I saw the foul deed committed in a dream I had the night of the murder",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dream",
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0254",
+    "canonical_statement": "Information gained through dreams can be used to ascertain objective facts.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 85,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "George Northey replied: 'I saw the foul deed committed in a dream I had the night of the murder'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dream",
+      "knowledge",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0255",
+    "canonical_statement": "Consciousness can be transmitted between minds via non-physical means.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 86,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "Action of mind upon mind; Mental wireless telepathy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "communication",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0256",
+    "canonical_statement": "Mental phenomena are associated with energetic vibrations.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 86,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "Power of Etheric Vibrations",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "energy",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0257",
+    "canonical_statement": "Mental states can be perceived or detected by others.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 86,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "The Nature of Mind Reading",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0258",
+    "canonical_statement": "The human being is surrounded by a detectable energetic field.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 86,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "THE HUMAN AURA",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "energy",
+      "field"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0259",
+    "canonical_statement": "Thoughts can manifest as distinct energetic forms.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 86,
+        "chapter": "DREAM PSYCHOMANCY",
+        "surface_quote": "Astral Colors and Thought Forms",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "thought",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0260",
+    "canonical_statement": "Consciousness states manifest as observable energetic signatures.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 87,
+        "chapter": "CHAPTER I.—What is the Human Aura.",
+        "surface_quote": "Each mental or emotional state has its own astral hue.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0261",
+    "canonical_statement": "The human aura is an integral aspect of individual existence.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 87,
+        "chapter": "CHAPTER I.—What is the Human Aura.",
+        "surface_quote": "The human aura is a very important and interesting phase of every personality.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "aura"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_practicalpsychom00atki_0262",
+    "canonical_statement": "Energetic signatures can reveal an individual's character and predispositions.",
+    "attributions": [
+      {
+        "source_id": "practicalpsychom00atki",
+        "chunk_index": 87,
+        "chapter": "CHAPTER I.—What is the Human Aura.",
+        "surface_quote": "How the trained occultist is able to ascertain the character and tendencies of a person.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "aura"
+    ],
+    "editorial_status": "auto"
+  }
+]

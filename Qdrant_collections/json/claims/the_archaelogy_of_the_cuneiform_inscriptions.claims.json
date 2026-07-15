@@ -1,0 +1,671 @@
+[
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0001",
+    "canonical_statement": "Human cognitive faculties and fundamental needs remain consistent across disparate temporal and geographical contexts.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 31,
+        "chapter": "CHAPTER II",
+        "surface_quote": "The primitive needs of man are everywhere the same, and the powers of mind are the same.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "humanity",
+      "cognition",
+      "universality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0002",
+    "canonical_statement": "Material artifacts serve as enduring manifestations of human history and consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 31,
+        "chapter": "CHAPTER II",
+        "surface_quote": "Pottery is an enduring evidence of the past history of man.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "materiality",
+      "evidence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0003",
+    "canonical_statement": "Human nature is characterized by a fundamental, universal consistency across all historical periods and geographical locations.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 32,
+        "chapter": "CHAPTER II",
+        "surface_quote": "the nature of man is much the same also",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "human nature",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0004",
+    "canonical_statement": "The diversity observed in the material world and human expression is a reflection of an inherent, universal drive for variety.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 32,
+        "chapter": "CHAPTER II",
+        "surface_quote": "a distinguishing feature in his nature is love of variety",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "nature",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0005",
+    "canonical_statement": "The natural world possesses an inherent tendency to preserve specific types or forms, acting as a counter-force to change.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 32,
+        "chapter": "CHAPTER II",
+        "surface_quote": "nature, 'so careful of the type.'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0006",
+    "canonical_statement": "The physical world originates from a primeval, undifferentiated aquatic state.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 62,
+        "chapter": "CHAPTER III",
+        "surface_quote": "The whole earth was believed to have grown out of a primeval deep.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0007",
+    "canonical_statement": "Civilization and higher knowledge are introduced to humanity by external, non-human entities.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 62,
+        "chapter": "CHAPTER III",
+        "surface_quote": "Oannes or Ea... had risen each morning... bringing with him the elements of civilization.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "civilization",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0008",
+    "canonical_statement": "The development of cultural and linguistic systems is fundamentally linked to the religious or magical frameworks of a civilization.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 66,
+        "chapter": "CHAPTER III",
+        "surface_quote": "The belief that he was the originator of Babylonian culture may have had its source in the system of magic",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "culture",
+      "magic",
+      "civilization"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0009",
+    "canonical_statement": "The symbolic representations of a culture reflect the primary environmental and spiritual preoccupations of its originators.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 66,
+        "chapter": "CHAPTER III",
+        "surface_quote": "the spirit of the deep must have been a chief object of worship at the time when the primitive hieroglyphs were first formed",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "perception",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0010",
+    "canonical_statement": "Life is fundamentally defined by the capacity for motion.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 76,
+        "chapter": "CHAPTER III",
+        "surface_quote": "spirit, a word properly signifying life which manifested itself in the power of motion.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "life",
+      "motion",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0011",
+    "canonical_statement": "All entities, including inanimate objects and natural phenomena, possess an inherent life force or spirit.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 76,
+        "chapter": "CHAPTER III",
+        "surface_quote": "All things that moved were possessed of life, and there was a spirit of water.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "animism",
+      "spirit",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0012",
+    "canonical_statement": "The divine is not necessarily anthropomorphic but can be manifested through natural objects or locations.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 76,
+        "chapter": "CHAPTER III",
+        "surface_quote": "It was the town itself that was divine, not the deity.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0013",
+    "canonical_statement": "Anthropomorphic conceptions of the divine are a projection of human identity and social structure onto the transcendent.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 76,
+        "chapter": "CHAPTER III",
+        "surface_quote": "The gods have become men and women... they live and act like the men.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "anthropomorphism",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0014",
+    "canonical_statement": "The nature of the divine is anthropomorphically projected from human social and political structures.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 77,
+        "chapter": "CHAPTER III",
+        "surface_quote": "the gods he worships conform to the social conditions under which he lives",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "anthropomorphism",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0015",
+    "canonical_statement": "Political sovereignty is a manifestation of divine authority, establishing a reciprocal relationship between the earthly ruler and the divine realm.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 77,
+        "chapter": "CHAPTER III",
+        "surface_quote": "the earthly king receives his power and attributes from the god",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0016",
+    "canonical_statement": "The human individual can embody the divine nature through the office of kingship.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 77,
+        "chapter": "CHAPTER III",
+        "surface_quote": "the human king should take upon him the divine nature",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "kingship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0017",
+    "canonical_statement": "The deification of a sovereign is a necessary corollary of an anthropomorphic conception of deity.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 79,
+        "chapter": "CHAPTER III",
+        "surface_quote": "deification of the sovereign... the necessary corollary of an anthropomorphic conception of the deity",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "anthropomorphism",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0018",
+    "canonical_statement": "Spiritual influence over the non-physical world is derived from the mastery of ritualistic spells.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 79,
+        "chapter": "CHAPTER III",
+        "surface_quote": "because he had once been a master of spells that the priest... could influence the spiritual world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "ritual",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0019",
+    "canonical_statement": "The existence of identical symbolic representations across geographically isolated civilizations suggests a non-accidental, underlying structural or archetypal connection.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 85,
+        "chapter": "CHAPTER IV",
+        "surface_quote": "curious similarity in a few instances which it is difficult to interpret as merely accident.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "archetype",
+      "structure",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0020",
+    "canonical_statement": "The capacity for resurrection is a specific divine attribute associated with particular deities rather than a universal feature of the afterlife.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 97,
+        "chapter": "CHAPTER IV",
+        "surface_quote": "It is only in connection with Asari that we hear of a possibility that the dead may live again.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "resurrection",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0021",
+    "canonical_statement": "The human soul or consciousness may exist in a diminished, shadowy state after death in the absence of specific divine intervention.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 97,
+        "chapter": "CHAPTER IV",
+        "surface_quote": "a shadowy existence in a subterranean land of darkness where all things are forgotten",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0022",
+    "canonical_statement": "Existence is preceded by a primordial state of non-being characterized by the absence of heaven, earth, humanity, divinity, and death.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 98,
+        "chapter": "CHAPTER IV",
+        "surface_quote": "At that time the heaven was not, the earth was not, men did not exist.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "existence",
+      "non-being"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0023",
+    "canonical_statement": "The human form is a reflection of the divine nature, facilitating the identification of earthly rulers as incarnate deities.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 101,
+        "chapter": "CHAPTER IV",
+        "surface_quote": "where man was made in the image of God, it was easy to see in him a god on earth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0024",
+    "canonical_statement": "The perception of historical reality is subject to the projection of contemporary cultural knowledge onto the past.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 101,
+        "chapter": "CHAPTER IV",
+        "surface_quote": "compilers of the story... projected the knowledge and usages of their own time back into the past.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0025",
+    "canonical_statement": "The creator deity Ptah is the origin of the world.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 105,
+        "chapter": "CHAPTER IV",
+        "surface_quote": "Ptah, the creator of the world.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0026",
+    "canonical_statement": "Physical objects can serve as consecrated vessels or dwellings for divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 121,
+        "chapter": "CHAPTER V",
+        "surface_quote": "the divinity whose home it had become by consecration with oil.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sacred",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0027",
+    "canonical_statement": "The distinction between a fetish and a shrine represents a developmental shift in religious consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 121,
+        "chapter": "CHAPTER V",
+        "surface_quote": "the belief that the stone was not a fetish, but the shrine of divinity, belonged to an age of reflection",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "theology",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0028",
+    "canonical_statement": "Composite mythological beings represent early manifestations of creative power within Babylonian cosmology.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 147,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "They represented the first attempts of the creative power, as conceived of by Babylonian cosmology.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0029",
+    "canonical_statement": "Human cultural and intellectual development is a continuous lineage inherited from ancestral civilizations.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 151,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "We are children of our fathers, and amongst our spiritual fathers must be reckoned the Babylonians.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "history",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0030",
+    "canonical_statement": "The sovereign is the essential source of life for all beings in the world.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 169,
+        "chapter": "CHAPTER VII",
+        "surface_quote": "the king in the sight of whom all the world lives",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0031",
+    "canonical_statement": "The monarch is elevated to the status of a divine being.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 175,
+        "chapter": "CHAPTER VII",
+        "surface_quote": "Deification of king",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0032",
+    "canonical_statement": "The divine hierarchy is structured through genealogical relationships, such as the Moon-god being the son of the god of Nippur.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 185,
+        "chapter": "CHAPTER VII",
+        "surface_quote": "The Moon-god of Ur was a “son” of El-lil, the god of Nippur.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0033",
+    "canonical_statement": "Certain locations possess an ontological status of 'everlasting' or primordial existence.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 185,
+        "chapter": "CHAPTER VII",
+        "surface_quote": "Sippara that is from everlasting",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_archaelogy_of_the_cuneiform_inscriptions_0034",
+    "canonical_statement": "The ka, or vital essence of an individual, maintains a distinct existence that can be represented and sustained through symbolic ritual offerings.",
+    "attributions": [
+      {
+        "source_id": "the_archaelogy_of_the_cuneiform_inscriptions",
+        "chunk_index": 189,
+        "chapter": "CHAPTER VII",
+        "surface_quote": "the ka of the person... is seated on a chair... an altar with offerings",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  }
+]

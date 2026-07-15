@@ -1,0 +1,4103 @@
+[
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0001",
+    "canonical_statement": "Theoretical philosophy is divided into theology, mathematics, and physics based on the mutability and perceptibility of their objects.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "three forms of theoretical philosophy are (1) theology... (2) mathematics... (3) physics",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0002",
+    "canonical_statement": "Theology concerns objects that are both immutable and imperceptible.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "theology, which is concerned with immutable and imperceptible objects",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0003",
+    "canonical_statement": "Mathematics concerns objects that are immutable but perceptible.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "mathematics, which is concerned with immutable but perceptible objects",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0004",
+    "canonical_statement": "Physics concerns objects that are mutable and perceptible.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "physics, which is concerned with mutable and perceptible objects",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0005",
+    "canonical_statement": "Astronomy is a branch of mathematics because its objects of study are immutable and perceptible.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "Astronomy belongs to the intermediate form, mathematics",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "classification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0006",
+    "canonical_statement": "Knowledge is only possible for entities that are both perceptible and immutable.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "what is mutable... cannot be surely known",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0007",
+    "canonical_statement": "Permanent entities possess ontological superiority over impermanent entities.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Ontologically, the permanent trumps the impermanent",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0008",
+    "canonical_statement": "Abstract entities possess ontological superiority over concrete entities.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "the abstract trumps the concrete",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0009",
+    "canonical_statement": "Simple and uniform entities possess ontological superiority over complex entities.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "the simple and uniform trump the complex",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0010",
+    "canonical_statement": "Immutability is a necessary condition for immortality and divinity.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "if unchanging, then immortal; and if immortal, then divine",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0011",
+    "canonical_statement": "The terrestrial realm consists of corruptible bodies characterized by changing material qualities.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "physics... situated amongst corruptible bodies",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "matter",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0012",
+    "canonical_statement": "Celestial bodies possess a fundamental nature distinct from terrestrial matter, characterized by autonomous circular motion.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "celestial bodies differ... fundamentally in their very nature",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "nature",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0013",
+    "canonical_statement": "The laws of physics are universal and apply identically to both terrestrial and celestial matter.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "stuff 'up there' is the same as stuff 'down here'",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0014",
+    "canonical_statement": "Reality consists of a hierarchy of objects categorized by their mortality and perceptibility.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "theology (immortal and imperceptible) and physics (mortal and perceptible)",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0015",
+    "canonical_statement": "There exists a class of entities that are simultaneously immortal and perceptible.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "objects which though immortal are nevertheless perceptible",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0016",
+    "canonical_statement": "The divine is characterized by constancy, order, symmetry, and calm.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "constancy, order, symmetry and calm which are associated with the divine",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0017",
+    "canonical_statement": "Human nature can be reformed to mirror the spiritual state of the divine through contemplation of cosmic order.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "reforming their natures... to a similar spiritual state",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0018",
+    "canonical_statement": "Celestial configurations exert a causal influence on terrestrial changes.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "investigate the changes which they bring about in that which they surround",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0019",
+    "canonical_statement": "Celestial configurations exert influence on terrestrial events through inherent natural qualities.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "celestial configurations effect on earth through their natural qualities",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0020",
+    "canonical_statement": "The material world is characterized by mutability, rendering absolute certainty in its prediction impossible.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "mutable world of material quality, where things can only be guessed at",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "materiality",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0021",
+    "canonical_statement": "An individual's fate, character, and fortune are determined by celestial configurations at birth or conception.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "foretell an individual's fate, fortunes, and character on the basis of those configurations",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "determinism",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0022",
+    "canonical_statement": "Celestial configurations at the moment of birth determine specific life outcomes.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "if configuration X at birth, then outcome Y in life",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0023",
+    "canonical_statement": "The relational aspects between celestial bodies, rather than the bodies themselves, determine outcomes.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "aspects... not the stars and planets themselves, that indicate or determine outcomes",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "astrology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0024",
+    "canonical_statement": "Celestial and meteorological events are indicators of future terrestrial outcomes.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "omen astrology included meteorological indicators... with celestial phenomena",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "determinism",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0025",
+    "canonical_statement": "The specific position of celestial bodies determines the nature of a predicted event.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "variable is... the position of the Moon in the signs",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0026",
+    "canonical_statement": "Celestial events are indicators of terrestrial outcomes.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "thunder clap can change its meaning from revolution to famine",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0027",
+    "canonical_statement": "The movements and interactions of celestial bodies reflect the intentions of divine entities regarding earthly affairs.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "visible gods in heaven intended for the state on earth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0028",
+    "canonical_statement": "Divine entities possess a preference for the precise temporal alignment of ritual observances.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "gods... will be seriously displeased if... you celebrate their festivals on the wrong day",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "time",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0029",
+    "canonical_statement": "Planetary motions repeat in vast, cyclical time spans known as great years.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "previous cycles of planetary motion... repeated with the same day-by-day configurations",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0030",
+    "canonical_statement": "Celestial bodies possess inherent affinities with terrestrial minerals and botanical life.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "affinities of stones and plants with the stars",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0031",
+    "canonical_statement": "The efficacy of terrestrial materials is dependent upon the specific temporal and spatial conditions of their acquisition.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "did not know the times or places where the plants must be gathered",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "space",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0032",
+    "canonical_statement": "The primary influence of celestial bodies is derived from their geometric relationships to one another and the earth, rather than their individual positions.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "not the stars themselves... but the 'aspects' of the stars",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "geometry",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0033",
+    "canonical_statement": "The Earth is a dimensionless point relative to the scale of the universe.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "earth is a mere dimensionless point",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0034",
+    "canonical_statement": "Empirical observations of planetary positions constitute truths of appearance rather than fundamental reality.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "our ‘‘truths’’ are the truths of appearances",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0035",
+    "canonical_statement": "Celestial positions and angular relationships exert a causal influence on human experience.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "planets in a particular aspect beam their influence down upon us",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "astrology",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0036",
+    "canonical_statement": "The specific geographic location of an individual at birth determines their unique astrological profile.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "by localizing the horoscope, the inclusion of the ascendant individualizes the horoscope",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "space",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0037",
+    "canonical_statement": "Astrological causality is based on erroneous assumptions regarding the relationship between celestial positions and terrestrial effects.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "false assumptions about celestial cause and terrestrial effect",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0038",
+    "canonical_statement": "Celestial observations are phenomenal appearances relative to a specific terrestrial location rather than absolute physical positions.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "data are appearances only... relative to a particular terrestrial locality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0039",
+    "canonical_statement": "The positions of celestial bodies are deterministic and calculable across all points in time and space.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "replicate the position... not just 'now' but well into the past and future",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0040",
+    "canonical_statement": "Astrological systems presuppose a spherical earth.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "system actually postulates... sphericity of the earth",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0041",
+    "canonical_statement": "The perception of astronomical data in astrology is a mental construct rather than a direct visual observation.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "It is the 'mind's eye' that 'sees' the heavens",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0042",
+    "canonical_statement": "Celestial configurations signify terrestrial events without necessarily possessing a direct causal link.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "configurations of a horoscope mean something... not as readily apparent [as] causal connections",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "cosmology",
+      "signification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0043",
+    "canonical_statement": "Celestial movements possess a semiotic relationship to terrestrial events, regardless of a causal link.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "stars in their courses signify something, whether or not they actually cause it",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "perception",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0044",
+    "canonical_statement": "Celestial bodies convey meaning through their individual natures and their spatial relationships.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "celestial bodies signify... through their spatial relationships",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "signification",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0045",
+    "canonical_statement": "The meanings attributed to astrological relations are based on social convention rather than inherent metaphysical necessity.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 41,
+        "chapter": "General Content",
+        "surface_quote": "meanings are... simply because astrologers have agreed",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "meaning"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0046",
+    "canonical_statement": "Human life can be decomposed into discrete, categorized component parts.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "resolve a person’s life into its component parts",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0047",
+    "canonical_statement": "Human life is composed of twelve distinct structural components.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "analyzed the human life into the same set of twelve components",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0048",
+    "canonical_statement": "The celestial configuration at the moment of birth determines the soul's character and life trajectory.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 44,
+        "chapter": "General Content",
+        "surface_quote": "ascendant is the steering oar of the life... indicative of the soul",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "determinism",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0049",
+    "canonical_statement": "Human existence is structured by a set of predetermined cosmic significances or 'places'.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 44,
+        "chapter": "General Content",
+        "surface_quote": "twelve places of the horoscope and their names and significances",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "structure",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0050",
+    "canonical_statement": "Human life is composed of discrete, classifiable components that can be mapped to specific spatial or symbolic locations.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "classification of the components of a human life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0051",
+    "canonical_statement": "The relative importance and power of life components are determined by their geometric relationship to the point of ascent.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "aspect to the first place... determines relative importance",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "power",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0052",
+    "canonical_statement": "Certain structural positions in the cosmic or life-scheme possess inherent biases toward positive or negative outcomes.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "places have an independent bias towards good luck",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0053",
+    "canonical_statement": "Human life follows a cyclical trajectory of emergence, maturity, and decline, mirroring celestial movements.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 48,
+        "chapter": "General Content",
+        "surface_quote": "human life rises to birth, reaches high noon, then declines",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0054",
+    "canonical_statement": "The moment of birth serves as the foundational pivot and substance of an individual's destiny.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 48,
+        "chapter": "General Content",
+        "surface_quote": "ascendant... is the pivot, the fixing, the substance of the entire nativity",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "determinism",
+      "birth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0055",
+    "canonical_statement": "The subterranean realm serves as both the destination of the deceased and the origin of new life.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "underground... not only the place of the dead but also the source of new life",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0056",
+    "canonical_statement": "Material wealth originates from the underworld.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "Wealth comes from the world below",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0057",
+    "canonical_statement": "Astrological relationships within the zodiac are immutable constants.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 53,
+        "chapter": "General Content",
+        "surface_quote": "internal relations of the zodiac... do not change",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0058",
+    "canonical_statement": "The zodiac exists as a fixed entity on the celestial sphere.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 53,
+        "chapter": "General Content",
+        "surface_quote": "location of the zodiac on the celestial sphere is fixed forever",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0059",
+    "canonical_statement": "The local sky is mirrored by a corresponding structure underground.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 53,
+        "chapter": "General Content",
+        "surface_quote": "lower half on a sort of mirror image... underground",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0060",
+    "canonical_statement": "Cardinal directions (east and west) are relative orientations rather than absolute locations within a sphere.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 54,
+        "chapter": "General Content",
+        "surface_quote": "east and west are always relative",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "space",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0061",
+    "canonical_statement": "In a celestial context, east and west are defined as directions of motion.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 54,
+        "chapter": "General Content",
+        "surface_quote": "east and west are first and foremost directions of motion",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "space",
+      "motion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0062",
+    "canonical_statement": "Temporal events can be simultaneously understood as spatial coordinates, depending on the perspective of the observer.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 56,
+        "chapter": "General Content",
+        "surface_quote": "equinoxes... are both [moments in time and points in space]",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "space",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0063",
+    "canonical_statement": "Celestial symbols function as emblems of terrestrial phenomena rather than as their direct causal agents.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 56,
+        "chapter": "General Content",
+        "surface_quote": "I say 'emblem,' not 'cause'",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0064",
+    "canonical_statement": "Human existence is a finite cycle that mirrors the cyclical nature of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 58,
+        "chapter": "General Content",
+        "surface_quote": "human life on that same annual journey as the god’s own biography",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0065",
+    "canonical_statement": "Human life is linear and finite, whereas the solar cycle is infinite and eternal.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 58,
+        "chapter": "General Content",
+        "surface_quote": "Each of us on earth has but one 'go round,' the Sun aloft an infinity",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0066",
+    "canonical_statement": "Human consciousness or existence ceases permanently after a single life cycle.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 58,
+        "chapter": "General Content",
+        "surface_quote": "once our brief light has set, must sleep one single night for ever",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0067",
+    "canonical_statement": "The sublunary world is characterized by mutability.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 59,
+        "chapter": "General Content",
+        "surface_quote": "Matter in our mutable sublunary world",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "matter",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0068",
+    "canonical_statement": "Material reality is composed of four primary elements derived from combinations of two sets of binary opposite qualities.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 60,
+        "chapter": "General Content",
+        "surface_quote": "opposites produce the four terrestrial elements",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0069",
+    "canonical_statement": "The human life cycle corresponds to the cyclical qualities of the seasons.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 60,
+        "chapter": "General Content",
+        "surface_quote": "applies the same two pairs... to the stages of the life cycle",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "time",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0070",
+    "canonical_statement": "Celestial positions possess the capacity for causation or signification regarding terrestrial events.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 60,
+        "chapter": "General Content",
+        "surface_quote": "if celestial causation or signification is to be maintained",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "causality",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0071",
+    "canonical_statement": "The cosmos is pervaded by a fundamental polarity of light and darkness.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 61,
+        "chapter": "General Content",
+        "surface_quote": "fundamental polarity, pervading the entire cosmos, is that between light and darkness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "polarity",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0072",
+    "canonical_statement": "All physical matter below the lunar sphere is constituted by four primary elements.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 61,
+        "chapter": "General Content",
+        "surface_quote": "four elements are constituted all things which physically exist below the Moon",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "matter",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0073",
+    "canonical_statement": "Celestial configurations determine and validate terrestrial social constructions of gender.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 62,
+        "chapter": "General Content",
+        "surface_quote": "configurations of heaven intend [gender constructions]",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gender",
+      "determinism",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0074",
+    "canonical_statement": "The relative length of daylight in zodiacal signs establishes a hierarchy of power between them.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 62,
+        "chapter": "General Content",
+        "surface_quote": "rationale for these two schemes is length of daylight",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "power",
+      "cosmology",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0075",
+    "canonical_statement": "Planetary influence can be projected across non-adjacent zodiacal signs via geometric counter-shadows.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 62,
+        "chapter": "General Content",
+        "surface_quote": "project 'counter-shadows' (antiscia) on each other",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "influence",
+      "geometry",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0076",
+    "canonical_statement": "The geometric arrangement of the heavens correlates with the quality of an individual's lived experience.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 62,
+        "chapter": "General Content",
+        "surface_quote": "horoscope led to an actual life with serious set-backs",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "determinism",
+      "fate",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0077",
+    "canonical_statement": "Celestial bodies and astrological signs are subject to the same relational dynamics of affinity and hostility as terrestrial existence.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 63,
+        "chapter": "General Content",
+        "surface_quote": "Heaven, like earth, is a place of friendships and enmities",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0078",
+    "canonical_statement": "Planets function as anthropomorphized deities or their proxies, possessing human-like agency and emotion.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 63,
+        "chapter": "General Content",
+        "surface_quote": "planets... are in fact anthropomorphized gods",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0079",
+    "canonical_statement": "The structure of truth is consistent and coherent across all its parts.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 64,
+        "chapter": "General Content",
+        "surface_quote": "the design of truth is consistent in every part",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0080",
+    "canonical_statement": "Reason is a superior force to brute physical power.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 64,
+        "chapter": "General Content",
+        "surface_quote": "reason is greater than brute force",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "value"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0081",
+    "canonical_statement": "Human interpersonal conflict is a terrestrial reflection of celestial configurations.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 65,
+        "chapter": "General Content",
+        "surface_quote": "enmities cascade down from heaven on to us earthlings",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "astrology",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0082",
+    "canonical_statement": "Individual disposition and destiny are determined by the astrological signs present at birth.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 65,
+        "chapter": "General Content",
+        "surface_quote": "inherit them according to the signs under which we are born",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "destiny",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0083",
+    "canonical_statement": "The macrocosm and microcosm operate under a principle of correspondence regarding conflict.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 65,
+        "chapter": "General Content",
+        "surface_quote": "just as in heaven, so too is earth at war",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmos",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0084",
+    "canonical_statement": "Celestial structures function as templates that determine the structure and meaning of terrestrial and human affairs.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 66,
+        "chapter": "General Content",
+        "surface_quote": "heavens function as a sort of template imposed on terrestrial and human affairs",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "cosmology",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0085",
+    "canonical_statement": "The character and influence of astrological signs are derived from their position in seasonal cycles and the qualities of their terrestrial referents.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 66,
+        "chapter": "General Content",
+        "surface_quote": "determined... by its position in the seasonal cycle... and terrestrial referents",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "influence",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0086",
+    "canonical_statement": "Celestial alignments at birth impart specific character traits, predispositions, and life trajectories to individuals.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 67,
+        "chapter": "General Content",
+        "surface_quote": "signs impart characters, predominant quality, pursuits, and different skills",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "astrology",
+      "identity",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0087",
+    "canonical_statement": "Rational moral agents possess the capacity and duty to regulate their innate character traits.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 67,
+        "chapter": "General Content",
+        "surface_quote": "ability and the obligation to control [character traits]",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "ethics",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0088",
+    "canonical_statement": "Celestial configurations at birth determine an individual's professional aptitude and life path.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 68,
+        "chapter": "General Content",
+        "surface_quote": "linking of the signs to various occupations",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0089",
+    "canonical_statement": "The physical universe is structured according to a correspondence between celestial figures and earthly manifestations.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 68,
+        "chapter": "General Content",
+        "surface_quote": "heavens... turn into the same number of figures",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0090",
+    "canonical_statement": "Celestial configurations at the moment of birth determine an individual's personality, social role, and physical attributes.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 69,
+        "chapter": "General Content",
+        "surface_quote": "men who kick with their heels are born then",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0091",
+    "canonical_statement": "The universe operates as a cyclical system of perpetual creation and destruction.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 69,
+        "chapter": "General Content",
+        "surface_quote": "globe turns like a mill... men are either being born or perishing",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0092",
+    "canonical_statement": "The human being is a microcosm that reflects the structure of the macrocosm.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 70,
+        "chapter": "General Content",
+        "surface_quote": "conceptualize Man as a microcosm of the macrocosm",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0093",
+    "canonical_statement": "There exists a metaphysical correspondence between the human anatomy and the zodiacal signs.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 70,
+        "chapter": "General Content",
+        "surface_quote": "distribution of parts of the human body to different signs",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0094",
+    "canonical_statement": "The spatial relationships between zodiacal signs are immutable and eternal.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 71,
+        "chapter": "General Content",
+        "surface_quote": "Aries opposes Libra to all eternity",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0095",
+    "canonical_statement": "Celestial bodies are conscious agents or instruments of divine agency.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 72,
+        "chapter": "General Content",
+        "surface_quote": "planets were gods – or else the living instruments of gods",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0096",
+    "canonical_statement": "The agency of celestial entities is functionally analogous to human agency.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 72,
+        "chapter": "General Content",
+        "surface_quote": "considered agents, in the same sense that human beings are",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0097",
+    "canonical_statement": "Celestial motions are governed by autonomous will or a higher intentionality rather than random physical drift.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 73,
+        "chapter": "General Content",
+        "surface_quote": "purposeful, not the mere drifting of inanimate objects",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "will",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0098",
+    "canonical_statement": "Human consciousness and divine consciousness share a common essence of reason.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 73,
+        "chapter": "General Content",
+        "surface_quote": "mortals, in the shared possession of reason, are kin to the gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0099",
+    "canonical_statement": "Celestial bodies are manifestations of divine personas.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 74,
+        "chapter": "General Content",
+        "surface_quote": "planets acquired their personas from the Greek gods whose manifestations they were",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "substrate",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0100",
+    "canonical_statement": "The structure of the celestial realm mirrors the hierarchical structure of the terrestrial realm.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 74,
+        "chapter": "General Content",
+        "surface_quote": "In heaven, as on earth, precedence matters",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0101",
+    "canonical_statement": "Celestial bodies exert causal influence over human character and life events.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 75,
+        "chapter": "General Content",
+        "surface_quote": "influence of each planet... on the composite human character",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "determinism",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0102",
+    "canonical_statement": "The Sun serves as the medium through which the soul perceives reality.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 75,
+        "chapter": "General Content",
+        "surface_quote": "instrument of the soul’s perception",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0103",
+    "canonical_statement": "The Sun is the primary governing entity of the cosmic order.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 75,
+        "chapter": "General Content",
+        "surface_quote": "The Sun is the overseer of all",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0104",
+    "canonical_statement": "The Moon's existence is derivative, relying on the reflection of solar light.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 75,
+        "chapter": "General Content",
+        "surface_quote": "Moon... has her being from the reflection of sunlight",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0105",
+    "canonical_statement": "Celestial bodies exert causal influence over human destiny, social status, and physical health.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 76,
+        "chapter": "General Content",
+        "surface_quote": "He brings things to completion; he makes high reputation",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0106",
+    "canonical_statement": "Specific planetary entities govern distinct material substances in the physical world.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 76,
+        "chapter": "General Content",
+        "surface_quote": "Of materials he governs lead, wood, and stone",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0107",
+    "canonical_statement": "There is a metaphysical correspondence between celestial bodies and specific anatomical regions of the human body.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 76,
+        "chapter": "General Content",
+        "surface_quote": "Of the parts of the body, the legs",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0108",
+    "canonical_statement": "Celestial bodies govern specific physical organs and biological functions.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 77,
+        "chapter": "General Content",
+        "surface_quote": "Of the parts of the body she governs the neck",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0109",
+    "canonical_statement": "Celestial bodies govern specific material substances and earthly resources.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 77,
+        "chapter": "General Content",
+        "surface_quote": "Of materials she governs precious stones",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "matter",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0110",
+    "canonical_statement": "Celestial bodies determine human intellectual capacities and social roles.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 77,
+        "chapter": "General Content",
+        "surface_quote": "Mercury indicates education, letters, argumentation",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0111",
+    "canonical_statement": "The positions and aspects of celestial bodies determine individual destiny and profession.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 77,
+        "chapter": "General Content",
+        "surface_quote": "Mercury allots different professions and destinies",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "destiny",
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0112",
+    "canonical_statement": "The universe is structured by a moral duality of beneficial and malevolent forces.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 77,
+        "chapter": "General Content",
+        "surface_quote": "in heaven as on earth there are supposed ‘good guys’",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0113",
+    "canonical_statement": "The macrocosmic and microcosmic realms operate according to identical structural principles.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 78,
+        "chapter": "General Content",
+        "surface_quote": "as on earth, so in heaven",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0114",
+    "canonical_statement": "Celestial bodies possess fluctuating capacities to influence earthly outcomes based on spatial configuration.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 78,
+        "chapter": "General Content",
+        "surface_quote": "planets’ powers wax and wane depending on a number of factors",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0115",
+    "canonical_statement": "Human nature is divided by a gendered moral dichotomy where masculinity is associated with destruction and femininity with creation.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 78,
+        "chapter": "General Content",
+        "surface_quote": "men tend to evil, women tend to good",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "ethics",
+      "gender"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0116",
+    "canonical_statement": "Planetary archetypes correspond to specific functional states of the human autonomous nervous system.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 79,
+        "chapter": "General Content",
+        "surface_quote": "Mars governs ergotropic... Venus governs trophotropic side",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "physiology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0117",
+    "canonical_statement": "Celestial entities are not inherently binary in their moral or qualitative valence.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 79,
+        "chapter": "General Content",
+        "surface_quote": "No malefic is entirely bad... no benefic entirely good",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "celestial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0118",
+    "canonical_statement": "The metaphysical influence of celestial bodies is derived from their inherent physical properties.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 79,
+        "chapter": "General Content",
+        "surface_quote": "planets’ powers depend on their physical properties",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "substrate",
+      "celestial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0119",
+    "canonical_statement": "Cosmic productivity is linked to the qualities of heat and moisture, while destruction is linked to cold and dryness.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 79,
+        "chapter": "General Content",
+        "surface_quote": "heat and wetness are productive... coldness and dryness destructive",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0120",
+    "canonical_statement": "Celestial bodies possess autonomous existence and internal purpose independent of human affairs.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 80,
+        "chapter": "General Content",
+        "surface_quote": "each planet has its own life to itself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0121",
+    "canonical_statement": "The movement of celestial bodies is directed toward the maintenance of universal equilibrium.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 80,
+        "chapter": "General Content",
+        "surface_quote": "movement of the stars is for the preservation of the whole",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "universe",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0122",
+    "canonical_statement": "The Sun serves as the primary intelligence and organizing principle of the universe.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 81,
+        "chapter": "General Content",
+        "surface_quote": "the mind and organizing agent of the universe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "universe",
+      "intelligence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0123",
+    "canonical_statement": "Celestial bodies exert causal influence over biological processes and life on Earth.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 81,
+        "chapter": "General Content",
+        "surface_quote": "causal effects of the Sun and Moon on life",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "cosmos",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0124",
+    "canonical_statement": "The universe is structured as a series of concentric spheres with Earth at the center.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 81,
+        "chapter": "General Content",
+        "surface_quote": "earth at the center and the sphere of fixed stars",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0125",
+    "canonical_statement": "The ultimate light of the universe is the source of the faculty of perception.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "ultimate light... governs that by which we can discern the universe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0126",
+    "canonical_statement": "The lunar influence governs physical growth and biological existence.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "Moon is concerned above all with physical being and growth",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0127",
+    "canonical_statement": "The lunar orbit constitutes the boundary between immutable celestial order and mutable terrestrial decay.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "orbit... boundary between the harmonious... heaven and the mutability... sublunar world",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0128",
+    "canonical_statement": "Planetary bodies determine and indicate the trajectory of Fate.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "All planets direct or indicate Fate",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "fate",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0129",
+    "canonical_statement": "The human soul descends through planetary spheres, acquiring the constituents of mortal existence.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "descending soul acquires from each planet... constituents of its mortal being",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "descent"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0130",
+    "canonical_statement": "At death, the soul ascends, surrendering its mortal constituents in reverse order of acquisition.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "surrenders them at death in reverse order as it ascends",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0131",
+    "canonical_statement": "The human soul acquires its specific cognitive and volitional attributes through a sequential descent through planetary spheres.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 83,
+        "chapter": "General Content",
+        "surface_quote": "descending soul acquires each of the attributes",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "cosmology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0132",
+    "canonical_statement": "The Moon governs the process of incarnation and physical manifestation.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 83,
+        "chapter": "General Content",
+        "surface_quote": "Moon is associated with descent and genesis",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "existence",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0133",
+    "canonical_statement": "The Sun governs the process of liberation from the material world and the ascent of the mind.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 83,
+        "chapter": "General Content",
+        "surface_quote": "Sun with ascent and departure from mortality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0134",
+    "canonical_statement": "The rational mind is liberated through the destruction of the physical body.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 83,
+        "chapter": "General Content",
+        "surface_quote": "life he destroys is physical... mind he liberates",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "death",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0135",
+    "canonical_statement": "Gender is a construct conditioned by cultural factors rather than being solely a physiological determination.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 84,
+        "chapter": "General Content",
+        "surface_quote": "gender is more than just a physiological given... constructed and conditioned culturally",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "gender"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0136",
+    "canonical_statement": "Celestial configurations and planetary placements determine human personality traits and gender expression.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 85,
+        "chapter": "General Content",
+        "surface_quote": "Masculinized planets... contribute to masculine nativities",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0137",
+    "canonical_statement": "The structure of the celestial realm mirrors the power dynamics and social hierarchies of the terrestrial realm.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 85,
+        "chapter": "General Content",
+        "surface_quote": "as on earth, so in heaven",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "cosmology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0138",
+    "canonical_statement": "Cosmic power is a function of spatial positioning and relational alignment within the universe.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 85,
+        "chapter": "General Content",
+        "surface_quote": "power was a function of place",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "power",
+      "spatiality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0139",
+    "canonical_statement": "Cosmic forces operate through a system of binary oppositions and mutual exclusion.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 87,
+        "chapter": "General Content",
+        "surface_quote": "where the Sun is exalted, there Saturn is humiliated",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "duality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0140",
+    "canonical_statement": "The universe is governed by specific planetary archetypes associated with distinct metaphysical qualities.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 87,
+        "chapter": "General Content",
+        "surface_quote": "Sun is the store of fire and light",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "archetype",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0141",
+    "canonical_statement": "Reason and sexual desire are inversely proportional and mutually antagonistic forces.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 87,
+        "chapter": "General Content",
+        "surface_quote": "where reason increases, there the desire... of sex is lowered",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0142",
+    "canonical_statement": "The principle of fortune acts as a universal modifier that transcends binary opposition.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 87,
+        "chapter": "General Content",
+        "surface_quote": "Moon is the fortune of the whole",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0143",
+    "canonical_statement": "Reason is fundamentally opposed to the desire for material assets and prosperity.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 87,
+        "chapter": "General Content",
+        "surface_quote": "reason always opposes and despises the desire for assets",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "value"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0144",
+    "canonical_statement": "The celestial arrangement of planetary bodies determines the characteristics and interpersonal dynamics of terrestrial beings.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 88,
+        "chapter": "General Content",
+        "surface_quote": "opposite sides of the zodiac translates into contrary characteristics",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0145",
+    "canonical_statement": "The universe is structured as a cosmos characterized by inherent conflict and enmity.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 88,
+        "chapter": "General Content",
+        "surface_quote": "enmity in the Greek astrological cosmos generally outweighs politesse",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "nature of reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0146",
+    "canonical_statement": "Celestial bodies function as purposeful agents that actively modify the cosmic balance of power.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 90,
+        "chapter": "General Content",
+        "surface_quote": "planets not as moving objects but as purposeful agents",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "agency",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0147",
+    "canonical_statement": "Celestial configurations possess a causal or correlative relationship with the life outcomes of a human subject.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 91,
+        "chapter": "General Content",
+        "surface_quote": "celestial configuration to its implied outcome in the life of the human subject",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "determinism",
+      "causality",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0148",
+    "canonical_statement": "Astrological interpretation is an intuitive art rather than a codified science.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 92,
+        "chapter": "General Content",
+        "surface_quote": "astrology was and is an art, not a science",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0149",
+    "canonical_statement": "The configuration of celestial entities at birth generates a practically inexhaustible set of predictive meanings.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 92,
+        "chapter": "General Content",
+        "surface_quote": "number of predictable meanings... is in practice inexhaustible",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "cosmology",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0150",
+    "canonical_statement": "Celestial configurations at birth correlate with potential, rather than determined, life outcomes.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 93,
+        "chapter": "General Content",
+        "surface_quote": "horoscope as a large bundle of celestial relationships... only potential outcomes",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0151",
+    "canonical_statement": "Material circumstances influence the realization of potential dispositions or events.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 93,
+        "chapter": "General Content",
+        "surface_quote": "Much... will depend on circumstance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0152",
+    "canonical_statement": "The actualization of potential outcomes is only verifiable after the completion of a life cycle.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 93,
+        "chapter": "General Content",
+        "surface_quote": "Only when the life is lived and over can we assess",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0153",
+    "canonical_statement": "The configuration of celestial bodies at a specific initial moment determines the trajectory of personal and institutional history.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 95,
+        "chapter": "General Content",
+        "surface_quote": "unpack... an entire history... from the configuration of the heavens",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0154",
+    "canonical_statement": "Specific astrological markers within a natal chart determine an individual's destiny toward political power.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 95,
+        "chapter": "General Content",
+        "surface_quote": "what it is in a person’s horoscope that destines him",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "identity",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0155",
+    "canonical_statement": "The timing of an action relative to celestial alignments determines the success or failure of an undertaking.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 95,
+        "chapter": "General Content",
+        "surface_quote": "determine astrologically a favorable moment for a given undertaking",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "time",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0156",
+    "canonical_statement": "Celestial configurations possess a causal influence on human life events.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 96,
+        "chapter": "General Content",
+        "surface_quote": "The entailment of all these factors? Violent death.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "causality",
+      "astrology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0157",
+    "canonical_statement": "Future events exist as a plurality of potentialities prior to their manifestation.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 96,
+        "chapter": "General Content",
+        "surface_quote": "they were mere potentialities among innumerable others",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "potentiality",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0158",
+    "canonical_statement": "The destiny of an individual is encoded within their astrological horoscope.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 98,
+        "chapter": "General Content",
+        "surface_quote": "The set-backs... are latent in the horoscope",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0159",
+    "canonical_statement": "The true nature of a destiny may be hidden beneath superficial indicators.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 98,
+        "chapter": "General Content",
+        "surface_quote": "Superficially, the horoscope appears benign",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0160",
+    "canonical_statement": "Celestial configurations and planetary aspects determine the trajectory of human life and individual destiny.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 99,
+        "chapter": "General Content",
+        "surface_quote": "horoscopes and their interpretation",
+        "claim_type": "implied",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0161",
+    "canonical_statement": "Specific planetary positions and aspects correlate with specific earthly outcomes, such as health, social status, and legal fate.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 99,
+        "chapter": "General Content",
+        "surface_quote": "This shows a humble origin for the father",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0162",
+    "canonical_statement": "Celestial configurations at the moment of birth or conception determine the timing and nature of future life events.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 102,
+        "chapter": "General Content",
+        "surface_quote": "heavens at a given moment... the moment of birth",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0163",
+    "canonical_statement": "Human life is structured into distinct periods governed by specific planetary influences.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 102,
+        "chapter": "General Content",
+        "surface_quote": "which planet will rule which period",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "determinism",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0164",
+    "canonical_statement": "Human life events, specifically crises, are predetermined by celestial configurations at the moment of birth.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 103,
+        "chapter": "General Content",
+        "surface_quote": "algorithm built into the configurations of the heavens... brings them ineluctably to a simultaneous crisis",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0165",
+    "canonical_statement": "The timing of significant life events is a mathematical function of planetary periods and sign rising times.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 103,
+        "chapter": "General Content",
+        "surface_quote": "years to a crisis (N) is always a function of the periods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0166",
+    "canonical_statement": "Celestial configurations correlate with specific earthly outcomes and life events.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 108,
+        "chapter": "General Content",
+        "surface_quote": "positive correlation between the outcome and the celestial configuration",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0167",
+    "canonical_statement": "Celestial configurations at the moment of birth determine the timing and nature of earthly life events.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 109,
+        "chapter": "General Content",
+        "surface_quote": "planetary positions given are always those at birth",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0168",
+    "canonical_statement": "Specific planetary bodies possess inherent qualities of benevolence or malevolence that influence human experience.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 109,
+        "chapter": "General Content",
+        "surface_quote": "Mars and Saturn are malefics",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0169",
+    "canonical_statement": "Celestial configurations and planetary aspects determine the timing and quality of earthly events.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 110,
+        "chapter": "General Content",
+        "surface_quote": "Jupiter and Venus... bring good fortune in the twentieth year",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0170",
+    "canonical_statement": "The gender of a zodiac sign correlates with the gender of a deceased parent.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 110,
+        "chapter": "General Content",
+        "surface_quote": "male sign the father will predecease; if in a female sign, the mother",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0171",
+    "canonical_statement": "The configuration of celestial bodies at a specific moment contains the encoded trajectory of future historical events.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 112,
+        "chapter": "General Content",
+        "surface_quote": "history... can lie coiled... in the configuration of the heavens",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "time",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0172",
+    "canonical_statement": "Celestial configurations at a specific moment of inception determine the destiny and nature of a collective entity.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 113,
+        "chapter": "General Content",
+        "surface_quote": "determine which sign was at the ascendant... makes a different world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0173",
+    "canonical_statement": "Celestial configurations determine the inherent characteristics and destiny of nations.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 114,
+        "chapter": "General Content",
+        "surface_quote": "horoscopal premise indicates a nation of Saturn’s condition",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0174",
+    "canonical_statement": "Planetary bodies act as patrons or governing influences over specific geographic regions and peoples.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 114,
+        "chapter": "General Content",
+        "surface_quote": "southern people... under the patronage of Saturn and Venus",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "astrology",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0175",
+    "canonical_statement": "Celestial bodies exert a governing influence over specific geographic regions and the characteristics of their inhabitants.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 115,
+        "chapter": "General Content",
+        "surface_quote": "planets you want hovering over the target country",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0176",
+    "canonical_statement": "Human psychological and moral traits are correlated with specific planetary alignments.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 115,
+        "chapter": "General Content",
+        "surface_quote": "characteristics of those co-ruled by Saturn and Venus",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "astrology",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0177",
+    "canonical_statement": "The destiny of nations is determined by the positions and configurations of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 116,
+        "chapter": "General Content",
+        "surface_quote": "Nations under Jupiter are in serious trouble",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0178",
+    "canonical_statement": "Temporal progression is characterized by the continuous shift of celestial configurations.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 116,
+        "chapter": "General Content",
+        "surface_quote": "circling of the planets brings ever-changing new configurations",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0179",
+    "canonical_statement": "The movement of celestial bodies follows a predictable, geometric trajectory through a higher-dimensional space.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 116,
+        "chapter": "General Content",
+        "surface_quote": "spiral the planets in complex but entirely predictable figures",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "determinism",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0180",
+    "canonical_statement": "Celestial movements determine the timing and nature of human events, including death and political collapse.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 117,
+        "chapter": "General Content",
+        "surface_quote": "Deaths are dated... by the movement of Saturn",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0181",
+    "canonical_statement": "The trajectory of historical events is mapped by the progression of planetary configurations over time.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 117,
+        "chapter": "General Content",
+        "surface_quote": "horoscope has been extended into a three-dimensional cylinder",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0182",
+    "canonical_statement": "Celestial bodies exert a deterministic influence on the political destiny and hegemony of nations.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 118,
+        "chapter": "General Content",
+        "surface_quote": "kingdom of the Romans will rule because of the return of the Sun",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0183",
+    "canonical_statement": "Geographic locations are cosmically linked to specific celestial bodies, which determine the inherent character of their inhabitants.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 118,
+        "chapter": "General Content",
+        "surface_quote": "Italy in its entirety is related to the Sun",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0184",
+    "canonical_statement": "Planetary entities function as active agents or deities capable of favoring specific human factions.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 118,
+        "chapter": "General Content",
+        "surface_quote": "planetary gods wresting power back from the planetary gods",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0185",
+    "canonical_statement": "The timing of an individual's death is predetermined and encoded within their natal astrological configuration.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 120,
+        "chapter": "General Content",
+        "surface_quote": "death date is encoded in his horoscope",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "time",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0186",
+    "canonical_statement": "Celestial configurations act as causal agents in determining the duration of human life.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 120,
+        "chapter": "General Content",
+        "surface_quote": "celestial indicators of life and death",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "universe",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0187",
+    "canonical_statement": "The trajectory and duration of a human life are predetermined by celestial configurations at birth and death.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 121,
+        "chapter": "General Content",
+        "surface_quote": "ball of your life onto the roulette of the zodiac",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0188",
+    "canonical_statement": "Divine beings exist outside the jurisdiction of fate and astrological determinism.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 123,
+        "chapter": "General Content",
+        "surface_quote": "The emperor, as a god, is above fate",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "fate",
+      "divinity",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0189",
+    "canonical_statement": "Celestial configurations at birth determine an individual's sociopolitical potential and life outcomes.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 123,
+        "chapter": "General Content",
+        "surface_quote": "configurations in a horoscope... confer imperial potential",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0190",
+    "canonical_statement": "The Sun functions as the governing entity of the cosmos.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 124,
+        "chapter": "General Content",
+        "surface_quote": "the cosmos-ruling (kosmokratôr) Sun",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0191",
+    "canonical_statement": "Celestial configurations at the moment of birth determine an individual's social status and political destiny.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 126,
+        "chapter": "General Content",
+        "surface_quote": "decrees the insignia of royal power and imperial dignity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "astrology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0192",
+    "canonical_statement": "The timing of an individual's death is predetermined by celestial configurations.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 128,
+        "chapter": "General Content",
+        "surface_quote": "death date predetermined by the stars",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "time",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0193",
+    "canonical_statement": "Human destiny is ineluctable and fixed.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 128,
+        "chapter": "General Content",
+        "surface_quote": "stories of an ineluctable fate",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "determinism",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0194",
+    "canonical_statement": "Destiny is predetermined and immutable, including specific minor details of an individual's end.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 129,
+        "chapter": "General Content",
+        "surface_quote": "fate is fixed, even down to minor details",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "determinism",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0195",
+    "canonical_statement": "Temporal power is incapable of altering the trajectory of predestined events.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 129,
+        "chapter": "General Content",
+        "surface_quote": "power cannot alter that truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "power",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0196",
+    "canonical_statement": "The physical universe is governed by consistent physical laws, such as gravity, rather than astral influences.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 133,
+        "chapter": "General Content",
+        "surface_quote": "Gravity rules (or did), not astral ‘influence.’",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0197",
+    "canonical_statement": "Celestial configurations at birth contain the potentialities of an individual's life trajectory.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 133,
+        "chapter": "General Content",
+        "surface_quote": "things in heaven foreshadow things on earth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "astrology",
+      "potentiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0198",
+    "canonical_statement": "Celestial phenomena function as a linguistic medium used by the divine for communication with angelic beings.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 134,
+        "chapter": "General Content",
+        "surface_quote": "Star-talk is the medium in which God commands his angels.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "communication",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0199",
+    "canonical_statement": "The celestial order operates as a coded system of signs analogous to natural language.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 134,
+        "chapter": "General Content",
+        "surface_quote": "signs of star-talk function... in the same way as natural languages",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0200",
+    "canonical_statement": "The celestial movements function as a semiotic system of signs that convey meaning.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 135,
+        "chapter": "General Content",
+        "surface_quote": "the heavens are meaningful, in the literal sense",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "semiotics",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0201",
+    "canonical_statement": "The primary purpose of celestial motion is the maintenance of the universal structure.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 135,
+        "chapter": "General Content",
+        "surface_quote": "movement of the stars is for the preservation of the universe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "universe",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0202",
+    "canonical_statement": "Future events are encoded in the patterns of celestial bodies and can be decoded via analogy.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 135,
+        "chapter": "General Content",
+        "surface_quote": "read the future from their patterns... use of analogy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0203",
+    "canonical_statement": "Planetary deities possess autonomous existence and internal purposes independent of human affairs.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 136,
+        "chapter": "General Content",
+        "surface_quote": "planetary god has its own life... nothing to do with us",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0204",
+    "canonical_statement": "The influence of higher beings on humans is a secondary, incidental effect rather than a primary objective.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 136,
+        "chapter": "General Content",
+        "surface_quote": "action on us... is always something incidental",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "divinity",
+      "interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0205",
+    "canonical_statement": "A daimon is a spiritual entity existing in an intermediate state between divinity and humanity.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 144,
+        "chapter": "Chapter 4",
+        "surface_quote": "daimôn is a spirit... intermediate between a god and a human",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0206",
+    "canonical_statement": "Every human individual possesses a personal spiritual projection on a supernatural plane.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 144,
+        "chapter": "Chapter 4",
+        "surface_quote": "Each one of us has his or her own daimôn",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0207",
+    "canonical_statement": "The supernatural plane is characterized by a polarity of light and dark forces acting as guardians.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 144,
+        "chapter": "Chapter 4",
+        "surface_quote": "one on the dark side... and one on the light",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "polarity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0208",
+    "canonical_statement": "Celestial bodies are characterized by anthropomorphic and gendered attributes.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 146,
+        "chapter": "Chapter 5",
+        "surface_quote": "the anthropomorphic and thus necessarily gendered planets",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0209",
+    "canonical_statement": "Celestial configurations exert a flowing influence upon terrestrial existence.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 147,
+        "chapter": "Chapter 5",
+        "surface_quote": "Influence... means that which flows in from the surrounding heavens.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "astrology",
+      "causality",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_brief_history_of_ancient_astrology_0210",
+    "canonical_statement": "The soul undergoes a process of descent and return through planetary spheres.",
+    "attributions": [
+      {
+        "source_id": "a_brief_history_of_ancient_astrology",
+        "chunk_index": 149,
+        "chapter": "Chapter 6",
+        "surface_quote": "descent and return of the soul through the planetary spheres",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  }
+]

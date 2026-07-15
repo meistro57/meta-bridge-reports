@@ -1,0 +1,5164 @@
+[
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0001",
+    "canonical_statement": "The Absolute exists as a fundamental state from which all manifest reality emerges.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 1,
+        "chapter": "PART 1",
+        "surface_quote": "The Nature of the Absolute; Things Manifest and Potential",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0002",
+    "canonical_statement": "Consciousness exists in a hierarchical structure ranging from rudimentary to higher states.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 1,
+        "chapter": "PART 1",
+        "surface_quote": "Rudimentary and Higher Consciousness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0003",
+    "canonical_statement": "The universe is a product of dualistic creative forces.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 1,
+        "chapter": "PART 1",
+        "surface_quote": "Mr. and Mrs. Creator and the Making of a Universe",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "creation",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0004",
+    "canonical_statement": "Evolution serves a specific, inherent purpose within the cosmic structure.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 1,
+        "chapter": "PART 1",
+        "surface_quote": "Why Evolution?",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "evolution",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0005",
+    "canonical_statement": "All manifest matter in the universe is fundamentally vibrational in nature.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 2,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "everything in the universe that is visible or manifest behaves like a pendulum... all matter vibrates.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "matter",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0006",
+    "canonical_statement": "Physical reality is characterized by a discontinuous, oscillating existence where matter periodically vanishes and re-enters the manifest state.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 2,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "pendulums... actually disappear for a minuscularly brief period, vanishing from what passes for “reality,” then reentering it.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0007",
+    "canonical_statement": "Human consciousness operates through an on-off switching mechanism that allows for periodic expansion into a non-temporal, non-spatial state.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 2,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "During the “off” periods, they can expand into a region unbounded by time and space.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0008",
+    "canonical_statement": "Human consciousness can access a non-material realm where objective time is suspended and replaced by subjective temporal experience.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 3,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "people can visit an extracorporeal, nonmaterial province where so-called “objective” time... is suspended",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time",
+      "non-material"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0009",
+    "canonical_statement": "There exists a subjective mind that encompasses the entirety of time and space.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 3,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "a “subjective” mind that he held to encompass all time and all space.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind",
+      "space",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0010",
+    "canonical_statement": "Specific meditative brain states allow for the reception of symbolic information from an infinite source.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 3,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "subjects trained in meditation can attain mental states... bombarded with hosts of vivid, often symbolic, images",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "meditation",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0011",
+    "canonical_statement": "Intuitive apprehension of supersensible reality is a valid mode of knowledge distinct from sensory-based scientific observation.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 3,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "The act of apprehending the supersensible was... attributed to gnosis, or intuitively revealed knowledge",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0012",
+    "canonical_statement": "Creative insights and scientific breakthroughs can originate from non-sensory, intuitive, or dream-like states of consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 4,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "discovery... as a result... of spontaneous imagery that came to him when half asleep.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "intuition",
+      "creativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0013",
+    "canonical_statement": "The human mind possesses the capacity to construct and store complex, functional blueprints for physical reality prior to external manifestation.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 4,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "worked it up into detailed blueprints in his mind... until... elaborated them into hardware.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind",
+      "manifestation",
+      "cognition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0014",
+    "canonical_statement": "Subjective intuitive states can function as precursors or indicators of impending objective discoveries.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 4,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "I had a creepy feeling... I was so sure my idea was going to work.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "intuition",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0015",
+    "canonical_statement": "A universal consciousness exists that contains all knowledge accessible to the human psyche under specific conditions of preparation.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 5,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "Universal Mind containing any knowledge desired as long as the human psyche is prepared.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "knowledge",
+      "universal-mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0016",
+    "canonical_statement": "Altered states of consciousness, such as hypnagogic or meditative states, facilitate the reception of information from a universal source.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 5,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "In his relaxed twilight zone state... he was able to receive flashes of understanding.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "meditation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0017",
+    "canonical_statement": "Human consciousness can achieve remote presence in physical reality through focused visualization.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 5,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "I could attain remote reality by simply visualizing myself to be there.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "remote-viewing"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0018",
+    "canonical_statement": "The fundamental nature of the universe is an all-pervasive energy or cosmic will originating from a Supreme Reality.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 6,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "It is all-pervasive energy. Shakti, energy or cosmic will of the Supreme Reality.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0019",
+    "canonical_statement": "The state of super-consciousness, or samadhi, represents an off-state of individual consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 6,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "What you call the 'off-state' of consciousness is called samadhi, or the super-conscious state.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "yoga"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0020",
+    "canonical_statement": "Instantaneous communication is possible throughout the universe.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 6,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "It is true that instantaneous communication throughout the Universe is possible.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "universe",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0021",
+    "canonical_statement": "Supreme Consciousness exists outside the constraints of temporal progression.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 6,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "The Ultimate Reality of Supreme Consciousness is beyond the limitations of time.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0022",
+    "canonical_statement": "The universe is structured as an interconnected holographic system where every individual unit is linked to all others.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 8,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "each monad is interrelated with every other, so that no monad can be changed without changing every other.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hologram",
+      "monad",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0023",
+    "canonical_statement": "Individual consciousness is ubiquitous and manifests as an interference pattern within the space-time matrix.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 8,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "you are literally ubiquitous throughout the universe and are being sent out as an interference pattern.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "ubiquity",
+      "space-time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0024",
+    "canonical_statement": "Psychic phenomena and synchronicity are natural byproducts of a simultaneous, interconnected universal matrix.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 8,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "psychic phenomena are only byproducts of the simultaneous-everywhere-matrix.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "psychic",
+      "synchronicity",
+      "matrix"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0025",
+    "canonical_statement": "The Absolute possesses an inherent organizing nature that facilitates the co-creation of evolutionary forms.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 8,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "we always have a standing invitation to join the Absolute in the co-creation of emerging evolutionary ideas.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "absolute",
+      "co-creation",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0026",
+    "canonical_statement": "The human nervous system functions as the primary mechanism for the evolution of consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 9,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "human nervous system as the key to the process of evolution of consciousness",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0027",
+    "canonical_statement": "Matter and consciousness are fundamentally identical in nature.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 9,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "All matter, which Ben equated with consciousness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "matter",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0028",
+    "canonical_statement": "The evolution of consciousness is an inevitable, unidirectional progression toward higher states of being.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 9,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "humanity toward godhood... on a conveyor belt moving upward",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "teleology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0029",
+    "canonical_statement": "Spiritual practices can accelerate the inherent evolutionary trajectory of consciousness, though the process remains inevitable for all.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 9,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "evolution of consciousness may be accelerated... In time everybody gets there anyway",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "evolution",
+      "practice",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0030",
+    "canonical_statement": "Reality consists of both an objective material dimension and a subjective intuitive dimension.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 10,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "keeping a sound and balanced perspective on the two realities.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "dualism",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0031",
+    "canonical_statement": "Higher states of consciousness provide a valid, direct mode of cognition regarding the nature of existence.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 10,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "inner, intuitive knowledge (direct cognition through higher states of consciousness).",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epistemology",
+      "mysticism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0032",
+    "canonical_statement": "Human existence is a collective journey through an infinite progression.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 10,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "We all are on the same bus, moving through infinity.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "infinity",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0033",
+    "canonical_statement": "The spectrum of existence encompasses a continuum from atomic structures to divine states.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 10,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "From atom to cosmos. From humanhood to godhood.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmos",
+      "evolution",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0034",
+    "canonical_statement": "The acquisition of knowledge is an infinite process where the expansion of understanding reveals a proportionally larger field of unknown variables.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 11,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "The more you know, the more ignorant you become, because ignorance grows exponentially.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0035",
+    "canonical_statement": "The individual soul undergoes a process of returning to its original state of self-knowledge.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 11,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "This is the story of a soul’s journey back to its true knowledge of itself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0036",
+    "canonical_statement": "The path to the source of existence is unique to each individual and shaped by their specific history.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 11,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "Each person's experience of the path back to the source is an individual one.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "path",
+      "individuation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0037",
+    "canonical_statement": "The structure of Creation is holographic, meaning each individual unit contains the information of the whole.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 12,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "Creation is a big hologram; every little unit cell contains the whole structure.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "holographic-universe",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0038",
+    "canonical_statement": "Consciousness is a phenomenon that exceeds the explanatory capacity of the scientific method.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 12,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "Consciousness is too vast a subject to be squeezed into the narrow bag of science.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epistemology",
+      "science"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0039",
+    "canonical_statement": "The soul is a fundamental entity that can be identified with the psyche.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 12,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "The soul is close to something we call the psyche.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "psyche"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0040",
+    "canonical_statement": "The individual human consciousness contains latent, encoded information regarding the structure of the entire universe.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 13,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "we human beings... must contain the information about the universe in some way",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "holography",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0041",
+    "canonical_statement": "Spiritual evolution is the process of unfolding and clarifying latent universal knowledge held within consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 13,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "The unfolding of consciousness, that is, spiritual evolution, opens up this latent knowledge.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evolution",
+      "consciousness",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0042",
+    "canonical_statement": "Reality consists of multiple levels or systems of consciousness that can be accessed and interacted with through spiritual development.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 13,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "we can interact with inhabitants of other realities or systems.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "realities",
+      "consciousness",
+      "interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0043",
+    "canonical_statement": "The unfolding of consciousness is an inherently private and intimate process.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 13,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "The unfolding of consciousness is an inner, private, and intimate process",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "subjectivity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0044",
+    "canonical_statement": "The nature of reality exceeds the capacity of human cognitive and scientific frameworks.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 14,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "the nature of reality is much too big a subject to be encompassed by a limited human mind",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0045",
+    "canonical_statement": "Reality is composed of nonphysical, hierarchical levels that function as higher harmonics of the physical plane.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 14,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "these realities also to be a hierarchy of higher harmonics of our physical reality",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "ontology",
+      "nonphysical"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0046",
+    "canonical_statement": "Human consciousness possesses nonphysical, subtle bodies that interpenetrate and extend beyond the physical form.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 14,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "nonphysical or subtle bodies as interpenetrating and extending away from the physical body",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0047",
+    "canonical_statement": "The evolution of consciousness involves the progressive revelation of increasingly complex, nonphysical realities.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 14,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "as consciousness unfolds, revealing to itself the different realities it contains",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0048",
+    "canonical_statement": "Events in the physical reality are manifestations of causal processes originating in higher, more abstract dimensions.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 15,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "events trickle down from higher to lower levels",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "dimensions",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0049",
+    "canonical_statement": "Individual consciousness can exert causal influence on the physical environment through the coherence and quality of thought patterns.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 15,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "if our thought patterns are longlasting and coherent... we can influence our environment",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "causality",
+      "thought"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0050",
+    "canonical_statement": "Interaction with non-physical dimensions requires the use of specialized, non-material vehicles that correspond to the laws of each specific plane.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 15,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "The vehicle we use always matches the reality in which we intend to function",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "subtle-bodies",
+      "dimensions"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0051",
+    "canonical_statement": "The universe is a holographic structure where each individual unit contains the totality of information about Creation, filtered through an individualized symbolic framework.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 15,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "each individual human being in this hologram not only contains the information about Creation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "hologram",
+      "identity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0052",
+    "canonical_statement": "Higher-order entities are subject to the same evolutionary processes as human beings.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 16,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "they are evolving just as we are",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evolution",
+      "hierarchy",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0053",
+    "canonical_statement": "The universe is a holographic structure where the totality of existence is contained within the individual self.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 16,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "we are all part of the same hologram",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "hologram",
+      "identity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0054",
+    "canonical_statement": "The individual consciousness is functionally identical to the universal system.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 16,
+        "chapter": "WHO'S RUNNING THE SHOW?",
+        "surface_quote": "we are the system",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0055",
+    "canonical_statement": "The universe is structured as a torus with a central focal point of consciousness acting as the source of all existence.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 17,
+        "chapter": "OF A SOUL",
+        "surface_quote": "Our universe has the shape of a torus... In the center of it is a focal point.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0056",
+    "canonical_statement": "The Creator functions as a seed containing the potential information and patterns for the entire universe.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 17,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The Creator is like a seed containing all the information about the universe.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creator",
+      "information"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0057",
+    "canonical_statement": "All matter in the universe is derived from a single cosmic substance, establishing an inherent connection between all entities.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 17,
+        "chapter": "OF A SOUL",
+        "surface_quote": "Everything in the entire universe... is made of one cosmic substance.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "matter",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0058",
+    "canonical_statement": "Time is a phenomenon dependent on the presence of motion and matter, serving as a measure of evolutionary distance from the source.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 17,
+        "chapter": "OF A SOUL",
+        "surface_quote": "Time appears where there are motion and matter.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0059",
+    "canonical_statement": "The universe functions as a holographic interference pattern where every part contains information about the whole.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 17,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The universe is a hologram or interference pattern in which all parts are interconnected.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hologram",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0060",
+    "canonical_statement": "The universe operates as a continuous cycle of matter transformation through gravitational collapse and expansion.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 18,
+        "chapter": "OF A SOUL",
+        "surface_quote": "It is a continuous cycle of birth and death of matter.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0061",
+    "canonical_statement": "The universe functions as a holographic structure composed of information waves radiated by galaxies.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 18,
+        "chapter": "OF A SOUL",
+        "surface_quote": "These waves interweave into an interference pattern and form a hologram.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "hologram"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0062",
+    "canonical_statement": "The Universal Mind is a holographic information field containing the totality of universal structure.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 18,
+        "chapter": "OF A SOUL",
+        "surface_quote": "This hologram of information could be called the Universal Mind.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0063",
+    "canonical_statement": "Individual human consciousness is a constituent part of the universal hologram, allowing access to universal knowledge.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 18,
+        "chapter": "OF A SOUL",
+        "surface_quote": "Each individual human consciousness is part of that hologram.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0064",
+    "canonical_statement": "Human thoughts are interconnected and contribute to the collective state of the universal hologram.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 18,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The thoughts of all human beings are interconnected, affecting each other.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "interconnection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0065",
+    "canonical_statement": "The Absolute is defined as pure consciousness containing all potentiality in a non-vibratory state.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 18,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The Absolute: It is pure consciousness and at the same time it contains all there is in potential.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "absolute",
+      "consciousness",
+      "potentiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0066",
+    "canonical_statement": "Manifest matter requires the introduction of vibratory motion into the non-vibratory Absolute.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 18,
+        "chapter": "OF A SOUL",
+        "surface_quote": "In order for matter to appear, a vibratory motion has to be introduced into the Absolute.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0067",
+    "canonical_statement": "The Absolute is a state where infinite speed and total rest coincide, resolving all dualities.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 19,
+        "chapter": "OF A SOUL",
+        "surface_quote": "At infinite speed it takes no time to get anywhere... the paradox is resolved.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "absolute",
+      "duality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0068",
+    "canonical_statement": "Manifest reality arises from the vibration of a neutral, undisturbed substrate.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 19,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The air settles back into its previously happy, undisturbed condition... and it just is.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "substrate",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0069",
+    "canonical_statement": "Physical matter is composed primarily of void, which is identified as pure consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 19,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The atom is made mostly of void, which is pure consciousness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "matter",
+      "consciousness",
+      "void"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0070",
+    "canonical_statement": "The fundamental substrate of the universe is a singular, continuous void or pure consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 20,
+        "chapter": "OF A SOUL",
+        "surface_quote": "It is one continuous medium.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "consciousness",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0071",
+    "canonical_statement": "Physical matter is composed of consciousness in a state of vibration.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 20,
+        "chapter": "OF A SOUL",
+        "surface_quote": "consciousness in a vibratory state manifests itself as our familiar matter",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "matter",
+      "vibration",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0072",
+    "canonical_statement": "The distinction between the individual and the universal void is an illusion maintained by sensory perception.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 20,
+        "chapter": "OF A SOUL",
+        "surface_quote": "our senses disregard all these facts... our senses are deceiving us",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "illusion",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0073",
+    "canonical_statement": "The void acts as a universal matrix that permeates all scales of existence, from the atomic to the galactic.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 20,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The void is everywhere, a matrix in which everything exists and which permeates everything.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0074",
+    "canonical_statement": "Individual thought is a localized modification of a universal, non-private substrate of consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 21,
+        "chapter": "OF A SOUL",
+        "surface_quote": "Your thinking processes are occurring on the background of the interstellar void.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0075",
+    "canonical_statement": "All manifest reality is interconnected through a shared, singular vibratory void.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 21,
+        "chapter": "OF A SOUL",
+        "surface_quote": "Everybody and everything is made up of this vibrating void.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "interconnectedness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0076",
+    "canonical_statement": "Manifest reality is defined by vibratory consciousness, while unmanifest reality is non-vibratory potentiality.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 21,
+        "chapter": "OF A SOUL",
+        "surface_quote": "Consciousness comes in two forms: vibratory... manifest... or nonvibratory and therefore unmanifest.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0077",
+    "canonical_statement": "The cessation of vibratory activity in consciousness causes manifest forms to return to an unmanifest, potential state.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 21,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The forms that we see... will disappear... and revert to a potential, unmanifest form.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0078",
+    "canonical_statement": "The human body possesses an autonomous, rudimentary consciousness that maintains biological functions independently of the higher consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 22,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The body appears to have its own consciousness that directs the activity of the organs.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "biology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0079",
+    "canonical_statement": "Higher consciousness is distinct from rudimentary biological consciousness and is susceptible to displacement from the physical form.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 22,
+        "chapter": "OF A SOUL",
+        "surface_quote": "There appear to be two kinds of consciousness occupying our body.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0080",
+    "canonical_statement": "Collective consciousness emerges from the aggregation of individual cellular consciousness within a specific organ.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 22,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The kidney is the consciousness of all the kidney cells put together.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "hierarchy",
+      "holism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0081",
+    "canonical_statement": "Biological organs possess a collective intelligence that functions as a rudimentary consciousness distinct from the higher consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 23,
+        "chapter": "OF A SOUL",
+        "surface_quote": "the composite consciousness of all the cells of the liver is an intelligent being",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "biology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0082",
+    "canonical_statement": "The higher consciousness is a separate entity that utilizes the physical body as a vehicle for sensory experience.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 23,
+        "chapter": "OF A SOUL",
+        "surface_quote": "a being superimposed on the body and using it as a vehicle to experience this physical reality",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "incarnation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0083",
+    "canonical_statement": "Physical reality is fundamentally vibratory, translated into sensory data through discrete electrical impulses.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 23,
+        "chapter": "OF A SOUL",
+        "surface_quote": "This action-and-rest activity of the nerve cell expresses the vibratory nature of reality.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0084",
+    "canonical_statement": "Death is the process of the rudimentary consciousness withdrawing from the physical body.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 23,
+        "chapter": "OF A SOUL",
+        "surface_quote": "the rudimentary consciousness extracts itself slowly from the body",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "death",
+      "consciousness",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0085",
+    "canonical_statement": "Human consciousness is bifurcated into a rudimentary bodily consciousness and a higher, independent consciousness known as the soul.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 24,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The rudimentary consciousness of the body... The other is the higher consciousness... the soul.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0086",
+    "canonical_statement": "The soul is an independent entity that utilizes the physical body as a tool for experiential learning.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 24,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The soul... is the experiencer. It experiences through the physical body, which is its tool.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "incarnation",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0087",
+    "canonical_statement": "The soul is a dynamic entity that undergoes continuous evolution.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 24,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The soul, like everything else, keeps evolving.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evolution",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0088",
+    "canonical_statement": "The soul functions as an independent being capable of existence without a physical vessel.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 24,
+        "chapter": "OF A SOUL",
+        "surface_quote": "This does not mean that the soul cannot function without a physical body.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0089",
+    "canonical_statement": "The soul possesses a hierarchical structure, including a Higher Self and a Supreme Self, which process experiential data.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 24,
+        "chapter": "OF A SOUL",
+        "surface_quote": "some of it is sent off to the 'boss' or the higher aspect of the soul... Above the Higher Self is another aspect... the Supreme Self.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "soul",
+      "higher-self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0090",
+    "canonical_statement": "The physical brain-mind constructs a subjective reality based on sensory signals received from the environment.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 24,
+        "chapter": "OF A SOUL",
+        "surface_quote": "the brain-mind goes about interpreting them into a picture of reality",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0091",
+    "canonical_statement": "Planetary bodies possess a rudimentary consciousness derived from the collective consciousness of their constituent atoms.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 24,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The total consciousness of its atoms constitutes the rudimentary consciousness of this body—the being that is the physical planet.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "panpsychism",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0092",
+    "canonical_statement": "Planetary bodies are physical vessels for a singular, encompassing planetary consciousness or soul.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 25,
+        "chapter": "OF A SOUL",
+        "surface_quote": "a consciousness... that is the higher consciousness, the observer or soul of this planet.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "planetary",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0093",
+    "canonical_statement": "Individual human consciousness is a constituent part of a larger planetary consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 25,
+        "chapter": "OF A SOUL",
+        "surface_quote": "We, human beings, are part of this large being.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0094",
+    "canonical_statement": "Material entities are composed of aggregate consciousnesses known as devas.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 25,
+        "chapter": "OF A SOUL",
+        "surface_quote": "The sum of these molecules is a deva, a being.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "consciousness",
+      "devas"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0095",
+    "canonical_statement": "The solar system functions as a singular, hierarchical consciousness containing planetary consciousnesses.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 25,
+        "chapter": "OF A SOUL",
+        "surface_quote": "This higher consciousness contains within it all the planetary gods.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0096",
+    "canonical_statement": "Collective intelligence in biological communities arises from a singular, overarching consciousness or deva.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 25,
+        "chapter": "OF A SOUL",
+        "surface_quote": "the great intelligence of the ant colony is the deva, the total consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "collective"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0097",
+    "canonical_statement": "All physical forms are governed or animated by a specific consciousness known as a deva.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 26,
+        "chapter": "OF A SOUL",
+        "surface_quote": "there is a deva of a tree, a mountain, or a bottle of ginger ale.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "structure",
+      "deva"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0098",
+    "canonical_statement": "The physical body is managed by a rudimentary consciousness referred to as the lower self.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 26,
+        "chapter": "OF A SOUL",
+        "surface_quote": "Our physical bodies are also represented by a deva, sometimes called the lower self.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "body",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0099",
+    "canonical_statement": "Consciousness persists independently of the physical body after death.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 26,
+        "chapter": "OF A SOUL",
+        "surface_quote": "Consciousness goes on even without the physical body.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0100",
+    "canonical_statement": "Celestial bodies and galactic structures possess an inherent consciousness or presiding intelligence known as a deva.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 27,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "We have the deva of the sun... and the god... who runs the solar system.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "cosmology",
+      "deva"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0101",
+    "canonical_statement": "Individual consciousness can expand to identify with and inhabit the scale of galactic structures.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 27,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "Now you have expanded your consciousness to the size of a galaxy.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "expansion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0102",
+    "canonical_statement": "Devas function as territorial guardians of specific physical forms or cosmic domains.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 27,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "Devas are territorial creatures, bounded more or less by the size of the form.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deva",
+      "territory",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0103",
+    "canonical_statement": "The physical universe is a manifestation of consciousness, where structural boundaries are extensions of the presiding entity's body.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 27,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "territory... is somewhat an extension of their bodies.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "substrate",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0104",
+    "canonical_statement": "Disturbances in the fabric of a cosmic domain are perceived as vibrations by the presiding deva.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 27,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "Wiggle your body. This causes a disturbance, a vibration, to spread through the galaxy.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "vibration",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0105",
+    "canonical_statement": "Individual consciousness can expand to encompass external entities and environments.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 28,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "Suppose you can expand your consciousness to encompass",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0106",
+    "canonical_statement": "The universe is a holographic structure where the whole is contained within each part.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 28,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "Each of us is a part... of that hologram and contains all the information",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hologram",
+      "structure",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0107",
+    "canonical_statement": "All knowledge regarding the origin of the universe is inherently present within individual consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 28,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "It is just a matter of unfolding this knowledge, which is structured in our consciousness",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "knowledge",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0108",
+    "canonical_statement": "Creation begins when a portion of the infinite void becomes individualized and moves from unmanifest to manifest form.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 28,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "one part of the infinite expanse of the dark void begins to stir and becomes individualized",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "void",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0109",
+    "canonical_statement": "The purpose of manifestation for the Creator is to facilitate evolution.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 28,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "decided to move and become manifest, in order to evolve",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "evolution",
+      "creator",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0110",
+    "canonical_statement": "The universe is a manifestation of the Creator's body, designed through the selection of specific natural laws.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 29,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "the Creator outlines a part of the void... to design His universe.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0111",
+    "canonical_statement": "Creators exist in three simultaneous states: unmanifest light, manifest physical universe, and anthropomorphic form.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 29,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "Creators... appear in three forms: unmanifest, manifest, and occasionally human.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0112",
+    "canonical_statement": "The ultimate nature of the Creator is a unified, non-dual being containing both male and female polarities.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 29,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "The Creator is really neither He nor She, but rather a He/She.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0113",
+    "canonical_statement": "Evolution is driven by the interaction and attraction between the separated positive and negative polarities of the Creator.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 29,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "The dynamics of Creation is based on the interaction of the negative and positive polarities.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "duality",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0114",
+    "canonical_statement": "The structure of the universe is reflected in the electromagnetic fields generated along the axes of biological seeds.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 29,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "Every seed in nature... has a similar current running along its axis.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "nature",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0115",
+    "canonical_statement": "Material forms are determined by pre-existing energetic templates or holographic fields.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 30,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "an electromagnetic hologram or an energy pattern preexists and determines the material form",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "form",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0116",
+    "canonical_statement": "The creative process involves the interaction of active masculine consciousness and receptive feminine form-giving principles.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 30,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "Mr Creator is the male, active principle... Mrs. Creator is the feminine principle",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "duality",
+      "creation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0117",
+    "canonical_statement": "All physical manifestations in the universe are projections derived from a singular feminine creative principle.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 30,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "She projects everything that exists, visible and invisible, into being",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0118",
+    "canonical_statement": "The entirety of the physical universe constitutes the literal body of the feminine creative principle.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 30,
+        "chapter": "DEVA OF A MOUNT ARIAL",
+        "surface_quote": "Every atom, the whole Creation, is the body of Mother Nature",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "pantheism",
+      "identity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0119",
+    "canonical_statement": "Human consciousness is not spatially localized and possesses the capacity to expand infinitely to fill the void.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 31,
+        "chapter": "Part 3",
+        "surface_quote": "There is no limit to the extent of human consciousness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0120",
+    "canonical_statement": "At infinite speeds of consciousness, spatial distance is nullified, allowing for omnipresence.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 31,
+        "chapter": "Part 3",
+        "surface_quote": "You can be everywhere in no time, you are in all places at once.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "space",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0121",
+    "canonical_statement": "Time is bifurcated into objective clock-time and subjective time, the latter of which is elastic and dependent on consciousness states.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 31,
+        "chapter": "Part 3",
+        "surface_quote": "Subjective time, a more flexible time, that can stretch and compress according to our state of consciousness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0122",
+    "canonical_statement": "The expansion of consciousness correlates directly with an increase in the velocity of perceived motion.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 31,
+        "chapter": "Part 3",
+        "surface_quote": "The more you expand your consciousness, the faster your sense of motion.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0123",
+    "canonical_statement": "Subjective time is a variable dimension that expands relative to the degree of deviation from objective space-time.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 32,
+        "chapter": "A COSMIC",
+        "surface_quote": "subjective time appears to grow longer as the deviation increases",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0124",
+    "canonical_statement": "Omnipresence is achieved when subjective time aligns with objective space, allowing consciousness to occupy all locations simultaneously.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 32,
+        "chapter": "A COSMIC",
+        "surface_quote": "subjective time fills all objective space—it takes no time to go anywhere",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "space",
+      "omnipresence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0125",
+    "canonical_statement": "The multiverse consists of forty-nine distinct universes, each functioning as the physical body of a Creator entity.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 32,
+        "chapter": "A COSMIC",
+        "surface_quote": "Each universe is the body of a Creator.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creator"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0126",
+    "canonical_statement": "The tetrahedron is the fundamental, stable geometric structure of three-dimensional reality.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 32,
+        "chapter": "A COSMIC",
+        "surface_quote": "The tetrahedron is the most basic, economical, stable three-dimensional structure in the universe.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "geometry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0127",
+    "canonical_statement": "The ultimate divine nature projects itself into a triadic structure to facilitate human comprehension.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 32,
+        "chapter": "A COSMIC",
+        "surface_quote": "God projects Himself into three aspects, making a tetrahedron of Himself",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0128",
+    "canonical_statement": "The divine essence manifests as a trinity to facilitate interaction with limited consciousnesses.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 33,
+        "chapter": "A COSMIC",
+        "surface_quote": "It’s easier for us to deal with one aspect of Him at a time.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "consciousness",
+      "trinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0129",
+    "canonical_statement": "Physical reality and language are derived from the interaction of creative energy frequencies.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 33,
+        "chapter": "A COSMIC",
+        "surface_quote": "As the four energies of different frequencies interact, they create a rectangular interference pattern.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "vibration",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0130",
+    "canonical_statement": "Human consciousness contains archetypal symbols that reflect the fundamental structure of the universe.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 33,
+        "chapter": "A COSMIC",
+        "surface_quote": "They are part of human consciousness and therefore became the archetypal symbols of mankind.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "archetypes",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0131",
+    "canonical_statement": "The universe is organized into a hierarchical structure of multiple nested universes.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 33,
+        "chapter": "A COSMIC",
+        "surface_quote": "You are, then, looking at a coil of forty-nine universes.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0132",
+    "canonical_statement": "Sounds, numbers, and letters are equivalent creative forces that shape reality.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 33,
+        "chapter": "A COSMIC",
+        "surface_quote": "Letters, numbers, and sounds are equivalent. They all have certain effects on Creation.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "vibration",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0133",
+    "canonical_statement": "The Aleph represents the totality of the universal structure.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 33,
+        "chapter": "A COSMIC",
+        "surface_quote": "The Aleph represents this whole structure, and therefore it is The All.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "totality",
+      "language",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0134",
+    "canonical_statement": "The Aleph represents the cumulative totality of consciousness of the forty-nine Creators.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 34,
+        "chapter": "A COSMIC",
+        "surface_quote": "the Aleph contains all 49 Creators or is the sum total consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "totality",
+      "creators"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0135",
+    "canonical_statement": "Reality is structured by polarities represented by the luminous and dark aspects of the Aleph.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 34,
+        "chapter": "A COSMIC",
+        "surface_quote": "The front side of the Aleph is luminous and the back side is dark.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "polarity",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0136",
+    "canonical_statement": "Interference patterns act as transducers that step down primordial energy into physical reality.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 34,
+        "chapter": "A COSMIC",
+        "surface_quote": "interference patterns... are the transducers of the energy... stepping it down to the physical level",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "energy",
+      "physics",
+      "transduction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0137",
+    "canonical_statement": "Moral states of good and evil are defined by the alignment or misalignment of energy patterns with universal law.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 34,
+        "chapter": "A COSMIC",
+        "surface_quote": "good and evil exist in terms of knowledge of the law... and ignorance of the law",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "law",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0138",
+    "canonical_statement": "The fundamental structure of the Aleph consists of a trinity of Love, Will, and Creation, unified by Wisdom.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 34,
+        "chapter": "A COSMIC",
+        "surface_quote": "The Aleph is broken down into three aspects... Love; Will, and Creation",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "trinity",
+      "wisdom",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0139",
+    "canonical_statement": "The fundamental substrate of the universe is composed of specific energy frequencies represented by distinct colors.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 35,
+        "chapter": "A COSMIC",
+        "surface_quote": "Each center radiates light of a different color, expressing the quality of energy.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0140",
+    "canonical_statement": "Love functions as the primary governing law of the cosmic system.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 35,
+        "chapter": "A COSMIC",
+        "surface_quote": "The whole system runs on love. Love is the cosmic law.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0141",
+    "canonical_statement": "The Creator and the Creation are ontologically inseparable.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 35,
+        "chapter": "A COSMIC",
+        "surface_quote": "Swastika stands for both the Creator and the Creation—they are inseparable.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0142",
+    "canonical_statement": "The universe is a four-dimensional structure characterized by constant rotation.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 35,
+        "chapter": "A COSMIC",
+        "surface_quote": "The swastika... representing a four-dimensional rotating universe.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "structure",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0143",
+    "canonical_statement": "The process of creation originated from a primordial desire for life to begin.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 35,
+        "chapter": "A COSMIC",
+        "surface_quote": "This desire resulted in the process of creation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0144",
+    "canonical_statement": "The universe is structured as a nested hierarchy of spherical cosmic units.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 36,
+        "chapter": "A COSMIC",
+        "surface_quote": "you are trapped within an enormous sphere... surrounded by more cosmoses",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0145",
+    "canonical_statement": "Physical reality is organized according to geometric modules based on the tetrahedron.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 36,
+        "chapter": "A COSMIC",
+        "surface_quote": "creates a three-dimensional module based on the tetrahedron",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "geometry",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0146",
+    "canonical_statement": "The structural properties of biological and cosmic systems are governed by the same geometric principles.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 36,
+        "chapter": "A COSMIC",
+        "surface_quote": "In biology there is a close-packed structure... This explains, by analogy, the wall of the cosmos.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "analogy",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0147",
+    "canonical_statement": "Fundamental physical constants serve as the structural determinants for all material manifestation.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 36,
+        "chapter": "A COSMIC",
+        "surface_quote": "fine structure constant... determines the size of atoms, crystals, mountains, or whatever is structural.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "physics",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0148",
+    "canonical_statement": "The physical universe is constructed upon modular geometric forms, with the tetrahedron serving as the fundamental structural unit.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 37,
+        "chapter": "A COSMIC",
+        "surface_quote": "The whole system is built on modular forms, the tetrahedron being the basic structure.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "universe",
+      "geometry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0149",
+    "canonical_statement": "Human physical posture can influence the resonance of consciousness with cosmic information and energy.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 37,
+        "chapter": "A COSMIC",
+        "surface_quote": "Yogis put themselves into a lotus posture... to resonate with the cosmic input.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "energy",
+      "resonance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0150",
+    "canonical_statement": "Non-physical consciousnesses adopt anthropomorphic features to facilitate interaction with human perception.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 37,
+        "chapter": "A COSMIC",
+        "surface_quote": "A consciousness that wants to project information to you will assume human features.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0151",
+    "canonical_statement": "The hierarchy of consciousness is represented through abstract archetypal symbols.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 37,
+        "chapter": "A COSMIC",
+        "surface_quote": "The hierarchy of consciousnesses is represented by a variety of abstract archetypal symbols.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "consciousness",
+      "archetypes"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0152",
+    "canonical_statement": "Creation is organized into nested, hierarchical levels where larger structures contain multiple smaller cosmoses.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 37,
+        "chapter": "A COSMIC",
+        "surface_quote": "You have emerged on the next level of Creation and are looking at a being—a sphere—that contains all the innumerable cosmoses.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "creation",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0153",
+    "canonical_statement": "The ultimate nature of reality is an infinite, expanding process of structural creation.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 37,
+        "chapter": "A COSMIC",
+        "surface_quote": "Your body, now the size of a cosmos, continues to expand.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "infinity",
+      "existence",
+      "expansion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0154",
+    "canonical_statement": "The super-cosmos is a hierarchical structure composed of multiple nested cosmic units.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 38,
+        "chapter": "A COSMIC",
+        "surface_quote": "super-cosmos filled with cosmoses, about half a million of them",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0155",
+    "canonical_statement": "The evolution of consciousness is a functional requirement for the maintenance of cosmic existence.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 38,
+        "chapter": "A COSMIC",
+        "surface_quote": "evolved consciousnesses are a kind of cosmic currency with which He can pay His rent",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "consciousness",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0156",
+    "canonical_statement": "Individualized consciousnesses are generated to eventually attain the status of their Creators.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 38,
+        "chapter": "A COSMIC",
+        "surface_quote": "produce at least one consciousness good enough to run a universe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0157",
+    "canonical_statement": "The universe functions as a mechanism for the distillation and refinement of consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 38,
+        "chapter": "A COSMIC",
+        "surface_quote": "The universe is a machine for the distillation of consciousness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0158",
+    "canonical_statement": "The ultimate goal of consciousness evolution is self-recognition of its origin and nature.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 38,
+        "chapter": "A COSMIC",
+        "surface_quote": "it realizes: 'I reflect the Creator.'",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0159",
+    "canonical_statement": "The acquisition of knowledge by consciousness necessitates an increase in responsibility and complexity of experience.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 39,
+        "chapter": "A COSMIC",
+        "surface_quote": "the more a consciousness learns, the more responsibility it gets, and the more troubles",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution",
+      "responsibility"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0160",
+    "canonical_statement": "The cosmos functions as an information-processing structure analogous to biological DNA and electronic circuitry.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 39,
+        "chapter": "A COSMIC",
+        "surface_quote": "The coil of universes in a cosmos is a coil of information.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmos",
+      "information",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0161",
+    "canonical_statement": "Cosmic evolution involves the replication of creative entities through a process of splitting or doubling.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 39,
+        "chapter": "A COSMIC",
+        "surface_quote": "Each Creator pays His real estate tax by creating His double.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "evolution",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0162",
+    "canonical_statement": "The structure of the super-cosmos is a self-replicating, living organism that expands through the generation of new cosmic units.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 39,
+        "chapter": "A COSMIC",
+        "surface_quote": "The whole structure is a growing, living being.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmos",
+      "ontology",
+      "organism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0163",
+    "canonical_statement": "The macro-structure of existence is organized into seven hierarchical levels of consciousness, each represented by archetypal symbols.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 39,
+        "chapter": "A COSMIC",
+        "surface_quote": "there are spheres within spheres within spheres: seven levels in all.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "archetype",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0164",
+    "canonical_statement": "The structure of the universe is organized into a hierarchy of seven levels of nested spheres.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 40,
+        "chapter": "A COSMIC",
+        "surface_quote": "The seven levels of spheres within spheres represent the seven cosmic hierarchies.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0165",
+    "canonical_statement": "Higher levels of consciousness are modular, meaning each level encompasses all levels below it.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 40,
+        "chapter": "A COSMIC",
+        "surface_quote": "each contains all the consciousnesses below it.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0166",
+    "canonical_statement": "As one ascends the cosmic hierarchy, the scale of perception increases while the level of detail decreases.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 40,
+        "chapter": "A COSMIC",
+        "surface_quote": "You now see more in scale but less in detail.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0167",
+    "canonical_statement": "Higher levels of reality utilize symbolic forms for information transfer rather than linear language.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 40,
+        "chapter": "A COSMIC",
+        "surface_quote": "a symbol such as a tetrahedron is thrown at you and right away you know.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "communication",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0168",
+    "canonical_statement": "The Manifest Creation is a singular, finite boundary containing all existing universes, creators, and forms.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 40,
+        "chapter": "A COSMIC",
+        "surface_quote": "a tremendous, luminous bluish sphere, containing All-there-is.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0169",
+    "canonical_statement": "The Absolute is a non-vibratory state of pure consciousness that contains all existence in potentiality.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 41,
+        "chapter": "A COSMIC",
+        "surface_quote": "Beyond it is the void, the Absolute, or pure consciousness, which is nonvibratory.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "absolute",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0170",
+    "canonical_statement": "Manifest creation arises through the vibration of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 41,
+        "chapter": "A COSMIC",
+        "surface_quote": "As soon as the Absolute vibrates, it manifests as Creation.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0171",
+    "canonical_statement": "The Absolute and Manifest Creation are ontologically identical.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 41,
+        "chapter": "A COSMIC",
+        "surface_quote": "Basically, they are one and the same.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nonduality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0172",
+    "canonical_statement": "Manifest creation is a holographic structure where all parts are interconnected, facilitating instantaneous communication.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 41,
+        "chapter": "A COSMIC",
+        "surface_quote": "it is such a tight structure, a hologram, with all parts interrelated.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hologram",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0173",
+    "canonical_statement": "The law of karma is a consequence of the holographic and interconnected nature of manifest creation.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 41,
+        "chapter": "A COSMIC",
+        "surface_quote": "This is the basis for the law of karma or the principle that to every action there is a corresponding reaction.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "karma",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0174",
+    "canonical_statement": "Manifest creation is a living, expanding organism permeated by pure consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 41,
+        "chapter": "A COSMIC",
+        "surface_quote": "It is a living organism, whose every atom is filled and permeated by the void.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "panpsychism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0175",
+    "canonical_statement": "The void is the fundamental substrate of reality, modulated by vibratory structures to produce the manifest universe.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 42,
+        "chapter": "A COSMIC",
+        "surface_quote": "Their function is to modulate the void... to produce the first sound of Creation.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "creation",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0176",
+    "canonical_statement": "Consciousness is the primary substance that becomes vibratory through interaction with cosmic modulators.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 42,
+        "chapter": "A COSMIC",
+        "surface_quote": "As pure consciousness flows through the three layers... they impart certain tendencies to consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0177",
+    "canonical_statement": "The manifest universe is a holographic interference pattern generated by the interaction of sound frequencies.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 42,
+        "chapter": "A COSMIC",
+        "surface_quote": "As the different vibrations interact, they create an interference pattern, a hologram of sounds.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "hologram",
+      "sound"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0178",
+    "canonical_statement": "Physical reality is a manifestation of consciousness directed by intent at the archetypal level.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 42,
+        "chapter": "A COSMIC",
+        "surface_quote": "If you can raise your level of consciousness to this level and put in a desire, it will be manifested.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation",
+      "intent"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0179",
+    "canonical_statement": "The evolutionary progression of creation moves from sound to light to complex form.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 42,
+        "chapter": "A COSMIC",
+        "surface_quote": "At first it is sound, then it becomes light, then form.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0180",
+    "canonical_statement": "Nirvana is a state of existence characterized by the infusion of pure consciousness or the void into the physical form.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 44,
+        "chapter": "A COSMIC",
+        "surface_quote": "this state of bliss is caused by pure consciousness—the void flowing through their bodies.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nirvana",
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0181",
+    "canonical_statement": "The transition into higher states of consciousness may require bypassing or confronting the archetypal guardians of those realms.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 44,
+        "chapter": "A COSMIC",
+        "surface_quote": "you jump right down his throat and keep going... you emerge into the light of Nirvana.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "initiation",
+      "consciousness",
+      "threshold"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0182",
+    "canonical_statement": "The state of Nirvana is defined by an all-pervading light and a condition of constant, intense bliss.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 44,
+        "chapter": "A COSMIC",
+        "surface_quote": "It's difficult to describe the good “vibes” and the all-pervading light... Bliss pervades everything.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nirvana",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0183",
+    "canonical_statement": "Deep meditative states in Nirvana involve a total withdrawal of awareness from external phenomena.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 44,
+        "chapter": "A COSMIC",
+        "surface_quote": "The people are totally unaware of what is happening around them, for they are immersed in their meditation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "meditation",
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0184",
+    "canonical_statement": "Nirvana represents a terminal state of individual evolution that precludes further development.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 45,
+        "chapter": "A COSMIC",
+        "surface_quote": "Nirvana, as you know, is really a blind alley of evolution.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "nirvana",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0185",
+    "canonical_statement": "The state of pure consciousness is characterized by the absence of thought-based cognitive processes.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 45,
+        "chapter": "A COSMIC",
+        "surface_quote": "the thinking process would interfere with and alter the flow of pure consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "cognition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0186",
+    "canonical_statement": "Pure consciousness functions as a flow that passes through beings without being modified by them.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 45,
+        "chapter": "A COSMIC",
+        "surface_quote": "these beings are drawing the flow of consciousness through them, but are not affecting it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0187",
+    "canonical_statement": "Altruistic concern for the evolution of others acts as a catalyst for bypassing terminal states of individual bliss.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 45,
+        "chapter": "A COSMIC",
+        "surface_quote": "wanting to help the evolution of their fellow men, they bypass Nirvana.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "evolution",
+      "ethics",
+      "nirvana"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0188",
+    "canonical_statement": "Enlightened beings can choose to forgo eternal bliss in Nirvana to engage in selfless service for planetary evolution.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 46,
+        "chapter": "A COSMIC",
+        "surface_quote": "They have renounced the option of eternal bliss in Nirvana, and instead sit in the dark void.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "evolution",
+      "service"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0189",
+    "canonical_statement": "Pure consciousness flows through enlightened beings, who can modulate its vibration to influence the evolution of physical reality.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 46,
+        "chapter": "A COSMIC",
+        "surface_quote": "They are adding a slight vibration to it, prebiasing the flow of consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0190",
+    "canonical_statement": "Selfless work performed within the void facilitates a higher rate of spiritual evolution than the state of Nirvana.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 46,
+        "chapter": "A COSMIC",
+        "surface_quote": "They will keep evolving, and in time leave the population of Nirvana far behind.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "evolution",
+      "nirvana",
+      "service"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0191",
+    "canonical_statement": "The flow of pure consciousness is shaped by structural layers at the boundary of Manifest Creation.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 46,
+        "chapter": "A COSMIC",
+        "surface_quote": "Tendencies are imparted on the flow of pure consciousness by the layers of letters.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "creation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0192",
+    "canonical_statement": "Human personality traits are symbolic manifestations of archetypal animal qualities.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 47,
+        "chapter": "A COSMIC",
+        "surface_quote": "human beings embody in various degrees the traits that these animals represent",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "archetype"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0193",
+    "canonical_statement": "The Absolute is a state of consciousness where thought persists as instantaneous intuitive knowing rather than linear deduction.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 47,
+        "chapter": "A COSMIC",
+        "surface_quote": "thinking process is not the kind of linear... but rather an intuitive knowing",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "cognition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0194",
+    "canonical_statement": "The Absolute is a mind state or potential that becomes manifest as reality through the expansion of consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 47,
+        "chapter": "A COSMIC",
+        "surface_quote": "they are a mind state, a potential, and they become real the minute you achieve that state",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0195",
+    "canonical_statement": "Manifest creation is in a perpetual state of expansion toward an ideal that continuously recedes as the mind evolves.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 47,
+        "chapter": "A COSMIC",
+        "surface_quote": "by the time we catch up with the ideal, the mind has already moved ahead",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "creation",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0196",
+    "canonical_statement": "The ideal or goal is a mental construct projected by the self, functioning as a perpetual motivator that remains perpetually out of reach.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 48,
+        "chapter": "A COSMIC",
+        "surface_quote": "The ideal is never within your Creation, but attached to it and running ahead.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "teleology",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0197",
+    "canonical_statement": "The Manifest Creation and the Absolute are ontologically identical, differing only in their state of projection versus potentiality.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 48,
+        "chapter": "A COSMIC",
+        "surface_quote": "The Manifest Creation being the Absolute itself projected into form from its potential state.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "substrate",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0198",
+    "canonical_statement": "The perception of reality as 'real' or 'unreal' is entirely dependent upon the observer's subjective viewpoint.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 48,
+        "chapter": "A COSMIC",
+        "surface_quote": "Your perception of reality depends on where you stand.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0199",
+    "canonical_statement": "The Absolute and the Manifest Creation exist in a state of mutual exclusion, where each defines the other as potential or unreal.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 48,
+        "chapter": "A COSMIC",
+        "surface_quote": "Each side sees the other as negative, unreal, or potential.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "duality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0200",
+    "canonical_statement": "Polarities such as positive and negative are relative to the observer's position rather than inherent properties of existence.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 49,
+        "chapter": "A COSMIC",
+        "surface_quote": "Positive and negative are as relative as here and there.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "duality",
+      "relativity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0201",
+    "canonical_statement": "The distinction between Manifest Creation and the Absolute is defined by the observer's current state of consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 49,
+        "chapter": "A COSMIC",
+        "surface_quote": "The Manifest Creation is where you stand, the Absolute is where you don't stand.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0202",
+    "canonical_statement": "Reality is fundamentally non-absolute and non-static, allowing for movement through the existence of paradox.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 49,
+        "chapter": "A COSMIC",
+        "surface_quote": "There is nothing absolute and final... man sneaks through the crack where paradox exists.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "paradox",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0203",
+    "canonical_statement": "Individual consciousness is inextricably bound to the reality framework it currently occupies.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 49,
+        "chapter": "A COSMIC",
+        "surface_quote": "The individualized consciousness is a part of the reality in which it finds itself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0204",
+    "canonical_statement": "The ultimate authority or 'Lord' of the system is identical to the individual's own higher self.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 50,
+        "chapter": "A COSMIC",
+        "surface_quote": "It is your SELF. It's a carbon copy of your physical body.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "self",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0205",
+    "canonical_statement": "The higher self exists in a state of immobility, calmness, and impersonality relative to the physical ego.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 50,
+        "chapter": "A COSMIC",
+        "surface_quote": "It is a carbon copy of your physical body, completely immobile, calm, unperturbed, and impersonal.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0206",
+    "canonical_statement": "Higher states of being are accessed through non-verbal merging techniques rather than linguistic communication.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 50,
+        "chapter": "A COSMIC",
+        "surface_quote": "Since verbal communication makes little sense here, you decide to use the old tested merging technique.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "communication",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0207",
+    "canonical_statement": "The fundamental nature of the Supreme Self is the void, which is synonymous with pure consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 51,
+        "chapter": "A COSMIC",
+        "surface_quote": "The home of the Supreme SELF is the Absolute, the void.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0208",
+    "canonical_statement": "The creation of the manifest universe is a voluntary act of self-play by the Supreme Self to overcome boredom.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 51,
+        "chapter": "A COSMIC",
+        "surface_quote": "this SELF, sitting in the cold, dark void, gets bored and wants to do something.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0209",
+    "canonical_statement": "Individual identity",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 51,
+        "chapter": "A COSMIC",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0210",
+    "canonical_statement": "Individual consciousness is a fragmented expression of a singular, primordial Self that has voluntarily obscured its own nature.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 52,
+        "chapter": "A COSMIC",
+        "surface_quote": "He is so involved in the goings-on inside His cocoon of blankets that He completely ignores and forgets His playful part",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0211",
+    "canonical_statement": "The physical reality is a state of limited consciousness characterized by the forgetting of one's true status as the primordial Self.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 52,
+        "chapter": "A COSMIC",
+        "surface_quote": "He is now down to the physical level of consciousness, the so-called physical reality.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0212",
+    "canonical_statement": "Spiritual awakening is the process of the primordial Self stimulating the individual consciousness to recall its original identity.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 52,
+        "chapter": "A COSMIC",
+        "surface_quote": "He won't let go, and we will get another stimulus, and another, until we start responding",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0213",
+    "canonical_statement": "The manifold universe is a projection created by the Self upon the Self.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 53,
+        "chapter": "A COSMIC",
+        "surface_quote": "the picture of the manifold worlds is painted by the Self itself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "self",
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0214",
+    "canonical_statement": "The ultimate nature of the Self is to experience itself through the act of observation.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 53,
+        "chapter": "A COSMIC",
+        "surface_quote": "Supreme Self, seeing but itself, enjoys great delight",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "self",
+      "consciousness",
+      "experience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0215",
+    "canonical_statement": "The process of spiritual evolution is a progressive removal of veils obscuring the true Self.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 53,
+        "chapter": "A COSMIC",
+        "surface_quote": "Finally, the last blanket has come off, and we are facing the SELF",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "evolution",
+      "self",
+      "enlightenment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0216",
+    "canonical_statement": "Individual identity is ultimately identical to the Supreme Self upon the completion of the evolutionary process.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 53,
+        "chapter": "A COSMIC",
+        "surface_quote": "And you look at Him and say, “And who are",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0217",
+    "canonical_statement": "Physical reality stores information through the interference patterns of intersecting wave phenomena.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 54,
+        "chapter": "APPENDIX — What is a Hologram?",
+        "surface_quote": "nature stores information holographically... creating a complex pattern called an interference pattern",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "information",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0218",
+    "canonical_statement": "The whole of a system's information is encoded within its constituent parts through wave interference.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 54,
+        "chapter": "APPENDIX — What is a Hologram?",
+        "surface_quote": "the resulting rippled sheet of ice... is a hologram",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "holographic",
+      "structure",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0219",
+    "canonical_statement": "Individual consciousnesses are distinct at lower levels but converge into a singular, unified consciousness at the highest spiritual level.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 56,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "On the highest spiritual level, they will all blend onto one.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "unity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0220",
+    "canonical_statement": "Human sensory perception functions exclusively through relative comparisons rather than access to absolute truths.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 56,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "The senses do not have any absolute reference line, only relative reference beams.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0221",
+    "canonical_statement": "The universe is a holographic structure where every individual self is an expression of a singular, universal self.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 56,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "Creation, which is everybody else’s SELF.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hologram",
+      "identity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0222",
+    "canonical_statement": "The Universal Mind contains all information, which is distributed holographically and accessible to any individual consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 56,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "All the knowledge in the Universal Mind is available to anyone who can tune into it.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "universal-mind",
+      "hologram"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0223",
+    "canonical_statement": "Individual experience is a manifestation of the self interacting with itself within a unified cosmic framework.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 56,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "You can’t blame anybody for doing anything to you—you are doing it to yourself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "causality",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0224",
+    "canonical_statement": "There is an inherent correspondence between the internal subjective experience of the individual and the macro-scale phenomena of the universe.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 58,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "connection between our inner experiences and the large-scale phenomena of the surrounding universe",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "cosmology",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0225",
+    "canonical_statement": "States of expanded awareness may be rooted in a genetic, ancestral memory of human interaction with the natural environment.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 58,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "states of expanded awareness... have a genetic origin that is due to this long-term racial memory",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0226",
+    "canonical_statement": "Human perception is limited by everyday experience and must be transcended to comprehend the true structure of the cosmos.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 58,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "understand cosmic processes beyond the limits of everyday experience must necessarily stretch everyday modes of perception",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0227",
+    "canonical_statement": "Scientific inquiry and spiritual seeking are complementary modes of understanding that are both necessary for a complete view of reality.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 58,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "Religion without science is lame and science without religion is blind.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "science",
+      "spirituality",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0228",
+    "canonical_statement": "The observer's perception and conceptual framework fundamentally influence the nature of the objective world.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 59,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "the way we see the world affects our habits of thought",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0229",
+    "canonical_statement": "The existence of an objective, permanent world independent of the observer is subject to ontological doubt.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 59,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "questioning the reality of a permanent, objective world beyond the observer",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "reality",
+      "observer"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0230",
+    "canonical_statement": "The nature of reality is not objective or absolute, but is fundamentally dependent upon the observer and the frame of reference.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 60,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "Einstein proved that these had meaning only in connection with the choice of observer.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0231",
+    "canonical_statement": "Fundamental concepts such as space, time, and simultaneity lack inherent, absolute meaning.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 60,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "undermine the mechanistic tradition of an objective reality and the absolute meaning of space, time.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "space",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0232",
+    "canonical_statement": "The physical universe is characterized by a state of continuous spatial expansion.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 61,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "the radical new idea of rapid expansion of the universe in all directions.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0233",
+    "canonical_statement": "The temporal origin of the universe can be inferred by extrapolating current expansion rates backward.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 61,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "Extrapolation backwards in time suggests that the universe began its expansion.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0234",
+    "canonical_statement": "The geometry of space is non-Euclidean and is influenced by the presence of mass.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 61,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "classical geometry of Euclid was not strictly accurate in the vicinity of large masses.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "space",
+      "geometry",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0235",
+    "canonical_statement": "The universe is not a static entity but exists in a state of continuous expansion.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 62,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "the universe is not static but is expanding in all directions",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0236",
+    "canonical_statement": "The universe possesses a definitive beginning point and a finite structural evolution.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 62,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "It has a beginning, a possible end, a specific size, structure, and shape",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0237",
+    "canonical_statement": "Humanity's perception of reality is subject to radical shifts based on the evolution of scientific understanding.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 62,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "civilization had to adjust to the radical view that we live on a minor planet",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0238",
+    "canonical_statement": "Biological matter is composed of elements synthesized within stellar interiors.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 63,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "elements in our bodies, were once in the interior of a star",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "matter",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0239",
+    "canonical_statement": "The universe may exist as a steady-state system characterized by continuous matter creation rather than a singular beginning or end.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 63,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "There is no need for a specific beginning or for an eventual end.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0240",
+    "canonical_statement": "The universe is not in a state of steady-state equilibrium.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 64,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "the universe is not in a steady-state equilibrium",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0241",
+    "canonical_statement": "The universe originated from a singular event occurring 10 to 15 billion years ago.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 64,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "Something unique happened 10 to 15 billion years ago.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0242",
+    "canonical_statement": "Background radiation serves as evidence of a primordial energetic origin of the universe.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 64,
+        "chapter": "RECOWS TRUCTED",
+        "surface_quote": "radiation was interpreted as the primordial energy left over from the big bang",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0243",
+    "canonical_statement": "The universe undergoes a continuous process of creation rather than a singular event.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 65,
+        "chapter": "BOOK — Essay On Cosmology",
+        "surface_quote": "evidence of the continuation of the process of creation of new stars and galaxies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0244",
+    "canonical_statement": "Matter is formed through the cooling and condensation of energy jets emerging from a central axis.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 65,
+        "chapter": "BOOK — Essay On Cosmology",
+        "surface_quote": "As the jet expands, it cools and condenses to form particles",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "matter",
+      "energy",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0245",
+    "canonical_statement": "The universe is a self-contained, cyclical system that continuously recycles matter and energy through a toroidal structure.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 66,
+        "chapter": "A COSMIC",
+        "surface_quote": "The Bento, model of the universe... would appear as an elongated torus... turning itself inside out",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0246",
+    "canonical_statement": "Creation is a continuous process of transmutation where matter collapses into a black hole to be converted back into pure energy.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 66,
+        "chapter": "A COSMIC",
+        "surface_quote": "Eventually, this spread-out jet undergoes a gravitational collapse... is transmuted into pure energy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "energy",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0247",
+    "canonical_statement": "The fundamental nature of the universe involves a constant flow from a white hole source to a black hole sink.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 66,
+        "chapter": "A COSMIC",
+        "surface_quote": "there isa white and a black hole back to back",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0248",
+    "canonical_statement": "The nature of physical reality, including the structure of the universe, is dependent upon the observer's frame of reference and state of consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 67,
+        "chapter": "A COSMIC",
+        "surface_quote": "The universe is finite or infinite, depending on one’s state of observation.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0249",
+    "canonical_statement": "Objective reality is not defined by singular attributes but by dualistic properties that manifest according to the method of observation.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 67,
+        "chapter": "A COSMIC",
+        "surface_quote": "Light is neither a wave nor a particle. It displays dual attributes.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0250",
+    "canonical_statement": "The universe is a continuous, cyclical process of creation without a definitive beginning or end when viewed from a higher-dimensional perspective.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 67,
+        "chapter": "A COSMIC",
+        "surface_quote": "A modest continuous bang structure, in which there is no beginning and no end.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0251",
+    "canonical_statement": "The steady-state and big bang models of the universe are complementary aspects of a single, simultaneous reality.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 68,
+        "chapter": "A COSMIC",
+        "surface_quote": "steady-state and the big bang theories are not contradicting each other, but are complementary",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0252",
+    "canonical_statement": "The structure of the universe functions as a torus, characterized by a continuous cycle between a white hole source and a black hole sink.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 68,
+        "chapter": "A COSMIC",
+        "surface_quote": "torus model of the universe, with its close association between a white hole jet source and a black hole sink.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0253",
+    "canonical_statement": "The existence of intelligent observers is a necessary condition for the meaningfulness of a universe.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 69,
+        "chapter": "A COSMIC",
+        "surface_quote": "without intelligent life to observe them, they would be meaningless",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "anthropic-principle",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0254",
+    "canonical_statement": "The physical laws and constants of the universe are precisely calibrated to permit the emergence of life.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 69,
+        "chapter": "A COSMIC",
+        "surface_quote": "life in the universe is impossible, unless the laws of nature are exactly as observed",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0255",
+    "canonical_statement": "The multiverse consists of an infinite array of coexisting universes, each governed by distinct physical laws.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 70,
+        "chapter": "A COSMIC",
+        "surface_quote": "an almost unlimited number of universes... each with slightly different physical laws",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "multiverse",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0256",
+    "canonical_statement": "Levels of reality are functionally equivalent to levels of consciousness.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 70,
+        "chapter": "A COSMIC",
+        "surface_quote": "reflecting different levels of reality",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0257",
+    "canonical_statement": "The universe functions as a closed-loop system where space-time trajectories are continuous and cyclical.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 71,
+        "chapter": "A COSMIC",
+        "surface_quote": "the world line of a particle or an observer traces a path that closes",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "space-time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0258",
+    "canonical_statement": "Matter and energy flow continuously between white hole and black hole structures within the universal model.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 71,
+        "chapter": "A COSMIC",
+        "surface_quote": "continuous stream of energy-matter from the white hole to the black hole",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "energy",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0259",
+    "canonical_statement": "The universe possesses an inherent, underlying coherence that renders individual existence meaningful.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 72,
+        "chapter": "A COSMIC",
+        "surface_quote": "making us feel that our universe, and we as part of it, made sense",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "universe",
+      "meaning",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0260",
+    "canonical_statement": "Human consciousness exists on a developmental spectrum, allowing for progression toward higher states of being.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 72,
+        "chapter": "A COSMIC",
+        "surface_quote": "bridge of consciousness which allows us to move from where we are",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0261",
+    "canonical_statement": "The physical universe is structured according to holographic principles.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 72,
+        "chapter": "A COSMIC",
+        "surface_quote": "pioneers of the holographic theory of the universe",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "universe",
+      "structure",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0262",
+    "canonical_statement": "The universe is structured according to holographic principles.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 73,
+        "chapter": "A COSMIC",
+        "surface_quote": "Using the hologram as a model, the author unfolds the structure of the universe.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0263",
+    "canonical_statement": "Individual consciousness can achieve an expanded state that facilitates reconnection with the higher self.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 73,
+        "chapter": "A COSMIC",
+        "surface_quote": "Itzhak Bentov explores the direct experience of an expanded state of consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov_0264",
+    "canonical_statement": "The universe is composed of fundamental principles involving number, sound, and symbolic shapes.",
+    "attributions": [
+      {
+        "source_id": "a_cosmic_book_on_the_mechanics_of_creation_by_itzhak_bentov",
+        "chunk_index": 73,
+        "chapter": "A COSMIC",
+        "surface_quote": "He illuminates the Kabalistic principles of number and sound, the meaning of cosmic shapes.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  }
+]

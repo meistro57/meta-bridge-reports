@@ -1,0 +1,4443 @@
+[
+  {
+    "id": "cl_ancient_astronauts_0001",
+    "canonical_statement": "Human civilization has been significantly influenced by the intervention of extraterrestrial intelligences in the distant past.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "Intelligent extraterrestrial life visited the Earth in ancient times and profoundly affected human civilization.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "civilization",
+      "extraterrestrial",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0002",
+    "canonical_statement": "Human civilization, religion, and technology are derivative products of extraterrestrial intervention.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "contact influenced the development of human cultures, technologies and religions.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "civilization",
+      "extraterrestrial",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0003",
+    "canonical_statement": "Deities described in religious traditions are misidentified extraterrestrial entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "deities from most, if not all, religions are actually extraterrestrials",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "religion",
+      "deity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0004",
+    "canonical_statement": "Humanity is ontologically linked to extraterrestrial beings through descent or creation.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "humans are either descendants or creations of extraterrestrial beings",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "origin",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0005",
+    "canonical_statement": "Biological life on Earth was intentionally introduced by intelligent extraterrestrial entities to ensure its persistence.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "earth was 'seeded' with life... by intelligent extraterrestrial species",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "origins",
+      "biology",
+      "panspermia"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0006",
+    "canonical_statement": "The origin of terrestrial life may be the result of accidental biological contamination by extraterrestrial waste.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "life on earth might have spread from a pile of waste products accidentally dumped",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "origins",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0007",
+    "canonical_statement": "Human technological advancement in antiquity was facilitated by extraterrestrial intervention.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "artifacts were constructed either directly by extraterrestrial visitors or by humans who learned from them.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "history",
+      "extraterrestrial",
+      "civilization"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0008",
+    "canonical_statement": "Geographically isolated cultures share artistic themes due to a common external origin.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "geographically separated historical cultures share artistic themes, which he argues imply a common origin.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "culture",
+      "origin",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0009",
+    "canonical_statement": "Religious phenomena are misinterpretations of advanced extraterrestrial technological encounters.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "humans considered the technology of the aliens to be supernatural",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "religion",
+      "extraterrestrial",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0010",
+    "canonical_statement": "Historical religious texts function as distorted records of physical contact with non-human entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "traditions of most religions contain references to alien visitors",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "religion",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0011",
+    "canonical_statement": "Human biological existence is the result of deliberate genetic engineering by extraterrestrial entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "they eventually created homo sapiens sapiens: the Adapa",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "anthropology",
+      "creation",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0012",
+    "canonical_statement": "Technological advancement makes interstellar travel by non-human intelligences a physical certainty.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "sub-lightspeed interstellar travel by extraterrestrial life was a certainty",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "extraterrestrial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0013",
+    "canonical_statement": "Ancient cultural narratives serve as a valid, reliable repository for historical records of non-human contact.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "pre-scientific narratives can offer a potentially reliable means of describing contact",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0014",
+    "canonical_statement": "Religious and mythological narratives regarding divine descent are historical misinterpretations of encounters with technologically advanced extraterrestrial entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "ancient creation myths... are actually representations of alien visitors",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mythology",
+      "extraterrestrial",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0015",
+    "canonical_statement": "Human perception of the divine is a psychological projection triggered by exposure to superior technology.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "superior technology accounts for their reception as gods",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "theology",
+      "technology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0016",
+    "canonical_statement": "Non-human celestial entities can interbreed with biological human populations to produce hybrid offspring.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "sons of God went to the daughters of humans and had children by them",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "hybridization",
+      "ontology",
+      "entities"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0017",
+    "canonical_statement": "Higher-order spiritual beings possess the capacity to physically manifest and interact within the human material plane.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Watchers descended to Earth to breed with humans",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "dimensions",
+      "entities"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0018",
+    "canonical_statement": "The transmission of advanced knowledge or technology from non-human entities to humanity alters human societal development.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "The Watchers also instructed humans",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "civilization",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0019",
+    "canonical_statement": "Human biological lineage can be corrupted by the introduction of non-human genetic material.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "adulteration of the human gene pool was a major problem",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "genetics",
+      "humanity",
+      "hybridization"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0020",
+    "canonical_statement": "Divine or extraterrestrial entities operate according to predetermined temporal schedules for planetary events.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "otherworldly beings acted as if there was a time set for Sodom's destruction",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "divinity",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0021",
+    "canonical_statement": "The origin of the human species is extraterrestrial rather than terrestrial.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "humanity started on another planet",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "origins",
+      "humanity",
+      "extraterrestrial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0022",
+    "canonical_statement": "The entities identified as divine in religious texts are technologically advanced extraterrestrial beings.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "the God of the Bible is an extraterrestrial",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "extraterrestrial",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0023",
+    "canonical_statement": "Religious and supernatural phenomena described in ancient texts are manifestations of advanced extraterrestrial technology.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "events in the Bible were caused by alien technology",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "technology",
+      "extraterrestrial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0024",
+    "canonical_statement": "The identity of divine figures in religious scripture is synonymous with extraterrestrial beings.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Jesus was an extraterrestrial",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology",
+      "extraterrestrial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0025",
+    "canonical_statement": "Concepts of afterlife or metaphysical realms like hell may be literal descriptions of physical planetary environments.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "hell in the Bible could be a real description of the planet Venus",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cosmology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0026",
+    "canonical_statement": "Humanity was created by an extraterrestrial intelligence that maintains periodic contact with its creation.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "the creators of humanity return to check up on their creation throughout time.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "extraterrestrial",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0027",
+    "canonical_statement": "Mythological narratives concerning divine descent are symbolic representations of primordial cataclysmic events.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "gods personified the falling sky; the descent was a poetic rendition of the cataclysm myth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mythology",
+      "cosmology",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0028",
+    "canonical_statement": "Advanced extraterrestrial civilizations exist and traverse interstellar space.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "civilizations, aeons more advanced than ours, must be plying the spaces between stars.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "extraterrestrial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0029",
+    "canonical_statement": "Historical contact with advanced civilizations can be preserved accurately within the cultural and spiritual paradigms of less advanced societies.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "a brief contact with an alien civilization will be recorded in a reconstructable manner.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0030",
+    "canonical_statement": "Humanity was intentionally created through the genetic modification of existing hominids by an extraterrestrial race.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "Homo sapiens be created by genetic engineering as slaves",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "anthropogenesis",
+      "identity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0031",
+    "canonical_statement": "The structure of human civilization and political authority was established by extraterrestrial intervention.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "human civilization in Sumer was set up under the guidance of these gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "civilization",
+      "authority",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0032",
+    "canonical_statement": "Ancient mythological accounts contain encoded records of historical celestial events.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "evidence of ancient human knowledge of rogue celestial motions in mythological accounts",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mythology",
+      "history",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0033",
+    "canonical_statement": "Human biological evolution may involve the introduction of genetic material from non-terrestrial sources.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "223 unique genes found... are without the required predecessors on the genomic evolutionary tree",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "biology",
+      "evolution",
+      "extraterrestrial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0034",
+    "canonical_statement": "Mythological narratives are often misinterpreted when symbolic or theological figures are erroneously identified as physical celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "Sitchin ignores all this and assigns unwarranted planetary identities to the gods.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mythology",
+      "epistemology",
+      "interpretation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0035",
+    "canonical_statement": "The belief in external salvation by extraterrestrial entities functions as a psychological mechanism that prevents individuals from addressing their own existential or societal pathologies.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "the idea that beings from elsewhere will save us from ourselves is a very dangerous doctrine",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "salvation",
+      "psychology",
+      "existentialism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0036",
+    "canonical_statement": "Human beings are incarnated on Earth to fulfill a specific pre-ordained purpose.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "a healer who had been placed on Earth for a purpose",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "purpose",
+      "incarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0037",
+    "canonical_statement": "The spirit world acts as an external source of information for human education.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "the spirit world was going to pass messages to him",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "communication",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0038",
+    "canonical_statement": "Individual identity is fundamentally linked to a divine source or Godhead.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "he was a Son of the Godhead",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0039",
+    "canonical_statement": "Humanity is subject to the covert control of non-human entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "a secret group of reptilian humanoids called the Babylonian Brotherhood controls humanity",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "control",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0040",
+    "canonical_statement": "Non-physical entities or spirits exist and can communicate messages to humans.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "Shine told him... she had a message for him from Wang Yee Lee",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "communication"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0041",
+    "canonical_statement": "Human individuals can be assigned a specific teleological purpose or mission to heal the Earth.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "The message was that Icke had been sent to heal the Earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0042",
+    "canonical_statement": "Human consciousness can act as a conduit for information originating from a non-physical source.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "The spirit world was going to pass ideas to him",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "channeling"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0043",
+    "canonical_statement": "Time is a variable construct that can be transcended or rendered meaningless by advanced technology.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "there would be a different kind of flying machine... and time would have no meaning",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "technology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0044",
+    "canonical_statement": "Physical environmental changes on Earth are linked to the destabilization of the inner earth.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "earthquakes in unusual places, because the inner earth was being destabilized",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "earth",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0045",
+    "canonical_statement": "The human body contains latent energy centers that, when activated, facilitate a transition to higher states of consciousness.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 50,
+        "chapter": "General Content",
+        "surface_quote": "kundalini... activating his brain and his chakras... triggering a higher level of consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "energy",
+      "physiology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0046",
+    "canonical_statement": "Specific geographical locations can act as conduits for energetic transmissions that alter human perception.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 50,
+        "chapter": "General Content",
+        "surface_quote": "felt his feet pulled to the earth as if by a magnet",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "environment",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0047",
+    "canonical_statement": "The human consciousness can receive non-local information or future-oriented insights during energetic activation.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 50,
+        "chapter": "General Content",
+        "surface_quote": "new ideas began to pour into him",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0048",
+    "canonical_statement": "Individual human consciousness can function as a conduit or vessel for an Infinite Mind.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 51,
+        "chapter": "General Content",
+        "surface_quote": "he was a 'Son of the Godhead,' interpreting 'Godhead' as the 'Infinite Mind.'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0049",
+    "canonical_statement": "Physical objects or colors can act as conduits for metaphysical energy.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 51,
+        "chapter": "General Content",
+        "surface_quote": "he saw [turquoise] as a conduit for positive energy.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "energy",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0050",
+    "canonical_statement": "Human identity can be an earthly manifestation or aspect of a higher spiritual entity.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 51,
+        "chapter": "General Content",
+        "surface_quote": "Michaela... was an aspect of the Archangel Michael.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0051",
+    "canonical_statement": "Human speech and action can be externally directed by non-physical entities, sometimes bypassing the conscious ego.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 51,
+        "chapter": "General Content",
+        "surface_quote": "I was speaking the words, but all the time I could hear the voice of the brakes",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0052",
+    "canonical_statement": "The current global socio-economic and political order is not governed by a benevolent or enlightened force.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 52,
+        "chapter": "General Content",
+        "surface_quote": "is it a force of love and wisdom and tolerance that is in control?",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "governance",
+      "ethics",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0053",
+    "canonical_statement": "The physical world is a holographic projection, while the Absolute represents the only true reality.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 54,
+        "chapter": "General Content",
+        "surface_quote": "what we call reality is just a holographic experience; the only reality is the realm of the Absolute.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0054",
+    "canonical_statement": "Humanity is the product of an extraterrestrial genetic breeding program.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 54,
+        "chapter": "General Content",
+        "surface_quote": "human beings originated in a breeding program run by a race of reptilians",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "origins",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0055",
+    "canonical_statement": "Collective consciousness possesses inherent intentionality.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 54,
+        "chapter": "General Content",
+        "surface_quote": "believes in a collective consciousness that has intentionality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0056",
+    "canonical_statement": "Reincarnation is a fundamental process of existence.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 54,
+        "chapter": "General Content",
+        "surface_quote": "believes... in reincarnation",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0057",
+    "canonical_statement": "Multiple realities coexist simultaneously by vibrating at different frequencies.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 54,
+        "chapter": "General Content",
+        "surface_quote": "other possible worlds that exist alongside ours on other frequencies",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "multiverse",
+      "frequency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0058",
+    "canonical_statement": "Individual experiences can modify DNA through the acquisition of new information.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 54,
+        "chapter": "General Content",
+        "surface_quote": "our experiences change our DNA by downloading new information",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "biology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0059",
+    "canonical_statement": "Mental states and thoughts function as mechanisms for attracting specific external experiences.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 54,
+        "chapter": "General Content",
+        "surface_quote": "able to attract experiences to ourselves by means of good and bad thoughts.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0060",
+    "canonical_statement": "Humanity is a manufactured species created by extraterrestrial entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 55,
+        "chapter": "General Content",
+        "surface_quote": "humanity was created by a network of secret societies... originally extraterrestrial",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity",
+      "extraterrestrial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0061",
+    "canonical_statement": "The physical reality of human governance is controlled by non-human, reptilian bloodlines.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 55,
+        "chapter": "General Content",
+        "surface_quote": "The spread of the reptilian bloodline encompasses... 43 American presidents",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "control",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0062",
+    "canonical_statement": "Human emotional states such as fear, guilt, and aggression function as a source of sustenance or energy for non-human entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 56,
+        "chapter": "General Content",
+        "surface_quote": "They use human fear, guilt, and aggression as energy.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "energy",
+      "entities"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0063",
+    "canonical_statement": "Physical substances can alter the nervous system to facilitate trans-dimensional travel and morphological shifting.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 56,
+        "chapter": "General Content",
+        "surface_quote": "monoatomic gold... can increase the carrying capacity of the nervous system... speed up trans-dimensional travel",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "biology",
+      "trans-dimensional",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0064",
+    "canonical_statement": "Human biological lineages are subject to deliberate genetic manipulation by external entities for the purpose of political control.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 56,
+        "chapter": "General Content",
+        "surface_quote": "Anunnaki have crossbred with human beings, the breeding lines chosen for political reasons",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "genetics",
+      "control"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0065",
+    "canonical_statement": "The universe is composed of an infinite number of overlapping frequencies or dimensions occupying the same space.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 57,
+        "chapter": "General Content",
+        "surface_quote": "the universe consists of an infinite number of frequencies or dimensions that share the same space",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "dimensions",
+      "structure",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0066",
+    "canonical_statement": "Human consciousness can be tuned to different frequency wavelengths, which manifests as psychic ability.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 57,
+        "chapter": "General Content",
+        "surface_quote": "Some people can tune their consciousness to other wavelengths, which is what psychic power consists of",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "psychic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0067",
+    "canonical_statement": "Hierarchical control exists across dimensions, where entities in higher dimensions exert influence over those in lower dimensions.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 57,
+        "chapter": "General Content",
+        "surface_quote": "just as fourth-dimensional reptilians control us, they are controlled, in turn, by a fifth dimension",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "dimensions",
+      "control"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0068",
+    "canonical_statement": "Physical reality is influenced or controlled by entities residing in non-physical, lower-astral dimensions.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 57,
+        "chapter": "General Content",
+        "surface_quote": "from one of these other dimensions that the Anunnaki are controlling this world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "dimensions",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0069",
+    "canonical_statement": "Certain human-appearing entities are non-conscious constructs or software simulations rather than sentient beings.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 58,
+        "chapter": "General Content",
+        "surface_quote": "Red Dresses are software people, constructs of mind, lacking consciousness and free will.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "simulation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0070",
+    "canonical_statement": "The physical human body can function as a holographic veil concealing a non-conscious origin.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 58,
+        "chapter": "General Content",
+        "surface_quote": "Their human bodies are holographic veils.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0071",
+    "canonical_statement": "Human consciousness possesses the capacity to alter the fundamental software of reality.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 59,
+        "chapter": "General Content",
+        "surface_quote": "consciousness can rewrite the software",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0072",
+    "canonical_statement": "The physical universe is a virtual-reality construct functioning as a nested dreamworld.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 59,
+        "chapter": "General Content",
+        "surface_quote": "We are living in a dreamworld within a dreamworld",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "simulation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0073",
+    "canonical_statement": "Human perception of reality is a broadcast signal received by the biological brain.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 59,
+        "chapter": "General Content",
+        "surface_quote": "reality is a broadcast from the Moon",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0074",
+    "canonical_statement": "Individual human consciousness is susceptible to external manipulation and assimilation by a collective broadcast mind.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 59,
+        "chapter": "General Content",
+        "surface_quote": "unless people become fully conscious, their minds are the Moon's mind",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0075",
+    "canonical_statement": "The ruling elite of the world are non-human entities that interbreed and operate independently of terrestrial racial categories.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 61,
+        "chapter": "General Content",
+        "surface_quote": "There is a tribe of people interbreeding which do not relate to any Earth race.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "entities",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0076",
+    "canonical_statement": "The interconnectedness of all phenomena is a fundamental property of the conspiracist worldview.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 62,
+        "chapter": "General Content",
+        "surface_quote": "everything is connected in the conspiracist world view",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0077",
+    "canonical_statement": "The degree of social rejection or stigma attached to an idea serves as an inverse indicator of its truth value.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 62,
+        "chapter": "General Content",
+        "surface_quote": "the vehemence with which the mainstream rejects an idea is almost a measure of its validity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0078",
+    "canonical_statement": "External manifestations of malevolent entities are projections of hidden aspects of the human psyche.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 63,
+        "chapter": "General Content",
+        "surface_quote": "They are other levels of ourselves putting ourselves in our face.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "projection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0079",
+    "canonical_statement": "The material world is an illusion, and infinite love is the singular fundamental truth of existence.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 64,
+        "chapter": "General Content",
+        "surface_quote": "Infinite Love Is the Only Truth: Everything Else Is Illusion.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0080",
+    "canonical_statement": "Individual identity is obscured by a state of robotic conditioning, requiring a process of remembrance to reclaim true selfhood.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 64,
+        "chapter": "General Content",
+        "surface_quote": "I Am Me, I Am Free: The Robot's Guide to Freedom.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0081",
+    "canonical_statement": "The universe is structured into distinct hierarchical realms, specifically heaven, earth, and the underworld, each inhabited by specific divine entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 80,
+        "chapter": "General Content",
+        "surface_quote": "Marduk divides the Anunnaki and assigns them to their proper stations.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0082",
+    "canonical_statement": "Creation is a process of genealogical emanation originating from primordial elemental forces.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 80,
+        "chapter": "General Content",
+        "surface_quote": "Anunnaki were the children of Anu and Ki... children of Tiamat and Abzu.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0083",
+    "canonical_statement": "Ancient religious systems and technological advancements were facilitated by extraterrestrial entities perceived as divine beings.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 81,
+        "chapter": "General Content",
+        "surface_quote": "technologies and religions of many ancient civilizations were given to them by ancient astronauts",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "history",
+      "divinity",
+      "extraterrestrial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0084",
+    "canonical_statement": "Human technological advancement is historically contingent upon external intervention from non-human intelligence.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "artifacts were produced either by extraterrestrial visitors or by humans who learned from them.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "intelligence",
+      "intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0085",
+    "canonical_statement": "Ancient cultural artifacts serve as empirical evidence of advanced extraterrestrial contact.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "Interpretations of ancient artwork... as depictions of astronauts, air and space vehicles.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "archaeology",
+      "extraterrestrial",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0086",
+    "canonical_statement": "Religious phenomena and divine encounters are historically derived from human misinterpretations of advanced extraterrestrial technology.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 83,
+        "chapter": "General Content",
+        "surface_quote": "humans considered the technology of the aliens to be supernatural and the aliens themselves to be gods",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "religion",
+      "extraterrestrial",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0087",
+    "canonical_statement": "Ancient religious texts function as distorted, literal historical accounts of physical interactions with non-human entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 83,
+        "chapter": "General Content",
+        "surface_quote": "oral and literal traditions of most religions contain references to visitors from stars",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "mythology",
+      "interpretation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0088",
+    "canonical_statement": "Human religious practice often involves aligning physical structures with celestial movements to bridge the terrestrial and divine realms.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 89,
+        "chapter": "General Content",
+        "surface_quote": "constructed earthworks that combined such astronomical sighting with their religious cosmology",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "religion",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0089",
+    "canonical_statement": "Physical manifestations of culture are designed to facilitate communication or visibility between human beings and higher-order entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 89,
+        "chapter": "General Content",
+        "surface_quote": "created them to be seen by their gods in the sky",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0090",
+    "canonical_statement": "Divine attributes and identities are fluid and can be transferred between entities through cultural and political processes.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 96,
+        "chapter": "General Content",
+        "surface_quote": "powers and attributes pass over to Marduk",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0091",
+    "canonical_statement": "The hierarchy and characteristics of deities are reflections of the socio-political status of their respective centers of worship.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 96,
+        "chapter": "General Content",
+        "surface_quote": "political development... led to people... imbuing him with traits belonging to gods",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0092",
+    "canonical_statement": "The creation of humanity was intended to relieve the divine beings of labor and existential burdens.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 97,
+        "chapter": "General Content",
+        "surface_quote": "humans were created to bear the burdens of life so the gods could be at leisure.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "teleology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0093",
+    "canonical_statement": "The possession of the Tablets of Destiny confers legitimate authority and sovereignty over the cosmic order.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 97,
+        "chapter": "General Content",
+        "surface_quote": "wrested from him the Tablets of Destiny... and assumed his new position.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "cosmology",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0094",
+    "canonical_statement": "Existence and identity are contingent upon the act of naming.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 100,
+        "chapter": "General Content",
+        "surface_quote": "When the sky above was not named, and the earth beneath did not yet bear a name",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "language",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0095",
+    "canonical_statement": "The primordial state of the universe is an undifferentiated union of chaotic waters.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 100,
+        "chapter": "General Content",
+        "surface_quote": "The primeval Apsû... and chaos, Tiamat... Their waters were mingled together",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0096",
+    "canonical_statement": "Humanity was created to serve the divine order.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 100,
+        "chapter": "General Content",
+        "surface_quote": "creation of humankind for the service of the gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0097",
+    "canonical_statement": "Existence is preceded by a state of non-being where no divine entities or structures have manifested.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 101,
+        "chapter": "General Content",
+        "surface_quote": "When of the gods none had been called into being.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0098",
+    "canonical_statement": "The primordial substrate of reality is composed of dualistic elemental waters.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 101,
+        "chapter": "General Content",
+        "surface_quote": "Apsû represents fresh water, and Tiamat representing oceanic waters.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0099",
+    "canonical_statement": "Divine consciousness and order emerge from the disruption and transformation of primordial substance.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 101,
+        "chapter": "General Content",
+        "surface_quote": "Marduk uses the wind to make dust storms... This disrupts Tiamat's great body.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0100",
+    "canonical_statement": "The structure of the universe is defined by the hierarchy and conflict of divine entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 101,
+        "chapter": "General Content",
+        "surface_quote": "Marduk offers to save the gods if he is appointed as their leader.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0101",
+    "canonical_statement": "The physical universe is constructed from the remains of primordial, chaotic divinity.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 102,
+        "chapter": "General Content",
+        "surface_quote": "rips her corpse into two halves with which he fashions the earth and the skies",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0102",
+    "canonical_statement": "Humanity is ontologically derived from divine substance and created for the purpose of serving divine entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 102,
+        "chapter": "General Content",
+        "surface_quote": "uses his blood to create humankind to do the work for the gods",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "humanity",
+      "purpose",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0103",
+    "canonical_statement": "The structure of time and celestial movement is an imposed order established by a sovereign deity.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 102,
+        "chapter": "General Content",
+        "surface_quote": "Marduk then creates the calendar, organizes the planets and stars",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0104",
+    "canonical_statement": "The material world is not inherently divine and lacks intrinsic sacred status.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 103,
+        "chapter": "General Content",
+        "surface_quote": "repudiate the divinization of nature",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0105",
+    "canonical_statement": "The creative act of the divine is distinct from and superior to the material substrate.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 103,
+        "chapter": "General Content",
+        "surface_quote": "superiority of the Israelite God over all creation",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "theology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0106",
+    "canonical_statement": "Existence originated from a primordial state of formless chaos.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 103,
+        "chapter": "General Content",
+        "surface_quote": "earth was without form and void",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0107",
+    "canonical_statement": "The physical environment can be symbolically structured to represent a binary division between the realm of the living and the realm of the dead.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 115,
+        "chapter": "General Content",
+        "surface_quote": "wooden circle at Durrington Walls was the centre of a 'land of the living'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "symbolism",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0108",
+    "canonical_statement": "Waterways or geographical features can function as metaphysical conduits or transitions between distinct states of existence.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 115,
+        "chapter": "General Content",
+        "surface_quote": "the Avon serving as a journey between the two",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "transition",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0109",
+    "canonical_statement": "Physical locations can serve as distinct domains for the living and the dead.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 117,
+        "chapter": "General Content",
+        "surface_quote": "Durrington Walls Henge was a place of the living, whilst Stonehenge was a domain of the dead.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "geography",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0110",
+    "canonical_statement": "The transition from life to death is a ritual process that can be mapped onto physical space.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 117,
+        "chapter": "General Content",
+        "surface_quote": "A journey along the Avon to reach Stonehenge was part of a ritual passage from life to death.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0111",
+    "canonical_statement": "Physical objects can possess inherent metaphysical healing properties.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 120,
+        "chapter": "General Content",
+        "surface_quote": "the rocks of Stonehenge were healing rocks",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0112",
+    "canonical_statement": "Monuments serve as conduits for the preservation of the identity of the deceased.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 120,
+        "chapter": "General Content",
+        "surface_quote": "erect a memorial to the 3,000 nobles",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0113",
+    "canonical_statement": "Geographic locations can function as ontological thresholds existing between the terrestrial and celestial realms.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 139,
+        "chapter": "General Content",
+        "surface_quote": "This area was believed to have existed between heaven and Earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sacred-space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0114",
+    "canonical_statement": "Altered states of consciousness are utilized as a mechanism to facilitate spiritual or transformative experiences.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 139,
+        "chapter": "General Content",
+        "surface_quote": "Spiritual significance would have been amplified into a mind-altering experience through hallucinogenic plants.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0115",
+    "canonical_statement": "Mountains can serve as metaphysical conduits or residences for the spirits of the deceased.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 139,
+        "chapter": "General Content",
+        "surface_quote": "Pumapunku was integrated with Illimani mountain, believed to be home to spirits of the dead.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "sacred-space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0116",
+    "canonical_statement": "Physical artifacts can serve as the living embodiment or manifestation of ancestral spirits.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 142,
+        "chapter": "General Content",
+        "surface_quote": "The moai are chiefly the living faces of deified ancestors.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "ancestors",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0117",
+    "canonical_statement": "The human head is considered a site of inherent spiritual sanctity.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 143,
+        "chapter": "General Content",
+        "surface_quote": "demonstrates the Polynesian belief in the sanctity of the chiefly head",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0118",
+    "canonical_statement": "Divine power can be utilized by individuals to manipulate physical objects through non-mechanical means.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 146,
+        "chapter": "General Content",
+        "surface_quote": "Oral histories recount how various people used divine power to command the statues to walk.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0119",
+    "canonical_statement": "Physical structures can be designed to facilitate the transition or ascension of the human spirit to celestial realms.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 160,
+        "chapter": "General Content",
+        "surface_quote": "shafts serving a ritualistic purpose associated with the ascension of the king’s spirit",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "spirit",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0120",
+    "canonical_statement": "Religious or divine experiences can be interpreted as the subjective perception of physical electrical phenomena.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 175,
+        "chapter": "General Content",
+        "surface_quote": "electrical sensation from them could equate to the divine presence",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "divinity",
+      "phenomenology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0121",
+    "canonical_statement": "Human consciousness or identity can undergo a transition to a state of divinity following physical death.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 178,
+        "chapter": "General Content",
+        "surface_quote": "Pakal was deified and said to communicate with his descendants.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0122",
+    "canonical_statement": "Death is a transition into a distinct ontological realm represented by a portal.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 179,
+        "chapter": "General Content",
+        "surface_quote": "open jaws of a funeral serpent, a common iconographic representation of entrance into the realm(s) of the dead.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0123",
+    "canonical_statement": "The human identity is capable of undergoing a process of rebirth.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 179,
+        "chapter": "General Content",
+        "surface_quote": "shown in a peculiar posture that may denote rebirth.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "rebirth",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0124",
+    "canonical_statement": "Individual consciousness can exist as a recurring incarnation of a specific historical or archetypal entity.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 180,
+        "chapter": "General Content",
+        "surface_quote": "Argüelles' identification of 'Pacal Votan,' of whom he claims to be an incarnation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "reincarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0125",
+    "canonical_statement": "Time is structured into discrete cycles that possess a definitive end point or 'closer'.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 180,
+        "chapter": "General Content",
+        "surface_quote": "Valum Votan, who will act as a 'closer of the cycle' in 2012.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0126",
+    "canonical_statement": "The physical universe is ontologically derived from the fragmentation of a primordial divine entity.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 181,
+        "chapter": "General Content",
+        "surface_quote": "The heavens and the earth are formed from her divided body.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0127",
+    "canonical_statement": "Creation arises from the union of distinct primordial principles or elemental forces.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 181,
+        "chapter": "General Content",
+        "surface_quote": "Sacred marriage between salt and fresh water, peacefully creating the cosmos.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0128",
+    "canonical_statement": "The primordial state of existence is characterized by an inherent duality between creative order and destructive chaos.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 181,
+        "chapter": "General Content",
+        "surface_quote": "Tiamat is 'creatrix'... in the second 'Chaoskampf' Tiamat is considered the monstrous embodiment of primordial chaos.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "chaos",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0129",
+    "canonical_statement": "The primordial state of existence is characterized by the union of distinct creative principles represented as watery forces.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 182,
+        "chapter": "General Content",
+        "surface_quote": "Apsu the freshwater ocean... and Tiamat, the saltwater sea; they were mixing their waters.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0130",
+    "canonical_statement": "The feminine principle is ontologically prior to the masculine principle in the creative hierarchy.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 182,
+        "chapter": "General Content",
+        "surface_quote": "female deities are older than male ones in Mesopotamia",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0131",
+    "canonical_statement": "The primordial state of existence is characterized by undifferentiated, chaotic, and generative waters.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 183,
+        "chapter": "General Content",
+        "surface_quote": "Tiamat was the 'shining' personification of salt water who roared and smote in the chaos.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0132",
+    "canonical_statement": "The structure of the universe emerges through a genealogical succession of divine entities representing cosmic boundaries.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 183,
+        "chapter": "General Content",
+        "surface_quote": "Apsu fathered upon Tiamat the elder deities... parents of the 'ends' of the heavens and earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0133",
+    "canonical_statement": "The creative principle is inherently linked to the formation of all things from a singular source.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 183,
+        "chapter": "General Content",
+        "surface_quote": "She is 'Ummu-Hubur who formed all things'.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0134",
+    "canonical_statement": "The physical universe is constructed from the remains of a primordial, divine entity.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 184,
+        "chapter": "General Content",
+        "surface_quote": "Slicing Tiamat in half, he made from her ribs the vault of heaven and earth.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0135",
+    "canonical_statement": "Humanity is composed of a mixture of divine blood and terrestrial matter.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 184,
+        "chapter": "General Content",
+        "surface_quote": "Kingu's red blood mixed with the red clay of the Earth would make humankind.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "anthropology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0136",
+    "canonical_statement": "The purpose of human existence is to serve the divine hierarchy.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 184,
+        "chapter": "General Content",
+        "surface_quote": "humankind, created to act as the servant of the younger Igigi deities.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0137",
+    "canonical_statement": "The cosmos originates from the union of primordial elemental forces.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 185,
+        "chapter": "General Content",
+        "surface_quote": "sacred marriage between salt and fresh water, peacefully creating the cosmos",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0138",
+    "canonical_statement": "Primordial chaos is a foundational state from which ordered existence emerges.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 185,
+        "chapter": "General Content",
+        "surface_quote": "Tiamat is considered the monstrous embodiment of primordial chaos.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0139",
+    "canonical_statement": "The primordial state of the universe is an undifferentiated, chaotic, and fluid abyss.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 186,
+        "chapter": "General Content",
+        "surface_quote": "There was a time in which there existed nothing but darkness and an abyss.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0140",
+    "canonical_statement": "The physical world, including earth and heavens, is formed from the division of a primordial, feminine, watery entity.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 186,
+        "chapter": "General Content",
+        "surface_quote": "Belus came, and cut the woman asunder: and of one half he formed the earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0141",
+    "canonical_statement": "Human rationality and consciousness are derived from the mixture of divine substance with terrestrial matter.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 186,
+        "chapter": "General Content",
+        "surface_quote": "The other gods mixed the blood... with the earth; and from thence were formed men.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "humanity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0142",
+    "canonical_statement": "The material universe is an allegorical manifestation of underlying metaphysical principles.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 186,
+        "chapter": "General Content",
+        "surface_quote": "All this was an allegorical description of nature.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0143",
+    "canonical_statement": "The divine manifests within the human realm through the form of an avatar.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 193,
+        "chapter": "General Content",
+        "surface_quote": "Rama (an avatar of the Hindu preserver-God Vishnu)",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "avatar",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0144",
+    "canonical_statement": "Narrative allegory serves as a vehicle for the transmission of philosophical and metaphysical teachings.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 193,
+        "chapter": "General Content",
+        "surface_quote": "it presents the teachings of ancient Hindu sages in narrative allegory",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "allegory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0145",
+    "canonical_statement": "Human existence is governed by cyclical temporal epochs known as yugas.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 195,
+        "chapter": "General Content",
+        "surface_quote": "The Ramayana takes place during a period of time known as Treta Yuga.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0146",
+    "canonical_statement": "Narrative history serves as a vehicle for the transmission of teleological teachings regarding human life.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 195,
+        "chapter": "General Content",
+        "surface_quote": "Itihāsa is a narrative of past events which includes teachings on the goals of human life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0147",
+    "canonical_statement": "Divine entities manifest in human form as avatars to fulfill specific roles within the material world.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 197,
+        "chapter": "General Content",
+        "surface_quote": "Rama is one of the protagonists... the seventh avatar of the God Vishnu.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "avatar",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0148",
+    "canonical_statement": "The consort of a deity is also a divine manifestation, maintaining a spiritual union across incarnations.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 197,
+        "chapter": "General Content",
+        "surface_quote": "Sita is the avatar of Goddess Lakshmi, the consort of Vishnu.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0149",
+    "canonical_statement": "Divine beings manifest as human incarnations to circumvent specific limitations or boons granted by other divine authorities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 198,
+        "chapter": "General Content",
+        "surface_quote": "Vishnu incarnates as the human Rama to defeat him, thus circumventing the boon.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "incarnation",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0150",
+    "canonical_statement": "Certain entities possess the capacity to manifest in multiple forms or avatars across different ontological categories.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 198,
+        "chapter": "General Content",
+        "surface_quote": "Hanuman is portrayed as the eleventh avatar of God Shiva.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0151",
+    "canonical_statement": "Supernatural entities can be bound by specific conditions or boons that dictate the limits of their mortality.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 198,
+        "chapter": "General Content",
+        "surface_quote": "Ravana received a boon... he could henceforth not be killed by Gods, demons, or spirits.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0152",
+    "canonical_statement": "The divine essence can manifest within mortal form to intervene in worldly affairs.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 200,
+        "chapter": "General Content",
+        "surface_quote": "Vishnu had opted to be born into mortality in order to combat the demon.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "incarnation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0153",
+    "canonical_statement": "Certain beings possess a nature that is fundamentally divine despite their mortal appearance.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 200,
+        "chapter": "General Content",
+        "surface_quote": "These sons are endowed, to various degrees, with the essence of the God Vishnu.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0154",
+    "canonical_statement": "Divine intervention is sometimes constrained by the requirement that the agent must exist in a mortal state.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 200,
+        "chapter": "General Content",
+        "surface_quote": "Ravana... could only be destroyed by a mortal.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0155",
+    "canonical_statement": "The subjective experience of location is determined by the presence of a specific individual rather than physical geography.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 201,
+        "chapter": "General Content",
+        "surface_quote": "the forest where you dwell is Ayodhya for me",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0156",
+    "canonical_statement": "Moral integrity and the fulfillment of duty are prioritized over personal desire and physical comfort.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 201,
+        "chapter": "General Content",
+        "surface_quote": "Rama, determined to carry out his father's orders to the letter",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ethics",
+      "duty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0157",
+    "canonical_statement": "The material world functions as a theater of divine play or illusion orchestrated by demonic forces.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 202,
+        "chapter": "General Content",
+        "surface_quote": "Lord Rama, aware that this is the play of the demons",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "maya",
+      "illusion",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0158",
+    "canonical_statement": "Sacred boundaries can be established through ritualized intent and metaphysical protection.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 202,
+        "chapter": "General Content",
+        "surface_quote": "He draws a chalk outline... and casts a spell on it",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "protection",
+      "boundary"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0159",
+    "canonical_statement": "The soul maintains an eternal, unbreakable state of devotion to the divine regardless of external circumstances.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 202,
+        "chapter": "General Content",
+        "surface_quote": "Sita, eternally devoted to Rama, refuses.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "devotion",
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0160",
+    "canonical_statement": "The physical form of a conscious entity is mutable and can be expanded or contracted at will.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 203,
+        "chapter": "General Content",
+        "surface_quote": "Hanuman assumes a gargantuan form and makes a colossal leap.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "form",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0161",
+    "canonical_statement": "Moral integrity and the sanctity of marital fidelity are maintained through the refusal of external intervention in personal karmic resolution.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 203,
+        "chapter": "General Content",
+        "surface_quote": "She refuses to be touched by another, insisting Rama must avenge the insult.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "karma",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0162",
+    "canonical_statement": "Fire acts as an ontological arbiter of moral purity and truth.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 204,
+        "chapter": "General Content",
+        "surface_quote": "Sita plunges into the sacrificial fire, Agni raises Sita, unharmed, attesting to her purity.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "morality",
+      "divinity",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0163",
+    "canonical_statement": "An ideal state of governance is predicated upon the adherence to moral principles.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 204,
+        "chapter": "General Content",
+        "surface_quote": "Ram Rajya, which implies an ideal state with good morals.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "governance",
+      "morality",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0164",
+    "canonical_statement": "The Earth functions as a primordial origin and final destination for the individual soul.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 205,
+        "chapter": "General Content",
+        "surface_quote": "Sita calls upon the Earth, her mother, to receive her and she vanishes into it.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "origin",
+      "earth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0165",
+    "canonical_statement": "Incarnated beings perform specific, finite missions before returning to a celestial state of existence.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 205,
+        "chapter": "General Content",
+        "surface_quote": "A messenger from the Gods informs Rama that the mission of his incarnation was over.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "incarnation",
+      "purpose",
+      "celestial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0166",
+    "canonical_statement": "The narrative of the Ramayana functions as an allegory for internal psychological and spiritual components.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 208,
+        "chapter": "General Content",
+        "surface_quote": "Ravan is Ego, Seeta is Budhi, Raam is Inner Soul and Laxman is Mann.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "allegory",
+      "consciousness",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0167",
+    "canonical_statement": "Historical figures and incarnations are manifestations of the Divine Will (Hukam).",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 208,
+        "chapter": "General Content",
+        "surface_quote": "By Hukam, He created His ten incarnations.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divine-will",
+      "incarnation",
+      "hukam"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0168",
+    "canonical_statement": "Historical incarnations are human beings rather than divine entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 208,
+        "chapter": "General Content",
+        "surface_quote": "He does not believe Ramchandra as a God.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0169",
+    "canonical_statement": "Time is structured into recurring, cyclical half-cycles containing repeating archetypal roles.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 209,
+        "chapter": "General Content",
+        "surface_quote": "every half time cycle has nine sets of Balarama, Vasudeva and Prativasudeva",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0170",
+    "canonical_statement": "Spiritual liberation is achieved through the renunciation of worldly authority and the adoption of ascetic practices.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 209,
+        "chapter": "General Content",
+        "surface_quote": "Rama who lead an upright life renounces his kingdom, becomes a Jain monk and attains",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "liberation",
+      "asceticism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0171",
+    "canonical_statement": "Individual souls are subject to a cycle of rebirth that persists across multiple lifetimes.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 210,
+        "chapter": "General Content",
+        "surface_quote": "ultimately they both will be reborn as upright persons",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "rebirth",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0172",
+    "canonical_statement": "Liberation from the cycle of existence is an attainable state for all beings, regardless of past moral status.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 210,
+        "chapter": "General Content",
+        "surface_quote": "ultimately they both will be reborn... and attain liberation",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "liberation",
+      "soteriology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0173",
+    "canonical_statement": "The universe operates according to cyclical time periods that dictate the progression of spiritual attainment.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 210,
+        "chapter": "General Content",
+        "surface_quote": "Ravana is the future Tirthankara of next half ascending time cycle",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0174",
+    "canonical_statement": "Ascetic renunciation is a necessary condition for achieving omniscience and final liberation.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 210,
+        "chapter": "General Content",
+        "surface_quote": "Rama... renounces his kingdom and becomes a Jain monk. Ultimately, he attains Kevala Jnana",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "asceticism",
+      "liberation",
+      "omniscience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0175",
+    "canonical_statement": "Historical figures or mythological entities can be recontextualized across different religious frameworks as previous incarnations or ancestral figures.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 211,
+        "chapter": "General Content",
+        "surface_quote": "The story of Lakshmana and Rama is told as the previous life of the Buddha.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "mythology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0176",
+    "canonical_statement": "The divine essence can manifest within the physical realm as an incarnation to provide a moral template for sentient beings.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 213,
+        "chapter": "General Content",
+        "surface_quote": "Rama is an incarnation of Vishnu to demonstrate the righteous path for living creatures.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "incarnation",
+      "dharma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0177",
+    "canonical_statement": "The fundamental nature of the divine is inherently hidden and undergoes a process of progressive revelation within the phenomenal world.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 213,
+        "chapter": "General Content",
+        "surface_quote": "The central theme is the hidden divinity and its progressive revelation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "revelation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0178",
+    "canonical_statement": "Engagement with sacred texts possesses the metaphysical capacity to alter the spiritual state of the individual.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 213,
+        "chapter": "General Content",
+        "surface_quote": "Reading or hearing the poem is believed to free them from sin.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sacred",
+      "spirituality",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0179",
+    "canonical_statement": "The divine essence can manifest within a mortal form to achieve specific cosmic objectives.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 214,
+        "chapter": "General Content",
+        "surface_quote": "Lord Vishnu has agreed to be born as a man to destroy a demon.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "incarnation",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0180",
+    "canonical_statement": "The efficacy of divine intervention or destruction may be constrained by specific metaphysical conditions or boons.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 214,
+        "chapter": "General Content",
+        "surface_quote": "The demon can be destroyed only by a mortal.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmic-law",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0181",
+    "canonical_statement": "The cyclical nature of time is represented through the metaphor of a single wheel with twelve divisions.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 221,
+        "chapter": "General Content",
+        "surface_quote": "the 'wheel' is likeliest a metaphorical description of the yearly cycle",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0182",
+    "canonical_statement": "The structure of the universe is governed by an underlying order from which celestial phenomena descend.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 221,
+        "chapter": "General Content",
+        "surface_quote": "Again descend they from the seat of Order",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0183",
+    "canonical_statement": "Higher celestial beings reside within specific heavenly realms known as vimanas.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 222,
+        "chapter": "General Content",
+        "surface_quote": "Vimāna-vāsin ('dweller in vimāna') is a class of deities.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "deities"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0184",
+    "canonical_statement": "Spiritual entities or enlightened beings can manifest or emerge from celestial vehicles into the physical world.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 222,
+        "chapter": "General Content",
+        "surface_quote": "Mahā-vīra himself emerged out of the great vimāna Puṣpa-uttara.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0185",
+    "canonical_statement": "Celestial vehicles can exist or be perceived within the subjective state of dreaming.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 222,
+        "chapter": "General Content",
+        "surface_quote": "A vimāna may be seen in a dream.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0186",
+    "canonical_statement": "Religious or prophetic visions are misinterpretations of physical encounters with extraterrestrial technology.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 225,
+        "chapter": "General Content",
+        "surface_quote": "Ezekiel's account was not a meeting with God, but encounters with ancient astronauts.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0187",
+    "canonical_statement": "Entities possess the capacity to alter their physical form to mimic human appearance.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 233,
+        "chapter": "General Content",
+        "surface_quote": "shape-shifting reptilian people control our world by taking on human form",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "form",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0188",
+    "canonical_statement": "Non-human intelligences exert covert influence over human political and social structures.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 233,
+        "chapter": "General Content",
+        "surface_quote": "reptilian people control our world by taking on human form",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0189",
+    "canonical_statement": "Seemingly unrelated phenomena are fundamentally interconnected within the structure of reality.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 239,
+        "chapter": "General Content",
+        "surface_quote": "He marveled that seemingly unrelated bits of information were, in fact, related.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0190",
+    "canonical_statement": "Human objectivity is fundamentally compromised by unconscious psychological biases and predispositions.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 240,
+        "chapter": "General Content",
+        "surface_quote": "scientists... are still influenced by various unconscious assumptions that prevent them from attaining true objectivity.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0191",
+    "canonical_statement": "The psychological impulse to reject marvels is functionally equivalent to the impulse to accept them in terms of inherent bias.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 240,
+        "chapter": "General Content",
+        "surface_quote": "People with a psychological need to believe in marvels are no more prejudiced... than people with a psychological need not to believe.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0192",
+    "canonical_statement": "All phenomena within the universe are fundamentally interconnected.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 241,
+        "chapter": "General Content",
+        "surface_quote": "everything is connected",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "holism",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0193",
+    "canonical_statement": "Coincidental events are governed by underlying causal or meaningful principles.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 241,
+        "chapter": "General Content",
+        "surface_quote": "strange coincidences happen for a reason",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "synchronicity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0194",
+    "canonical_statement": "The demarcation between valid knowledge and invalid belief is fluid and historically contingent.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 242,
+        "chapter": "General Content",
+        "surface_quote": "the boundaries between science and pseudoscience are fuzzy",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0195",
+    "canonical_statement": "Objective facts are subject to interpretive frameworks determined by the observer's context.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 242,
+        "chapter": "General Content",
+        "surface_quote": "how facts are interpreted depends on who is doing the interpreting",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0196",
+    "canonical_statement": "The validity of scientific theories is underdetermined by empirical data.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 242,
+        "chapter": "General Content",
+        "surface_quote": "the same data can sometimes be explained by more than one theory",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "science"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0197",
+    "canonical_statement": "The observer's internal state or preconceptions actively influence the outcome of physical experiments.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 242,
+        "chapter": "General Content",
+        "surface_quote": "experiments to tend to validate given preconceptions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0198",
+    "canonical_statement": "Scientific truth is a social construct influenced by prevailing paradigms rather than an objective reflection of reality.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 243,
+        "chapter": "General Content",
+        "surface_quote": "influence of social values and what would now be called a paradigm on truth",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reality",
+      "paradigm"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0199",
+    "canonical_statement": "Multiple, equally valid explanatory frameworks can be derived from the same set of empirical data.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 243,
+        "chapter": "General Content",
+        "surface_quote": "alternative conclusions and world views can be made from the same data",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0200",
+    "canonical_statement": "Scientific paradigms and objective standards are transient, subjective constructs rather than absolute truths.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 244,
+        "chapter": "General Content",
+        "surface_quote": "Realism in art: realism in science – they pass away.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0201",
+    "canonical_statement": "The concept of 'fitness' in evolutionary theory is a tautological construct defined solely by the fact of survival.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 244,
+        "chapter": "General Content",
+        "surface_quote": "Fitness, then, is only another name for survival.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "logic",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0202",
+    "canonical_statement": "Truth exists as a synthesis or middle ground between absolute belief and absolute skepticism.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 245,
+        "chapter": "General Content",
+        "surface_quote": "the truth lies somewhere in between",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0203",
+    "canonical_statement": "Reality possesses an inherent organization that is more magical and subtle than conventional frameworks suggest.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 245,
+        "chapter": "General Content",
+        "surface_quote": "reality as something far more magical and subtly organized",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0204",
+    "canonical_statement": "Humanity exists as a subordinate entity owned or controlled by external forces.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 247,
+        "chapter": "General Content",
+        "surface_quote": "The Earth is a farm. We are someone else's property.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0205",
+    "canonical_statement": "The capacity to exert influence over an object is contingent upon the subject possessing a higher degree of ontological reality.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 247,
+        "chapter": "General Content",
+        "surface_quote": "Do you want power over something? Be more nearly real than it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0206",
+    "canonical_statement": "Conceptual frameworks in religion, science, and philosophy are transient constructs rather than absolute truths.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 247,
+        "chapter": "General Content",
+        "surface_quote": "I conceive of nothing... that is more than the proper thing to wear, for a while.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0207",
+    "canonical_statement": "The existence of a universal mind does not necessitate the presence of rational order.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 247,
+        "chapter": "General Content",
+        "surface_quote": "If there is a universal mind, must it be sane?",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0208",
+    "canonical_statement": "There exists a physical force capable of transporting matter across space.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 249,
+        "chapter": "General Content",
+        "surface_quote": "there exists a transportory force that I shall call Teleportation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "reality",
+      "teleportation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0209",
+    "canonical_statement": "Advanced or distinct human civilizations exist in hidden subterranean or isolated locations.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 251,
+        "chapter": "General Content",
+        "surface_quote": "strange white race living in lost cities... in South America",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "civilization",
+      "geography",
+      "hidden-reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0210",
+    "canonical_statement": "Extraterrestrial entities exist in both physical and non-physical states of being.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 253,
+        "chapter": "General Content",
+        "surface_quote": "UFOs were exploratory craft of solid and nebulous character.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "extraterrestrial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0211",
+    "canonical_statement": "Human history is influenced by the intervention of external, non-terrestrial factions.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 253,
+        "chapter": "General Content",
+        "surface_quote": "Good and bad groups of space aliens were meddling with terrestrial affairs.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "history",
+      "intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0212",
+    "canonical_statement": "Ancient civilizations possessed advanced technological capabilities beyond current historical understanding.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 253,
+        "chapter": "General Content",
+        "surface_quote": "Linked ancient monuments with prehistoric superscience.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "technology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0213",
+    "canonical_statement": "Human historical figures are recurring incarnations of a limited set of eternal entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 260,
+        "chapter": "General Content",
+        "surface_quote": "every important person as a reincarnation of one of only six or eight different entities",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0214",
+    "canonical_statement": "Human civilization and religious foundations were actively engineered by extraterrestrial beings.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 260,
+        "chapter": "General Content",
+        "surface_quote": "spacemen had also helped materially in the founding of the Jewish and Christian religions",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "civilization",
+      "extraterrestrial",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0215",
+    "canonical_statement": "Prehistoric artistic artifacts serve as empirical evidence for historical contact between humanity and extraterrestrial entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 261,
+        "chapter": "General Content",
+        "surface_quote": "prehistoric art as evidence of paleocontact",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "paleocontact",
+      "history",
+      "extraterrestrial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0216",
+    "canonical_statement": "Humanoid figures depicted in prehistoric art represent extraterrestrial entities that visited Earth in the distant past.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 262,
+        "chapter": "General Content",
+        "surface_quote": "Lhote publicized the hypothesis that the humanoid drawings represented space aliens.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "extraterrestrial",
+      "history",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0217",
+    "canonical_statement": "Historical alchemical practices may contain empirical knowledge regarding the fundamental structure of matter that aligns with modern nuclear physics.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 267,
+        "chapter": "General Content",
+        "surface_quote": "attempts to connect alchemy with nuclear physics",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "physics",
+      "alchemy",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0218",
+    "canonical_statement": "There exists a dialectical relationship between the materialist worldview and metaphysical reality.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 267,
+        "chapter": "General Content",
+        "surface_quote": "magical mystery tour of the dialectic between materialism and metaphysics",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "materialism",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0219",
+    "canonical_statement": "Human biological diversity is the result of extraterrestrial genetic influence.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 270,
+        "chapter": "General Content",
+        "surface_quote": "Most humans were descended from these aliens.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "origins"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0220",
+    "canonical_statement": "The Earth contains an internal, subterranean civilization accessible via polar and terrestrial tunnels.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 270,
+        "chapter": "General Content",
+        "surface_quote": "A civilisation still existed beneath the Earth's crust.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0221",
+    "canonical_statement": "Humanity's foundational religious figures were genetically engineered by extraterrestrial entities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 270,
+        "chapter": "General Content",
+        "surface_quote": "Adam and Eve were experiment creations of extraterrestrials.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "origins"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0222",
+    "canonical_statement": "Human civilization originated on Mars and migrated to Earth following environmental collapse.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 270,
+        "chapter": "General Content",
+        "surface_quote": "Adam and Eve... originally lived on Mars.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "origins",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0223",
+    "canonical_statement": "Physical reality is governed by hyperdimensional physics.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 272,
+        "chapter": "General Content",
+        "surface_quote": "he talks about a variety of topics such as \"hyperdimensional physics\"",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0224",
+    "canonical_statement": "The physical universe is influenced by energy originating from non-perceivable dimensions.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 273,
+        "chapter": "General Content",
+        "surface_quote": "vast amounts of energy originating from dimensions we cannot perceive",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "dimensions",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0225",
+    "canonical_statement": "Planetary bodies exhibit specific geometric energy nodes that manifest as physical phenomena.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 273,
+        "chapter": "General Content",
+        "surface_quote": "energy... available at latitudes 19.5° both south and north on the Sun and every planet",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "geometry",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0226",
+    "canonical_statement": "The fundamental nature of reality is defined by mathematical measurement rather than empirical observation.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 274,
+        "chapter": "General Content",
+        "surface_quote": "Science is not about what you can see. It's about what you can measure.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0227",
+    "canonical_statement": "Human memory is subject to external manipulation and selective erasure by institutional authorities.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 276,
+        "chapter": "General Content",
+        "surface_quote": "moon-walkers... have had their memories selectively edited via hypnosis",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "memory",
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_ancient_astronauts_0228",
+    "canonical_statement": "Physical reality is governed by hyperdimensional torsion forces that can serve as a propulsion mechanism.",
+    "attributions": [
+      {
+        "source_id": "ancient_astronauts",
+        "chunk_index": 281,
+        "chapter": "General Content",
+        "surface_quote": "spacecraft would be powered to orbit by hyperdimensional torsion",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "reality",
+      "mechanics"
+    ],
+    "editorial_status": "auto"
+  }
+]

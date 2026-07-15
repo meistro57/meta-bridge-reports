@@ -1,0 +1,5335 @@
+[
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0001",
+    "canonical_statement": "The scope of human thought is limited by the current capacity of language.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "increase the volume of the speakable and therefore of the thinkable.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "language",
+      "epistemology",
+      "thought"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0002",
+    "canonical_statement": "Potentiality contains multiple latent possibilities within any single actuality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "synthesis looks into the multiple potentials hidden in any given actuality.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "potentiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0003",
+    "canonical_statement": "The act of creating new linguistic signs expands the boundaries of reality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "Semiurgy would be the science of how to produce new signs.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "language",
+      "semiotics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0004",
+    "canonical_statement": "Human cultural and spiritual systems are fundamentally structured by binary oppositions that exclude intermediate states.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Both are based on the binary opposition of values and do not admit middle ground.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "duality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0005",
+    "canonical_statement": "Reality and cultural structures are best understood through a ternary model that integrates extreme polarities with a neutral median.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "necessity of a third, neutral zone between the sacred and the profane.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "structure",
+      "ontology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0006",
+    "canonical_statement": "Opposing metaphysical or cultural forces can coexist in a symbiotic relationship rather than through mutual cancellation.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "these theses do not cancel each other out, but rather produce a ternary model.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "dialectic",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0007",
+    "canonical_statement": "The divine and the earthly are distinct poles that can exist in either an organic link or in isolation.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "the divine and the earthly... remained foreign to Russian culture, in which these two poles emerged",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "duality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0008",
+    "canonical_statement": "The historical progression of human consciousness involves a cyclical movement away from and subsequently back toward a divine center.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "the movement away from God ends and the movement toward God begins",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "divinity",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0009",
+    "canonical_statement": "Authentic religious integration requires an internal, voluntary orientation of all societal and individual functions toward the divine.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "all must become religious, but freely and from within",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "agency",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0010",
+    "canonical_statement": "The linear progression of historical time is not absolute and can undergo reversal.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "the flow of time is reversed and the Middle Ages wind up in our future.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0011",
+    "canonical_statement": "Individual consciousness serves as the primary locus for the reassertion of non-secular reality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "reasserted itself in the individual consciousness, in contrast to the tepid, secular condition.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0012",
+    "canonical_statement": "Human activity and social duty are ontologically grounded in the immediate presence of a divine kingdom.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "all of us should now serve... as we would in the heavenly kingdom.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0013",
+    "canonical_statement": "The human soul possesses the capacity to exist in a state of spiritual dormancy or death.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Be ye not dead, O living souls!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0014",
+    "canonical_statement": "Historical epochs of secularism and religious intensity are cyclical, with post-secular periods generating hybrid metaphysical states.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Post-secularism gives rise to remarkable, even grotesque fusions.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0015",
+    "canonical_statement": "Spiritual lineage and divine sonship are determined by moral and intellectual action rather than institutional affiliation.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "Voltaire is more a son of Christ than all of your popes.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0016",
+    "canonical_statement": "Secular ideologies can function as religious structures by adopting theological frameworks, canonizing saints, and establishing dogmatics.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "The necessity arose for both to canonize their saints and provide a theological foundation.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ideology",
+      "theology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0017",
+    "canonical_statement": "Secularity must maintain neutrality toward religion to avoid transforming into a dogmatic, anti-secular religious structure.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "To sustain itself, secularity must remain neutral toward religion.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "secularity",
+      "religion",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0018",
+    "canonical_statement": "The theological concept of the incarnation of God as man inherently contains the potential for secularization.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "The very image of God becoming man carries great secular potential.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "secularity",
+      "incarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0019",
+    "canonical_statement": "Secularization is an evolutionary product of religious development rather than a primordial state of humanity.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "secularization did not appear out of nowhere, but is the product of religious evolution",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "history",
+      "evolution",
+      "religion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0020",
+    "canonical_statement": "The manifestation of the divine in human form provides the ontological basis for the visual representation of humanity in art.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "prohibition on the visual representation of man was revoked by God's appearance as a man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "art",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0021",
+    "canonical_statement": "The sacred and the secular exist in a dialectical relationship where each requires the other for definition and justification.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "secularization requires religious justification to the same degree to which religion needs secular society",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "dialectic",
+      "religion",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0022",
+    "canonical_statement": "Beauty is defined by the perception of an object's expediency independent of any external purpose.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "Beauty is a form of an object's expediency, perceived without consideration of its purpose.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "aesthetics",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0023",
+    "canonical_statement": "The world can be perceived immanently as a purpose unto itself.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "We have already formed our perception of the world and contemplate it immanently.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0024",
+    "canonical_statement": "Platonic and neo-Platonic metaphysical frameworks necessitate the rejection of the material world.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "Platonic and neo-Platonic perception of the world—or rather, rejection of the world.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0025",
+    "canonical_statement": "Sensory imagery acts as a veil for divine revelation rather than its negation.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "The ray of divine revelation is not extinguished by the sensible imagery wherewith it is veiled.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "perception",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0026",
+    "canonical_statement": "The human soul is composed of three distinct fundamental essences: the holy, the human, and the animal.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "In the makeup of any soul there is a fundamental essence which is holy, another which is specifically human and one that is animal.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0027",
+    "canonical_statement": "The relative strength of the soul's tripartite essences determines the psychological and cultural character of a collective.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "The Russian displays the predominance of the holy and the animal essences.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0028",
+    "canonical_statement": "Reality and cultural systems can be structured as a binary field lacking a neutral or intermediate zone.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "fundamental cultural values lie in a bipolar field lacking any neutral axial zone.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "reality",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0029",
+    "canonical_statement": "The existence of an intermediate state, such as purgatory, allows for a neutral spectrum of behavior between binary extremes.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Catholic conceptions allow a third to exist between these two—purgatory.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "duality",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0030",
+    "canonical_statement": "Binary structures in consciousness and culture necessitate explosive, non-linear evolution rather than gradual development.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "Dichotomy breeds a tendency toward revolution, it precludes gradual development.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0031",
+    "canonical_statement": "Reality can be structured through a dualistic split between material and ideal realms or through a ternary system that mediates between them.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "Plato, with his dualistic split between the material and the ideal realms.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0032",
+    "canonical_statement": "The existence of a neutral zone or middle ground is a prerequisite for evolutionary consciousness.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "Gradual development can take place only in a neutral zone of judgment.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0033",
+    "canonical_statement": "The natural world constitutes a distinct ontological realm situated between the supernatural and the unnatural.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "the realm of nature lies between the heavenly realm and the infernal realm",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "nature",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0034",
+    "canonical_statement": "The natural world possesses an inherent moral and juridical order independent of transcendent or infernal extremes.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "the realm of nature has its own juridical and moral law",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "law",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0035",
+    "canonical_statement": "Reality is characterized by a fundamental dualism between subjective and objective domains.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "The West is condemned for its dualism, the divergence between subject and object.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dualism",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0036",
+    "canonical_statement": "The ultimate state of existence involves the unification of disparate extremes into a higher synthesis.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "Unification of all of these far-flung extremes in a higher synthesis.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "synthesis",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0037",
+    "canonical_statement": "The expansion of natural law within a culture necessitates a transition toward a state of mediocrity and the avoidance of extremes.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "As the realm of natural law expands, Western culture passes into a middle zone.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "culture",
+      "natural law",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0038",
+    "canonical_statement": "Reality is constructed entirely within a closed system of signs and signifiers, precluding access to any objective existence beyond language.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "A methodological prohibition denies any access beyond the boundaries of the sign-signifier system.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0039",
+    "canonical_statement": "The dissolution of binary oppositions results in a reality composed solely of differences, rendering value-based judgment impossible.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "Such a culture does not permit judgment, for any judgment presupposes a scale of values.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0040",
+    "canonical_statement": "Reality lacks an objective essence or transcendental signified, existing only as a network of indifferent trails.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "A world devoid of the other, consisting of perfunctory differences sprinkled with signs.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0041",
+    "canonical_statement": "The distinction between appearance and essence is an illusory construct of dualistic models.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "Gone are the concepts of... essence and appearance.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0042",
+    "canonical_statement": "Existence is characterized by a lack of inherent hierarchy, center, or foundational origin.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "Gone are the concepts of center and periphery, top and bottom.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0043",
+    "canonical_statement": "The fundamental nature of reality is an omnipresent, non-transitory middle state that lacks beginning or end.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "The eternal time of the middle never begins nor ends.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "ontology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0044",
+    "canonical_statement": "The proliferation of boundaries throughout all existence effectively nullifies the function and reality of boundaries themselves.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "The boundlessness of boundaries annuls the restrictive nature of boundaries.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0045",
+    "canonical_statement": "Events and narrative progression are defined exclusively by the crossing of semantic boundaries.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "All events take place only along the boundaries.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure",
+      "narrative"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0046",
+    "canonical_statement": "The dissolution of binary distinctions results in the cessation of meaningful existence or 'eventlessness'.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "The blurring of boundaries leads to eventlessness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0047",
+    "canonical_statement": "Historical time is a teleological process that concludes when the primary dialectical conflicts of a civilization are resolved.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "The stormy narratives of world history had a happy ending.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0048",
+    "canonical_statement": "Post-historical existence is characterized by the cessation of epochal change and the reduction of reality to a collection of static facts.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "What goes on after the end of history is no longer a sequence of events.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0049",
+    "canonical_statement": "Physical time and spatial extension persist independently of the narrative or epochal structure of human history.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "Only physical time and geo-cultural space remain.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "space",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0050",
+    "canonical_statement": "Time is a finite construct that will eventually cease to exist.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "time would be no more.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0051",
+    "canonical_statement": "Human consciousness is inherently driven by the creation and destruction of self-imposed boundaries.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "man is a creature who thrives on setting up and destroying boundaries.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "human nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0052",
+    "canonical_statement": "The origin of the universe is an implosion of nothingness.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "nothingness must have imploded, giving birth to our ever-expanding universe.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0053",
+    "canonical_statement": "Reality is transitioning from a hierarchical, binary structure to a non-linear, polysemantic network.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "the rhizome signifies the polysemantic nature of the new post-historical order.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0054",
+    "canonical_statement": "Reality is structured as a non-hierarchical multiplicity lacking inherent subject-object distinctions.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "The rhizome constitutes linear multiplicities with n dimensions having neither subject nor object.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0055",
+    "canonical_statement": "Binary logic functions as the fundamental spiritual reality underlying hierarchical structures.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "Binary logic is the spiritual reality of the root-tree.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "logic",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0056",
+    "canonical_statement": "Opposing metaphysical terms are mutually defined through a process of deferral and differentiation within a unified economy.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "Each of the terms must appear as the différance of the other.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0057",
+    "canonical_statement": "The fundamental substrate of reality is an eternal nothingness underlying all cultural and conceptual constructs.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 44,
+        "chapter": "General Content",
+        "surface_quote": "reality behind it—emptiness, an eternal nothing.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0058",
+    "canonical_statement": "The trace is a foundational element that precedes and renders possible the binary oppositions of physical and psychic existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 44,
+        "chapter": "General Content",
+        "surface_quote": "the trace... is that starting from which a becoming-unmotivated of the sign... is possible.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0059",
+    "canonical_statement": "The removal of ontological hierarchies and oppositions within reality results in the collapse of existence into absolute nothingness.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "If culture is stripped of its hierarchies, the opposite will shift into pure nothingness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "nothingness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0060",
+    "canonical_statement": "Human existence and thought are fundamentally dependent upon the presence of transcendence and the crossing of boundaries.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "Western man's existence and thought is impossible without transcendence, without the crossing of boundaries.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0061",
+    "canonical_statement": "A reality defined solely by uniform difference lacks inherent boundaries, resulting in an ontological void.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 47,
+        "chapter": "General Content",
+        "surface_quote": "if culture becomes a uniform field of differences, the only boundary left will be nothingness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0062",
+    "canonical_statement": "Transcendence cannot be achieved through the internal mechanisms of a closed, uniform system.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 47,
+        "chapter": "General Content",
+        "surface_quote": "the impossibility of obtaining transcendence from within.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "transcendence",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0063",
+    "canonical_statement": "Reality is not fundamentally dualistic; binary opposition is a limited state that obscures a deeper, integral unity.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 48,
+        "chapter": "General Content",
+        "surface_quote": "The dual model may be destructive of cultural diversity, replace them with polarity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "duality",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0064",
+    "canonical_statement": "The ultimate state of existence is an all-encompassing synthesis that resolves all contradictions between spirit and matter.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 48,
+        "chapter": "General Content",
+        "surface_quote": "The final resolution of this contradiction, the ultimate union, forms the boundary of the Apocalypse.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "eschatology",
+      "synthesis",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0065",
+    "canonical_statement": "The absence of dualistic tension leads to an amorphous, undifferentiated state rather than true diversity.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 48,
+        "chapter": "General Content",
+        "surface_quote": "Dust tends toward monotony, settles into a lump, returns to an amorphous, indivisible mass.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0066",
+    "canonical_statement": "The dualism between the sacred and the secular is an artificial construct that stifles spiritual vitality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "This dualism can no longer be borne, it has become godless, it kills religious life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dualism",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0067",
+    "canonical_statement": "Creative impulses directed toward transcendence are inherently susceptible to being degraded by the weight of material existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "The creative impulse aimed upward becomes weighed down.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creativity",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0068",
+    "canonical_statement": "The rejection of cultural mediocrity can manifest either as a descent into pre-cultural chaos or an ascent toward super-cultural reality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "Every culture will tend downward, toward the nether abyss, rather than the chasm above.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "culture",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0069",
+    "canonical_statement": "Cultural artifacts and institutions function as substitutes for authentic ontological transformation and the creation of new life.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 51,
+        "chapter": "General Content",
+        "surface_quote": "We create cultural values instead of a new being.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "culture",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0070",
+    "canonical_statement": "The dualism between spirit and flesh is a fundamental structural tension that resists forced apocalyptic unification.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 51,
+        "chapter": "General Content",
+        "surface_quote": "Instead of the anticipated union between the spirit and the flesh... there came decay.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "dualism",
+      "spirit",
+      "flesh"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0071",
+    "canonical_statement": "The attempt to collapse the distinction between religious transcendence and social reality leads to a dangerous, intoxicated state of false unity.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 51,
+        "chapter": "General Content",
+        "surface_quote": "Combining religiosity and the social drive... becomes intoxicated with this imminent unity.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "religion",
+      "society",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0072",
+    "canonical_statement": "The ultimate state of existence is a non-dual condition where all distinctions between opposites are dissolved into a singular Spirit.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 53,
+        "chapter": "General Content",
+        "surface_quote": "no distinction between light and darkness, heaven and earth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "non-duality",
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0073",
+    "canonical_statement": "The ternary model of reality maintains the irreducible separateness and incompatibility of its constituent parts.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 53,
+        "chapter": "General Content",
+        "surface_quote": "ternary can be reduced neither to polarity nor to unity",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0074",
+    "canonical_statement": "True synthesis cannot negate the individual perimeters or distinct identities of the components it comprises.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 53,
+        "chapter": "General Content",
+        "surface_quote": "No whole can or should negate the separateness of its components",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0075",
+    "canonical_statement": "Synthesis does not exhaust or replace the thesis and antithesis; they persist as independent entities beyond the synthesis.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 55,
+        "chapter": "General Content",
+        "surface_quote": "A synthesis can absorb the thesis and antithesis only incompletely.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure",
+      "dialectic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0076",
+    "canonical_statement": "The interaction between thesis and antithesis generates irreducible relations such as irony, paradox, and tragedy that transcend simple mediation.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 55,
+        "chapter": "General Content",
+        "surface_quote": "Neither unification nor mediation can exhaust every possible relation of thesis and antithesis.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0077",
+    "canonical_statement": "The components of a duality cannot be reduced to their median or integrated state.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 55,
+        "chapter": "General Content",
+        "surface_quote": "The elevated and the lowly are mediated, but cannot be reduced to their median.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "reductionism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0078",
+    "canonical_statement": "The ternary model represents a fundamental structure of reality that cannot be reduced to binary opposition, mediation, or synthesis.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 57,
+        "chapter": "General Content",
+        "surface_quote": "The ternary model cannot be reduced to binary opposition, mediation, or synthesis.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0079",
+    "canonical_statement": "The three relations of mediation, totalization, and interaction exist simultaneously and are irreducible to one another.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 57,
+        "chapter": "General Content",
+        "surface_quote": "All three of these relations unfold and interact, and none is reducible to the others.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0080",
+    "canonical_statement": "Reality is structured as a ternary system consisting of two opposing poles and an intermediate neutral zone.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 59,
+        "chapter": "General Content",
+        "surface_quote": "introduction of an intermediate, worldly zone into the ternary model",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0081",
+    "canonical_statement": "The intermediate zone functions as a stabilizer that prevents the absolute dominance of one pole over the other.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 59,
+        "chapter": "General Content",
+        "surface_quote": "The middle layer keeps these poles in balance and prevents one from dominating the other",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "balance",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0082",
+    "canonical_statement": "Opposing metaphysical poles can undergo paradoxical mutual augmentation where one extreme transforms into its opposite.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 59,
+        "chapter": "General Content",
+        "surface_quote": "paradoxical mutual augmentation when the extreme of stupidity becomes wisdom",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0083",
+    "canonical_statement": "Reality is structured through the dialectical interaction of opposing poles rather than neutral states.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 61,
+        "chapter": "General Content",
+        "surface_quote": "The dualistic model cannot be realized in a neutral zone, but demands direct interaction.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "duality",
+      "structure",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0084",
+    "canonical_statement": "Opposing values are inherently unstable and subject to inversion, parody, and paradoxical conversion.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 61,
+        "chapter": "General Content",
+        "surface_quote": "Direct relation of positive to negative entails revolutionary inversion and paradoxical conversion.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "value",
+      "paradox"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0085",
+    "canonical_statement": "The interaction of opposing poles prevents the total subordination of one by the other.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 61,
+        "chapter": "General Content",
+        "surface_quote": "Opposition of poles lessens the danger of violent, revolutionary subordination of one to another.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "duality",
+      "equilibrium"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0086",
+    "canonical_statement": "The interaction of opposing poles in a dualistic system does not lead to synthesis or neutralization, but to mutual amplification and tension.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 62,
+        "chapter": "General Content",
+        "surface_quote": "ambivalence indicates the strengthening of both poles when faced with the possibility of transposition",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "duality",
+      "metaphysics",
+      "tension"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0087",
+    "canonical_statement": "Struggle between opposites is a manifestation of a monistic tendency toward the elimination of one pole by the other.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 62,
+        "chapter": "General Content",
+        "surface_quote": "struggle of opposites actually bespeaks a tendency to monism",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "monism",
+      "duality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0088",
+    "canonical_statement": "Reality possesses an inherent mechanism of inversion where manifestations can fundamentally contradict their apparent nature.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 63,
+        "chapter": "General Content",
+        "surface_quote": "a visible object presupposes something quite opposite to its apparent nature.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology",
+      "inversion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0089",
+    "canonical_statement": "Objective irony exists as a structural force in reality that subverts human agency and intent.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 63,
+        "chapter": "General Content",
+        "surface_quote": "irony is rather objective than subjective; it is brought to bear when circumstances mock a person.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "causality",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0090",
+    "canonical_statement": "Historical and social change is characterized by continuous, unstable motion rather than static, discrete transitions.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 64,
+        "chapter": "General Content",
+        "surface_quote": "The Russian model is not a cube flipped... but a spinning ball.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "process"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0091",
+    "canonical_statement": "Processes of change possess an inherent reversibility, allowing for the untwisting of previous states.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 64,
+        "chapter": "General Content",
+        "surface_quote": "What spins in one direction can easily be untwisted in the other.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0092",
+    "canonical_statement": "Extreme manifestations of a value or state inherently contain the momentum to invert into their opposite pole.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 65,
+        "chapter": "General Content",
+        "surface_quote": "values pushed to an extreme immediately invert toward the exact opposite pole.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dialectic",
+      "duality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0093",
+    "canonical_statement": "The structure of reality is fundamentally bipolar, sustained by the tension and oscillation between opposing extremes.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 65,
+        "chapter": "General Content",
+        "surface_quote": "The conceptual world feeds on such bipolarity.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "structure",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0094",
+    "canonical_statement": "Macro-level structures are composed of and defined by the aggregation of micro-level individual activities.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 66,
+        "chapter": "General Content",
+        "surface_quote": "ordinary Soviet citizens, who in turn comprise the one vast norm of the state.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "holism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0095",
+    "canonical_statement": "Abstract ideas or archetypes exert a coercive and transformative influence upon physical reality and human society.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 67,
+        "chapter": "General Content",
+        "surface_quote": "ideas still demand sacrifices of society, of real people.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "ideology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0096",
+    "canonical_statement": "The Platonic realm of ideas is ontologically redundant, as these categories do not inherently add substance to the physical world.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 67,
+        "chapter": "General Content",
+        "surface_quote": "ideas are empty categories, adding nothing to the things they represent.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "platonism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0097",
+    "canonical_statement": "Historical and cultural progression is constrained by the necessity of building upon the immediate state of existence rather than adopting external origins.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 68,
+        "chapter": "General Content",
+        "surface_quote": "can one carry on only from one's own end, and not from another's beginning?",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "existence",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0098",
+    "canonical_statement": "Cultural identity is defined by a fundamental mechanism of conceptual inversion rather than static adherence to ideal forms.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 68,
+        "chapter": "General Content",
+        "surface_quote": "this is a culture of spinning, overturning conceptions.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0099",
+    "canonical_statement": "Human identity and consciousness are fundamentally anchored to the specific historical epoch in which they originate.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 69,
+        "chapter": "General Content",
+        "surface_quote": "posts rooted deeply in the soil of their time",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0100",
+    "canonical_statement": "Religious belief and secular culture are mutually exclusive domains of human experience.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 70,
+        "chapter": "General Content",
+        "surface_quote": "The religious movement is one thing, and all of modern culture is another.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "culture",
+      "religion",
+      "secularity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0101",
+    "canonical_statement": "Religious mysticism is a vestigial phenomenon destined to be superseded by secular progress.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 70,
+        "chapter": "General Content",
+        "surface_quote": "The religious movement is a relic living out its last days.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "evolution",
+      "religion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0102",
+    "canonical_statement": "Material comfort and mundane pursuits are insufficient for the realization of genuine human happiness.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 74,
+        "chapter": "General Content",
+        "surface_quote": "gooseberries are not enough for true and complicated happiness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "happiness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0103",
+    "canonical_statement": "The human condition is characterized by a state of entrapment or limitation that is inherently repulsive.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 74,
+        "chapter": "General Content",
+        "surface_quote": "the sight of people trapped in a cage is common and repulsive",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0104",
+    "canonical_statement": "Linguistic expression is inherently limited by banality, whereas silence represents a state beyond conceptual dualities.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 76,
+        "chapter": "General Content",
+        "surface_quote": "To surpass the boundaries of banality, one can only be silent.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "language",
+      "consciousness",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0105",
+    "canonical_statement": "Biological existence and natural functions constitute a state of being that transcends intellectual or moral categorization.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 76,
+        "chapter": "General Content",
+        "surface_quote": "Give in to a state of natural banality—sleeping, eating, breathing.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0106",
+    "canonical_statement": "The ultimate nature of the sacred is best expressed through silence rather than discursive language.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 78,
+        "chapter": "General Content",
+        "surface_quote": "How joyful, how blessed it is to keep silent about the sacred.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "apophaticism",
+      "language",
+      "sacred"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0107",
+    "canonical_statement": "A state of absolute emptiness or 'zero' can paradoxically contain the absolute.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 78,
+        "chapter": "General Content",
+        "surface_quote": "a full-weight zero which silently appears to contain in itself the absolute.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "absolute",
+      "void"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0108",
+    "canonical_statement": "Secular social movements can function as religious structures by adopting the scale and fervor of religious conviction.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "anti-religious construction on a grandiose religious scale",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "religion",
+      "society",
+      "ideology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0109",
+    "canonical_statement": "The synthesis of opposing social and religious forces results in the total integration of the social idea into a religious framework.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 82,
+        "chapter": "General Content",
+        "surface_quote": "removing the antithesis from society and religion and merging one into the other",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "synthesis",
+      "religion",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0110",
+    "canonical_statement": "The ultimate reality underlying existence cannot be expressed through language without becoming trivialized.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 84,
+        "chapter": "General Content",
+        "surface_quote": "something underlies these banalities... but this could not be stated directly",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "apophatic",
+      "language",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0111",
+    "canonical_statement": "The state of death contains a hidden presence that promises an eternal and tranquil existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 86,
+        "chapter": "General Content",
+        "surface_quote": "in every grave you feel the presence of a secret, promising a calm, beautiful, eternal life",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0112",
+    "canonical_statement": "The environment of mundane existence exerts a corrupting influence on the individual's consciousness and vitality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 88,
+        "chapter": "General Content",
+        "surface_quote": "this philistine, contemptible life... polluted our blood with its foul vapors",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "environment",
+      "corruption"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0113",
+    "canonical_statement": "Beauty is insufficient as an existential ideal unless it is accompanied by functional purpose.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 88,
+        "chapter": "General Content",
+        "surface_quote": "it is not enough for beauty to embody everything good—it must also serve some purpose.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0114",
+    "canonical_statement": "The attempt to transcend or expose a state of existence often results in the repetition of that same state.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 90,
+        "chapter": "General Content",
+        "surface_quote": "Even in exposing it one finds oneself repeating Chekhov's lines.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0115",
+    "canonical_statement": "Contrast and distinction are illusions created against a background of uniform banality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 90,
+        "chapter": "General Content",
+        "surface_quote": "creating the illusion of contrast and shade",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0116",
+    "canonical_statement": "The integration of opposing metaphysical poles within a single entity generates a rupture rather than a synthesis.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 92,
+        "chapter": "General Content",
+        "surface_quote": "Opposites are not mediated or united in harmony, but rather generate extreme tension.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "ontology",
+      "tension"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0117",
+    "canonical_statement": "The reconciliation of thesis and antithesis is achieved not through a middle ground, but through an even greater extreme.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 92,
+        "chapter": "General Content",
+        "surface_quote": "The third element is neither synthesis nor middle ground, but an even greater extreme.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "dialectic",
+      "extremity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0118",
+    "canonical_statement": "Existence is defined by a fundamental instability where entities simultaneously exceed and fail to reach their own measure.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 92,
+        "chapter": "General Content",
+        "surface_quote": "Everything exceeds the measure and yet doesn't quite reach it either.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "measure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0119",
+    "canonical_statement": "The human consciousness functions as a site where mutually exclusive metaphysical extremes coexist simultaneously.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 94,
+        "chapter": "General Content",
+        "surface_quote": "Here the different shores come together, here all contradictions coexist.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "duality",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0120",
+    "canonical_statement": "The synthesis of polar opposites does not result in mediation but creates a new, extreme ontological state.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 94,
+        "chapter": "General Content",
+        "surface_quote": "This is not mediation... but is, on the contrary, an outlet to an even greater extreme.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0121",
+    "canonical_statement": "Beauty is an ontological force that is inherently terrifying and mysterious due to its capacity to hold contradictions.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 94,
+        "chapter": "General Content",
+        "surface_quote": "Beauty is an awful and terrifying thing... also a mysterious thing.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "beauty",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0122",
+    "canonical_statement": "Reality is structured by an absolute rupture between extremes, leaving no middle ground for existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 94,
+        "chapter": "General Content",
+        "surface_quote": "There is no place for culture; there is only the razor blade that slices it apart.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0123",
+    "canonical_statement": "Human identity is fundamentally characterized by the simultaneous coexistence of contradictory moral and spiritual extremes.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 96,
+        "chapter": "General Content",
+        "surface_quote": "the truly horrifying mystery is that they can coexist within a single person.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality",
+      "human-nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0124",
+    "canonical_statement": "The structure of human consciousness and culture is defined by an inherent, unbridgeable internal rupture.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 96,
+        "chapter": "General Content",
+        "surface_quote": "everything creatively appreciable becomes immediately polarized along the line of an inner split.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "structure",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0125",
+    "canonical_statement": "Extreme manifestations of a quality inherently contain their own opposite, facilitating a transition between polarities.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 98,
+        "chapter": "General Content",
+        "surface_quote": "hyper-moralism... passes easily into its own opposite",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "dialectic",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0126",
+    "canonical_statement": "The fundamental binary of good and evil is structurally unified at the root level of reality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 98,
+        "chapter": "General Content",
+        "surface_quote": "the poles of good and evil had always come together",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "duality",
+      "unity",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0127",
+    "canonical_statement": "The influence of chance and accident in human affairs is increasing over time.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 100,
+        "chapter": "General Content",
+        "surface_quote": "the role of unfortunate accidents, of chance in general increases.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0128",
+    "canonical_statement": "Faith and reason are declining as foundational principles for interpreting reality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 100,
+        "chapter": "General Content",
+        "surface_quote": "Faith and reason no longer count for anything.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0129",
+    "canonical_statement": "Human consciousness simultaneously contains the opposing states of heaven and hell.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 102,
+        "chapter": "General Content",
+        "surface_quote": "seeing hell and heaven simultaneously, which is happening within all of us.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "duality",
+      "human nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0130",
+    "canonical_statement": "The act of blasphemy is ontologically dependent upon the prior existence or experience of sanctity.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 102,
+        "chapter": "General Content",
+        "surface_quote": "blasphemy which is impossible without the experience or precondition of sanctity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "sanctity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0131",
+    "canonical_statement": "The act of blasphemy inherently presupposes the existence and recognition of the sacred.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 103,
+        "chapter": "General Content",
+        "surface_quote": "One can only blaspheme in the temple, acknowledging the sanctity of that which is blasphemed.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "sacred",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0132",
+    "canonical_statement": "Human cultural and spiritual systems are structured through the interplay of binary oppositions.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 103,
+        "chapter": "General Content",
+        "surface_quote": "The culture itself is characterized by the opposition of sanctity and blasphemy.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0133",
+    "canonical_statement": "Human identity and existence are defined by a polarized oscillation between extreme spiritual and carnal states.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 104,
+        "chapter": "General Content",
+        "surface_quote": "Russian literature races back and forth between the angel and the beast.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0134",
+    "canonical_statement": "The structure of cultural and existential reality demands binary opposition, rejecting the possibility of a neutral or moderate state.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 104,
+        "chapter": "General Content",
+        "surface_quote": "There can be no leisurely promenade along the razor's edge; one must side either with Sodom or with the Madonna.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0135",
+    "canonical_statement": "The demonic is defined as the collapse of the middle ground between the sacred and the profane.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 105,
+        "chapter": "General Content",
+        "surface_quote": "The demonic is merely that confluence of Sodom and the Madonna which allows for no middle ground.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "metaphysics",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0136",
+    "canonical_statement": "Sacred and profane poles are inherently linked, such that devotion to one can transform into devotion to the other.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 105,
+        "chapter": "General Content",
+        "surface_quote": "worship of one turns into worship of the other.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "duality",
+      "polarity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0137",
+    "canonical_statement": "The demonic is defined as the collapse of boundaries between the sacred and the worldly, manifesting as excessive, destructive force.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 107,
+        "chapter": "General Content",
+        "surface_quote": "Neither wants to acknowledge a boundary between the church and the world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0138",
+    "canonical_statement": "Secularism and the sacred are complementary poles, whereas the demonic represents the hyper-tense relation between them.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 107,
+        "chapter": "General Content",
+        "surface_quote": "Secularism's opposite is not the sacred... but the demonic.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "duality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0139",
+    "canonical_statement": "The spirit of creation, when driven by excessive force, inherently contains the seeds of its own destruction.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 107,
+        "chapter": "General Content",
+        "surface_quote": "Positive action carried out with excessive force, pregnant with the seeds of destruction.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0140",
+    "canonical_statement": "The demonic is an active, positively charged energy that manifests as negative through inversion and rupture.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 108,
+        "chapter": "General Content",
+        "surface_quote": "the demonic is a doubly charged, positive energy, which becomes negative by means of inversion",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "energy",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0141",
+    "canonical_statement": "Secularism is a neutral state characterized by equidistance from opposing metaphysical poles.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 108,
+        "chapter": "General Content",
+        "surface_quote": "Secularism is neutral, equidistant from both poles",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "secularism",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0142",
+    "canonical_statement": "The demonic is defined by the collapse of the distinction between the divine and the worldly authority.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 109,
+        "chapter": "General Content",
+        "surface_quote": "The demonic entails the worship of Caesar as God or God as Caesar.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "theology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0143",
+    "canonical_statement": "Extreme positive energy or ideals inherently contain the potential to transform into destructive forces.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 109,
+        "chapter": "General Content",
+        "surface_quote": "Excessive positive energy turns into the terrible energy of destruction.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "energy",
+      "transformation",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0144",
+    "canonical_statement": "Opposing metaphysical poles are fluid and prone to interchangeability.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 109,
+        "chapter": "General Content",
+        "surface_quote": "The demonic entails the passage of one pole into the other.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0145",
+    "canonical_statement": "The demonic is a fundamental, formless, and impersonal force that influences human destiny.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 110,
+        "chapter": "General Content",
+        "surface_quote": "a generalized conception of some undefined and formless divine power, frequently determining man's fate",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "fate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0146",
+    "canonical_statement": "The demonic operates as a transient, unpredictable force that lacks stable identity or relational potential.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 110,
+        "chapter": "General Content",
+        "surface_quote": "it cannot be named, no relationship can be established with it",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0147",
+    "canonical_statement": "The demonic is a necessary and legitimate category within the structure of cultural and cosmic reality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 110,
+        "chapter": "General Content",
+        "surface_quote": "The demonic is just as legitimate and necessary a cultural category as the apophatic",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0148",
+    "canonical_statement": "The demonic is a manifestation of the immediate moment, existing outside the binary of good and evil.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 111,
+        "chapter": "General Content",
+        "surface_quote": "a demon is nothing more than a 'god of the given moment'",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "morality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0149",
+    "canonical_statement": "The demonic force operates through sudden rupture and inversion rather than gradual evolutionary processes.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 111,
+        "chapter": "General Content",
+        "surface_quote": "The demonic spirit is one of inversion and rupture, as opposed to gradual evolution.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "metaphysics",
+      "change"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0150",
+    "canonical_statement": "The ultimate reality or divine essence transcends all human conceptual categories and linguistic descriptors.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 112,
+        "chapter": "General Content",
+        "surface_quote": "the divine exceeds human understanding and there are no accurate means to describe God",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divine",
+      "epistemology",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0151",
+    "canonical_statement": "Negative definitions are more accurate than positive ones when describing the transcendent, as they prevent the conflation of the absolute with finite concepts.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 112,
+        "chapter": "General Content",
+        "surface_quote": "it is more precise to describe not what God is, but what he isn't",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "language",
+      "apophatism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0152",
+    "canonical_statement": "Spiritual realities are fundamentally non-material and exist beyond the reach of human cognitive frameworks.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 112,
+        "chapter": "General Content",
+        "surface_quote": "those ranks, so far removed from us, transcend all materiality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "materiality",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0153",
+    "canonical_statement": "The use of incongruous or dissimilar imagery facilitates the mind's transition from material perception to spiritual apprehension.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 112,
+        "chapter": "General Content",
+        "surface_quote": "incongruities are more suitable for lifting our minds up into the domain of the spiritual",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "cognition",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0154",
+    "canonical_statement": "The divine nature is best represented through paradoxical or incongruous imagery that defies conventional categorization.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 113,
+        "chapter": "General Content",
+        "surface_quote": "the lowliest, most inappropriate—and hence the most pious—comparison is of the Messiah",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity",
+      "apophatism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0155",
+    "canonical_statement": "The ultimate reality or divine essence transcends positive attributes, necessitating a negative or apophatic approach to description.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 113,
+        "chapter": "General Content",
+        "surface_quote": "This negative theology was actually inspired not only by Pseudo-Dionysius's teaching",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0156",
+    "canonical_statement": "The manifestation of the sacred in the material world often occurs through forms that appear base, degraded, or contradictory to human expectations.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 113,
+        "chapter": "General Content",
+        "surface_quote": "the 'heavenly king' appearing in a 'beggar's guise'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0157",
+    "canonical_statement": "Ultimate reality or the divine essence exists beyond the capacity of language and conceptual description.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 115,
+        "chapter": "General Content",
+        "surface_quote": "True life and greatness of the spirit lie beyond the bounds of the expressible.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "apophatism",
+      "reality",
+      "ineffability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0158",
+    "canonical_statement": "Negative or void-like imagery can serve as an indirect representation of a transcendent, non-describable reality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 115,
+        "chapter": "General Content",
+        "surface_quote": "Gloom and soullessness may be an adequate representation of the divine.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "representation",
+      "divinity",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0159",
+    "canonical_statement": "The essence of an object or entity is distinct from its visible, inert, or material manifestations.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 115,
+        "chapter": "General Content",
+        "surface_quote": "Visible, inert indications do not correspond to its true poetic essence.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "essence",
+      "ontology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0160",
+    "canonical_statement": "The ultimate ideal or truth can only be accurately represented through the negation of all finite manifestations.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 117,
+        "chapter": "General Content",
+        "surface_quote": "The ideal can be convincingly expressed only by criticizing anything that falls short.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "apophatism",
+      "truth",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0161",
+    "canonical_statement": "Reality is fundamentally incapable of embodying positive, ideal forms.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 117,
+        "chapter": "General Content",
+        "surface_quote": "Russian reality has no events, faces, or characters which might be rendered as positive.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "idealism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0162",
+    "canonical_statement": "The absolute or divine is defined by its total inaccessibility to human rational faculties.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 119,
+        "chapter": "General Content",
+        "surface_quote": "He is inaccessible to the mind, consequently He exists.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0163",
+    "canonical_statement": "Divine presence is manifested through phenomena that render human will and reason powerless.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 119,
+        "chapter": "General Content",
+        "surface_quote": "God is known through something that renders human will and reason powerless.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "will",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0164",
+    "canonical_statement": "The nature of the divine is fundamentally incongruous with human expectations and logic.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 119,
+        "chapter": "General Content",
+        "surface_quote": "Comparing God to the hiccups is a befitting incongruity.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0165",
+    "canonical_statement": "The sacred and the bestial are directly connected, bypassing the mediating level of human culture.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 121,
+        "chapter": "General Content",
+        "surface_quote": "Russian tendency to skip over the middle, human level and connect directly the sacred and bestial.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "sacred",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0166",
+    "canonical_statement": "Lowly, natural, and disordered states serve as superior metaphors for the divine compared to refined cultural expressions.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 121,
+        "chapter": "General Content",
+        "surface_quote": "Lowly, natural bodies are the preferable metaphors for the divine.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "divine",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0167",
+    "canonical_statement": "The divine truth is intentionally concealed from the unenlightened through the use of humble or base imagery.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 121,
+        "chapter": "General Content",
+        "surface_quote": "Conceal the truth from the unenlightened.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "divine",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0168",
+    "canonical_statement": "The divine and the earthly exist in a state of catastrophic proximity rather than absolute separation.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 123,
+        "chapter": "General Content",
+        "surface_quote": "Russian apophatism would perceive a catastrophic proximity, two disparate levels sticking together.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0169",
+    "canonical_statement": "Spiritual purification can be achieved through the exhaustive immersion in and multiplication of sinful acts.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 123,
+        "chapter": "General Content",
+        "surface_quote": "The key to saintliness is sin, unrestrained immersion in sin and the curing of like with like.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "transformation",
+      "sin",
+      "purification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0170",
+    "canonical_statement": "The human condition is characterized by a dual nature, simultaneously manifesting as both beast and angel.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 123,
+        "chapter": "General Content",
+        "surface_quote": "Truly, here is Askoldov's angel-beast.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0171",
+    "canonical_statement": "Nonexistence is a state that can be conceptually approached through the systematic negation of physical reality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 124,
+        "chapter": "General Content",
+        "surface_quote": "poetic attention focuses on things that cancel themselves out, allowing one to imagine nonexistence.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "nonexistence",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0172",
+    "canonical_statement": "The essence of human identity is separable from the temporal dimension, leaving only language as the remainder.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 124,
+        "chapter": "General Content",
+        "surface_quote": "time is subtracted from man—only words are left.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0173",
+    "canonical_statement": "Human identity is fundamentally defined by the process of subtraction from language and existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 125,
+        "chapter": "General Content",
+        "surface_quote": "man is subtracted from language",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "ontology",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0174",
+    "canonical_statement": "The ultimate state of individual existence, when stripped of temporal and spatial markers, results in a negative value.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 125,
+        "chapter": "General Content",
+        "surface_quote": "the sum depends on subtraction... result in an opposite, negative value",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "identity",
+      "negation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0175",
+    "canonical_statement": "Personal identity is a construct that exists independently of the physical presence of the individual.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 125,
+        "chapter": "General Content",
+        "surface_quote": "inscriptions of personal names, in a place where we are not",
+        "claim_type": "implied",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "identity",
+      "presence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0176",
+    "canonical_statement": "Nonexistence is the ultimate reality underlying all phenomenal existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 126,
+        "chapter": "General Content",
+        "surface_quote": "present graphically, as the ultimate reality, nonexistence itself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "nonexistence",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0177",
+    "canonical_statement": "Nothingness possesses a greater ontological extension than existence because it transcends dimensional measurement.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 126,
+        "chapter": "General Content",
+        "surface_quote": "nothingness is longer than anything else precisely because it no longer has length.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "nothingness",
+      "dimension"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0178",
+    "canonical_statement": "The process of negation serves as a method to strip away phenomenal attributes to reveal the underlying void.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 126,
+        "chapter": "General Content",
+        "surface_quote": "meticulous registry of details serves to subtract them from existence.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "negation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0179",
+    "canonical_statement": "The fundamental nature of reality is characterized by an inherent, pervasive emptiness.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 127,
+        "chapter": "General Content",
+        "surface_quote": "the world's melancholy emptiness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0180",
+    "canonical_statement": "Ultimate truth or the divine is best approached through apophatic negation rather than positive definition.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 127,
+        "chapter": "General Content",
+        "surface_quote": "consciously chose the apophatic path",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0181",
+    "canonical_statement": "Positive energy, when pushed to its absolute limit, undergoes a phase transition into its own opposite, manifesting as destruction.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 128,
+        "chapter": "General Content",
+        "surface_quote": "Positive energy, pushed to its limit, becomes its own opposite—destructive action.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "energy",
+      "polarity",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0182",
+    "canonical_statement": "Negative energy functions by exhausting the perceived value of material existence, thereby orienting consciousness toward an ineffable, transcendent reality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 128,
+        "chapter": "General Content",
+        "surface_quote": "Negative energy... exposing the worthlessness of material life, directs one to greater realms.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "apophatism",
+      "transcendence",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0183",
+    "canonical_statement": "Ultimate reality exists as a realm of silence that is fundamentally inaccessible to sensory perception.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 128,
+        "chapter": "General Content",
+        "surface_quote": "greater realms of silence, inaccessible to sight and hearing.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "transcendence",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0184",
+    "canonical_statement": "Reality is structured as a cycle of transitions between positive and negative poles around an empty center.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 129,
+        "chapter": "General Content",
+        "surface_quote": "A ring of permutations and passages between extreme poles spinning around an empty center.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "reality",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0185",
+    "canonical_statement": "Extreme negative states and extreme positive states are functionally linked and mutually imply one another.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 129,
+        "chapter": "General Content",
+        "surface_quote": "Demonism and apophatism form a kind of ring of permutations and passages between extreme poles.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "duality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0186",
+    "canonical_statement": "The manifestation of a quality in reality necessitates the simultaneous presence of its inverse.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 129,
+        "chapter": "General Content",
+        "surface_quote": "Whenever Gogol minimizes, he also sketches an invisible figure of exaggeration.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0187",
+    "canonical_statement": "Human creative expression is structured by the interaction of opposing poles around a void or empty center.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 131,
+        "chapter": "General Content",
+        "surface_quote": "dealing with the orbit of poles around a gaping, empty center.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0188",
+    "canonical_statement": "Language possesses an autonomous existence and utilizes human beings as instruments for its own propagation.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 131,
+        "chapter": "General Content",
+        "surface_quote": "language is not his instrument, but he is the means by which language propagates.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "language",
+      "agency",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0189",
+    "canonical_statement": "The subordination of human agency to the autonomous dictates of language constitutes a form of demonic possession.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 131,
+        "chapter": "General Content",
+        "surface_quote": "such a relation between the speaker and his language turns out to be a source of demonism.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "demonism",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0190",
+    "canonical_statement": "The act of naming an object through language removes it from ontological existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 132,
+        "chapter": "General Content",
+        "surface_quote": "anything that gets caught in language... becomes subtracted from existence",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "language",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0191",
+    "canonical_statement": "Language functions as a mechanism that transforms reality into symbolic nothingness.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 132,
+        "chapter": "General Content",
+        "surface_quote": "the poet apophatically objectifies this world, turning it into symbols of nothingness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0192",
+    "canonical_statement": "Human identity and physical reality are ultimately ephemeral, leaving only language as a residue.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 132,
+        "chapter": "General Content",
+        "surface_quote": "Man leaves nothing behind but his spoken words; things leave nothing but their names",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0193",
+    "canonical_statement": "The fundamental nature of the world is characterized by emptiness, which is equivalent to the purity of death.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 133,
+        "chapter": "General Content",
+        "surface_quote": "the emptiness of the world, and therefore equals the purity of air and of death.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0194",
+    "canonical_statement": "Human cultural and cognitive frameworks are structured by binary oppositions that categorize all thought as either orthodox or heretical.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 133,
+        "chapter": "General Content",
+        "surface_quote": "binary code of Russian culture which... categorizes all thought as orthodoxy or heresy.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "cognition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0195",
+    "canonical_statement": "The categories of human expression and metaphysical orientation cannot be perfectly mapped onto individual identities.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 134,
+        "chapter": "General Content",
+        "surface_quote": "authors and tendencies can only cross at certain points, never be wholly superimposed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "classification",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0196",
+    "canonical_statement": "The aesthetic quality and vitality of reality are dependent upon the existence of polarity, inequality, and conflict.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 135,
+        "chapter": "General Content",
+        "surface_quote": "The poetry of reality is impossible without this variety of positions and feelings.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "aesthetics",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0197",
+    "canonical_statement": "The homogenization of cultural or existential positions acts as a mechanism for world destruction.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 135,
+        "chapter": "General Content",
+        "surface_quote": "In this impulse toward the middle Leontiev sees the ideal and means of world destruction.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0198",
+    "canonical_statement": "Reality is structured by a fundamental dualism between the mundane world and a transcendent, radically 'other' spiritual domain.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 136,
+        "chapter": "General Content",
+        "surface_quote": "sharp distinction between the things of this world and of the next.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dualism",
+      "ontology",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0199",
+    "canonical_statement": "The existence of a transcendent 'other' is a necessary condition for the diversity and complexity of secular culture.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 136,
+        "chapter": "General Content",
+        "surface_quote": "Without its religious component, secular culture loses the radical 'other' which lends it its colorfulness.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "culture",
+      "ontology",
+      "dialectic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0200",
+    "canonical_statement": "There exists a singular, unified truth that encompasses both faith and reason.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 137,
+        "chapter": "General Content",
+        "surface_quote": "there is but one truth",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "truth",
+      "epistemology",
+      "monism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0201",
+    "canonical_statement": "Divine revelation and natural reason operate as distinct, non-overlapping domains of inquiry.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 137,
+        "chapter": "General Content",
+        "surface_quote": "the duality of faith and reason",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0202",
+    "canonical_statement": "The transcendent or otherworldly acts as an irreducible residue that resists total assimilation into rational or social frameworks.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 138,
+        "chapter": "General Content",
+        "surface_quote": "an irrational or other-rational residue which cannot be dissolved in ideas of freedom",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "transcendence",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0203",
+    "canonical_statement": "Existence can be characterized by a fundamental self-questioning or negation of its own right to be.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 138,
+        "chapter": "General Content",
+        "surface_quote": "Russian culture constantly questions its right to exist",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0204",
+    "canonical_statement": "The state of sinfulness provides a greater degree of spiritual justification than a state of moral neutrality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 140,
+        "chapter": "General Content",
+        "surface_quote": "the sinner is more justified than the un-sinning, un-saintly man.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "morality",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0205",
+    "canonical_statement": "Art functions as an intermediate metaphysical realm between the spiritual heaven and the earthly hell.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 140,
+        "chapter": "General Content",
+        "surface_quote": "Art is a purgatory between the heaven of the spirit and the hell of birth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "art",
+      "purgatory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0206",
+    "canonical_statement": "The creative act constitutes a distinct metaphysical kingdom governed by its own unique laws.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 140,
+        "chapter": "General Content",
+        "surface_quote": "Art is the third kingdom with its own laws.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "art"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0207",
+    "canonical_statement": "Artistic creation represents the most potent and inescapable form of earthly temptation.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 140,
+        "chapter": "General Content",
+        "surface_quote": "Art is perhaps the ultimate temptation on this earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "temptation",
+      "art"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0208",
+    "canonical_statement": "The existence of a culture is contingent upon its own self-negation and internal contradiction.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 143,
+        "chapter": "General Content",
+        "surface_quote": "Russian culture... knows that it exists only in spite of itself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "culture",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0209",
+    "canonical_statement": "Self-denial and self-disparagement function as mechanisms that imbue a culture with unique metaphysical value.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 143,
+        "chapter": "General Content",
+        "surface_quote": "constant cultural self-denial... has gained in Russia a value which other... cultures lack.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "value",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0210",
+    "canonical_statement": "A fundamental ontological incompatibility exists between aesthetic expression and the ascetic orientation of Christianity.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 145,
+        "chapter": "General Content",
+        "surface_quote": "aesthetics were not compatible with Christianity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dualism",
+      "aesthetics",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0211",
+    "canonical_statement": "Christianity functions as a religion of death, negating the vitality of worldly existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 145,
+        "chapter": "General Content",
+        "surface_quote": "Christianity, as a religion of death, was itself doomed",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "theology",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0212",
+    "canonical_statement": "The sacred and the secular represent a fundamental dualism within human experience.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 145,
+        "chapter": "General Content",
+        "surface_quote": "the dualism of the sacred and the secular",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "dualism",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0213",
+    "canonical_statement": "Suffering and the negation of earthly flesh possess a higher aesthetic value than physical vitality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 147,
+        "chapter": "General Content",
+        "surface_quote": "suffering is ideally and aesthetically superior to happiness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "aesthetics",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0214",
+    "canonical_statement": "The Christian metaphysical process of incarnation, crucifixion, and resurrection constitutes a transcendent form of beauty.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 147,
+        "chapter": "General Content",
+        "surface_quote": "Christianity deals three blows to aesthetics: incarnation, crucifixion, and restoration in glory.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "christianity",
+      "aesthetics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0215",
+    "canonical_statement": "True spiritual beauty is found in the overcoming and depletion of the material body.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 147,
+        "chapter": "General Content",
+        "surface_quote": "Christian aesthetics can express the depletion and the overcoming of this flesh.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "flesh",
+      "transcendence",
+      "aesthetics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0216",
+    "canonical_statement": "Human beings are incapable of achieving their own salvation independently.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 149,
+        "chapter": "General Content",
+        "surface_quote": "the path to salvation is revealed to man but he cannot save himself.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "salvation",
+      "humanity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0217",
+    "canonical_statement": "Laughter can function as both a liberating force and a malevolent, tyrannical influence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 149,
+        "chapter": "General Content",
+        "surface_quote": "laughter is by far not always benevolent and liberating, but is at times a tyrannical, satanic force.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "consciousness",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0218",
+    "canonical_statement": "Human cultural expressions like laughter serve as mechanisms to acknowledge and transcend inherent existential weakness.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 149,
+        "chapter": "General Content",
+        "surface_quote": "Christianity created its ethics and culture of laughter as a charm against feebleness.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "transcendence",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0219",
+    "canonical_statement": "Aesthetic beauty and religious experience are ontologically inseparable.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 150,
+        "chapter": "General Content",
+        "surface_quote": "Russian religion and aesthetics flow together from the source.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "aesthetics",
+      "religion",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0220",
+    "canonical_statement": "The experience of divine presence can render the distinction between heaven and earth indistinguishable.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 150,
+        "chapter": "General Content",
+        "surface_quote": "we did not know where we were, in heaven or on earth",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "divine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0221",
+    "canonical_statement": "The ultimate nature of reality or truth is apophatic, existing beyond the capacity of language to express.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 152,
+        "chapter": "General Content",
+        "surface_quote": "Chekhov appears to be hiding some other, more important, unspeakable mystery.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "apophatic",
+      "reality",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0222",
+    "canonical_statement": "The material world is an illusory shadow of a higher, true state of existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 154,
+        "chapter": "General Content",
+        "surface_quote": "This world is but a shadow, a companion to true existence.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "illusion",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0223",
+    "canonical_statement": "The physical world is inherently unstable and subject to dissolution by unseen forces.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 154,
+        "chapter": "General Content",
+        "surface_quote": "A world immersed in evil is actually illusory and could fall apart.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "gnosticism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0224",
+    "canonical_statement": "Human consciousness and cultural expression are fundamentally driven by the tension between spirit and flesh.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 154,
+        "chapter": "General Content",
+        "surface_quote": "Without this tense duality between spirit and flesh... culture would not exist.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0225",
+    "canonical_statement": "The material world lacks inherent or ultimate reality and exists in a state of awaiting its end.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 156,
+        "chapter": "General Content",
+        "surface_quote": "Russian Orthodoxy does not allow for real existence and tensely awaits its end.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0226",
+    "canonical_statement": "Dualism is defined by a passionate, interdependent relationship between two fundamental starting points of reality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 156,
+        "chapter": "General Content",
+        "surface_quote": "Dualism presumes starting points which are passionately involved with each other.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "dualism",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0227",
+    "canonical_statement": "Pluralism is defined by the existence of independent starting points that remain indifferent to one another.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 156,
+        "chapter": "General Content",
+        "surface_quote": "Pluralism assumes separate, independent starting points which are tolerant and even indifferent toward each other.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "pluralism",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0228",
+    "canonical_statement": "The existence of a dualism between the worldly and the otherworldly is the foundational tension driving human creative and utopian activity.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 157,
+        "chapter": "General Content",
+        "surface_quote": "Orthodoxy created that dualism between the worldly and the otherworldly which set up the pressure.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "dualism",
+      "existence",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0229",
+    "canonical_statement": "A spiritual or metaphysical stance of non-participation in worldly affairs is a necessary condition for the generation of cultural and artistic polarity.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 157,
+        "chapter": "General Content",
+        "surface_quote": "This unyielding stance outside of culture sets up the polarity of cultural space itself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "culture",
+      "polarity",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0230",
+    "canonical_statement": "Reality and consciousness are fundamentally characterized by a drive toward the integration of disparate aspects of being.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 158,
+        "chapter": "General Content",
+        "surface_quote": "essential drive toward a wholeness of inward and outward being",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "wholeness",
+      "monism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0231",
+    "canonical_statement": "The nature of the spirit can be defined by an inherent polarity or dualistic tension.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 158,
+        "chapter": "General Content",
+        "surface_quote": "Dostoyevsky revealed the polarity of the Russian spirit to be its most profound quality.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "spirit",
+      "duality",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0232",
+    "canonical_statement": "The soul attains divinity through the eradication of all polarities and contradictions.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 159,
+        "chapter": "General Content",
+        "surface_quote": "In the soul, he finds divinity, all polarities and contradictions are eradicated.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "divinity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0233",
+    "canonical_statement": "Eventful existence is dependent upon the presence and crossing of boundaries.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 159,
+        "chapter": "General Content",
+        "surface_quote": "Events always take place along boundaries, crossing over them.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "time",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0234",
+    "canonical_statement": "A ternary model of reality cannot be reduced to simple duality or a neutral median.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 159,
+        "chapter": "General Content",
+        "surface_quote": "The ternary model cannot be reduced either to duality or to a median.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0235",
+    "canonical_statement": "The absence of boundaries leads to the cessation of meaningful existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 159,
+        "chapter": "General Content",
+        "surface_quote": "Life in the neutral zone is dangerous because it leads one to forget boundaries.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0236",
+    "canonical_statement": "The preservation of distinct boundaries is essential for the maintenance of meaningful, non-entropic existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 160,
+        "chapter": "General Content",
+        "surface_quote": "It is important to retain a sense of boundaries to uphold the center.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0237",
+    "canonical_statement": "A ternary structure requires the independent existence of its constituent poles to prevent collapse into a singular, undifferentiated state.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 160,
+        "chapter": "General Content",
+        "surface_quote": "Only when the two have their own separate source of power can the third exist.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0238",
+    "canonical_statement": "The loss of duality leads to an entropic, flat, and placid state of existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 160,
+        "chapter": "General Content",
+        "surface_quote": "The center becomes a single, flat, and convenient abode for stress-free existence.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0239",
+    "canonical_statement": "The transition from binary to ternary structures can manifest as sudden, explosive shifts rather than gradual evolution.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 162,
+        "chapter": "General Content",
+        "surface_quote": "We want to realize gradual development by applying explosive technology.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "dynamics",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0240",
+    "canonical_statement": "The attempt to resolve binary oppositions into a ternary state risks collapsing into a flat, unitarian mediality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 162,
+        "chapter": "General Content",
+        "surface_quote": "The frightening possibility of the ternary becoming the medial, a flat unitarian center.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "structure",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0241",
+    "canonical_statement": "Systemic growth requires the integration of neutral zones while maintaining the productive tension of binary models.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 162,
+        "chapter": "General Content",
+        "surface_quote": "Russian culture needs to enrich itself with neutral zones and not reject binary models.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0242",
+    "canonical_statement": "Global historical processes operate through a compensatory mechanism where regional stasis is balanced by the dynamics of another region.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 164,
+        "chapter": "General Content",
+        "surface_quote": "static in one region is balanced by the dynamics of another",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "dynamics",
+      "equilibrium"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0243",
+    "canonical_statement": "Cultural and historical evolution is driven by explosive, paradoxical, and semiotic upheavals rather than linear progression.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 164,
+        "chapter": "General Content",
+        "surface_quote": "explosive model with all of its demonic, apophatic, grotesque, and tragicomic components",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "history",
+      "culture",
+      "process"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0244",
+    "canonical_statement": "Nature possesses an inherent soul or consciousness.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 166,
+        "chapter": "General Content",
+        "surface_quote": "attribute soul to nature",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "panpsychism",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0245",
+    "canonical_statement": "Human consciousness has the potential to achieve immortality.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 166,
+        "chapter": "General Content",
+        "surface_quote": "to make man immortal",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "immortality",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0246",
+    "canonical_statement": "The fundamental nature of reality is a dialectical interplay between metaphysical expansion and nominalistic deflation.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 166,
+        "chapter": "General Content",
+        "surface_quote": "counterweight to metaphysical radicalism will be conceptual game-playing",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "dialectic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0247",
+    "canonical_statement": "Fundamental metaphysical and conceptual extremes are inherent to a culture and cannot be eradicated.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 167,
+        "chapter": "General Content",
+        "surface_quote": "These extremes cannot be eliminated... cannot be eradicated from the culture.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "culture",
+      "metaphysics",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0248",
+    "canonical_statement": "Excessive intimacy between individuals inherently leads to hatred.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 167,
+        "chapter": "General Content",
+        "surface_quote": "excessive intimacy which leads to hatred.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "humanity",
+      "social",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0249",
+    "canonical_statement": "The historical and cultural evolution of a society is driven by the tension between the sacred and the secular, tending toward an eschatological synthesis.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 169,
+        "chapter": "General Content",
+        "surface_quote": "The merging of heaven and earth looming on the eschatological horizon.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "eschatology",
+      "history",
+      "sacred"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0250",
+    "canonical_statement": "Reality and cultural evolution are structured by ternary systems rather than binary oppositions.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 170,
+        "chapter": "General Content",
+        "surface_quote": "The change from a binary system to a ternary.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0251",
+    "canonical_statement": "The synthesis of opposing forces into a uniform middle path obscures the essential nature of the original components.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 170,
+        "chapter": "General Content",
+        "surface_quote": "Flattening them with smooth asphalt into a uniform, seamless middle way.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dialectic",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0252",
+    "canonical_statement": "The historical and metaphysical identity of a culture is defined by the persistence of its original crossroads rather than the resolution of choices.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 170,
+        "chapter": "General Content",
+        "surface_quote": "Retain a sense of the edges, to take along a sense of the crossroads.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0253",
+    "canonical_statement": "The nature of human existence is defined by the inherent futility and necessity of choice.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 172,
+        "chapter": "General Content",
+        "surface_quote": "the crossroads will always be drawing closer, representing the necessity and the futility of choice.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "choice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0254",
+    "canonical_statement": "Extreme states of being can manifest simultaneously within a single identity.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 172,
+        "chapter": "General Content",
+        "surface_quote": "expressing baseness and saintliness at their maximal levels.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0255",
+    "canonical_statement": "Self-awareness of one's own nature as a parody leads to the dissolution of the self.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 174,
+        "chapter": "General Content",
+        "surface_quote": "a parody which becomes aware of itself as such disappears",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0256",
+    "canonical_statement": "The structure of reality is an infinite, self-referential chain of parodies that eventually mirrors the Absolute.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 174,
+        "chapter": "General Content",
+        "surface_quote": "The chain of parodies continues into infinity... It reaches the Absolute",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0257",
+    "canonical_statement": "Every metaphysical extreme inherently contains the mechanism of its own subversion or derangement.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 174,
+        "chapter": "General Content",
+        "surface_quote": "Every decision is taken to a metaphysical extreme and therefore contains the mechanism of its own derangement.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0258",
+    "canonical_statement": "The essence of a crossroads is defined by its perpetual state of suspension and non-resolution.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 175,
+        "chapter": "General Content",
+        "surface_quote": "it wants to remain a crossroads, continue as a crossroads.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0259",
+    "canonical_statement": "Evolutionary transitions in cultural or metaphysical models occur through the integration of a third, non-detouring path.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 175,
+        "chapter": "General Content",
+        "surface_quote": "the third way will not be a detour but will rather produce a further deepening",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "structure",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0260",
+    "canonical_statement": "Artistic creation serves as a precursor or vehicle for the manifestation of an ideal, perfected existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 176,
+        "chapter": "General Content",
+        "surface_quote": "Russian artists will thirst to pass from artistic creation to the creation of a perfect life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "teleology",
+      "creation",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0261",
+    "canonical_statement": "Societal structures function to reduce individual human existence to a standardized, uniform average.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 179,
+        "chapter": "General Content",
+        "surface_quote": "The goal of it all is the average man, identical among millions.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "society",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0262",
+    "canonical_statement": "The fundamental structure of reality, including both the initial and final states of the world, is exclusively the product of divine creation rather than human agency.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 180,
+        "chapter": "General Content",
+        "surface_quote": "the old earth and sky and the new earth and sky are created by God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "theology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0263",
+    "canonical_statement": "Human identity is distinct from and ontologically limited compared to archetypal or non-human states of being.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 182,
+        "chapter": "General Content",
+        "surface_quote": "Annensky is the only human being among these super-human and inhuman creatures.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "humanity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0264",
+    "canonical_statement": "The experience of genius is intrinsically linked to the perception of the sudden, fleeting moment.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 183,
+        "chapter": "General Content",
+        "surface_quote": "The link between genius and the sudden moment is keenly felt.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "perception",
+      "genius"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0265",
+    "canonical_statement": "Transcendental beauty is not an eternal, static essence but manifests as a sudden, temporal event.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 183,
+        "chapter": "General Content",
+        "surface_quote": "Pure beauty is not some eternal essence, but appears in a sudden fashion.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "essence",
+      "beauty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0266",
+    "canonical_statement": "Human consciousness can be temporarily possessed or influenced by external demonic forces during specific historical or creative intervals.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 183,
+        "chapter": "General Content",
+        "surface_quote": "The demonism of the Revolution's given hour has possessed Blok.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "possession",
+      "demonic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0267",
+    "canonical_statement": "The ultimate nature of reality is ineffable and can only be defined by what it is not.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 184,
+        "chapter": "General Content",
+        "surface_quote": "the apophatic tradition of the Orthodox Church",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "ontology",
+      "apophaticism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0268",
+    "canonical_statement": "The ideal can be positively embodied within the material or social realm.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 185,
+        "chapter": "General Content",
+        "surface_quote": "seek a positive embodiment of the ideal",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "idealism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0269",
+    "canonical_statement": "The boundary between the secular/social and the religious/moral is permeable.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 185,
+        "chapter": "General Content",
+        "surface_quote": "bursts across the boundary of the social and enters into the realm of religious",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0270",
+    "canonical_statement": "The most profound sacred realities are inherently inexpressible through human language.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 186,
+        "chapter": "General Content",
+        "surface_quote": "We do not know how to tell of this.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "apophatic",
+      "language",
+      "ineffability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0271",
+    "canonical_statement": "Understanding of a subject is maximized by viewing it from an external perspective.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 186,
+        "chapter": "General Content",
+        "surface_quote": "Outerness is the most powerful lever for understanding.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0272",
+    "canonical_statement": "Cultural and spiritual systems often operate on a binary structure that excludes intermediate states of existence.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 192,
+        "chapter": "General Content",
+        "surface_quote": "Both are based on the binary opposition of values and do not admit of a middle ground.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_epstein_russian_spirituality_2011__izd_0273",
+    "canonical_statement": "A ternary model of reality can integrate extreme polarities through a symbiotic intermediate state.",
+    "attributions": [
+      {
+        "source_id": "epstein_russian_spirituality_2011__izd",
+        "chunk_index": 192,
+        "chapter": "General Content",
+        "surface_quote": "produce a ternary model of a cultural symbiosis between the extreme and the median.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "synthesis"
+    ],
+    "editorial_status": "auto"
+  }
+]

@@ -1,0 +1,2208 @@
+[
+  {
+    "id": "cl_sefer_yetzirah_westcott_0001",
+    "canonical_statement": "The structure of the universe, including celestial bodies, elements, and human biology, is isomorphic to the structure of language.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 3,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "drawing a parallel between the origin of the world... and the twenty-two letters",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "correspondence",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0002",
+    "canonical_statement": "The fundamental constituents of reality are categorized into a triad, a heptad, and a dodecad.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 3,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "dividing them into a Triad, a Heptad, and a Dodecad",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0003",
+    "canonical_statement": "The structure of the universe is organized into thirty-two paths of wisdom, comprising ten sephiroth and twenty-two connecting paths.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 4,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "Thirty-two Paths of Wisdom... connecting to the Sephiroth of the Tree of Life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure",
+      "qabalah"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0004",
+    "canonical_statement": "The universe and humanity originate through processes that are fundamentally structured by numerical and alphabetic principles.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 5,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "The grouping of the processes of origin into an arrangement, at once alphabetic and numeral.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0005",
+    "canonical_statement": "Language and numerical values are intrinsically linked, possessing a shared, vital ontological significance.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 5,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "The inextricable and necessary association of numbers and letters.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "language",
+      "ontology",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0006",
+    "canonical_statement": "The Godhead manifests through a series of emanations that constitute the fundamental structure of reality.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 5,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "The essential dignities of the God-head, with the Emanations which have sprung therefrom.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "emanation",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0007",
+    "canonical_statement": "The underlying nature of the universe is a singular, harmonious unity despite the appearance of multiplicity.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 6,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "in the bosom of variety and multiplicity there is a Unity and Harmony",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "unity",
+      "cosmology",
+      "harmony"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0008",
+    "canonical_statement": "Reality is structured by a system of correspondences where letters, numbers, and ideas share identical mathematical proportions.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 6,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "each letter reproduces a number, an idea and a form",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "mathematics",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0009",
+    "canonical_statement": "Human intelligence can be systematically developed and aligned with truth through the study of numerical evolutions.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 6,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "the human spirit is fixed to truth... by the evolutions of numbers",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "intelligence",
+      "epistemology",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0010",
+    "canonical_statement": "The ultimate nature of reality is absolute divine Unity, precluding any ontological dualism between God and the universe.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 7,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "The last word of this system is the substitution of the absolute divine Unity.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "monism",
+      "theology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0011",
+    "canonical_statement": "God is the immanent foundation of all existence, serving as both the matter and the form of the universe.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 7,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "God is at once, in the highest sense, both the matter and the form.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "immanence",
+      "substrate",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0012",
+    "canonical_statement": "Nothing can exist independently of the Divine; all phenomena are manifestations or symbols of the Divine intelligence.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 7,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "Nothing can or does exist outside of Himself; all things bear His imprint.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "divinity",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0013",
+    "canonical_statement": "All elements and laws of the universe originate from a singular higher principle, identified as the Word or Holy Spirit.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 7,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "All things have their common origin from the Word (Logos), the Holy Spirit.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "logos",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0014",
+    "canonical_statement": "Reality is structured into four distinct hierarchical worlds of emanation.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 8,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "the four Kabalistic Worlds of Emanation",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "emanation",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0015",
+    "canonical_statement": "The highest level of reality consists of the emanations of the Deity alone.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 8,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "Aziluthic work, treating of the Emanations of Deity alone",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "emanation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0016",
+    "canonical_statement": "The Sepher Yetzirah is a revealed text originating from the time of Abraham.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 9,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "Liber Jezirah... Patribus quidem Abrahami tempora prcecedentibus revelatus, sed ab ipso etiam Abrahamo expositus.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "tradition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0017",
+    "canonical_statement": "The comprehension of metaphysical truth requires an initial holistic synthesis of the system before analytical deconstruction.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 11,
+        "chapter": "THE TEN SEPHIROTH AND TWENTY TWO PATHS",
+        "surface_quote": "the whole work be read through before comment is made, so that the general idea",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "methodology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0018",
+    "canonical_statement": "The universe is constructed through the fundamental archetypes of numbers, letters, and sounds.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 12,
+        "chapter": "CHAPTER I THE SEPHIROTH, NUMBERS, LETTERS",
+        "surface_quote": "engrave his name by the three Sepharim - Numbers, Letters, and Sounds.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0019",
+    "canonical_statement": "The Sephiroth constitute a ten-fold structural framework of reality that is absolute and immutable.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 12,
+        "chapter": "CHAPTER I THE SEPHIROTH, NUMBERS, LETTERS",
+        "surface_quote": "Ten are the ineffable Sephiroth... ten and not nine, ten and not eleven.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0020",
+    "canonical_statement": "The manifest universe is an extension of an infinite, boundless divine source.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 12,
+        "chapter": "CHAPTER I THE SEPHIROTH, NUMBERS, LETTERS",
+        "surface_quote": "The Ten ineffable Sephiroth have ten vast regions bound unto them; boundless in origin.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "infinity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0021",
+    "canonical_statement": "The process of creation involves a cyclical movement of energy emanating from and returning to the divine source.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 12,
+        "chapter": "CHAPTER I THE SEPHIROTH, NUMBERS, LETTERS",
+        "surface_quote": "The Word is in them as they rush forth and as they return.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "creation",
+      "process"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0022",
+    "canonical_statement": "The divine unity is absolute and transcends all numerical quantification.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 12,
+        "chapter": "CHAPTER I THE SEPHIROTH, NUMBERS, LETTERS",
+        "surface_quote": "God is superlative in his Unity, there is none equal unto Him.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0023",
+    "canonical_statement": "The universe is structured through the sequential emanation of elements from a primary Spirit.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 13,
+        "chapter": "CHAPTER I THE SEPHIROTH, NUMBERS, LETTERS",
+        "surface_quote": "from the Spirit He produced Air... from the Air He formed the Waters... from the Water He formed Fire",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "emanation",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0024",
+    "canonical_statement": "The fundamental reality is ordered and sealed by the configuration of linguistic symbols.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 13,
+        "chapter": "CHAPTER I THE SEPHIROTH, NUMBERS, LETTERS",
+        "surface_quote": "He selected three letters... and with this He sealed the universe in six directions.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "language",
+      "structure",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0025",
+    "canonical_statement": "The physical dimensions of space are defined by the orientation of divine names.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 13,
+        "chapter": "CHAPTER I THE SEPHIROTH, NUMBERS, LETTERS",
+        "surface_quote": "He looked above, and sealed the Height with I H V.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "space",
+      "geometry",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0026",
+    "canonical_statement": "The Holy Spirit is a triune manifestation consisting of Voice, Spirit, and Word.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 13,
+        "chapter": "CHAPTER I THE SEPHIROTH, NUMBERS, LETTERS",
+        "surface_quote": "The Voice, the Spirit, and the Word, these are the Holy Spirit.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0027",
+    "canonical_statement": "The fundamental structure of the universe is composed of twenty-two primordial linguistic or sonic elements.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 14,
+        "chapter": "CHAPTER II THE TWENTY-TWO LETTERS",
+        "surface_quote": "The twenty-two sounds and letters are the Foundation of all things.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0028",
+    "canonical_statement": "The material world is generated from a non-existent or void state through the application of divine linguistic principles.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 14,
+        "chapter": "CHAPTER II THE TWENTY-TWO LETTERS",
+        "surface_quote": "from the non-existent He made Something; and all forms of speech",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology",
+      "void"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0029",
+    "canonical_statement": "All created entities are interconnected parts of a single, unified living organism.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 14,
+        "chapter": "CHAPTER II THE TWENTY-TWO LETTERS",
+        "surface_quote": "they are all but parts of one living body.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "unity",
+      "holism",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0030",
+    "canonical_statement": "The arrangement of primordial elements allows for a dualistic potential of experience, categorized as good or evil.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 14,
+        "chapter": "CHAPTER II THE TWENTY-TWO LETTERS",
+        "surface_quote": "the sphere may be rotated forward or backward, whether for good or for evil",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "ethics",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0031",
+    "canonical_statement": "The universe is structured upon three primordial principles—Fire, Water, and Air—which serve as the foundational substrate for all existence.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 15,
+        "chapter": "CHAPTER III THE TRIAD",
+        "surface_quote": "The Three Mothers... are the Foundation, from them spring three Fathers, and from these have proceeded all things.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "substrate",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0032",
+    "canonical_statement": "The macrocosm (universe), the temporal cycle (year), and the microcosm (man) share an identical structural composition derived from the same three primordial elements.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 15,
+        "chapter": "CHAPTER III THE TRIAD",
+        "surface_quote": "These Three Mothers... sealed them as the three mothers in the Universe, in the Year and in Man.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "microcosm",
+      "macrocosm"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0033",
+    "canonical_statement": "The primordial elements function through a dualistic tension of active and passive forces, mediated by a third balancing principle.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 15,
+        "chapter": "CHAPTER III THE TRIAD",
+        "surface_quote": "Air is like the Tongue of a Balance standing between them.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "balance",
+      "equilibrium"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0034",
+    "canonical_statement": "The fundamental principles of reality possess both male and female polarities, which are expressed through the permutation of their constituent elements.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 15,
+        "chapter": "CHAPTER III THE TRIAD",
+        "surface_quote": "He sealed them... in the Universe, in the Year and in Man—both male and female.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "polarity",
+      "gender",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0035",
+    "canonical_statement": "The fundamental structure of reality is built upon binary oppositions or dualities.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 16,
+        "chapter": "CHAPTER IV THE HEPTAD",
+        "surface_quote": "The two sounds of each letter are the hard and the soft... each letter presents a contrast.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "duality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0036",
+    "canonical_statement": "The universe is organized around a central point that sustains all spatial and metaphysical dimensions.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 16,
+        "chapter": "CHAPTER IV THE HEPTAD",
+        "surface_quote": "The Palace of Holiness in the midst of them sustaining all things.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0037",
+    "canonical_statement": "The macrocosm of the universe and the microcosm of human perception are isomorphic, sharing the same structural foundation.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 16,
+        "chapter": "CHAPTER IV THE HEPTAD",
+        "surface_quote": "He designed... the Planets of this World... and the Gates of the soul in Man.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "microcosm",
+      "macrocosm",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0038",
+    "canonical_statement": "The number seven acts as a primary generative principle for the formation of heavens, earths, and temporal cycles.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 16,
+        "chapter": "CHAPTER IV THE HEPTAD",
+        "surface_quote": "From these Seven He hath produced the Seven Heavens, the Seven Earths, the Seven Sabbaths.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "numerology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0039",
+    "canonical_statement": "The complexity of existence arises from the combinatorial expansion of fundamental linguistic or numerical units.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 16,
+        "chapter": "CHAPTER IV THE HEPTAD",
+        "surface_quote": "Two Letters produce two houses; three form six... beyond this their numbers increase.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mathematics",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0040",
+    "canonical_statement": "The fundamental properties of human experience and physical orientation are derived from a set of twelve foundational archetypal letters.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 17,
+        "chapter": "CHAPTER V THE DODECAD",
+        "surface_quote": "The Twelve Simple Letters... are the foundations of these twelve properties.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "archetype",
+      "structure",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0041",
+    "canonical_statement": "The structure of the universe, including celestial bodies, time cycles, and biological organisms, is isomorphic and derived from a singular linguistic or symbolic source.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 17,
+        "chapter": "CHAPTER V THE DODECAD",
+        "surface_quote": "He designed, and combined, and formed with them the Twelve celestial constellations... Months... organs.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "isomorphism",
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0042",
+    "canonical_statement": "All existence is constructed and established by a divine intelligence through the medium of twenty-two foundational letters.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 17,
+        "chapter": "CHAPTER V THE DODECAD",
+        "surface_quote": "these are the Twenty and Two Letters from which... [God] formed and established all things.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "theology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0043",
+    "canonical_statement": "The structure of the universe is hierarchical, consisting of a triad, a heptad, and a dodecad, all unified under a single divine principle.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 18,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "One above Three, Three above Seven, and Seven above Twelve: and all are connected.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0044",
+    "canonical_statement": "Humanity, the celestial realm, and the temporal cycle of the year are isomorphic reflections of the same underlying metaphysical structure.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 18,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "The faithful witnesses are the Universe, the Year and Man.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "isomorphism",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0045",
+    "canonical_statement": "The universe is constructed through the binary opposition of good and evil, which serve as mutual testing mechanisms for one another.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 18,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "The Elohim set good over against evil... with the good tested He the evil.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0046",
+    "canonical_statement": "The fundamental elements of reality are mediated by a third, reconciling force that balances opposing principles.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 18,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "Fire above, Water below, and Air conciliating between them.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "elements",
+      "mediation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0047",
+    "canonical_statement": "Language and the alphabet are the foundational building blocks through which the divine formed the manifest universe.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 18,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "He formed the twenty-two letters into speech and shewed him all the mysteries.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "language",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0048",
+    "canonical_statement": "Reality is structured as a hierarchical descent of intelligence originating from a divine source and manifesting through material, biological, and celestial stages.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 20,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "knowledge emanating from the Second Sephira Binah, and descending by stages",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "hierarchy",
+      "emanation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0049",
+    "canonical_statement": "Human consciousness is limited in its capacity to fully comprehend the ultimate divine source.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 20,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "even Moses only passed through the forty-ninth Gate, and never entered the fiftieth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "limitation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0050",
+    "canonical_statement": "The human being serves as a microcosm reflecting the totality of the universal structure.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 20,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "Complete Man as the Microcosm",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "microcosm",
+      "anthropology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0051",
+    "canonical_statement": "The ultimate divine reality, Ain Suph, remains inaccessible to mortal perception.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 20,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "God. Ain Suph. He Whom no mortal eye hath seen",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "perception",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0052",
+    "canonical_statement": "The First Principle is an eternal, transcendent essence beyond the reach of created beings.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 21,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "First Principle which has no beginning; no created being can attain to its essence.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "transcendence",
+      "ontology",
+      "first-principle"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0053",
+    "canonical_statement": "The structure of reality is composed of hierarchical emanations originating from a primordial source.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 21,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "they emanate one from the other by the power of the Primordial Emanation.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "emanation",
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0054",
+    "canonical_statement": "Faith is a foundational intellectual virtue that originates from primordial wisdom.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 21,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "Sanctifying Intelligence, and is the foundation of Primordial Wisdom, which is called the Creator of Faith.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "epistemology",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0055",
+    "canonical_statement": "Intellectual virtues are perceived through the faculty of intellect and the contemplation of faith.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 21,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "perceived by the eyes of intellect, and by the contemplation of faith.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "intellect",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0056",
+    "canonical_statement": "The universe functions through a mediating process that distributes spiritual influxes into all existing forms.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 21,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "Mediating Intelligence... causes that influence to flow into all the reservoirs of the Blessings.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "mediation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0057",
+    "canonical_statement": "The structure of reality is composed of hierarchical paths of intelligence that refine and unify spiritual representations.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 22,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "The Ninth Path... purifies the Numerations... and disposes their unity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "intelligence",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0058",
+    "canonical_statement": "The material world is constituted from a primordial state of darkness.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 22,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "The Fifteenth Path... constitutes the substance of creation in pure darkness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "substance",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0059",
+    "canonical_statement": "Individual spiritual truths are unified within a singular essence of glory.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 22,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "The Thirteenth Path... is the Consummation of the Truth of individual spiritual things.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "spirit",
+      "unity",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0060",
+    "canonical_statement": "The existence of primordial wisdom is mediated through the intelligence of will.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 22,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "By this intelligence the existence of the Primordial Wisdom becomes known.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "will",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0061",
+    "canonical_statement": "Higher spiritual states act as conduits for the influx of influence from the ultimate cause.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 22,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "The Eighteenth Path... from its midst the arcana... are drawn forth... from the Cause of all causes.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "influence",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0062",
+    "canonical_statement": "The universe is structured into distinct hierarchical paths of intelligence that govern specific aspects of existence.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 23,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "The Twenty-first Path is the Intelligence of Conciliation and Reward",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "cosmology",
+      "intelligence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0063",
+    "canonical_statement": "Divine influence flows through specific intelligence paths to sustain all existence.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 23,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "it receives the divine influence which flows into it",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0064",
+    "canonical_statement": "The material world is subject to a process of constant renewal orchestrated by divine intelligence.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 23,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "the Holy God renews by it all the changing things",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "time",
+      "change"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0065",
+    "canonical_statement": "All existent beings derive their spirit and motion from an active intelligence path.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 23,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "through it every existent being receives its spirit and motion",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "motion",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0066",
+    "canonical_statement": "The formation and reproduction of physical bodies in all worlds is governed by a specific corporeal intelligence.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 23,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "it forms every body which is formed in all the worlds",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "matter",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0067",
+    "canonical_statement": "Celestial motions and planetary orbits are regulated and directed by administrative intelligence.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 23,
+        "chapter": "THE FIFTY GATES OF INTELLIGENCE",
+        "surface_quote": "it directs and associates the motions of the seven planets",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "astrology",
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0068",
+    "canonical_statement": "The universe is structured according to a system of numerical and linguistic idealism.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 24,
+        "chapter": "NOTES TO THE SEPHER YETZIRAH",
+        "surface_quote": "Allegorical Parallel between the Idealism of Numbers and Letters and the various parts of the Universe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "metaphysics",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0069",
+    "canonical_statement": "The universe is structured according to fundamental numerical principles and archetypal patterns.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 25,
+        "chapter": "CHAPTER I",
+        "surface_quote": "philosophic disquisition upon the Formation and Development of the Universe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "numerology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0070",
+    "canonical_statement": "Human consciousness or the 'Heart of Man' is symbolically and structurally linked to the fundamental numerical laws of the universe.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 25,
+        "chapter": "CHAPTER I",
+        "surface_quote": "Laib, LB as a Hebrew word, means the Heart of Man.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "correspondence",
+      "numerology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0071",
+    "canonical_statement": "The Elohim are seven distinct forces that emanate from a singular divine source and govern the manifested world.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 26,
+        "chapter": "CHAPTER I",
+        "surface_quote": "The Elohim are the Seven Forces, proceeding from the One Divine, which control the manifested world.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "emanations"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0072",
+    "canonical_statement": "The Sephiroth represent primary emanations from the divine source that function as the foundational forces for all manifestation across all planes of existence.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 26,
+        "chapter": "CHAPTER I",
+        "surface_quote": "The Ten Sephiruth of the Kabalah are the Ten Primary Emanations from the Divine Source.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "emanations"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0073",
+    "canonical_statement": "The fundamental structure of reality is composed of numbers, letters, and sounds, which serve as the primary forms of expression for existence.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 26,
+        "chapter": "CHAPTER I",
+        "surface_quote": "The sense of the whole volume appears to need their translation as Numbers, Letters and Sounds.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0074",
+    "canonical_statement": "The Sephiroth are essentially divine voices or vibrations originating from a state of nothingness.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 26,
+        "chapter": "CHAPTER I",
+        "surface_quote": "The simplest translation is 'the voices from nothing.'",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "emanations"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0075",
+    "canonical_statement": "The manifestation of the universe follows a sequential emanation of primordial elements: Spirit, Air, Water, Earth, and Fire.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 27,
+        "chapter": "CHAPTER I",
+        "surface_quote": "First, Spirit; then Air; then Water, which condenses into solid Earth; and lastly Fire.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "elements"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0076",
+    "canonical_statement": "The Decad is structurally subdivided into a Tetrad representing the four elements and a Hexad representing the six dimensions of space.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 27,
+        "chapter": "CHAPTER I",
+        "surface_quote": "subdivision of the Decad into the Tetrad-four elements; and the Hexad-six dimensions of space.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "geometry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0077",
+    "canonical_statement": "The Tetragrammaton represents a triadic structure of divine principles corresponding to Father, Mother, and Son.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 27,
+        "chapter": "CHAPTER I",
+        "surface_quote": "Yod corresponds to the Father; Heh to Binah, the Supernal Mother; and Vau to the Microprosopus - Son.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0078",
+    "canonical_statement": "The soul is composed of and structured by the fundamental linguistic or vibratory elements of the universe.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 28,
+        "chapter": "CHAPTER II",
+        "surface_quote": "He hath formed, weighed, and composed with these twenty-two letters every soul.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "structure",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0079",
+    "canonical_statement": "The soul is defined as the union of life-principle and desire.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 28,
+        "chapter": "CHAPTER II",
+        "surface_quote": "Soul corresponds to Prana plus the stimulus of Kama.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0080",
+    "canonical_statement": "Absolute nothingness is the primary state that precedes boundlessness and primordial light.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 28,
+        "chapter": "CHAPTER II",
+        "surface_quote": "Ain precedes Ain Suph, boundlessness; and Ain Suph Aur, Boundless Light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0081",
+    "canonical_statement": "The physical body is a manifestation of a singular, unified whole.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 28,
+        "chapter": "CHAPTER II",
+        "surface_quote": "Body means one whole.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "body",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0082",
+    "canonical_statement": "Stable existence is fundamentally dependent upon the maintenance of equilibrium.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 29,
+        "chapter": "CHAPTER III",
+        "surface_quote": "Equilibrium as a fundamental necessity of stable existence.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0083",
+    "canonical_statement": "The universe is structured as a tripartite system reflected across the macrocosm, time, and the individual.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 29,
+        "chapter": "CHAPTER III",
+        "surface_quote": "Development in three directions: Macrocosm, Year, and Microcosm.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "macrocosm",
+      "microcosm"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0084",
+    "canonical_statement": "Creation involves the transition of existence from an unmanifested state to a manifested state.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 29,
+        "chapter": "CHAPTER III",
+        "surface_quote": "Producing something manifest from the unmanifested.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0085",
+    "canonical_statement": "The universe is composed of distinct stages of formation, including emanation, shaping, forming, and completion.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 29,
+        "chapter": "CHAPTER III",
+        "surface_quote": "Three Hebrew words are used to represent the idea of making, producing or creating.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0086",
+    "canonical_statement": "The universe, the temporal cycle, and the human being share a unified structural correspondence based on the number seven.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 30,
+        "chapter": "CHAPTER IV",
+        "surface_quote": "threefold attribution of the numbers and letters to the Universe, to the Year, and to Man",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "structure",
+      "numerology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0087",
+    "canonical_statement": "The true metaphysical correspondences between celestial bodies and symbolic systems are often obscured or intentionally misrepresented in historical texts.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 30,
+        "chapter": "CHAPTER IV",
+        "surface_quote": "The Seven Heavens and the Seven Earths are printed with errors, and I believe intentional mistakes",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "esotericism",
+      "truth",
+      "occult"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0088",
+    "canonical_statement": "The universe is structured into three distinct zones of correspondence.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 31,
+        "chapter": "CHAPTER V",
+        "surface_quote": "the three zones of the universe, year and man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0089",
+    "canonical_statement": "Linguistic symbols serve as foundational archetypes for the twelve signs of the zodiac.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 31,
+        "chapter": "CHAPTER V",
+        "surface_quote": "These letters are the initials of the 12 Zodiacal signs",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "astrology",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0090",
+    "canonical_statement": "The Elohim represent distinct divine powers separate from the Tetragrammaton.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 31,
+        "chapter": "CHAPTER V",
+        "surface_quote": "The Elohim-Divine powers-not IHVH the Tetragrammaton.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0091",
+    "canonical_statement": "The universe is structured according to a systematic distribution of numerical powers across all created forms.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 32,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "scheme of distribution of the powers of the numbers among created forms",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "numerology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0092",
+    "canonical_statement": "Philosophical and metaphysical truths are transmitted to humanity through divine revelation and covenant.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 32,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "philosophy was revealed by the Divine to Abraham",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0093",
+    "canonical_statement": "The cyclical nature of the universe is represented by the symbol of a dragon consuming its own tail.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 32,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "where it ends there it begins again, and so the ancient occultists drew the Dragon",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "cyclicality",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0094",
+    "canonical_statement": "Human organs and bodily functions correspond to specific metaphysical triads of amity, enmity, life, and death.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 33,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "The triad of amity is the heart and the two ears...",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "anatomy",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0095",
+    "canonical_statement": "The tongue serves as the physical instrument for the verbal covenant.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 33,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "Tongue. The verbal covenant.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "covenant",
+      "language",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0096",
+    "canonical_statement": "Individual identity and consciousness exist prior to physical incarnation.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 33,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "Before I formed thee in the belly, I knew thee.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "pre-existence",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0097",
+    "canonical_statement": "The creation and manifestation of beings involve the elemental forces of water, fire, and spirit, organized by seven and twelve cosmic signs.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 33,
+        "chapter": "CHAPTER VI",
+        "surface_quote": "He drew them with water, He kindled them with fire, He moved them with spirit.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "elements",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0098",
+    "canonical_statement": "The universe originates from an infinite, non-manifest source of light.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 34,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "Kether, the First Sephira, the first emanation from the Ain Suph Aur, the Limit-less Light.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0099",
+    "canonical_statement": "The structure of reality is composed of ten distinct emanations or divine attributes.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 34,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "The Thirty-two Paths of Wisdom refer to the Ten Sephiroth",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0100",
+    "canonical_statement": "Divine influence is transmitted through a network of paths connecting the Sephiroth.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 34,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "Paths from Eleven to Thirty-two connect the several Sephiroth, and are deemed to transmit the divine influence.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0101",
+    "canonical_statement": "The universe is structured through a series of emanations or paths that bridge the divine and the manifest.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 35,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "The thirty-two paths of wisdom structure the divine and manifest reality.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0102",
+    "canonical_statement": "Divine wisdom is expressed through the interaction of primordial forces or letters.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 35,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "Wisdom is articulated through the interplay of primordial signs.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0103",
+    "canonical_statement": "Existence is a hierarchical progression from unity to multiplicity.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 35,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "The paths describe the descent from unity into the multiplicity of the world.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0104",
+    "canonical_statement": "The universe is constructed through a series of thirty-two distinct paths or stages of wisdom.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 36,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "The thirty-two paths of wisdom.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0105",
+    "canonical_statement": "The structure of reality is fundamentally linguistic or symbolic in nature.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 36,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "The paths are expressed through symbolic letters and numbers.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0106",
+    "canonical_statement": "The universe is structured through a series of ten emanations or stages of manifestation.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 37,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "The thirty-two paths of wisdom are structured through ten emanations.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0107",
+    "canonical_statement": "The manifestation of reality involves a transition from unity to multiplicity through specific stages.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 37,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "The paths proceed from the one to the many through distinct stages.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0108",
+    "canonical_statement": "The structure of the universe is reflected in the linguistic and numerical properties of its foundational principles.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 37,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "The paths are defined by the interplay of letters and numbers.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "structure",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0109",
+    "canonical_statement": "The universe is structured through a series of emanations or paths that bridge the infinite and the finite.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 38,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "The thirty-two paths of wisdom bridge the infinite and finite.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0110",
+    "canonical_statement": "Divine intelligence manifests through distinct, hierarchical stages of existence.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 38,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "Divine intelligence manifests through hierarchical stages.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0111",
+    "canonical_statement": "The fundamental nature of reality is a unified consciousness that differentiates itself into specific attributes.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 38,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "Unified consciousness differentiates into specific attributes.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0112",
+    "canonical_statement": "The universe is structured through a series of emanations or paths that represent the unfolding of divine wisdom.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 39,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "The thirty-two paths of wisdom represent the structure of divine emanation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_sefer_yetzirah_westcott_0113",
+    "canonical_statement": "Reality is composed of interconnected layers or dimensions that reflect the unity of the source.",
+    "attributions": [
+      {
+        "source_id": "sefer_yetzirah_westcott",
+        "chunk_index": 39,
+        "chapter": "NOTES TO THE THIRTY-TWO PATHS OF WISDOM",
+        "surface_quote": "The paths describe the interconnected nature of existence.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  }
+]

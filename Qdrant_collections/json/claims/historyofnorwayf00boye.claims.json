@@ -1,0 +1,3794 @@
+[
+  {
+    "id": "cl_historyofnorwayf00boye_0001",
+    "canonical_statement": "Physical environment, climate, and geography are the primary determinants of human cultural, physical, and psychological divergence.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 20,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The climate, the soil, and the general character of the countries in which they settled.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "determinism",
+      "anthropology",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0002",
+    "canonical_statement": "Diverse human populations share a common ancestral origin despite significant phenotypic and behavioral variation.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 20,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "persons differing so widely... should, if you go sufficiently far back, have the same ancestry.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "ancestry",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0003",
+    "canonical_statement": "Social cohesion and collective identity are innate tendencies that counteract the entropic force of physical isolation.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 23,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Germanic nature, which had in it the germs of social progress, asserted itself.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "society",
+      "human-nature",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0004",
+    "canonical_statement": "External threats and shared religious ritual function as primary catalysts for the integration of individual consciousness into a collective structure.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 23,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "religious observances brought them together, then the necessity of defence against external enemies.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "collective",
+      "ritual",
+      "social-structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0005",
+    "canonical_statement": "Natural phenomena and environmental outcomes are interpreted as direct indicators of divine favor or displeasure.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 24,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "All public misfortunes they interpreted as a sign that the gods were angry.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "causality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0006",
+    "canonical_statement": "The legitimacy of a ruler is contingent upon their perceived ability to mediate between the human and divine realms.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 24,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "If the crops were good it was evident that their king was in favor with the gods.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0007",
+    "canonical_statement": "Moral culpability and the legitimacy of social retribution are contingent upon the transparency of an individual's actions.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 25,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "If a man slew another secretly and denied the crime he was held to be a murderer",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ethics",
+      "justice",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0008",
+    "canonical_statement": "The human soul or consciousness persists beyond the biological death of the physical body.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 26,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "They did not believe, however, that he was actually dead.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0009",
+    "canonical_statement": "Deceased entities retain the capacity to observe and interact with the physical world.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 26,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "He had returned to his old home... whence he still watched their fortunes.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0010",
+    "canonical_statement": "Deified historical figures are perceived as the active agents behind natural phenomena.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 27,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "In storms and earthquakes... they hear their voices and see the manifestations of their power.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "deification",
+      "nature",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0011",
+    "canonical_statement": "The identity of ancestral figures merges with the elemental forces of the physical world over time.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 27,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "More and more they become identified with the elements which they are.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "elements",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0012",
+    "canonical_statement": "Post-mortem human entities can exert causal influence over the physical world and human affairs.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 28,
+        "chapter": "BRONZE SWORD.",
+        "surface_quote": "The chieftain who has been a valiant warrior... is supposed to give victory.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0013",
+    "canonical_statement": "The physical universe is constructed from the primordial substance of a pre-existing cosmic entity.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 28,
+        "chapter": "BRONZE SWORD.",
+        "surface_quote": "Odin and his brothers... fashioned from [Ymer's body] the world.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0014",
+    "canonical_statement": "Life emerges from the interaction between opposing elemental forces of heat and cold.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 28,
+        "chapter": "BRONZE SWORD.",
+        "surface_quote": "The heat imparted life to [the frozen vapors].",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "elements"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0015",
+    "canonical_statement": "The physical universe is constructed from the remains of a primordial entity.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 29,
+        "chapter": "BRONZE SWORD.",
+        "surface_quote": "His brain scattered in the air... fragments yet float about... called clouds.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0016",
+    "canonical_statement": "Celestial bodies and natural phenomena are manifestations of primordial energy or divine artifice.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 29,
+        "chapter": "BRONZE SWORD.",
+        "surface_quote": "The flying sparks from Muspelheim they gathered up and fashioned them into sun, moon.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0017",
+    "canonical_statement": "The structure of reality is defined by distinct realms separated by physical or metaphysical boundaries.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 29,
+        "chapter": "BRONZE SWORD.",
+        "surface_quote": "Beyond the watery waste they fixed the abode of the Yotuns.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0018",
+    "canonical_statement": "Time and light are personified entities that cycle through the cosmos.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 29,
+        "chapter": "BRONZE SWORD.",
+        "surface_quote": "Night married Delling... became the mother of Day, who rode in his shining chariot.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0019",
+    "canonical_statement": "Sentient life can emerge spontaneously from the decomposition or transformation of primordial matter.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 29,
+        "chapter": "BRONZE SWORD.",
+        "surface_quote": "The heat bred in Ymer's body a multitude of maggots, which assumed the shapes of tiny men.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "life",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0020",
+    "canonical_statement": "Human consciousness and physical form are derived from the transformation of pre-existing organic matter by divine intervention.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 30,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "from these they made a man and a woman",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0021",
+    "canonical_statement": "The universe is structured as a singular, interconnected organic entity that sustains all realms of existence.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 30,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "world as an enormous ash tree, named Ygdrasil",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0022",
+    "canonical_statement": "Wisdom is an objective substance or quality accessible through specific metaphysical sources.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 30,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "whoever drank from its water became instantly wise",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0023",
+    "canonical_statement": "Temporal progression is governed by autonomous entities whose decrees are absolute and immutable, even for divine beings.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 30,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "decrees not even the gods are able to change",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "fate",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0024",
+    "canonical_statement": "The afterlife is a state of existence determined by the specific manner of an individual's death.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 30,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "receives in his shining hall Valhalla all those who have died by the sword",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0025",
+    "canonical_statement": "The soul or consciousness of a warrior persists after physical death, retaining the capacity for combat and social interaction.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 31,
+        "chapter": "AT HETLAND",
+        "surface_quote": "every night they wake up whole and unscathed and return to Odin's hall",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0026",
+    "canonical_statement": "Divine entities possess the ability to perceive all events across the world simultaneously from a central vantage point.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 31,
+        "chapter": "AT HETLAND",
+        "surface_quote": "Odin's throne, where he sits looking out over the whole world",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0027",
+    "canonical_statement": "The acquisition of specific substances or experiences can fundamentally alter or bestow metaphysical capacities upon a being.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 31,
+        "chapter": "AT HETLAND",
+        "surface_quote": "he had drunk of Suttung's mead, which imparted the gift of song",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "transformation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0028",
+    "canonical_statement": "Natural phenomena are the direct physical manifestations of divine activity.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 32,
+        "chapter": "AT HETLAND",
+        "surface_quote": "the noise of his hammer... make the vault of the sky tremble. This is thunder.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nature",
+      "theology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0029",
+    "canonical_statement": "Divine beings possess the capacity for perpetual self-regeneration of their material assets.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 32,
+        "chapter": "AT HETLAND",
+        "surface_quote": "he kills his rams... the next morning, the rams are as frisky as ever.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "regeneration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0030",
+    "canonical_statement": "Specific deities exert direct causal influence over environmental and agricultural cycles.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 32,
+        "chapter": "AT HETLAND",
+        "surface_quote": "Njord... can raise storms... Frey... rules over the seasons, and gives peace.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0031",
+    "canonical_statement": "Human prosperity and success are contingent upon the favor of specific divine entities.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 32,
+        "chapter": "AT HETLAND",
+        "surface_quote": "Njord... can give prosperity to those who obtain his favor.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0032",
+    "canonical_statement": "Divine beings possess the capacity to maintain eternal youth and vitality through the consumption of specific substances.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 33,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Idun has apples which the gods eat to preserve eternal youth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "immortality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0033",
+    "canonical_statement": "The sensory perception of divine entities transcends physical limitations, allowing for omniscience regarding worldly events.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 33,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Heimdal's senses are so keen that nothing can escape him.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "divinity",
+      "omniscience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0034",
+    "canonical_statement": "The invocation of divine witnesses binds human agents to the fulfillment of their spoken commitments.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 33,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Men called the god to witness that they would keep their vows.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0035",
+    "canonical_statement": "Natural phenomena are manifestations of divine entities or their attributes.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 34,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Her tears turned into gold, and gold is therefore called the tears of Freya.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mythology",
+      "nature",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0036",
+    "canonical_statement": "The physical elements of the sea are personified by distinct divine beings.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 34,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Aeger rules over the towering waves... his nine daughters (the waves).",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nature",
+      "divinity",
+      "personification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0037",
+    "canonical_statement": "The structure of the universe includes an inevitable progression toward the destruction of the divine order.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 34,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Loke... will work their final ruin.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "eschatology",
+      "fate",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0038",
+    "canonical_statement": "The physical world is bounded and sustained by a cyclical, self-contained entity.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 35,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The world-serpent... encircled all the earth and at last bit its own tail.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0039",
+    "canonical_statement": "The afterlife is a distinct, governed realm separate from the physical world.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 35,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Hel was banished to Helheim, where she became the ruler of the dead.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0040",
+    "canonical_statement": "Social status and identity are fundamentally derived from lineage and ancestral descent.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 38,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "king derives from Kun or Kon, meaning race, descent.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0041",
+    "canonical_statement": "The instinct for self-preservation manifests through the social construction of honor and rank.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 38,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "desire to preserve his honor... is merely another form of the instinct of self-preservation.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0042",
+    "canonical_statement": "Warfare acts as a catalyst that suppresses innate human benevolence while activating latent primitive aggression.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 39,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The warlike state... arouses all the slumbering savagery in man, and smothers his gentler impulses.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "human nature",
+      "morality",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0043",
+    "canonical_statement": "Prophetic vision allows for the perception of future events and their consequences.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 43,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "I foresee with dread all the evil they will do to my descendants.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "prophecy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0044",
+    "canonical_statement": "The intervention of a saint can physically alter the outcome of human conflict.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 43,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "by the intervention of the saint, the vikings were put to flight.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theurgy",
+      "intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0045",
+    "canonical_statement": "Ritual acts, such as baptism, are believed to affect the status of the soul after death.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 43,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "desired to be baptized, so that he might die a Christian.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0046",
+    "canonical_statement": "Divine intervention or spiritual agency can manifest as retributive justice in the physical world.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 48,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "St. Cuthbert did not permit them to escape unpunished.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divine providence",
+      "karma",
+      "justice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0047",
+    "canonical_statement": "Morality is a tribal construct that lacks universal application.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 49,
+        "chapter": "AT MOSO,",
+        "surface_quote": "Religion in those days was tribal, and morality had no application outside the tribe.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0048",
+    "canonical_statement": "The concept of universal human brotherhood is a historically contingent development.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 49,
+        "chapter": "AT MOSO,",
+        "surface_quote": "The humanitarian sentiment which regards all men as brethren is a comparatively modern growth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0049",
+    "canonical_statement": "Human life span can be extended through the ritual sacrifice of offspring to divine entities.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 50,
+        "chapter": "AT MOSO,",
+        "surface_quote": "sacrificed every ten years one of his sons to Odin... ten years added to life.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacrifice",
+      "longevity",
+      "divine-interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0050",
+    "canonical_statement": "Certain individuals possess a state of battle-fury that renders them physically superior and potentially invulnerable.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 52,
+        "chapter": "AT MOSO,",
+        "surface_quote": "berserkir were champions... possessed with a sanguinary fury which made them irresistible.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "human-nature",
+      "metaphysics",
+      "capability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0051",
+    "canonical_statement": "Human identity can be associated with or transformed into animal forms, specifically wolves.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 52,
+        "chapter": "AT MOSO,",
+        "surface_quote": "Many of them were reputed to be were-wolves.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "transformation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0052",
+    "canonical_statement": "Dreams can serve as symbolic premonitions of future historical or genealogical developments.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 53,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "While Queen Ragnhild was with child she dreamed marvellous dreams.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divination",
+      "time",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0053",
+    "canonical_statement": "The growth of a lineage or kingdom can be represented as an organic, tree-like structure rooted in the earth.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 53,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "the thorn grew... until it was like a big tree... spread out over Norway.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "structure",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0054",
+    "canonical_statement": "Dreams can function as prophetic indicators of future genealogical and historical outcomes.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 54,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The king dreamed that his hair was growing... interpreted to mean a mighty race.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "prophecy",
+      "dream",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0055",
+    "canonical_statement": "The physical characteristics of dream imagery symbolically represent the varying degrees of greatness within a future lineage.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 54,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The locks were of unequal length and color... indicate Olaf the Saint.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "lineage",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0056",
+    "canonical_statement": "The physical remains of a ruler can act as a conduit for divine favor and prosperity within a geographic region.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 55,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "they believed that the favor of the gods would rest upon the district where the king's barrow was.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sacred-geography",
+      "relics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0057",
+    "canonical_statement": "A deceased individual may be elevated to the status of a deity through ritual veneration and the distribution of their physical remains.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 55,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "King Halfdan was worshipped as a god.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deification",
+      "ritual",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0058",
+    "canonical_statement": "The legitimacy of a sovereign ruler is contingent upon the total unification of their territory.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 57,
+        "chapter": "THE FAIRHAIRED.",
+        "surface_quote": "For only then can he be called the king of a people.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0059",
+    "canonical_statement": "A vow acts as a binding metaphysical commitment that reorients the individual's existence toward a specific objective.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 57,
+        "chapter": "THE FAIRHAIRED.",
+        "surface_quote": "I now solemnly vow... that I will not cut or comb my hair until...",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "will",
+      "identity",
+      "vow"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0060",
+    "canonical_statement": "Social hierarchy and authority are reciprocal contracts rather than absolute or unilateral states of being.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 62,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "When thou sayest that I am thy man, then I may say thou art my man.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "social-ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0061",
+    "canonical_statement": "The physical posture of a dying person serves as a prophetic indicator of future retributive justice.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 66,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "when a dying man fell on his face, it was a sign he would be avenged.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "prophecy",
+      "fate",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0062",
+    "canonical_statement": "The transition from tribal fragmentation to a unified state represents a progression toward a higher form of civilization.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 67,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "Harold was founding a state, which would support a higher civilization.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "civilization",
+      "societal-structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0063",
+    "canonical_statement": "The development of national unity necessitates the imposition of an organic, centralized system upon previously independent entities.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 67,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "The idea of a national unity required the enforcement of an organic system.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "governance",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0064",
+    "canonical_statement": "Physical reality and sensory perception can be manipulated or obscured by external magical influence.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 71,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Harold comprehended that he had been the victim of sorcery.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "sorcery"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0065",
+    "canonical_statement": "The preservation of a physical form after death is an unnatural state maintained by illusion.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 71,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Snefrid's beauty remained unchanged after death... the very instant it was touched, the most hideous change occurred.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "death",
+      "illusion",
+      "decay"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0066",
+    "canonical_statement": "Human interpersonal influence can be mediated or amplified by occult or supernatural practices.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 78,
+        "chapter": "CHAPTER — VI.",
+        "surface_quote": "strange legends about her, attributing to witchcraft the power she had over everyone",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "occult",
+      "influence",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0067",
+    "canonical_statement": "The integrity of a spoken word or oath constitutes an immutable constraint on the agent's future actions.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 82,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "my word, once given, I cannot break.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0068",
+    "canonical_statement": "Spiritual entities associated with specific geographic locations can be influenced or coerced by ritualistic action.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 83,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "This dishonor do I turn against all the land-spirits that inhabit this land.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "animism",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0069",
+    "canonical_statement": "Symbolic acts and linguistic formulas possess causal efficacy in the physical and metaphysical realms.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 83,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The alliterative formula which Egil pronounced was supposed to have magic power.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "magic",
+      "causality",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0070",
+    "canonical_statement": "External metaphysical forces, such as sorcery, can directly manipulate and diminish an individual's internal state of peace.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 84,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "the common belief was that Gunhild by sorcery had stolen his peace of mind.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "sorcery",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0071",
+    "canonical_statement": "Consciousness can manifest in non-human biological forms through the practice of sorcery.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 85,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "the swallow was none other than the queen, who by sorcery had assumed the guise",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "metamorphosis",
+      "sorcery"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0072",
+    "canonical_statement": "Poetic inspiration is a divine substance or gift bestowed by the deity.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 86,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "Odin's mead is the gift of poetry.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "inspiration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0073",
+    "canonical_statement": "Specific supernatural entities are tasked with the collection and guidance of human souls after death in battle.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 86,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "The Valkyrias had to receive the souls of the many whom he slew.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0074",
+    "canonical_statement": "Traditional deities are material objects rather than divine entities.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 92,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "heathen gods who were but wood and stone",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0075",
+    "canonical_statement": "The divine is singular and possesses the quality of life.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 92,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "believe in the one living God",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "monotheism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0076",
+    "canonical_statement": "The afterlife destination of a soul is determined by the religious or cultural identity maintained during physical life.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 100,
+        "chapter": "? LIBRARY",
+        "surface_quote": "I have lived like a heathen, and therefore it is meet to be buried so.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0077",
+    "canonical_statement": "The human soul or consciousness is capable of being received into a specific afterlife realm, such as Valhalla, based on earthly conduct.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 100,
+        "chapter": "? LIBRARY",
+        "surface_quote": "Eyvind... described his reception in Valhalla.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0078",
+    "canonical_statement": "Natural disasters and environmental scarcity are interpreted by the populace as manifestations of divine displeasure with political leadership.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 103,
+        "chapter": "HIS BROTHERS.",
+        "surface_quote": "people who believed that the gods had sent these evil times because of their anger",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "causality",
+      "divine-intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0079",
+    "canonical_statement": "Non-human entities or deities can communicate their favor or disfavor through the behavior of animals.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 115,
+        "chapter": "STOR V OF NOR WA V.",
+        "surface_quote": "The ravens were the birds of Odin, and Haakon saw in their flight a happy augury.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divination",
+      "theology",
+      "signs"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0080",
+    "canonical_statement": "Religious ritual and sacrifice can influence the outcome of physical warfare and worldly success.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 115,
+        "chapter": "STOR V OF NOR WA V.",
+        "surface_quote": "He made a grand sacrificial feast... that they... would give him success in the war.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "causality",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0081",
+    "canonical_statement": "Religious fervor can override the natural disposition and rational prudence of an individual.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 115,
+        "chapter": "STOR V OF NOR WA V.",
+        "surface_quote": "A recklessness which in so prudent a man is inconceivable (except under high religious excitement).",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "psychology",
+      "agency",
+      "religion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0082",
+    "canonical_statement": "The act of burial serves as a formal ritualistic tethering of the deceased to a specific location.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 118,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "I, Hagustald, buried in this hill my son, Hadulaik.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0083",
+    "canonical_statement": "Divine entities or supernatural beings can directly intervene in physical warfare to influence outcomes.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 120,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Valkyrias... standing in the prow... sending forth a deadlier hail of unerring arrows.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "intervention",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0084",
+    "canonical_statement": "Ritual sacrifice of human life can be exchanged for supernatural favor or victory in battle.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 120,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "sacrificed him to the gods for victory.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sacrifice",
+      "theurgy",
+      "exchange"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0085",
+    "canonical_statement": "Individual consciousness is dependent upon the physical integrity of the brain or body.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 122,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "if I am conscious, after having lost my head, I will stick my knife",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "death",
+      "materialism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0086",
+    "canonical_statement": "The fulfillment of a vow or intent can alter the trajectory of physical reality and fate.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 123,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "Vagn Aakesson was the only one who accomplished what he had vowed to do.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "fate",
+      "will",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0087",
+    "canonical_statement": "Moral and behavioral failings in individuals operate independently of their specific religious or theological affiliations.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 125,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "The vices by which he forfeited his early popularity were of a kind which assert their sway over men, irrespective of religions.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "human-nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0088",
+    "canonical_statement": "The timing of birth and death is linked between individuals who share a common destiny.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 128,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "We were both born in the same night, and our deaths will not be far apart.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "death",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0089",
+    "canonical_statement": "Dreams serve as symbolic indicators of future agency and the distribution of power.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 128,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "I dreamed that we were both on board the same ship and that I stood at the helm.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "dreams",
+      "agency",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0090",
+    "canonical_statement": "Dreams can function as prophetic indicators of future events.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 129,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Olaf Tryggvesson will put a red ring about thy neck.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "prophecy",
+      "divination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0091",
+    "canonical_statement": "The soul experiences distress and anguish during sleep states.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 129,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "His soul seemed to be tossed on a sea of anguish.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0092",
+    "canonical_statement": "Moral transgression or betrayal inevitably invites a retributive outcome.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 129,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "He put not a ring of gold, but one of blood about the traitor's neck.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "karma",
+      "justice",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0093",
+    "canonical_statement": "Moral values and ethical codes are contingent upon the social and environmental conditions of a community.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 130,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "conditions of life which must of necessity prevail in a militant community.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "sociology",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0094",
+    "canonical_statement": "Individual character and behavior are shaped by the structural requirements of the environment.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 130,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "shrewdness and faithlessness... were, in reality, enforced by the hostile attitude of man.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "determinism",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0095",
+    "canonical_statement": "Religious conversion does not necessarily entail the abandonment of belief in the existence of previous deities.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 139,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "converts, in accepting baptism, renounced their faith in the gods whom they had previously worshipped.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "belief",
+      "theology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0096",
+    "canonical_statement": "Religious practice is often perceived as a transactional contract for protection and material prosperity.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 139,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "relation to the old gods had been in its essence a contract for protection",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "ritual",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0097",
+    "canonical_statement": "The transition between religious systems can be mediated by reinterpreting existing deities as subordinate or defeated entities.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 139,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "represented them as evil powers who had been conquered by Christ",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0098",
+    "canonical_statement": "Ethical orientation toward violence versus peace serves as a primary differentiator between competing religious frameworks.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 139,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "difference between the old and the new faith... was the great doctrine of peace",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ethics",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0099",
+    "canonical_statement": "Religious belief systems function as primary determinants of the moral consciousness and civilizational trajectory of a society.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 140,
+        "chapter": "OLD NORSE",
+        "surface_quote": "generation to generation wrought a change in the moral consciousness of the Norsemen",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "ethics",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0100",
+    "canonical_statement": "Religious frameworks are subject to syncretic adaptation, where new theological structures are assimilated into pre-existing metaphysical paradigms.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 140,
+        "chapter": "OLD NORSE",
+        "surface_quote": "Christian religion was adapted, as far as possible, to the pre-existing polytheistic notions",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "syncretism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0101",
+    "canonical_statement": "The sanctity of a holy space is contingent upon the exclusion of instruments of violence.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 145,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "no one was allowed to enter the sanctuary, bearing arms.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacred",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0102",
+    "canonical_statement": "The physical destruction of an idol demonstrates the absence of inherent divine power within the material representation.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 145,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "he raised his stick and gave the god a blow, so that he fell",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "materialism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0103",
+    "canonical_statement": "Religious identity and social status are inextricably linked through the performance of priestly functions.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 147,
+        "chapter": "IN HADELAND.",
+        "surface_quote": "chieftains derived much of their dignity from their priesthoods and identification with the old religion.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "religion",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0104",
+    "canonical_statement": "Human agency can manipulate meteorological phenomena through occult or magical practices.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 149,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Raud himself who, by his witchcraft, had aroused the elements",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "magic",
+      "causality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0105",
+    "canonical_statement": "Religious conviction can alter the perception of moral culpability, leading individuals to view acts of violence as virtuous service to the divine.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 150,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Olaf's fanaticism led him to believe that praise rather than censure was due to him.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "morality",
+      "theology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0106",
+    "canonical_statement": "Ritualistic invocation of sacred symbols can exert a direct, localized influence on physical environmental phenomena.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 150,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The bishop raised a crucifix... instantly the storm ceased about the ship.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "causality",
+      "ritual",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0107",
+    "canonical_statement": "Individual life and destiny are governed by divine providence.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 158,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "God rules over my life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "destiny",
+      "providence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0108",
+    "canonical_statement": "The physical body is subject to mortality and cessation of function.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 162,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "That the latter was drowned, there can be no reasonable doubt.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mortality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0109",
+    "canonical_statement": "Collective belief or legend can persist as a metaphysical alternative to historical fact.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 162,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "there is a legend, which was fondly cherished, that he swam to the galley.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0110",
+    "canonical_statement": "The human will can exert sufficient influence over the biological organism to cause cessation of life in response to profound grief.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 163,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "she had no heart to survive her lord. On the ninth day... she died.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "life",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0111",
+    "canonical_statement": "Historical eras are defined by the tension between individualistic power structures and the evolution of centralized statehood.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 165,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "the age of turbulent individualism, opposed to the modern conception of the state.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "civilization",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0112",
+    "canonical_statement": "Historical figures act as agents of civilizational advancement, often without conscious awareness of their role in the progression of history.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 165,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "conscious or unconscious agent of advancing civilization.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "teleology",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0113",
+    "canonical_statement": "Moral and spiritual identity is fundamentally defined by tribal or cultural behavioral patterns rather than nominal religious affiliation.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 166,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "It makes little difference if the aggressors were nominally Christians; their actions were an outburst.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0114",
+    "canonical_statement": "The legitimacy of political power is derived from the exercise of force and the assertion of might.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 166,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "the old, tribal pagan spirit, which respected no right but that of might.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "power",
+      "governance",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0115",
+    "canonical_statement": "Physical events or accidents are interpreted by human consciousness as symbolic indicators of future outcomes.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 173,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "There, I fell, he cried, dreading, probably, the bad omen.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "omen",
+      "perception",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0116",
+    "canonical_statement": "The essence of an individual's identity is recognizable through physical features, specifically the eyes, regardless of external disguise.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 173,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "I know the eyes of Olaf Tryggvesson.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "essence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0117",
+    "canonical_statement": "The outcomes of human conflict are governed by the fluctuating nature of fortune.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 174,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "It is ever so, that sometimes the one is victorious and sometimes the other.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fortune",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0118",
+    "canonical_statement": "The collective consciousness of the masses is inherently characterized by a preference for instability and transition.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 176,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The multitude always love change.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "collective",
+      "human-nature",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0119",
+    "canonical_statement": "The capacity to command and organize human agency is the defining characteristic of kingship.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 189,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "thou art fostering a king... he wished to have men under his command.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "leadership",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0120",
+    "canonical_statement": "The nature of divine or transcendental concepts can remain fundamentally inaccessible to individuals lacking specific spiritual or conceptual frameworks.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 190,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "You tell me so much about Christ, which I don't understand.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "cognition",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0121",
+    "canonical_statement": "Political authority and religious priesthood are structurally unified within tribal governance.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 191,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "the old tribal chieftainships embraced also the priesthoods",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "governance",
+      "religion",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0122",
+    "canonical_statement": "Religious tradition serves as a foundational legitimizing force for political power structures.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 191,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "hereditary dignity of the local priest-kings was thus hallowed by all the religious traditions",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "authority",
+      "tradition",
+      "legitimacy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0123",
+    "canonical_statement": "Social and political institutions are external manifestations of the underlying ideals and sentiments held by a population.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 192,
+        "chapter": "IN HEDEMARKEN",
+        "surface_quote": "The ideals and sentiments of men, of which their institutions are but the expression",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "society",
+      "consciousness",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0124",
+    "canonical_statement": "Collective human consciousness and cultural values undergo transformation through gradual, multi-generational processes rather than abrupt shifts.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 192,
+        "chapter": "IN HEDEMARKEN",
+        "surface_quote": "ideals and sentiments of men... do not change radically in the course of one or two generations.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "evolution",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0125",
+    "canonical_statement": "The afterlife is experienced as a continuation of the values, social structures, and personal preferences cultivated during physical life.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 193,
+        "chapter": "IN HEDEMARKEN",
+        "surface_quote": "conformity with the ideas of happiness which his life and training had fostered",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0126",
+    "canonical_statement": "Religious identity and the afterlife are inextricably linked to ancestral lineage and tribal loyalty.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 193,
+        "chapter": "IN HEDEMARKEN",
+        "surface_quote": "I will rather be in hell with Odin and my forefathers",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0127",
+    "canonical_statement": "The transition of religious systems is a process of conflict between competing metaphysical frameworks.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 193,
+        "chapter": "IN HEDEMARKEN",
+        "surface_quote": "forced the expiring Asa faith... into a mortal combat",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "religion",
+      "history",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0128",
+    "canonical_statement": "The validity of a deity is contingent upon its observable manifestation or tangible presence.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 196,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "I cannot ask help of any one whom I do not see or know.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0129",
+    "canonical_statement": "Divine power is demonstrated through the ability to manipulate meteorological phenomena.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 196,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "let him arrange it so that to-morrow we shall have cloudy weather but no rain.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0130",
+    "canonical_statement": "The physical representation of a deity serves as the locus of its power and presence.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 196,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "our god has come who rules over all",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "idolatry",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0131",
+    "canonical_statement": "The divine is identified with the light of the sun rather than with static, man-made idols.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 197,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Look eastward! There our God is coming with much light.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0132",
+    "canonical_statement": "Material idols are hollow vessels for corruption and lack inherent metaphysical power.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 197,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Out leaped rats... which had fattened on the delicacies with which the god had been fed.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "idolatry",
+      "materialism",
+      "deception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0133",
+    "canonical_statement": "The validity of a religious belief system is determined by the outcome of physical conflict or material demonstration of power.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 198,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "He will win to whom the god in whom we trust will give victory.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "power",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0134",
+    "canonical_statement": "Human actions and historical conflicts are driven by the persistence of ancestral obligations and the necessity of vengeance.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 200,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "I declare thee as a nithing before all men, if thou dost not avenge Aasbjorn.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "causality",
+      "social-order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0135",
+    "canonical_statement": "Human events and outcomes are ultimately subject to divine sovereignty.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 206,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "every thing is in God's power",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0136",
+    "canonical_statement": "Visions can serve as authoritative directives for human action and destiny.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 206,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "he had a vision in which he saw Olaf Tryggvesson who commanded him",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divination",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0137",
+    "canonical_statement": "Consciousness can access a non-local, panoramic perception that transcends physical geography and linear experience.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 207,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "I surveyed the whole world... I recognized all the places where I had ever been.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "non-locality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0138",
+    "canonical_statement": "The human mind possesses the latent capacity to perceive locations and realities beyond the scope of personal history or sensory input.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 207,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "I saw places where I had never been before; nay even some of which I had never even heard.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cognition",
+      "omniscience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0139",
+    "canonical_statement": "Natural phenomena such as solar eclipses are interpreted by human consciousness as manifestations of divine displeasure or metaphysical judgment.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 209,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The peasants, who saw in the eclipse an evidence of the wrath of Olaf's God.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "perception",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0140",
+    "canonical_statement": "The physical remains of a spiritually significant individual possess inherent thaumaturgic power.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 210,
+        "chapter": "ST. OI.AP",
+        "surface_quote": "many miracles were wrought by the king's blood and by the mere touch",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "thaumaturgy",
+      "relics",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0141",
+    "canonical_statement": "Spiritual entities or non-human beings can be transmuted into inanimate matter through divine or holy intervention.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 210,
+        "chapter": "ST. OI.AP",
+        "surface_quote": "He slew the trolds whom his church-bells annoyed, and turned them to stone.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "transmutation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0142",
+    "canonical_statement": "The physical body of a saintly figure may exhibit incorruptibility and post-mortem growth as evidence of divine status.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 213,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "no trace of decay on the body and that the hair and the nails had grown.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sainthood",
+      "afterlife",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0143",
+    "canonical_statement": "Historical narratives of heroic figures often exhibit a recurring, archetypal pattern of events.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 225,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "There was a curious uniformity in the fates that befell them.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "archetype",
+      "history",
+      "pattern"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0144",
+    "canonical_statement": "Legitimate political authority is derived from the consent of the people and the counsel of chiefs.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 229,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "accepted the kingdom... according to the counsel of the chiefs and with the consent of the people",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "authority",
+      "governance",
+      "legitimacy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0145",
+    "canonical_statement": "The soul may be presented with a choice between immediate transition to a post-mortem state or a prolonged earthly life contingent upon the commission of a grave moral transgression.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 231,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "St. Olaf came to him and gave him the choice between two things",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "morality",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0146",
+    "canonical_statement": "Dreams can serve as a medium for the manifestation of pre-existing subconscious presentiments regarding one's own mortality.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 231,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "A dream which he had was rather the result than the cause of his melancholy presentiment.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0147",
+    "canonical_statement": "The internal intentions and future actions of an individual are fixed within their mind regardless of external promises.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 232,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "whatever Harold may promise, he has already determined in his mind what he will do.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "agency",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0148",
+    "canonical_statement": "The internal state of the individual, specifically serenity, is reflected in their external expressions and utterances.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 256,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "Serenity of soul shines out of those of his utterances",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0149",
+    "canonical_statement": "The collective well-being and liberty of a population are intrinsically linked to the internal state of the ruler.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 256,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "Your freedom and joy are my feast and my delight.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "social-ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0150",
+    "canonical_statement": "Historical narratives prioritize the documentation of destructive conflict over the preservation of constructive, life-sustaining activity.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 257,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The work of destroying lives... appealed more to the warlike historian",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "perception",
+      "value"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0151",
+    "canonical_statement": "Religious belief can exert a causal influence on individual character and behavioral tendencies.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 258,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "his religion influenced his life by strengthening the unwarlike side of his character",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "agency",
+      "religion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0152",
+    "canonical_statement": "Material and environmental conditions are more potent drivers of human behavior than ideological or religious influence.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 258,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The material considerations just cited, were evidently the more powerful",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "causality",
+      "human nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0153",
+    "canonical_statement": "The pursuit of eternal glory is superior to the preservation of biological longevity.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 268,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "A king should rather strive for glory than for a long life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "existence",
+      "value"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0154",
+    "canonical_statement": "Human beings possess an immortal component referred to as the soul, which can be the object of salvific concern.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 270,
+        "chapter": "CHAPTER — (l 103-I 122), SIGURD",
+        "surface_quote": "Kings, knights, and even children, in their anxiety to save their souls",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0155",
+    "canonical_statement": "Human actions are motivated by the belief in the efficacy of supernatural intervention.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 270,
+        "chapter": "CHAPTER — (l 103-I 122), SIGURD",
+        "surface_quote": "relying upon supernatural aid, started with insufficient preparations",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "supernatural",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0156",
+    "canonical_statement": "Altruistic actions and the provision of public welfare contribute to the spiritual merit of the soul.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 279,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "I do not believe that they... will profit my soul less.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "ethics",
+      "merit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0157",
+    "canonical_statement": "The perception of objective value and physical reality is subject to distortion by the observer's internal psychological state.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 281,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The queen does not know how hideous she is; for a goat's horn is sticking out.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0158",
+    "canonical_statement": "The outcome of physical ordeals is subject to the influence or manipulation of religious authorities.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 282,
+        "chapter": "EY STEIN,",
+        "surface_quote": "It was the priests who had charge of such ordeals, and it was believed that they had the result in their power.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "authority",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0159",
+    "canonical_statement": "The state of the soul is influenced by the moral quality of one's earthly actions and relationships.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 283,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Many of his friends urged him, for the good of his soul, to dissolve it.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0160",
+    "canonical_statement": "The human capacity for equanimity can transcend the experience of extreme physical agony.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 291,
+        "chapter": "OF HAROLD",
+        "surface_quote": "not a muscle of his face betrayed what he suffered",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "suffering",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0161",
+    "canonical_statement": "The site of a violent death can manifest physical anomalies associated with sanctity or healing.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 294,
+        "chapter": "OF HAROLD",
+        "surface_quote": "a spring with healing powers burst forth on the spot where he was slain",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sanctity",
+      "manifestation",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0162",
+    "canonical_statement": "The attribution of sainthood is a social belief system triggered by the circumstances of an individual's death.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 294,
+        "chapter": "OF HAROLD",
+        "surface_quote": "there were some who believed him to have been a saint",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "belief",
+      "sainthood"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0163",
+    "canonical_statement": "The subjective perception of personal identity and life purpose is fundamentally altered by the revelation of one's true biological origin.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 309,
+        "chapter": "THE. STORY",
+        "surface_quote": "From that day Sverre's peace of mind was gone.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0164",
+    "canonical_statement": "The realization of a higher inherent status renders previous life goals and social roles perceived as meaningless.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 309,
+        "chapter": "THE. STORY",
+        "surface_quote": "his life seemed poor and meaningless.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0165",
+    "canonical_statement": "Extraordinary survival and success in the face of impossible odds are interpreted as evidence of a divinely sanctioned mission.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 312,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "This incident was regarded by the Birchlegs as a miracle, and strengthened their faith.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "teleology",
+      "providence",
+      "miracle"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0166",
+    "canonical_statement": "The soul or essence of the deceased persists beyond physical death, allowing for a future reunion.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 316,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "We shall meet again, father mine, in the day of joy.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0167",
+    "canonical_statement": "The outcome of political and military events is determined by a preordained fate.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 319,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Then the fate of the realm is decided.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0168",
+    "canonical_statement": "Collective unrest functions as an autonomous force that inevitably manifests through available agents regardless of specific leadership.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 327,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "the rebellious spirit which was abroad was sure to find expression",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "causality",
+      "history",
+      "collective"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0169",
+    "canonical_statement": "Intense social and class-based conflicts necessitate total victory or total destruction of one party.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 344,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "civil war... must therefore continue, until one party or the other is utterly humbled.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "conflict",
+      "sociology",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0170",
+    "canonical_statement": "The human spirit is a distinct, non-physical entity that inhabits and animates the physical body.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 347,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "A bright, clear, and resolute spirit dwelt within his small frame.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirit",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0171",
+    "canonical_statement": "The outcome of ritual ordeals is subject to human manipulation rather than divine intervention.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 355,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "the bishop told him bluntly that the result was in his hands.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ritual",
+      "agency",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0172",
+    "canonical_statement": "Moral transgression or unethical action inherently undermines the achievement of the perpetrator's intended goals.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 356,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The guilt thus defeated its own object.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "causality",
+      "justice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0173",
+    "canonical_statement": "Conflict between factions of a common origin results in the mutual depletion of the collective whole.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 359,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "forgetting that they were all Norsemen, who would, in the end, suffer",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "unity",
+      "conflict",
+      "holism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0174",
+    "canonical_statement": "A transcendent, benevolent agency or providence actively intervenes in human affairs to preserve specific individuals.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 361,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "A Kind Providence seemed to be watching over him",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "providence",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0175",
+    "canonical_statement": "Divine entities and saints act as active guardians and legal representatives for human interests in worldly affairs.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 365,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "My guardians are God, and the Holy Virgin, and St. Olaf.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "providence",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0176",
+    "canonical_statement": "Human legal or political judgments are invalid if they lack the oversight or presence of divine or spiritual authority.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 365,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "Their judgment cannot be valid, as my guardian was not present.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "justice",
+      "theology",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0177",
+    "canonical_statement": "Divine intervention serves as the ultimate arbiter of truth in human conflicts.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 371,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "let God judge between them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "justice",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0178",
+    "canonical_statement": "The efficacy of a divine ordeal is contingent upon the absence of human artifice or intervention.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 371,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "No art or healing will we employ here, except such as Christ in his mercy will grant.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "ritual",
+      "purity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0179",
+    "canonical_statement": "The soul experiences anxiety regarding its post-mortem state as a consequence of moral conduct during life.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 379,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The old prelate... seemed yet to feel some anxiety as to his fate in the hereafter.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "morality",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0180",
+    "canonical_statement": "The moral quality of an individual's actions during life determines the spiritual burden carried at the point of death.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 379,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "The bishop died... having spent his long life in fomenting rebellion... his talents proved a curse.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0181",
+    "canonical_statement": "Human agency is often constrained by the cumulative, unintended consequences of incremental actions, eventually eliminating the possibility of retreat.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 382,
+        "chapter": "S TOR Y OF NOR WA V.",
+        "surface_quote": "his own acts spin a web about him and bar him the road back",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "causality",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0182",
+    "canonical_statement": "The legitimacy of a ruler's authority is derived from divine selection rather than human or institutional concession.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 391,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "I shall not need to buy of you what God has rightly chosen me to be.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divine-right"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0183",
+    "canonical_statement": "Divine intervention in human judicial processes is inappropriate for religious practitioners.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 392,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "not seemly for Christian men to challenge God to give his verdict",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-intervention",
+      "justice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0184",
+    "canonical_statement": "Peaceful industry and construction provide more enduring value than military conflict.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 392,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "noisy deeds of war bring no enduring blessing",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "value"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0185",
+    "canonical_statement": "Historical events are driven by underlying, non-obvious metaphysical or systemic causes rather than surface-level human agency.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 402,
+        "chapter": "IN ICELAND.",
+        "surface_quote": "it was due to causes which do not lie so near the surface",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "causality",
+      "history",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0186",
+    "canonical_statement": "Human character and societal vitality are subject to a process of historical degeneration over successive generations.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 402,
+        "chapter": "IN ICELAND.",
+        "surface_quote": "they had not sadly degenerated from their ancestors",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "humanity",
+      "degeneration",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0187",
+    "canonical_statement": "The state of happiness in a collective is inversely proportional to the presence of historical events.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 404,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "the happiest nations are those which have no history",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "sociology",
+      "happiness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0188",
+    "canonical_statement": "Human social order and behavior are fundamentally subject to regulation through the application of codified law.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 404,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "over-confidence in the power of law to regulate all human concerns",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "governance",
+      "humanity",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0189",
+    "canonical_statement": "Physical existence is subject to inevitable dissolution and reclamation by the natural environment.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 423,
+        "chapter": "MA GNUS SON.",
+        "surface_quote": "the earth reclaimed them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "nature",
+      "dissolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0190",
+    "canonical_statement": "Sovereignty is an inherent property of a people that reverts to them when a monarch abdicates or renounces authority.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 465,
+        "chapter": "PRO VINCE.",
+        "surface_quote": "sovereignty... reverted to the people who were thus in position to bestow it",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "governance",
+      "political-ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0191",
+    "canonical_statement": "No political or social structure is eternally applicable or universally valid across all temporal contexts.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 477,
+        "chapter": "OF NORWAY.",
+        "surface_quote": "No constitution, however excellent, is fitting for all times.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "structure",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0192",
+    "canonical_statement": "The historical evolution of human society involves a transition from a militant organization based on physical force to an industrial organization based on merit.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 480,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "militant organization of society... slowly yields to the industrial",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "society",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_historyofnorwayf00boye_0193",
+    "canonical_statement": "The criteria for evaluating national merit are contingent upon the prevailing technological and organizational structure of the era.",
+    "attributions": [
+      {
+        "source_id": "historyofnorwayf00boye",
+        "chunk_index": 480,
+        "chapter": "OF NORWAY,",
+        "surface_quote": "history will find another gauge of merit than that of Krupp guns",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "history",
+      "value",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  }
+]

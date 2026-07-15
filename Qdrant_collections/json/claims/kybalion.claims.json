@@ -1,0 +1,6608 @@
+[
+  {
+    "id": "cl_kybalion_0001",
+    "canonical_statement": "The universe is governed by a set of foundational philosophical principles originating from ancient Egyptian and Greek traditions.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "A study of the Hermetic philosophy of ancient Egypt and Greece.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "tradition",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0002",
+    "canonical_statement": "Esoteric truth is accessible only to those who possess the requisite level of spiritual understanding.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 1,
+        "chapter": "THREE INITIATES",
+        "surface_quote": "the lips of wisdom are closed, except to the ears of understanding",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "initiation",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0003",
+    "canonical_statement": "Occult knowledge is fundamentally unified, and apparent contradictions between different systems are reconcilable through a master key.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 1,
+        "chapter": "THREE INITIATES",
+        "surface_quote": "give to the students a statement of the Truth that will serve to reconcile",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "unity",
+      "occultism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0004",
+    "canonical_statement": "A singular, primordial metaphysical truth underlies all diverse religious and occult systems.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 2,
+        "chapter": "THREE INITIATES",
+        "surface_quote": "Hermetic Teachings act as the Great Reconciler.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "unity",
+      "tradition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0005",
+    "canonical_statement": "Esoteric knowledge is preserved through an unbroken, secret lineage of initiates across generations.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 2,
+        "chapter": "THREE INITIATES",
+        "surface_quote": "From lip to ear the truth has been handed down among the few.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "initiation",
+      "knowledge",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0006",
+    "canonical_statement": "The capacity to comprehend ultimate truth is restricted to a minority of prepared individuals.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 2,
+        "chapter": "THREE INITIATES",
+        "surface_quote": "reserved their truth for the few who were ready to comprehend and master it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "initiation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0007",
+    "canonical_statement": "The transmission of esoteric truth is contingent upon the recipient's state of spiritual readiness.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 3,
+        "chapter": "THREE INITIATES",
+        "surface_quote": "When the ears of the student are ready to hear, then cometh the lips.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "initiation",
+      "transmission"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0008",
+    "canonical_statement": "Esoteric knowledge is inherently incompatible with the consciousness of the uninitiated or materialistic mind.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 3,
+        "chapter": "THREE INITIATES",
+        "surface_quote": "The lips of Wisdom are closed, except to the ears of Understanding.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0009",
+    "canonical_statement": "The dissemination of truth is governed by a cyclical law of correspondence between the master's presence and the student's receptivity.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 3,
+        "chapter": "THREE INITIATES",
+        "surface_quote": "Where fall the footsteps of the Master, the ears of those ready open wide.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "initiation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0010",
+    "canonical_statement": "Metaphysical truth is accessible only to those who have undergone specific developmental progression.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 4,
+        "chapter": "THREE INITIATES",
+        "surface_quote": "truth capable of being understood only by the elect who had advanced along The Path.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "initiation",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0011",
+    "canonical_statement": "The comprehension of esoteric principles requires active personal application rather than passive reception.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 4,
+        "chapter": "THREE INITIATES",
+        "surface_quote": "leaving you to apply them yourselves, rather than attempting to work out the teaching",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "praxis",
+      "initiation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0012",
+    "canonical_statement": "Esoteric knowledge remains unintelligible to the uninitiated, functioning only as empty signifiers without internal development.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 4,
+        "chapter": "THREE INITIATES",
+        "surface_quote": "otherwise the Hermetic Teachings will be as words, words, words, to you.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0013",
+    "canonical_statement": "Esoteric wisdom is restricted to those who possess the requisite level of spiritual understanding.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 5,
+        "chapter": "CHAPTER L",
+        "surface_quote": "The lips of wisdom are closed, except to the ears of Understanding.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "initiation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0014",
+    "canonical_statement": "Ancient Egypt serves as the primary historical source for global occult and metaphysical traditions.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 5,
+        "chapter": "CHAPTER L",
+        "surface_quote": "From old Egypt have come the fundamental esoteric and occult teachings.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "tradition",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0015",
+    "canonical_statement": "Masters and Adepts exist who possess knowledge that transcends standard historical development.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 5,
+        "chapter": "CHAPTER L",
+        "surface_quote": "In ancient Egypt dwelt the great Adepts and Masters who have never been surpassed.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "masters",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0016",
+    "canonical_statement": "The identity of highly advanced spiritual beings may transcend the category of human.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 5,
+        "chapter": "CHAPTER L",
+        "surface_quote": "This man, if man indeed he was, dwelt in Egypt.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0017",
+    "canonical_statement": "Metaphysical truth is best preserved when kept separate from institutionalized religious creeds and theological structures.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 6,
+        "chapter": "CHAPTER L",
+        "surface_quote": "The ancient occultism... was largely lost, owing to the fact that the teachers became priests.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "doctrine",
+      "transmission"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0018",
+    "canonical_statement": "Esoteric knowledge requires graduated dissemination based on the recipient's capacity for understanding.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 6,
+        "chapter": "CHAPTER L",
+        "surface_quote": "milk for babes; meat for strong men",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "pedagogy",
+      "esotericism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0019",
+    "canonical_statement": "The crystallization of fluid metaphysical principles into rigid dogmatic creeds leads to the degradation of truth.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 6,
+        "chapter": "CHAPTER L",
+        "surface_quote": "warning... against allowing the Secret Doctrine to become crystallized into a creed.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "doctrine",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0020",
+    "canonical_statement": "The fundamental nature of alchemy is the mastery and transmutation of mental vibrations rather than the manipulation of material elements.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 7,
+        "chapter": "CHAPTER L",
+        "surface_quote": "Hermetic Alchemy dealt in the mastery of Mental Forces, rather than Material Elements.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "alchemy",
+      "mentalism",
+      "transmutation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0021",
+    "canonical_statement": "Esoteric truth is transmitted through direct initiation rather than through written records.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 7,
+        "chapter": "CHAPTER L",
+        "surface_quote": "It has been passed along from Master to Student; from lip to ear.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "initiation",
+      "knowledge",
+      "tradition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0022",
+    "canonical_statement": "The Hermetic philosophy serves as a universal framework for understanding all occult teachings.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 7,
+        "chapter": "CHAPTER L",
+        "surface_quote": "The Hermetic Philosophy is the only Master Key which will open all the doors.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "occultism",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0023",
+    "canonical_statement": "The acquisition of esoteric knowledge is governed by the Law of Attraction, which synchronizes the readiness of the student with the availability of the teaching.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 8,
+        "chapter": "CHAPTER L",
+        "surface_quote": "When the pupil is ready to receive the truth, then will this little book come.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "law of attraction",
+      "epistemology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0024",
+    "canonical_statement": "The universe operates according to seven fundamental principles that grant mastery over reality when understood.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 8,
+        "chapter": "CHAPTER L",
+        "surface_quote": "The Principles of Truth are Seven; he who knows these, understandingly, possesses the Magic Key.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "principles",
+      "mastery"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0025",
+    "canonical_statement": "The physical transformation of matter, such as base metal into gold, is an allegorical representation of Hermetic spiritual transmutation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 8,
+        "chapter": "CHAPTER L",
+        "surface_quote": "The Philosopher's Stone, which would turn base metal into Gold, was an allegory.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "alchemy",
+      "symbolism",
+      "transmutation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0026",
+    "canonical_statement": "The fundamental substrate of all reality is an infinite, living, universal mind.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 9,
+        "chapter": "THE PEINCIPLE OF MENTALISM.",
+        "surface_quote": "THE ALL is MIND; The Universe is Mental.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0027",
+    "canonical_statement": "The material universe and all phenomena are mental creations of the universal mind.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 9,
+        "chapter": "THE PEINCIPLE OF MENTALISM.",
+        "surface_quote": "the phenomenal world or universe is simply a Mental Creation of THE ALL.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "reality",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0028",
+    "canonical_statement": "The ultimate essence of reality is inherently unknowable and indefinable.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 9,
+        "chapter": "THE PEINCIPLE OF MENTALISM.",
+        "surface_quote": "THE ALL... is SPIRIT, which in itself is UNKNOWABLE and UNDEFINABLE.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0029",
+    "canonical_statement": "The entire universe and all its constituent parts exist exclusively within the Mind of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 10,
+        "chapter": "THE ALL,",
+        "surface_quote": "the universe, as a whole, and in its parts or units, has its existence in the Mind of THE ALL",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "substrate",
+      "the-all"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0030",
+    "canonical_statement": "Matter, energy, and power are subordinate to the influence and mastery of Mind.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 10,
+        "chapter": "THE ALL,",
+        "surface_quote": "all these are subordinate to the Mastery of Mind",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "mind",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0031",
+    "canonical_statement": "Individual mastery is contingent upon the conscious recognition of the universe's mental nature.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 10,
+        "chapter": "THE ALL,",
+        "surface_quote": "He who grasps the truth of the Mental Nature of the Universe is well advanced on The Path to Mastery",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mastery",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0032",
+    "canonical_statement": "The laws and phenomena governing different planes of existence are analogous and mutually reflective.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 11,
+        "chapter": "THE PBINCIPLE OF COBKESPONDENCE.",
+        "surface_quote": "There is always a Correspondence between the laws and phenomena of the various planes.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "structure",
+      "universal-law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0033",
+    "canonical_statement": "The structure of the universe is consistent across material, mental, and spiritual dimensions.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 11,
+        "chapter": "THE PBINCIPLE OF COBKESPONDENCE.",
+        "surface_quote": "This Principle is of universal application... on the various planes of the material, mental, and spiritual universe.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "planes",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0034",
+    "canonical_statement": "Knowledge of the microcosm provides a methodology for understanding the macrocosm.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 11,
+        "chapter": "THE PBINCIPLE OF COBKESPONDENCE.",
+        "surface_quote": "Studying the monad, he understands the archangel.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "microcosm",
+      "macrocosm"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0035",
+    "canonical_statement": "The fundamental nature of all existence, from spirit to matter, is constant motion and vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 12,
+        "chapter": "THE PRINCIPLE OF VIBRATION.",
+        "surface_quote": "everything is in motion; everything vibrates; nothing is at rest",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "ontology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0036",
+    "canonical_statement": "Differences in manifestation between matter, energy, mind, and spirit are determined by varying rates of vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 12,
+        "chapter": "THE PRINCIPLE OF VIBRATION.",
+        "surface_quote": "differences between different manifestations of Matter, Energy, Mind, and even Spirit, result largely from varying rates of Vibration",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "manifestation",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0037",
+    "canonical_statement": "The perceived stillness of objects at the extremes of the vibratory scale is an illusion caused by the intensity or slowness of their motion.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 12,
+        "chapter": "THE PRINCIPLE OF VIBRATION.",
+        "surface_quote": "the higher the vibration, the higher the position in the scale",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "vibration",
+      "illusion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0038",
+    "canonical_statement": "Conscious control over mental and physical phenomena is achievable through the mastery and manipulation of vibratory states.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 12,
+        "chapter": "THE PRINCIPLE OF VIBRATION.",
+        "surface_quote": "enables Hermetic students to control their own mental vibrations as well as those of others",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "power",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0039",
+    "canonical_statement": "All phenomena consist of two poles which are identical in nature but differ in degree.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 13,
+        "chapter": "THE PBINCIPLE OP POLABITY,",
+        "surface_quote": "Opposites are identical in nature, but different in degree.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "duality",
+      "polarity",
+      "nature of reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0040",
+    "canonical_statement": "The distinction between opposite states is a matter of vibration rate rather than fundamental difference.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 13,
+        "chapter": "THE PBINCIPLE OP POLABITY,",
+        "surface_quote": "Heat and cold are merely a form, variety, and rate of vibration.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "polarity",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0041",
+    "canonical_statement": "Absolute states of opposites do not exist; all truths are partial.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 13,
+        "chapter": "THE PBINCIPLE OP POLABITY,",
+        "surface_quote": "There is no such thing as absolute heat or absolute cold.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "relativity",
+      "polarity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0042",
+    "canonical_statement": "Paradoxes arise from the perception of extremes that are actually part of a single continuum.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 13,
+        "chapter": "THE PBINCIPLE OP POLABITY,",
+        "surface_quote": "All paradoxes may be reconciled.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "paradox",
+      "unity",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0043",
+    "canonical_statement": "Opposing qualities are not distinct entities but represent varying degrees of a single underlying essence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 14,
+        "chapter": "THE PBINCIPLE OP POLABITY,",
+        "surface_quote": "all are simply degrees of the same thing",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "polarity",
+      "ontology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0044",
+    "canonical_statement": "The Principle of Polarity governs both physical phenomena and mental states.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 14,
+        "chapter": "THE PBINCIPLE OP POLABITY,",
+        "surface_quote": "The same Principle operates on the Mental Plane.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "polarity",
+      "mind",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0045",
+    "canonical_statement": "Mental states can be transmuted from one pole to its opposite through the application of the Will.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 14,
+        "chapter": "THE PBINCIPLE OP POLABITY,",
+        "surface_quote": "it is possible to change the vibrations of Hate to the vibrations of Love",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "alchemy",
+      "will",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0046",
+    "canonical_statement": "Good and Evil are not absolute moral categories but are polar manifestations of the same fundamental reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 14,
+        "chapter": "THE PBINCIPLE OP POLABITY,",
+        "surface_quote": "Good and Evil are but the poles of the same thing",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "polarity",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0047",
+    "canonical_statement": "All phenomena in the universe are subject to a rhythmic, cyclical motion between opposing poles.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 15,
+        "chapter": "THE PRINCIPLE OF RHYTHM.",
+        "surface_quote": "Everything flows, out and in; everything has its tides; all things rise and fall.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "rhythm",
+      "cosmology",
+      "polarity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0048",
+    "canonical_statement": "The magnitude of a phenomenon's movement toward one pole is equal to its movement toward the opposite pole.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 15,
+        "chapter": "THE PRINCIPLE OF RHYTHM.",
+        "surface_quote": "The measure of the swing to the right is the measure of the swing to the left.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "rhythm",
+      "balance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0049",
+    "canonical_statement": "Universal laws cannot be annulled, but their effects on the individual can be neutralized through conscious mastery.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 15,
+        "chapter": "THE PRINCIPLE OF RHYTHM.",
+        "surface_quote": "They cannot annul the Principle, but they have learned how to escape its effects.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mastery",
+      "will",
+      "alchemy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0050",
+    "canonical_statement": "Human mental states are governed by the same",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 15,
+        "chapter": "THE PRINCIPLE OF RHYTHM.",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0051",
+    "canonical_statement": "The principle of gender is a universal law manifesting across all planes of existence, including the physical, mental, and spiritual.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 17,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "Gender is in everything; everything has its Masculine and Feminine Principles.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "gender",
+      "universal-law",
+      "planes-of-existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0052",
+    "canonical_statement": "All creation, generation, and regeneration require the interaction of masculine and feminine principles.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 17,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "No creation, physical, mental or spiritual, is possible without this Principle.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "gender"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0053",
+    "canonical_statement": "Every individual entity contains both masculine and feminine elements within itself.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 17,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "Every Male thing has the Female Element also every Female contains also the Male Principle.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0054",
+    "canonical_statement": "Mental states, conditions, and vibrations are subject to transmutation through the application of mental arts.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 17,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "Mind may be transmuted, from state to state; degree to degree; condition to condition.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "transmutation",
+      "mind",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0055",
+    "canonical_statement": "The fundamental substrate of the universe is consciousness.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 19,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "The Underlying Reality of the Universe is Mind",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0056",
+    "canonical_statement": "The physical universe exists as a manifestation within a universal consciousness.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 19,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "the Universe itself is Mental; existing in the Mind of THE ALL",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0057",
+    "canonical_statement": "Manipulation of mental states allows for the direct alteration of physical reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 19,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "Mental Transmutation must be the art of CHANGING THE CONDITIONS OF THE UNIVERSE",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "transmutation",
+      "causality",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0058",
+    "canonical_statement": "Mastery over physical phenomena is a consequence of achieving advanced mental control.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 19,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "the art which enables one to transmute mental conditions must render the Master the controller of material conditions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mastery",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0059",
+    "canonical_statement": "The fundamental nature of the universe is mental.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 20,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "THE ALL is Mind; the Universe is Mental",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "mentalism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0060",
+    "canonical_statement": "Mental states and material conditions are subject to transmutation through the application of specific mental laws.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 20,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "mental states, etc., of one's self be changed or transmuted by Hermetic Methods",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "transmutation",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0061",
+    "canonical_statement": "Mental influence can be exerted upon others, either consciously or unconsciously, to alter their mental states.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 20,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "states of others may be, and are, constantly transmuted in the same way",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "influence",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0062",
+    "canonical_statement": "The efficacy of mental influence is governed by the Principle of Polarity, allowing for application in opposing directions.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 20,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "the force can be used in opposite directions according to the Hermetic Principles of Polarity",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "polarity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0063",
+    "canonical_statement": "The principle of gender is the fundamental substrate of all reality and mental transformation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 21,
+        "chapter": "THE PEINCIPLE OF GENDER.",
+        "surface_quote": "the Basic Principle of the whole Hermetic Philosophy, and of the Hermetic Art",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "gender",
+      "metaphysics",
+      "transmutation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0064",
+    "canonical_statement": "A singular, immutable, and substantial reality exists underlying all transient phenomena of time, space, and change.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 22,
+        "chapter": "CHAPTER IV,",
+        "surface_quote": "Under and behind all outward appearances or manifestations, there must always be a Substantial Reality.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0065",
+    "canonical_statement": "The phenomenal universe is characterized exclusively by constant flux, becoming, and the absence of permanent fixity.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 22,
+        "chapter": "CHAPTER IV,",
+        "surface_quote": "Nothing really IS, but that everything is BECOMING and CHANGING.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "change",
+      "phenomenology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0066",
+    "canonical_statement": "The underlying reality, termed 'The All,' transcends all human nomenclature and conceptual categorization.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 22,
+        "chapter": "CHAPTER IV,",
+        "surface_quote": "THAT which transcends names and terms.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "ontology",
+      "ineffability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0067",
+    "canonical_statement": "The ultimate reality, referred to as The All, is inherently unknowable in its essence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 23,
+        "chapter": "CHAPTER IV,",
+        "surface_quote": "the inner nature of THE ALL is UNKNOWABLE.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "epistemology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0068",
+    "canonical_statement": "Only the totality of existence can possess self-comprehension of its own nature.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 23,
+        "chapter": "CHAPTER IV,",
+        "surface_quote": "naught by THE ALL itself can comprehend its own nature",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0069",
+    "canonical_statement": "Attributing human personality, emotions, or characteristics to the ultimate reality is a category error.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 23,
+        "chapter": "CHAPTER IV,",
+        "surface_quote": "presumptuous are those who attempt to ascribe to THE ALL the personality",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "anthropomorphism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0070",
+    "canonical_statement": "True religious experience is defined as the intuitive realization of the existence of the ultimate reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 23,
+        "chapter": "CHAPTER IV,",
+        "surface_quote": "Religion, to us, means that intuitional realization of the existence of THE ALL",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "religion",
+      "intuition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0071",
+    "canonical_statement": "The ultimate essence of the fundamental reality is beyond human comprehension.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 24,
+        "chapter": "CHAPTER IV,",
+        "surface_quote": "the essential nature of THE ALL is Unknowable",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0072",
+    "canonical_statement": "Human reason is a valid and necessary instrument for discerning truths about the nature of reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 24,
+        "chapter": "CHAPTER IV,",
+        "surface_quote": "the report of Reason must be hospitably received",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0073",
+    "canonical_statement": "There exists a fundamental, substantial reality that underlies all existence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 24,
+        "chapter": "CHAPTER IV,",
+        "surface_quote": "THAT which is the Fundamental Truth—the Substantial Reality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0074",
+    "canonical_statement": "The totality of existence is infinite, as there is no external entity to bound or limit it.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 25,
+        "chapter": "ALLY IS.",
+        "surface_quote": "THE ALL must be INFINITE, for there is nothing else to define, confine, bound.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "infinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0075",
+    "canonical_statement": "The totality of existence is eternal, having no beginning or end, as it cannot arise from or return to nothingness.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 25,
+        "chapter": "ALLY IS.",
+        "surface_quote": "It must be Infinite in Time, or ETERNAL; it must have always continuously existed.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0076",
+    "canonical_statement": "The totality of existence is spatially continuous and omnipresent, as there is no external space to create gaps or separation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 25,
+        "chapter": "ALLY IS.",
+        "surface_quote": "It must be Infinite in Space, it must be Everywhere, for there is no place outside.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "space",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0077",
+    "canonical_statement": "The totality of existence is immutable and absolute, possessing no capacity for change or external influence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 25,
+        "chapter": "ALLY IS.",
+        "surface_quote": "THE ALL must be IMMUTABLE, or not subject to change in its real nature.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "change",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0078",
+    "canonical_statement": "Finite, conditioned phenomena possess no ultimate reality, as they exist only within the context of the infinite totality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 25,
+        "chapter": "ALLY IS.",
+        "surface_quote": "any and all such finite things must be as Nothing in Reality.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0079",
+    "canonical_statement": "The ultimate source of reality must contain the qualities of all its manifested effects.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 26,
+        "chapter": "ALLY IS.",
+        "surface_quote": "nothing is ever manifested in an effect that is not in the cause",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0080",
+    "canonical_statement": "Matter is not a fundamental substance but a manifestation of energy at low vibrational rates.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 26,
+        "chapter": "ALLY IS.",
+        "surface_quote": "Matter is merely interrupted energy or force at a low rate of vibration.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "matter",
+      "energy",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0081",
+    "canonical_statement": "The ultimate reality (The All) cannot be reduced to blind mechanical energy because it manifests life and mind.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 26,
+        "chapter": "ALLY IS.",
+        "surface_quote": "Life and Mind can never evolve from blind Energy or Force",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "ontology",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0082",
+    "canonical_statement": "The ultimate reality, referred to as The All, is defined as Infinite Living Mind or Spirit.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 27,
+        "chapter": "LIFE AND MIND!",
+        "surface_quote": "THE ALL is Infinite Living Mind; the Illumined call it SPIRIT.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "the-all",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0083",
+    "canonical_statement": "Human conceptions of life and mind are finite and qualitatively distinct from the nature of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 27,
+        "chapter": "LIFE AND MIND!",
+        "surface_quote": "If you mean Life and Mind as we poor petty mortals know them, we say No.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0084",
+    "canonical_statement": "The Absolute exists on a higher ontological plane than mechanical forces or material substance.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 27,
+        "chapter": "LIFE AND MIND!",
+        "surface_quote": "Living Mind, as far above that which mortals know... as Life and Mind are higher than mechanical forces.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0085",
+    "canonical_statement": "The totality of existence is a mental construct residing within an infinite, absolute consciousness.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 28,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "The Universe is Mental—held in the Mind of THE ALL.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0086",
+    "canonical_statement": "The ultimate nature of the absolute is beyond human definition and conceptualization.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 28,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "This question cannot be answered, for the reason that its definition is that of THE ALL.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0087",
+    "canonical_statement": "The absolute cannot be divided or diminished to create the universe, as it is indivisible.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 28,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "THE ALL cannot be subtracted from, nor divided.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0088",
+    "canonical_statement": "The universe is not identical to the absolute, nor is it non-existent.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 28,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "The Universe is neither THE ALL, nor Nothing.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0089",
+    "canonical_statement": "Individual consciousness is not identical to the totality of existence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 29,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "men... have jumped to the conclusion that they and THE ALL were identical",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "totality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0090",
+    "canonical_statement": "The universe is a mental creation of the totality of existence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 29,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "THE ALL creates the Universe MENTALLY",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "substrate",
+      "mentalism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0091",
+    "canonical_statement": "The totality of existence cannot be divided, subtracted from, or multiplied.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 29,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "THE ALL cannot transfer or subtract a portion of itself",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "totality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0092",
+    "canonical_statement": "The laws governing higher planes of existence are reflected in the laws of lower planes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 29,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "As above, so below",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0093",
+    "canonical_statement": "The entire universe is a mental creation existing within the mind of an infinite entity.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 30,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "THE ALL create Universes in its own Mentality.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "mind",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0094",
+    "canonical_statement": "Individual consciousness and the universal consciousness are identical in nature but differ in scale and capacity.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 30,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "The two are similar in kind, but infinitely different in degree.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0095",
+    "canonical_statement": "Finite minds possess the inherent capacity to generate mental universes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 30,
+        "chapter": "CHAPTER V.",
+        "surface_quote": "you, student, may create a Universe of your own in your mentality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0096",
+    "canonical_statement": "The universe is a mental construct generated within the Infinite Mind of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 31,
+        "chapter": "THE UNI-",
+        "surface_quote": "The All creates in its Infinite Mind countless Universes.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0097",
+    "canonical_statement": "Time is relative to the observer; the lifespan of universes is instantaneous to the Absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 31,
+        "chapter": "THE UNI-",
+        "surface_quote": "A million Universes is as the time of the twinkling of an eye.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0098",
+    "canonical_statement": "The Principle of Gender is a fundamental law of creation, distinct from biological sex.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 31,
+        "chapter": "THE UNI-",
+        "surface_quote": "Gender means relating to generation or creation.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0099",
+    "canonical_statement": "The Absolute transcends all laws, including time, space, and gender, until it manifests in creation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 31,
+        "chapter": "THE UNI-",
+        "surface_quote": "The All, in itself, is above Gender, as it is above every other Law.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0100",
+    "canonical_statement": "The Absolute is a singular unity; masculine and feminine aspects are merely functional modes of manifestation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 31,
+        "chapter": "THE UNI-",
+        "surface_quote": "The All is One; the Two Aspects are merely aspects of manifestation.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0101",
+    "canonical_statement": "Creation occurs through the interaction of a masculine Will and a feminine generative principle.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 31,
+        "chapter": "THE UNI-",
+        "surface_quote": "Masculine Principle projects its Will toward the Feminine Principle.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "process"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0102",
+    "canonical_statement": "The universe is generated and sustained within the infinite mind of the absolute reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 32,
+        "chapter": "THE UNI-",
+        "surface_quote": "THE ALL is but One, and that in its Infinite Mind the Universe is generated",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0103",
+    "canonical_statement": "Creation proceeds through the interaction of masculine and feminine principles, representing the father and mother of all phenomena.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 32,
+        "chapter": "THE UNI-",
+        "surface_quote": "Masculine Principle as GOD... Feminine Principle as NATURE, the Universal Mother",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0104",
+    "canonical_statement": "The structure of reality is fractal, where the laws governing one plane of existence apply to all other planes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 32,
+        "chapter": "THE UNI-",
+        "surface_quote": "As above, so below... phenomena of one plane may be employed to solve the riddles",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0105",
+    "canonical_statement": "Individual consciousness is bifurcated into a witnessing 'I' and a generative 'Me' that produces mental content.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 32,
+        "chapter": "THE UNI-",
+        "surface_quote": "the 'I' stands apart and witnesses the creation of Mental Images in your own mind",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0106",
+    "canonical_statement": "The entire universe exists as a manifestation within the Infinite Mind of the All.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 33,
+        "chapter": "THE ALL,",
+        "surface_quote": "millions of such Universes in existence within the Infinite Mind of THE ALL.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0107",
+    "canonical_statement": "Human consciousness undergoes an evolutionary progression through higher planes of existence over vast timescales.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 33,
+        "chapter": "THE ALL,",
+        "surface_quote": "you will be even as they, and still higher, in time",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evolution",
+      "consciousness",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0108",
+    "canonical_statement": "Death is a transition rather than an end, marking a birth into a new state of life.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 33,
+        "chapter": "THE ALL,",
+        "surface_quote": "Death is not real... it is but Birth to a new life",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0109",
+    "canonical_statement": "At the conclusion of the cosmic cycle, all individual creations are reabsorbed into the All to achieve unity.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 33,
+        "chapter": "THE ALL,",
+        "surface_quote": "THE ALL shall draw back into itself all of its creations",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "eschatology",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0110",
+    "canonical_statement": "Individual identity is inherently connected to the Infinite Mind, ensuring no being is ever truly isolated.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 33,
+        "chapter": "THE ALL,",
+        "surface_quote": "There is not one who is Fatherless, nor Motherless in the Universe.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0111",
+    "canonical_statement": "The universe is relatively unreal but must be treated as real by finite beings to facilitate progress.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 34,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "While to THE INFINITE ALL, the Universe... is as things witnessed... yet to all that is Finite, the Universe must be treated as Real.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "polarity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0112",
+    "canonical_statement": "Mastery is achieved by transmuting lower forces through the application of higher laws, rather than denying the existence of the lower planes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 34,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "Transmutation, not presumptuous denial, is the weapon of the Master.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mastery",
+      "alchemy",
+      "laws"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0113",
+    "canonical_statement": "The universe is a mental creation of the Absolute, functioning as a dream-like state for the Infinite but a necessary reality for the finite.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 34,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "The Divine Paradox, that while the Universe IS NOT, still IT IS.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "metaphysics",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0114",
+    "canonical_statement": "Ignoring the laws of the finite plane under the guise of spiritual wisdom leads to stagnation and suffering.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 34,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "The half-wise... imagine that they may defy its Laws",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0115",
+    "canonical_statement": "Reality must be understood through the simultaneous application of both Absolute and Relative perspectives to avoid incomplete truths.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 35,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "grasp the Divine Paradox of the Absolute and Relative",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0116",
+    "canonical_statement": "The universe is a mental creation of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 35,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "the Universe is a Mental Creation of THE ALL",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0117",
+    "canonical_statement": "From the Absolute perspective, the created universe is illusory and unreal compared to the nature of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 35,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "From the Absolute viewpoint, the Universe is in the nature of an illusion",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "illusion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0118",
+    "canonical_statement": "Any entity or phenomenon characterized by a beginning and an ending is inherently unreal in an absolute sense.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 35,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "Anything that has a beginning and an ending must be, in a sense, unreal",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0119",
+    "canonical_statement": "The Absolute is the only entity possessing ultimate reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 35,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "there is nothing Real except THE ALL",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0120",
+    "canonical_statement": "The universe is a mental creation existing within the mind of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 36,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "The universe is a Mental Creation in the Mind of THE ALL.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0121",
+    "canonical_statement": "Reality is perceived differently depending on whether one occupies an Absolute or Relative perspective.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 36,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "Absolute point of view shows one side of the picture, the other is the Relative.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0122",
+    "canonical_statement": "The universe is illusory from the perspective of the Absolute, but functionally real for finite beings.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 36,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "To THE ALL the Universe is illusionary, but to finite minds it is real.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0123",
+    "canonical_statement": "Physical matter is composed of vibrating units of force rather than solid substance.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 36,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "Matter is merely an aggregation of atoms, which are groupings of units of force.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0124",
+    "canonical_statement": "The existence of objects is dependent upon the perceiving mind.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 36,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "If it were not by reason of our Mind, we would not know objects.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0125",
+    "canonical_statement": "The universe is fundamentally mental in nature, existing as a creation within the mind of the Infinite.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 37,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "this Universe of Mentality is very real indeed",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0126",
+    "canonical_statement": "Finite existence is perceived as illusory, with the degree of illusion decreasing as one ascends through planes of being.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 37,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "the higher we rise... the more apparent becomes the illusory nature of finite things",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0127",
+    "canonical_statement": "Absolute reality is only experienced by the Infinite itself; individual consciousness remains subject to the illusion of the universe until reabsorbed.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 37,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "not until THE ALL finally withdraws us into itself does the vision actually vanish",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0128",
+    "canonical_statement": "All entities except the Infinite are subject to the immutable mental laws governing the universe.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 37,
+        "chapter": "CHAPTER VI.",
+        "surface_quote": "All, except THE ALL, are bound by them",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "law",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0129",
+    "canonical_statement": "All individual existence is contained within and sustained by a singular, infinite consciousness.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 38,
+        "chapter": "IN THE INFINITE MIND OF THE ALL",
+        "surface_quote": "We are all held firmly in the Infinite Mind of the All.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0130",
+    "canonical_statement": "The totality of existence is mental in nature; physical matter is a manifestation of the Infinite Mind.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 38,
+        "chapter": "IN THE INFINITE MIND OF THE ALL",
+        "surface_quote": "All else in the Universe is purely Mental in its nature.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0131",
+    "canonical_statement": "Physical matter is composed of force and vibration, functioning as a relative reality within the mental universe.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 38,
+        "chapter": "IN THE INFINITE MIND OF THE ALL",
+        "surface_quote": "Matter is merely an aggregation of Force, vibrating rapidly.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "matter",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0132",
+    "canonical_statement": "Natural laws are mental creations that remain constant and effective within their respective planes of existence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 38,
+        "chapter": "IN THE INFINITE MIND OF THE ALL",
+        "surface_quote": "Laws of Nature are merely mental creations.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "law",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0133",
+    "canonical_statement": "The Infinite Mind is the source of all law and is the only entity that transcends the operation of law.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 38,
+        "chapter": "IN THE INFINITE MIND OF THE ALL",
+        "surface_quote": "Nothing but The All can escape Law and that because The All is Law itself.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "law",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0134",
+    "canonical_statement": "The universe is structured as a hierarchy of beings with varying degrees of power and mastery.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 38,
+        "chapter": "IN THE INFINITE MIND OF THE ALL",
+        "surface_quote": "There are countless ranks of being, in the great hierarchy of life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0135",
+    "canonical_statement": "All entities, regardless of their power or status, are subject to universal Law.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 39,
+        "chapter": "IN THE INFINITE MIND OF THE ALL",
+        "surface_quote": "even these highest Beings... are bound by and are subservient to Law",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "law",
+      "hierarchy",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0136",
+    "canonical_statement": "Universal laws are mental in nature and function as creations of the Absolute Mind.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 39,
+        "chapter": "IN THE INFINITE MIND OF THE ALL",
+        "surface_quote": "Laws are Mental in nature, and simply Mental Creations of THE ALL",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind",
+      "creation",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0137",
+    "canonical_statement": "The individual identity is subordinate to the totality of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 39,
+        "chapter": "IN THE INFINITE MIND OF THE ALL",
+        "surface_quote": "be as Nothing in the eye of THE ALL",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0138",
+    "canonical_statement": "The universe is sustained by immutable laws that constitute its fundamental framework.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 40,
+        "chapter": "THE ALL.",
+        "surface_quote": "the Universe exists by virtue of these Laws which form its framework",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0139",
+    "canonical_statement": "Mastery is achieved by transmuting lower forces into higher forces through vibration rather than denying reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 42,
+        "chapter": "THE ALL.",
+        "surface_quote": "Transmutation, not presumptuous denial, is the weapon of the Master.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mastery",
+      "transmutation",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0140",
+    "canonical_statement": "The universe is relative but possesses functional reality regarding human experience and action.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 42,
+        "chapter": "THE ALL.",
+        "surface_quote": "an Universe which, while relative, is real so far as our lives and actions are concerned.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "universe",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0141",
+    "canonical_statement": "The evolutionary trajectory of consciousness is an upward progression toward higher states.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 42,
+        "chapter": "THE ALL.",
+        "surface_quote": "We are all on The Path and the road leads upward ever.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "evolution",
+      "consciousness",
+      "path"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0142",
+    "canonical_statement": "There exists a universal tendency toward growth and higher ideals despite contradictory appearances.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 42,
+        "chapter": "THE ALL.",
+        "surface_quote": "realizing the Universal tendency in the same direction in spite of apparent evidences.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "teleology",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0143",
+    "canonical_statement": "The totality of existence is contained within the Universal Mind, while the Universal Mind is simultaneously contained within every constituent part of existence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 43,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "All is in THE ALL, it is equally true that THE ALL is in All.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "panentheism",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0144",
+    "canonical_statement": "The universe is a mental construct existing entirely within the consciousness of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 43,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "The Universe is Mental—held in the Mind of THE ALL.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0145",
+    "canonical_statement": "The Absolute remains immanent within every individual unit or particle of its mental creation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 43,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "THE ALL",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0146",
+    "canonical_statement": "The universe exists as a mental creation within the Infinite Mind of the All.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 44,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "the Universe is a creation of Infinite Mind",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0147",
+    "canonical_statement": "The creator is immanent within its creations, yet the",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 44,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0148",
+    "canonical_statement": "Spiritual development is the conscious realization and manifestation of the inner Spirit.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 45,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "spiritual development means the recognition, realization, and manifestation of the Spirit within us.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0149",
+    "canonical_statement": "The universe is structured as a hierarchical scale of existence ranging from gross matter to the Spirit of the All.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 45,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "There are many planes of Being... the lowest point is the grossest matter.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0150",
+    "canonical_statement": "All beings are in a state of constant progression toward the ultimate source, the All.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 45,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "All progress is a Returning Home.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "teleology",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0151",
+    "canonical_statement": "Creation occurs through the involution of the All, where divine energy lowers its vibration to manifest as matter.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 45,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "lowering of Vibration until a very low degree of vibratory energy is reached.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0152",
+    "canonical_statement": "The creative process involves the All becoming 'wrapped up' or identified with its own mental creation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 45,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "THE ALL becomes involved, or wrapped up, in its creation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0153",
+    "canonical_statement": "The cosmic process operates in two phases: the Outpouring (Involution) and the Indrawing (Evolution).",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 45,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "Involuntary stage of Creation is sometimes called the Outpouring... Evolutionary state is called the Indrawing.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "rhythm"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0154",
+    "canonical_statement": "The absolute source manifests as individual units of life through a process of differentiation and evolution.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 46,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "Law of Individualization: the tendency to separate into Units of Force.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "evolution",
+      "source"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0155",
+    "canonical_statement": "The universe is a mental creation sustained by the focused attention of the absolute source.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 46,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "The mental creation of the Universe in the Mind of THE ALL.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "consciousness",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0156",
+    "canonical_statement": "Evolution is the process of the absolute source withdrawing its attention, causing the universe to return to its origin.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 46,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "THE ALL withdraws its Attention... and All is withdrawn into THE ALL.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "evolution",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0157",
+    "canonical_statement": "Temporal duration is relative; what constitutes aeons for individual units is instantaneous for the absolute source.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 46,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "The entire creation... is but as the twinkle of the eye to THE ALL.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0158",
+    "canonical_statement": "Individual souls retain their distinct spiritual essence even when the universe is withdrawn into the absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 46,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "The Spirit of each soul is not destroyed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0159",
+    "canonical_statement": "The distinction between the Creator and the created is illusory; they are fundamentally unified.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 47,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "Created and the Creator are merged.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0160",
+    "canonical_statement": "The macrocosmic process of the Absolute is reflected in the microcosmic experience of the individual.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 47,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "As Below, so Above.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0161",
+    "canonical_statement": "Human spiritual evolution involves a withdrawal from material manifestation into the indwelling Divine Ego.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 47,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "Man... withdraws himself more and more into the Indwelling Spirit.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0162",
+    "canonical_statement": "The Absolute is not subject to external or internal compulsion; its creative activity is not driven by necessity.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 47,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "THE ALL being compelled by anything... falls.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "absolute",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0163",
+    "canonical_statement": "The Absolute exists beyond the operation of cause and effect, acting only by its own volition.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 48,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "THE ALL is above Cause and Effect, except when it Wills to become a Cause.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "absolute",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0164",
+    "canonical_statement": "The Absolute, its reason, its law, and its act are ontologically identical.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 48,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "THE ALL; Its Reason; Its Act; is Law; are ONE.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "absolute",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0165",
+    "canonical_statement": "The Principle of Correspondence applies only to the aspect of the Absolute characterized by becoming, not being.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 48,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "The Law of Correspondence reaches only to that aspect of THE ALL, which may be spoken of as The Aspect of BECOMING.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "becoming",
+      "being"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0166",
+    "canonical_statement": "The ultimate nature of the Absolute is unknowable and beyond the reach of metaphysical speculation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 48,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "THE ALL is Unknowable. Metaphysical speculation on this point is futile.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0167",
+    "canonical_statement": "Wisdom is restricted to those who possess the requisite level of understanding.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 49,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "The lips of Wisdom are closed, except to the ears of Understanding.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0168",
+    "canonical_statement": "The totality of existence is contained within the absolute, and the absolute is contained within the totality of existence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 49,
+        "chapter": "CHAPTER VII.",
+        "surface_quote": "While All is in THE ALL, it is equally true that THE ALL is in All.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "non-duality",
+      "the-all"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0169",
+    "canonical_statement": "The fourth dimension of reality is defined by the rate, direction, and manner of vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 51,
+        "chapter": "CHAPTER VIII.",
+        "surface_quote": "The Fourth Dimension may be called the Dimension of Vibration.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "dimension",
+      "vibration",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0170",
+    "canonical_statement": "All phenomena in the universe, from matter to consciousness, are fundamentally identical and differ only by their rate of vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 51,
+        "chapter": "CHAPTER VIII.",
+        "surface_quote": "The difference between them is solely a matter of degree, and rate of vibration.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "vibration",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0171",
+    "canonical_statement": "Planes of existence are not objective locations but arbitrary conceptual frameworks used to categorize degrees of universal activity.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 51,
+        "chapter": "CHAPTER VIII.",
+        "surface_quote": "The Three Great Planes are not actual divisions... but merely arbitrary terms.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "planes",
+      "epistemology",
+      "classification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0172",
+    "canonical_statement": "All existence is contained entirely within the Infinite Mind of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 51,
+        "chapter": "CHAPTER VIII.",
+        "surface_quote": "All are creations of THE ALL, and have their existence solely within the Infinite Mind.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "the-all",
+      "consciousness",
+      "monism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0173",
+    "canonical_statement": "The division of the universe into planes and sub-planes is an arbitrary conceptual framework used for study rather than an inherent ontological structure.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 52,
+        "chapter": "THE ALL.",
+        "surface_quote": "all divisions being more or less arbitrary... adopted merely for convenience of scientific study",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0174",
+    "canonical_statement": "Matter does not possess an independent existence separate from the Mind of the All.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 52,
+        "chapter": "THE ALL.",
+        "surface_quote": "Hermetic Philosophy does not recognize Matter as a thing in itself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0175",
+    "canonical_statement": "Matter is ontologically identical to energy, existing only as energy vibrating at a low rate.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 52,
+        "chapter": "THE ALL.",
+        "surface_quote": "Matter is but a form of Energy that is, Energy at a low rate of vibrations",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0176",
+    "canonical_statement": "Physical forms are distinct from the entities or souls that animate them.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 54,
+        "chapter": "THE ALL.",
+        "surface_quote": "molecules, atoms and corpuscles being merely the material bodies or forms of these entities",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0177",
+    "canonical_statement": "All material forms, including minerals and atoms, possess a degree of mind, soul, and life.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 54,
+        "chapter": "THE ALL.",
+        "surface_quote": "all occultists recognize the existence of the same [mind, soul, or life] in the Mineral kingdom",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "panpsychism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0178",
+    "canonical_statement": "The differences between the mental states of atoms and humans are differences of degree, not kind.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 54,
+        "chapter": "THE ALL.",
+        "surface_quote": "desire and will, emotions and feelings, of the atoms differ only in degree from those of men",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0179",
+    "canonical_statement": "The universe is organized into a hierarchy of planes and sub-planes of mental and vital development.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 54,
+        "chapter": "THE ALL.",
+        "surface_quote": "There are the usual seven sub-divisions to this plane.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0180",
+    "canonical_statement": "All biological life forms, including plants, possess mind and soul.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 55,
+        "chapter": "THE ALL.",
+        "surface_quote": "Plants have life, mind and souls, as well as have the animals, man, and super-man.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "soul",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0181",
+    "canonical_statement": "The universe is structured into hierarchical planes of mind, each containing seven sub-divisions.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 55,
+        "chapter": "THE ALL.",
+        "surface_quote": "The Plane of Elemental Mind (B), in its seven sub-divisions, comprises the states.",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0182",
+    "canonical_statement": "The universe contains a hierarchy of beings existing on various planes of matter and energy, ranging from elemental forms to divine entities.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 57,
+        "chapter": "THE ALL.",
+        "surface_quote": "On the Seven Minor Planes of the Great Spiritual Plane exist Beings of whom we may speak as Angels.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "planes",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0183",
+    "canonical_statement": "Advanced spiritual beings actively influence the evolution and cosmic progress of the universe.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 57,
+        "chapter": "THE ALL.",
+        "surface_quote": "These Unseen Divinities and Angelic Helpers extend their influence freely and powerfully, in the process of Evolution.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "intervention",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0184",
+    "canonical_statement": "All beings, regardless of their power or status, are creations within the Mind of the Absolute and remain subject to universal laws.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 57,
+        "chapter": "THE ALL.",
+        "surface_quote": "Even the highest of these advanced Beings exist merely as creations of, and in, the Mind of THE ALL.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "the-all",
+      "mind",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0185",
+    "canonical_statement": "All entities within the cosmic hierarchy are ultimately mortal.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 57,
+        "chapter": "THE ALL.",
+        "surface_quote": "They are still Mortal.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mortality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0186",
+    "canonical_statement": "The soul's descent into material existence is a consequence of selfish actions on spiritual planes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 59,
+        "chapter": "THE ALL.",
+        "surface_quote": "striving for selfish power on the Spiritual Planes inevitably results in... falling back",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "ethics",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0187",
+    "canonical_statement": "All planes of existence are contained within the Mind of the Absolute.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 59,
+        "chapter": "THE ALL.",
+        "surface_quote": "all are held in the Mind of THE ALL.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "consciousness",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0188",
+    "canonical_statement": "The Principle of Correspondence dictates that the same laws operate across all physical, mental, and spiritual planes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 59,
+        "chapter": "THE ALL.",
+        "surface_quote": "As Above so Below; as Below, so Above",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "law",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0189",
+    "canonical_statement": "All phenomena arise from and are defined by the principle of vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 59,
+        "chapter": "THE ALL.",
+        "surface_quote": "Nothing rests; everything moves; everything vibrates.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0190",
+    "canonical_statement": "The movement of phenomena across all planes is characterized by rhythmic cycles of ebb and flow.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 59,
+        "chapter": "THE ALL.",
+        "surface_quote": "the movement of the phenomena having its ebb and flow",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "rhythm",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0191",
+    "canonical_statement": "Creative energy functions through the interaction of masculine and feminine aspects on every plane.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 59,
+        "chapter": "THE ALL.",
+        "surface_quote": "Creative Energy being always manifest, and operating along the lines of its Masculine and Feminine Aspects.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gender",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0192",
+    "canonical_statement": "All existence is characterized by constant motion and vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 60,
+        "chapter": "THE ALL.",
+        "surface_quote": "everything moves, vibrates, and circles",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "motion",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0193",
+    "canonical_statement": "Differences in manifestations of universal power are determined by varying rates and modes of vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 60,
+        "chapter": "THE ALL.",
+        "surface_quote": "differences between manifestations are due to varying rate and mode of vibrations",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0194",
+    "canonical_statement": "The Absolute (THE ALL) vibrates at such high intensity that it appears to be at rest.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 60,
+        "chapter": "THE ALL.",
+        "surface_quote": "THE ALL manifests a constant vibration of such intensity it is considered at rest",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "the all",
+      "vibration",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0195",
+    "canonical_statement": "Matter, energy, and mind are all fundamentally modes of vibratory motion.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 60,
+        "chapter": "THE ALL.",
+        "surface_quote": "phenomena of Mind are likewise modes of vibration or motion",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "matter",
+      "energy",
+      "mind",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0196",
+    "canonical_statement": "All manifestations of matter and energy are fundamentally defined by constant vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 61,
+        "chapter": "THE ALL.",
+        "surface_quote": "all forms of Matter manifest Vibration",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "matter",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0197",
+    "canonical_statement": "The universe is structured as a nested hierarchy of motion, extending infinitely in both macro and micro scales.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 61,
+        "chapter": "THE ALL.",
+        "surface_quote": "move around still greater, and so on, ad infinitum",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "infinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0198",
+    "canonical_statement": "Physical forces such as cohesion, chemical affinity, and gravitation are manifestations of vibratory energy.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 61,
+        "chapter": "THE ALL.",
+        "surface_quote": "these too are manifestations of some form of vibratory energy",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "energy",
+      "vibration",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0199",
+    "canonical_statement": "The Ethereal Substance is a high-vibration form of matter that serves as the medium for energy transmission.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 61,
+        "chapter": "THE ALL.",
+        "surface_quote": "Ethereal Substance is... matter at a higher degree of vibration",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ether",
+      "matter",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0200",
+    "canonical_statement": "The Ethereal Substance acts as the ontological bridge between the states of matter and energy.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 61,
+        "chapter": "THE ALL.",
+        "surface_quote": "connecting link between the forms of vibratory energy known as Matter and Energy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0201",
+    "canonical_statement": "The manifestation of physical phenomena is determined by the rate of vibration of the underlying substance.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 62,
+        "chapter": "THE ALL.",
+        "surface_quote": "The illustration of a rapidly moving wheel to show the effects of increasing vibration.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0202",
+    "canonical_statement": "Human sensory perception is limited to a specific range of vibrational frequencies.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 62,
+        "chapter": "THE ALL.",
+        "surface_quote": "The human ear cannot register the vibrations... the human eye not being able to register them.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "senses"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0203",
+    "canonical_statement": "Matter is composed of elements that disintegrate into original atoms when a specific vibrational threshold is exceeded.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 62,
+        "chapter": "THE ALL.",
+        "surface_quote": "When the object reaches a certain rate of vibration its molecules disintegrate.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "matter",
+      "vibration",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0204",
+    "canonical_statement": "All physical matter is composed of a singular Ethereal Substance manifesting through varying rates of vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 63,
+        "chapter": "THE ALL.",
+        "surface_quote": "the object may be said to be composed of The Ethereal Substance.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "vibration",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0205",
+    "canonical_statement": "The ultimate state of existence is Absolute Spirit, which constitutes the totality of reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 63,
+        "chapter": "THE ALL.",
+        "surface_quote": "re-enter THE ALL, which is Absolute Spirit.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "spirit",
+      "the-all",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0206",
+    "canonical_statement": "The creative force becomes inherently entangled and confined within the material forms it manifests.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 63,
+        "chapter": "THE ALL.",
+        "surface_quote": "the creating force becoming involved in its creation.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "matter",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0207",
+    "canonical_statement": "All mental states, including thought and emotion, are physical manifestations of vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 63,
+        "chapter": "THE ALL.",
+        "surface_quote": "all manifestation of thought, emotion... are accompanied by vibrations.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "vibration",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0208",
+    "canonical_statement": "Mental influence and telepathy occur through the induction of vibrations between individual minds.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 63,
+        "chapter": "THE ALL.",
+        "surface_quote": "phenomena of telepathy; mental influence... affect the minds of other persons by induction.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "telepathy",
+      "mind",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0209",
+    "canonical_statement": "All mental states are manifestations of specific rates and modes of vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 64,
+        "chapter": "THE ALL.",
+        "surface_quote": "Every thought, emotion or mental state has its corresponding rate and mode of vibration.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0210",
+    "canonical_statement": "Mental states can be intentionally reproduced or altered by manipulating their vibrational frequency.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 64,
+        "chapter": "THE ALL.",
+        "surface_quote": "these mental states may be reproduced, just as a musical tone may be reproduced",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "vibration",
+      "will",
+      "mental-transmutation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0211",
+    "canonical_statement": "Phenomena classified as miracles are the result of manipulating the vibrational frequency of matter or energy.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 64,
+        "chapter": "THE ALL.",
+        "surface_quote": "accomplish their results by changing the vibrations of material objects",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "vibration",
+      "causality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0212",
+    "canonical_statement": "The laws of nature are not absolute but can be superseded by applying higher-order principles.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 64,
+        "chapter": "THE ALL.",
+        "surface_quote": "Masters and Adepts, who are able to apparently set aside the Laws of Nature",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "nature",
+      "causality",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0213",
+    "canonical_statement": "All manifested phenomena possess a dual nature consisting of two poles with varying degrees between them.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 65,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "all manifested things have two sides, two aspects, two poles",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "polarity",
+      "duality",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0214",
+    "canonical_statement": "Opposing entities are identical in nature, differing only in their degree of manifestation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 65,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "opposites are identical in nature, but different in degree",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "polarity",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0215",
+    "canonical_statement": "Spirit and matter are identical in essence, representing opposite poles of a single substance differentiated by vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 65,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "Spirit and Matter are but the two poles of the same thing",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "spirit",
+      "matter",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0216",
+    "canonical_statement": "The distinction between the absolute unity of the All and the multiplicity of the many is a matter of degree in mental manifestation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 65,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "THE ALL and The Many are the same, the difference being merely a matter of degree",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "the all",
+      "unity",
+      "multiplicity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0217",
+    "canonical_statement": "Opposing qualities are not distinct entities but are relative poles of a single underlying substance.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 66,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "two opposite poles of one thing.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "polarity",
+      "metaphysics",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0218",
+    "canonical_statement": "Differences in quality are determined solely by variations in the degree of vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 66,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "all is a matter of higher or lower vibrations.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "physics",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0219",
+    "canonical_statement": "Moral categories such as good and evil are relative positions on a continuous scale rather than absolute states.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 66,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "Good and Bad are not absolute.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "polarity",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0220",
+    "canonical_statement": "The distinction between infinite and finite consciousness is a manifestation of a single principle.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 66,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "Infinite Mind and finite minds.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0221",
+    "canonical_statement": "Opposing qualities are not distinct entities but are varying degrees of a single underlying spectrum.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 67,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "The two are merely terms applied to the two poles of the same thing.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "polarity",
+      "duality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0222",
+    "canonical_statement": "Transmutation of mental states is possible only between phenomena belonging to the same class or spectrum.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 67,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "Things belonging to different classes cannot be transmuted into each other.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "transmutation",
+      "polarity",
+      "alchemy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0223",
+    "canonical_statement": "Mental states are altered by shifting one's position along a pre-existing scale of vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 67,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "Mental changes are occasioned by a change of polarity—a sliding along the same scale.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "vibration",
+      "consciousness",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0224",
+    "canonical_statement": "Mental states exist on a spectrum of vibration where transmutation is possible only between opposite poles of the same class.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 68,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "mental states belong to innumerable classes, each class of which has its opposite poles",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "polarity",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0225",
+    "canonical_statement": "Mental phenomena are categorized into positive and negative poles, with the positive pole possessing a higher degree of dominance.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 68,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "the two poles may be classified as Positive and Negative... the Positive pole seems to be of a higher degree",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "polarity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0226",
+    "canonical_statement": "The natural tendency of the universe is toward the dominance of the positive pole.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 68,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "The tendency of Nature is in the direction of the dominant activity of the Positive pole.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "polarity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0227",
+    "canonical_statement": "Mental states can be induced in others through the communication of specific vibrational rates.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 68,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "mental states may be produced by induction from others",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "influence",
+      "vibration",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0228",
+    "canonical_statement": "Mental states are not distinct entities but exist on a spectrum of degree.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 69,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "these mental changes are nearly all along the line of Polarization",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind",
+      "polarity",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0229",
+    "canonical_statement": "Conscious beings possess the capacity to alter their mental polarity through intentional vibration adjustment.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 69,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "able to raise or lower the vibration at will to change his mental poles",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "agency",
+      "mind",
+      "polarity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0230",
+    "canonical_statement": "Mastery over one's mental state is achieved by recognizing the relative nature of mental poles.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 69,
+        "chapter": "CHAPTER X,",
+        "surface_quote": "Master of his mental states, instead of being their servant and slave",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "mastery",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0231",
+    "canonical_statement": "All phenomena in the universe, including spirit and matter, are governed by a rhythmic, pendulum-like motion between polar opposites.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 70,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "Everything flows out and in; everything has its tides; the pendulum-swing manifests in everything.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "rhythm",
+      "cosmology",
+      "polarity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0232",
+    "canonical_statement": "The magnitude of movement toward one pole is proportional to the movement toward the opposite pole, ensuring compensation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 70,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "The measure of the swing to the right, is the measure of the swing to the left.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "rhythm",
+      "balance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0233",
+    "canonical_statement": "The creative process of the Absolute involves a cyclical expansion and contraction, described as an outbreathing and inbreathing.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 70,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "There is ever the Outpouring and the Indrawing; the Outbreathing and Inbreathing of Brahm.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "spirit",
+      "cycles"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0234",
+    "canonical_statement": "The Law of Rhythm operates exclusively within the unconscious plane of mental activity.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 72,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "the swing of the pendulum occurred on the Unconscious Plane",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "rhythm",
+      "consciousness",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0235",
+    "canonical_statement": "Consciousness can be elevated above rhythmic fluctuations through the application of the Law of Neutralization.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 72,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "raising of the Ego above the vibrations of the Unconscious Plane",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "neutralization",
+      "mastery"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0236",
+    "canonical_statement": "The individual Ego possesses the capacity to polarize itself against involuntary mental oscillations via the exercise of Will.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 72,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "by the use of his Will he attains a degree of Poise",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "will",
+      "identity",
+      "mastery"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0237",
+    "canonical_statement": "Human emotional states are subject to a deterministic rhythmic cycle of opposing polarities.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 72,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "Enthusiasm has been invariably followed by an opposite feeling and mood of Depression",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "rhythm",
+      "emotion",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0238",
+    "canonical_statement": "The Principle of Rhythm is an immutable law of the universe that persists independently of individual consciousness.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 73,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "The Principle itself can never be destroyed. We may escape its effects, but the Principle operates.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "rhythm",
+      "cosmology",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0239",
+    "canonical_statement": "Individual will can transcend the influence of universal rhythmic cycles without nullifying the cycles themselves.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 73,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "The pendulum ever swings, although we may escape being carried along with it.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "will",
+      "rhythm",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0240",
+    "canonical_statement": "The Law of Compensation dictates that every movement or state in one direction is balanced by an equal and opposite movement or state.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 73,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "The measure of the swing to the right is the measure of the swing to the left.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "compensation",
+      "duality",
+      "balance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0241",
+    "canonical_statement": "The Law of Compensation applies to mental and emotional states, where the capacity for joy is proportional to the capacity for suffering.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 73,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "The man who enjoys keenly, is subject to keen suffering.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "emotion",
+      "compensation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0242",
+    "canonical_statement": "The capacity for pain and pleasure in an individual is governed by a law of balance.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 74,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "The capacity for pain and pleasure, in each individual, are balanced.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "duality",
+      "compensation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0243",
+    "canonical_statement": "Pleasure is a rhythmic compensation for pain previously experienced in the current or a past life.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 74,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "pleasure is the Rhythmic swing... for a degree of pain previously experienced",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "rhythm",
+      "reincarnation",
+      "compensation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0244",
+    "canonical_statement": "Individual existence is a continuous chain of lives forming a single unified life.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 74,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "the chain of lives as continuous, and as forming a part of one life",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "reincarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0245",
+    "canonical_statement": "Advanced consciousness can transcend the rhythmic swing of pain through the process of neutralization.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 74,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "the Master... is able... to escape the swing toward Pain, by the process of Neutralization",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "mastery",
+      "rhythm"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0246",
+    "canonical_statement": "All gains and possessions are subject to an inherent cost or balancing lack.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 74,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "one generally pays the price of anything he possesses or lacks.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "compensation",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0247",
+    "canonical_statement": "The universe operates under a law of compensation that maintains equilibrium across multiple lifetimes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 75,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "The Law of Compensation is ever in operation, striving to balance and counter-balance.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "compensation",
+      "equilibrium",
+      "reincarnation",
+      "rhythm"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0248",
+    "canonical_statement": "Individual experience is defined by a reciprocal relationship between possession and capacity for enjoyment.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 75,
+        "chapter": "CHAPTER XL",
+        "surface_quote": "The rich possess much that the poor lack, while the poor often possess things beyond reach.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "experience",
+      "duality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0249",
+    "canonical_statement": "The universe is governed by a continuous, unbroken chain of cause and effect.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 76,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "phenomena is continuous, without break or exception.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causation",
+      "law",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0250",
+    "canonical_statement": "Chance is a subjective illusion resulting from the failure to perceive underlying causal mechanisms.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 76,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "Chance is but a name for Law not recognized.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causation",
+      "perception",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0251",
+    "canonical_statement": "Nothing can exist outside of the universal law, as the totality of existence is synonymous with law itself.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 76,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "There is no room in the universe for a something outside of and independent of Law.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "law",
+      "the all"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0252",
+    "canonical_statement": "Chance is a subjective label for causal chains that remain imperceptible or incomprehensible to the observer.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 77,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "Chance is merely an expression relating to obscure causes we cannot perceive.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0253",
+    "canonical_statement": "All events are governed by infallible laws of cause and effect, rendering random occurrence impossible.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 77,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "There is no chance whatsoever about the fall of the dice.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0254",
+    "canonical_statement": "Causality operates exclusively upon events rather than upon the creation of things.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 77,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "No thing ever causes or creates another thing. Cause and Effect deals merely with events.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0255",
+    "canonical_statement": "Events do not create other events; they are links in a continuous chain originating from a singular creative energy.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 78,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "No event creates another event, but is merely a preceding link in the great orderly chain.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0256",
+    "canonical_statement": "All phenomena are interconnected through an infinite, unbroken series of preceding and subsequent causes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 78,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "There is a continuity between all events precedent, consequent and subsequent.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causation",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0257",
+    "canonical_statement": "The perception of chance is an illusion resulting from the inability to trace the infinite complexity of causal chains.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 78,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "At first sight we regard this as a chance effect, but when we examine the matter we find a great chain of causes.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "causation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0258",
+    "canonical_statement": "All events and phenomena are interconnected through an infinite chain of cause and effect.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 79,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "Every thought we think, every act we perform, has its direct and indirect results.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causation",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0259",
+    "canonical_statement": "The concepts of 'great' and 'small' are relative and non-existent within the universal mind.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 79,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "there is no great; there is no small; in the mind that causeth all.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0260",
+    "canonical_statement": "Free will and determinism are complementary poles of a single truth rather than mutually exclusive opposites.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 79,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "both are but Half-Truths—the opposing poles of Truth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "polarity",
+      "free-will",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0261",
+    "canonical_statement": "The degree of an entity's freedom is proportional to its proximity to the center of creation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 79,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "The further the creation is from the Centre, the more it is bound.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "freedom",
+      "hierarchy",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0262",
+    "canonical_statement": "Individual desires and choices are conditioned by external factors such as heredity and environment.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 79,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "The majority of people are more or less the slaves of heredity, environment, etc.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "conditioning"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0263",
+    "canonical_statement": "Human agency is typically governed by external environmental and internal psychological causality, rendering the individual a passive effect.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 80,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "The majority of people are carried along like the falling stone, obedient to environment.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0264",
+    "canonical_statement": "Advanced consciousness can transcend lower-plane causality by aligning with higher-plane laws, shifting from effect to cause.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 80,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "Masters... dominate their own moods... and thus become Movers in the game, instead of Pawns.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mastery",
+      "causality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0265",
+    "canonical_statement": "All phenomena are governed by a singular, universal Law emanating from an ultimate reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 80,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "Everything is governed by Universal Law—that the infinite number of laws are but manifestations of the One.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "law",
+      "monism",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0266",
+    "canonical_statement": "Chance is an illusory concept; all events are necessitated by the operation of universal law.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 80,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "There is no such things as Chance. The blind goddess has been abolished by Reason.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0267",
+    "canonical_statement": "Higher-order laws possess the capacity to override or negate lower-order phenomenal laws.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 80,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "Man may use Law to overcome laws, and that the higher will always prevail against the lower.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "law",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0268",
+    "canonical_statement": "The principle of gender is a universal law manifesting across all planes of existence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 81,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "Gender is in everything; everything has its Masculine and Feminine Principles.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "gender",
+      "universal-law",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0269",
+    "canonical_statement": "Metaphysical gender is distinct from biological sex, representing the generative force of creation.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 81,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "Gender, in its Hermetic sense, and Sex are not the same.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "gender",
+      "creation",
+      "distinction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0270",
+    "canonical_statement": "The fundamental structure of matter is governed by the interaction of masculine and feminine principles.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 81,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "The formation of the atom is due to the clustering of negative corpuscles around a positive one.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "physics",
+      "gender"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0271",
+    "canonical_statement": "The universe is structured by the interaction of masculine and feminine principles, which govern the generation of matter.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 82,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "Masculine principle of Gender with the Positive, and the Feminine with the Negative.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gender",
+      "creation",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0272",
+    "canonical_statement": "The feminine principle is the fundamental source of generation and the creation of new forms and energies.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 82,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "The Cathode, or Negative Pole, is the Mother Principle of Electrical Phenomena.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gender",
+      "creation",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0273",
+    "canonical_statement": "Physical matter is composed of underlying energetic principles that correspond to gendered polarities.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 82,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "The creative corpuscles or electrons are Feminine.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "matter",
+      "gender",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0274",
+    "canonical_statement": "The Principle of Gender operates on all planes of existence as a fundamental requirement for creative activity.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 83,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "all this arises from the operation of the Principle of Gender on the plane of Energy.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "gender",
+      "creation",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0275",
+    "canonical_statement": "Creative manifestation requires the interaction of both Masculine and Feminine principles; neither can operate independently.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 83,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "each principle is incapable of operative energy without the assistance of the other.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "duality",
+      "creation",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0276",
+    "canonical_statement": "The Masculine principle provides direction to energy, while the Feminine principle performs the active creative work.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 83,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "the Feminine principle is the one always doing the active creative work.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gender",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0277",
+    "canonical_statement": "All organic forms contain both Masculine and Feminine principles within their structure.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 83,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "everything in the organic world manifests both genders.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "nature",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0278",
+    "canonical_statement": "The Principle of Gender operates universally across all planes of existence, including inorganic matter and energy.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 84,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "Gender is in constant operation and manifestation in the field of inorganic matter.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hermeticism",
+      "gender",
+      "universal-law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0279",
+    "canonical_statement": "All forms of energy and physical phenomena are manifestations of the underlying Principle of Gender.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 84,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "all of these things are manifestations of the Gender Principle",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "energy",
+      "matter",
+      "gender"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0280",
+    "canonical_statement": "Atomic and molecular interactions, such as attraction and repulsion, are expressions of the Principle of Gender.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 84,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "attraction and repulsion of the atoms; chemical affinity; the loves and hates",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "atomic-theory",
+      "gender"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0281",
+    "canonical_statement": "Physical forces such as gravitation are manifestations of the Principle of Gender.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 85,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "Law of Gravitation... is but another manifestation of the Principle of Gender",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physics",
+      "gender",
+      "hermeticism",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0282",
+    "canonical_statement": "The Principle of Gender operates across both physical and mental planes of existence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 85,
+        "chapter": "CHAPTER XII.",
+        "surface_quote": "pass on to a consideration of the operation of the Principle on the Mental Plane",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "planes",
+      "gender",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0283",
+    "canonical_statement": "The human mind is fundamentally dual in nature.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 86,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "there remains the underlying principle of the duality of mind.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind",
+      "duality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0284",
+    "canonical_statement": "The duality of the mind is a manifestation of the Principle of Gender on the Mental Plane.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 86,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "the ancient Hermetic doctrine of the Principle of Gender on the Mental Plane.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "gender",
+      "hermeticism",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0285",
+    "canonical_statement": "The masculine principle of mind corresponds to active, conscious, and voluntary mental functions.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 86,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "The Masculine Principle of Mind corresponds to the so-called Objective Mind; Conscious Mind.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "gender",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0286",
+    "canonical_statement": "The feminine principle of mind corresponds to passive, subconscious, and involuntary mental functions.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 86,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "The Feminine Principle of Mind corresponds to the Subjective Mind; Sub-conscious Mind.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "gender",
+      "subconscious"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0287",
+    "canonical_statement": "The human consciousness is fundamentally dual in nature, consisting of two distinct aspects.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 87,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "the 'I Am' may be separated or split into two distinct parts",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0288",
+    "canonical_statement": "The individual self is composed of two distinct mental entities, identified as the 'I' and the 'Me'.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 87,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "there exists an 'I' and a 'Me'",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0289",
+    "canonical_statement": "The personality, characterized by feelings, habits, and traits, constitutes the 'Me' aspect of the self.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 87,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "the 'Me' is composed of certain feelings, tastes, likes, dislikes, habits",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "personality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0290",
+    "canonical_statement": "Human emotions and feelings are transient phenomena governed by the universal principles of rhythm and polarity.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 88,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "emotions and feelings change; are born and die away; are subject to Rhythm and Polarity.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "metaphysics",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0291",
+    "canonical_statement": "The identification of the self with the physical body or material possessions is a lower state of consciousness.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 88,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "consciousness being largely bound up with their bodily nature, they practically live there.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0292",
+    "canonical_statement": "The true self is distinct from and independent of both the physical body and transient mental states.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 88,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "he is able to disentangle his 'Me' from his idea of body... and mental states.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0293",
+    "canonical_statement": "Mental states, emotions, and personal characteristics are objects produced by the mind rather than the essence of the self.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 88,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "consider these internal states as identical with himself, instead of their being simply things.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0294",
+    "canonical_statement": "The individual consciousness is composed of a dual structure consisting of a receptive 'Me' and a volitional 'I'.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 89,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "the student will find himself in conscious possession of a Self which may be considered in its I and Me dual aspects.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0295",
+    "canonical_statement": "The 'Me' aspect functions as a generative mental substrate capable of producing thoughts and mental states.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 89,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "The Me will be felt to be a Something mental in which thoughts, ideas, emotions, feelings, and other mental states may be produced.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mind",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0296",
+    "canonical_statement": "The 'I' aspect functions as the volitional principle that directs and observes the generative processes of the 'Me'.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 89,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "He finds that there exists a mental Something which is able to Will that the Me act along certain creative lines.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "will",
+      "perception",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0297",
+    "canonical_statement": "The dual aspects of the mind correspond to universal Masculine and Female principles.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 89,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "The I represents the Masculine Principle—the Me represents the Female Principle.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "gender",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0298",
+    "canonical_statement": "The universe operates according to the principle of correspondence, where the laws governing higher planes of existence are identical in kind to those on lower planes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 90,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "As above, so below; as below, so above.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0299",
+    "canonical_statement": "The mind consists of two distinct principles: the Masculine, which governs the Will and outward expression, and the Feminine, which governs the generation of thoughts and reception of impressions.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 90,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "The Feminine Principle is always in the direction of receiving impressions, while the Masculine Principle is always in the direction of giving out.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mind",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0300",
+    "canonical_statement": "Creative mental activity requires the synergistic interaction between the Feminine principle of generation and the Masculine principle of Will.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 90,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "Without the active aid of the Will of the Masculine Principle, the Feminine Principle is apt to rest content.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0301",
+    "canonical_statement": "Individual consciousness is susceptible to the influence of external minds, often adopting thoughts instilled by others rather than exercising independent Will.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 90,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "The majority of persons are content to live according to the thoughts and ideas instilled into the Me from the I of other minds.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0302",
+    "canonical_statement": "The human mind is composed of two distinct principles, Masculine and Feminine, which function through vibratory energy.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 91,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "there is clearly a manifestation of two distinct phases of mental activity.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind",
+      "gender",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0303",
+    "canonical_statement": "The Masculine principle governs Will-Power and projection, while the Feminine principle governs reception and development of thought.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 91,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "Masculine Principle of the person giving the suggestions directs a stream of Vibratory Energy",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "will",
+      "mind",
+      "telepathy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0304",
+    "canonical_statement": "Individual identity is divided into a passive 'Me' consciousness and an active 'I' consciousness associated with the Will.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 91,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "average person dwells almost altogether in his 'Me' consciousness, and does not realize that he has such a thing as an I.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0305",
+    "canonical_statement": "Mental autonomy is achieved by the active employment of the Masculine principle to dominate one's own mental impressions.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 91,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "strong men and women of the world invariably manifest the Masculine Principle of Will",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "will",
+      "autonomy",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0306",
+    "canonical_statement": "The human mind is divided into an objective voluntary aspect and a subjective involuntary aspect.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 92,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "objective or voluntary mind... subjective or involuntary mind.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind",
+      "psychology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0307",
+    "canonical_statement": "Mental influence and suggestion are governed by the underlying principles of Mental Gender and Vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 92,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "whole principle of Suggestion depends upon the principle of Mental Gender and Vibration.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "influence",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0308",
+    "canonical_statement": "The Masculine Principle functions as an active force that impresses ideas upon other minds.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 92,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "Masculine Principle in the way of impressing their ideas upon others.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gender",
+      "influence",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0309",
+    "canonical_statement": "Individual autonomy is limited by the susceptibility of the subjective mind to external mental impressions.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 92,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "masses of people are such sheeplike creatures, never originating an idea of their own.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "autonomy",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0310",
+    "canonical_statement": "The creation and manifestation of the universe across all planes is governed by the interaction of Masculine and Feminine principles.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 93,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "creation of the Universe follows... this principle of Gender",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "gender",
+      "universal-law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0311",
+    "canonical_statement": "The principle of correspondence dictates that laws operating on higher planes are reflected in lower planes and vice versa.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 93,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "As above, so below; as below, so above.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0312",
+    "canonical_statement": "Mental phenomena are governed by immutable universal laws that allow for systematic classification.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 93,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "varied phenomena of psychology at once becomes capable of intelligent classification",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "psychology",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0313",
+    "canonical_statement": "Metaphysical truth is perennial and ancient rather than novel.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 94,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "We do not come expounding a new philosophy, but rather furnishing the world-old teaching.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "tradition",
+      "philosophy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0314",
+    "canonical_statement": "A singular, fundamental metaphysical framework exists that can reconcile disparate and conflicting doctrines.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 94,
+        "chapter": "CHAPTER XIV.",
+        "surface_quote": "The Kybalion will serve as a Great Reconciler of differing theories, and opposing doctrines.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "unity",
+      "metaphysics",
+      "reconciliation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0315",
+    "canonical_statement": "Knowledge possesses no inherent value or efficacy unless it is manifested through external action.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 95,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "Knowledge, like Wealth, is intended for Use.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "action",
+      "natural law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0316",
+    "canonical_statement": "The universe operates under a fundamental law requiring the active application of acquired principles.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 95,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "The Law of Use is Universal.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "natural law",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0317",
+    "canonical_statement": "Mental states are defined by their specific rate of vibration.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 95,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "To change your mood or mental state change your vibration.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "vibration",
+      "consciousness",
+      "mental state"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0318",
+    "canonical_statement": "Individual will exerts control over mental vibration by directing the focus of attention.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 95,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "Will directs the Attention, and Attention changes the Vibration.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "will",
+      "attention",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0319",
+    "canonical_statement": "Undesirable mental states are neutralized by shifting focus to their polar opposite.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 95,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "Concentrate upon the opposite pole to that which you desire to suppress.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "polarity",
+      "mental state",
+      "mastery"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0320",
+    "canonical_statement": "Opposing mental states are merely different poles of a single underlying reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 96,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "a mental state and its opposite were merely the two poles of one thing",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "polarity",
+      "duality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0321",
+    "canonical_statement": "Mental transmutation is achieved by shifting the vibration of a state from one pole to its opposite.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 96,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "by Mental Transmutation the polarity might be reversed",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "transmutation",
+      "mind",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0322",
+    "canonical_statement": "The ability to manipulate one's own internal polarity is a prerequisite for influencing external reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 96,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "unless one acquires the art of changing his own polarity, he will be unable to affect his environment",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mastery",
+      "causality",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0323",
+    "canonical_statement": "All mental states are subject to transmutation across degrees, conditions, and vibrations.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 96,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "Mind may be transmuted from state to state; degree to degree; condition to condition",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind",
+      "transmutation",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0324",
+    "canonical_statement": "The Principle of Rhythm operates across both physical and mental planes of existence.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 97,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "The Principle of Rhythm manifests on the Mental Plane as well as on the Physical Plane.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "rhythm",
+      "cosmology",
+      "planes"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0325",
+    "canonical_statement": "Mental states are subject to a pendulum-like oscillation between opposing emotional extremes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 97,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "Mental states are due to the backward and forward swing of the mental pendulum.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "psychology",
+      "rhythm"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0326",
+    "canonical_statement": "Consciousness is stratified into higher and lower planes, allowing for transcendence of lower-plane laws.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 97,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "There is a Higher Plane of Consciousness, as well as the ordinary Lower Plane.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "planes",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0327",
+    "canonical_statement": "An individual can neutralize the effects of rhythmic mental oscillation by polarizing consciousness toward the Higher Self.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 97,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "Polarizing on the Higher Self raises mental vibrations above the ordinary plane of consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "neutralization",
+      "polarization",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0328",
+    "canonical_statement": "The true identity of the individual resides in the 'I Am' pole rather than the personality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 97,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "The advanced Hermetist polarizes himself at the Positive Pole of his Being the I Am pole.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0329",
+    "canonical_statement": "Higher laws can be utilized to override or neutralize the operation of lower laws.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 97,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "The Master understands the law which he is overcoming by a higher law.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "law",
+      "mastery"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0330",
+    "canonical_statement": "Universal laws are not destroyed but are neutralized or balanced by the application of higher-order laws.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 98,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "You simply overcome one law by counter-balancing it with another.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "laws",
+      "equilibrium",
+      "causation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0331",
+    "canonical_statement": "The Principle of Cause and Effect operates across multiple hierarchical planes of reality.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 98,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "There are many Planes of Causation.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causation",
+      "planes",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0332",
+    "canonical_statement": "Consciousness can transition from being an effect of external causes to becoming a cause itself by ascending to higher planes of mental action.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 98,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "Hermetists rise to a higher plane of Causation and thus counter-balance the laws.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causation",
+      "agency",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0333",
+    "canonical_statement": "Mastery over internal states allows an individual to transcend the deterministic influence of environmental and social forces.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 98,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "By dominating their moods... they overcome their ordinary environment.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "determinism",
+      "mastery",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0334",
+    "canonical_statement": "No entity is entirely exempt from the Principle of Cause and Effect, as it remains operative even on the highest planes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 98,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "Even the highest are subject to the Principle as it manifests on the higher planes.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causation",
+      "limitation",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0335",
+    "canonical_statement": "Entities within a hierarchical reality are simultaneously subject to the laws of higher planes and masters of the laws of lower planes.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 99,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "They obey the laws coming from above them, but on their own plane... they rule.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "law",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0336",
+    "canonical_statement": "The fundamental substance of the universe is mental in nature.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 99,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "The Universe being wholly mental.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "substrate",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0337",
+    "canonical_statement": "Mastery over reality is achieved by aligning with universal laws rather than opposing them.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 99,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "The wise man falls in with the Law... he operates it instead of being its slave.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mastery",
+      "agency",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0338",
+    "canonical_statement": "Phenomena and environmental conditions can be altered through the application of mental power.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 99,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "True Hermetic Transmutation is a Mental Art.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "transmutation",
+      "mind",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_kybalion_0339",
+    "canonical_statement": "All individual beings, regardless of their level of wisdom, remain subject to universal law.",
+    "attributions": [
+      {
+        "source_id": "kybalion",
+        "chunk_index": 99,
+        "chapter": "CHAPTER XV. HERMETIC AXIOMS.",
+        "surface_quote": "Both swimmer and log; wise man and fool, are subject to Law.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "law",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  }
+]

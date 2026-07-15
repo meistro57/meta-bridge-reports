@@ -1,0 +1,1849 @@
+[
+  {
+    "id": "cl_crowley_book_of_the_law_0001",
+    "canonical_statement": "Non-human intelligences exist that possess superior knowledge and power relative to the human race.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "a being of a kind superior to any of the human race",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0002",
+    "canonical_statement": "Entities can act as messengers or ministers for forces that govern current terrestrial reality.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "messenger from the forces ruling this earth at present",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "governance",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0003",
+    "canonical_statement": "Metaphysical truth can be encoded within linguistic structures to manifest as objective, verifiable proof.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "proof of his claim exists in the manuscript itself",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0004",
+    "canonical_statement": "The universe is composed of infinite possibility and the individual points of experience that interact with those possibilities.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "The elements are Nuit— Space— that is, the total of possibilities... and Hadit, any point.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0005",
+    "canonical_statement": "Events are defined as the union of a monad with a specific experience.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "Every event is a uniting of some one monad with one of the experiences.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "event"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0006",
+    "canonical_statement": "Individual identity is an aggregate of experiences that remains in constant flux.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "Every man and every woman is a star, that is, an aggregate of such experiences.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0007",
+    "canonical_statement": "Subjective universes converge into a singular objective reality only when consciousness expands to encompass all possible experiences.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "It is the same universe for each one as soon as it includes all possible experience.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0008",
+    "canonical_statement": "Direct knowledge of external objects is impossible; all perception is limited to internal mental impressions.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "Neither of us can know anything of him at all beyond the total impression.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0009",
+    "canonical_statement": "The fundamental law of existence is the alignment of individual volition with one's inherent nature.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "Love is the law, love under will.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "will",
+      "ethics",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0010",
+    "canonical_statement": "Every individual entity functions as an autonomous celestial body following a predetermined trajectory defined by past experience and inherent growth.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "Each of us stars is to move on our true orbit.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "destiny",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0011",
+    "canonical_statement": "All occurrences in the universe are lawful and necessary, though only one specific action is appropriate for an individual at any given moment.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "All events are equally lawful—and every one necessary.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0012",
+    "canonical_statement": "Action is defined as the unification of the individual with the infinite totality of existence.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "Each action or motion is an act of love, the uniting with one or another part of Nuit.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0013",
+    "canonical_statement": "Will and Love are ontologically equivalent forces within the structure of reality.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "Thelema is the Greek for Will, and has the same numerical value as Agape.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "semantics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0014",
+    "canonical_statement": "Cosmic cycles are governed by distinct entities or aggregates of experience acting as planetary stewards.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "certain vast “stars” (or aggregates of experience) may be described as Gods.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0015",
+    "canonical_statement": "Human societal and existential paradigms shift according to the influence of successive cosmic archetypes.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Isis, Osiris, Horus... in charge of the destinies of this planet for periods of 2,000 years.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "cycles"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0016",
+    "canonical_statement": "Individual identity is the fundamental unit of social and existential reality in the current epoch.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "This present period involves the recognition of the individual as the unit of society.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0017",
+    "canonical_statement": "All events, including death, are voluntary accretions of experience that are simultaneously predestined.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Every event, including death, is only one more accretion to our experience, freely willed.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "fate",
+      "experience",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0018",
+    "canonical_statement": "The historical progression of humanity is divided into distinct temporal cycles known as Aeons.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "The moment of change from one period to another is called The Equinox of the Gods.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "aeons"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0019",
+    "canonical_statement": "Humanity currently exists in a state of spiritual immaturity, characterized as a collective childhood.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "We are children.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "humanity",
+      "consciousness",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0020",
+    "canonical_statement": "The evolution of consciousness is driven by the actions of individuals who anticipate and adapt to shifting temporal trends.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "The abnormal man who foresees the trend of the times... is a survivor.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "evolution",
+      "agency",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0021",
+    "canonical_statement": "Political and social movements are manifestations of the developmental stages of a new cosmic era.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "They are abortive births of the Child, the New Aeon of Horus.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "society",
+      "aeons",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0022",
+    "canonical_statement": "Human progress is driven exclusively by the creative output of individual genius.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "the world only moves by the light of genius.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "genius",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0023",
+    "canonical_statement": "The optimal structure of society is one where state governance is derived from the absolute liberty of the individual will.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "The absolute rule of the state shall be a function of the absolute liberty of each individual will.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "governance",
+      "will",
+      "liberty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0024",
+    "canonical_statement": "The collective or 'herd' mentality is inherently destructive and leads to the annihilation of the individual.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "The herd will be destroyed in mass.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "society",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0025",
+    "canonical_statement": "Every individual human being possesses the ontological status of a star, implying inherent divinity and autonomy.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 6,
+        "chapter": "Chapter I",
+        "surface_quote": "Every man and every woman is a star.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0026",
+    "canonical_statement": "All numerical values possess the property of infinity, rendering quantitative distinctions illusory.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 6,
+        "chapter": "Chapter I",
+        "surface_quote": "Every number is infinite; there is no difference.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mathematics",
+      "infinity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0027",
+    "canonical_statement": "The essential self (Khabs) contains the luminous body or manifestation (Khu), rather than the reverse.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 6,
+        "chapter": "Chapter I",
+        "surface_quote": "The Khabs is in the Khu, not the Khu in the Khabs.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0028",
+    "canonical_statement": "The core of individual consciousness acts as a secret, central point of existence.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 6,
+        "chapter": "Chapter I",
+        "surface_quote": "Be thou Hadit, my secret centre.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0029",
+    "canonical_statement": "The ultimate reality is an infinite, all-encompassing space that permeates all individual beings.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 7,
+        "chapter": "Chapter I",
+        "surface_quote": "I am above you and in you.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0030",
+    "canonical_statement": "Existence is characterized by an unbroken, continuous nature rather than discrete, fragmented states.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 7,
+        "chapter": "Chapter I",
+        "surface_quote": "the consciousness of the continuity of existence",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0031",
+    "canonical_statement": "The perception of difference or separation between entities is a source of suffering and limitation.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 7,
+        "chapter": "Chapter I",
+        "surface_quote": "Let there be no difference made among you between any one thing \u0026 any other thing; for thereby there cometh hurt.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0032",
+    "canonical_statement": "The divine is not an external deity but is identical to the totality of infinite space and the stars.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 7,
+        "chapter": "Chapter I",
+        "surface_quote": "I am Infinite Space, and the Infinite Stars thereof",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0033",
+    "canonical_statement": "The fundamental nature of reality is defined by the interaction between infinite space and the infinitesimal point of consciousness.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 7,
+        "chapter": "Chapter I",
+        "surface_quote": "She bends in ecstasy to kiss the secret ardours of Hadit.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0034",
+    "canonical_statement": "The ultimate nature of the infinite is non-dual and continuous, transcending numerical categorization.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 8,
+        "chapter": "Chapter I",
+        "surface_quote": "speak not of Thee as One but as None",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0035",
+    "canonical_statement": "The manifestation of the universe arises from the division of the infinite to facilitate the experience of union.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 8,
+        "chapter": "Chapter I",
+        "surface_quote": "I am divided for love's sake, for the chance of union.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0036",
+    "canonical_statement": "The fundamental purpose of existence is the dissolution of the individual back into the infinite.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 8,
+        "chapter": "Chapter I",
+        "surface_quote": "the joy of dissolution all",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "mysticism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0037",
+    "canonical_statement": "The fundamental law of existence is the exercise of individual will, while restriction is the only true transgression.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 8,
+        "chapter": "Chapter I",
+        "surface_quote": "Do what thou wilt shall be the whole of the Law. The word of Sin is Restriction.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0038",
+    "canonical_statement": "Love is the only valid mechanism for uniting the divided aspects of reality.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 8,
+        "chapter": "Chapter I",
+        "surface_quote": "There is no bond that can unite the divided but love",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "love"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0039",
+    "canonical_statement": "The highest form of volition is devoid of attachment to specific outcomes or teleological purpose.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 9,
+        "chapter": "Chapter I",
+        "surface_quote": "Pure will, unassuaged of purpose, delivered from the lust of result, is every way perfect.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "will",
+      "ethics",
+      "perfection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0040",
+    "canonical_statement": "Ultimate reality is a non-dual state that transcends the distinction between the perfect and the manifest.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 9,
+        "chapter": "Chapter I",
+        "surface_quote": "The Perfect and the Perfect are one Perfect and not two; nay, are none!",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "non-duality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0041",
+    "canonical_statement": "The universe is structured as a hierarchy of distinct systems that must remain isolated from one another.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 9,
+        "chapter": "Chapter I",
+        "surface_quote": "Thus ye have star \u0026 star, system \u0026 system; let not one know well the other!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0042",
+    "canonical_statement": "All religious and philosophical systems are partial truths that fail to resolve the complete equation of existence.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 9,
+        "chapter": "Chapter I",
+        "surface_quote": "All words are sacred and all prophets true; save only that they understand a little.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "truth",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0043",
+    "canonical_statement": "The fundamental law governing existence is the integration of love with individual will.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 10,
+        "chapter": "Chapter I",
+        "surface_quote": "Love is the law, love under will.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "will",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0044",
+    "canonical_statement": "The divine entity represents the totality of sensory pleasure and the innermost experience of consciousness.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 10,
+        "chapter": "Chapter I",
+        "surface_quote": "I who am all pleasure and purple, and drunkenness of the innermost sense.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0045",
+    "canonical_statement": "Human beings possess an inherent, latent spiritual power that can be awakened.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 10,
+        "chapter": "Chapter I",
+        "surface_quote": "Arouse the coiled splendour within you.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "potential"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0046",
+    "canonical_statement": "The ultimate state of being is achieved through the union of the individual with the divine, requiring the total surrender of the ego.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 10,
+        "chapter": "Chapter I",
+        "surface_quote": "Whoso gives one particle of dust shall lose all in that hour.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "union"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0047",
+    "canonical_statement": "Perception of divine reality is dependent upon the spiritual capacity of the observer.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 10,
+        "chapter": "Chapter I",
+        "surface_quote": "My colour is black to the blind, but the blue \u0026 gold are seen of the seeing.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0048",
+    "canonical_statement": "The ultimate reality consists of two complementary principles: an infinite, non-localized circumference and a dimensionless, omnipresent center.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 11,
+        "chapter": "Chapter II",
+        "surface_quote": "I, Hadit, am the complement of Nu... I am everywhere the centre.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "duality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0049",
+    "canonical_statement": "The individual consciousness is the fundamental, non-extended point of existence present within all beings and celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 11,
+        "chapter": "Chapter II",
+        "surface_quote": "I am the flame that burns in every heart of man, and in the core of every star.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "panpsychism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0050",
+    "canonical_statement": "The subject and the object of worship are identical, as the divine essence is the actor behind all experience.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 11,
+        "chapter": "Chapter II",
+        "surface_quote": "Who worshipped Heru-pa-kraath have worshipped me; ill, for I am the worshipper.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0051",
+    "canonical_statement": "Existence is inherently joyful, while suffering is a transient, illusory phenomenon.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 11,
+        "chapter": "Chapter II",
+        "surface_quote": "existence is pure joy; that all the sorrows are but as shadows.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0052",
+    "canonical_statement": "The ultimate nature of the divine is non-existence or 'Nothingness' which transcends conventional numerical and archetypal categorization.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 11,
+        "chapter": "Chapter II",
+        "surface_quote": "For I am perfect, being Not... I am none indeed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0053",
+    "canonical_statement": "The knower and the known are fundamentally unified, rendering the act of seeking external divinity redundant.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 11,
+        "chapter": "Chapter II",
+        "surface_quote": "thou wast the knower, and me.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0054",
+    "canonical_statement": "Individual consciousness is inherently immortal and persists beyond the dissolution of the physical body.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 12,
+        "chapter": "Chapter II",
+        "surface_quote": "Thou shalt not die, but live. If the body of the King dissolve, he shall remain.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife",
+      "immortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0055",
+    "canonical_statement": "The ultimate nature of reality is non-dual, where the individual essence and the cosmic totality are unified.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 12,
+        "chapter": "Chapter II",
+        "surface_quote": "If I lift up my head, I and my Nuit are one.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0056",
+    "canonical_statement": "Rational analysis and causal inquiry are illusory frameworks that impede the exercise of pure Will.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 12,
+        "chapter": "Chapter II",
+        "surface_quote": "Reason is a lie; for there is a factor infinite \u0026 unknown.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0057",
+    "canonical_statement": "The exercise of Will is rendered ineffective when subjected to the constraints of logical justification.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 12,
+        "chapter": "Chapter II",
+        "surface_quote": "If Will stops and cries Why, invoking Because, then Will stops \u0026 does nought.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "will",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0058",
+    "canonical_statement": "The divine essence is immanent within the individual rather than an external deity.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 12,
+        "chapter": "Chapter II",
+        "surface_quote": "I am alone: there is no God where I am.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0059",
+    "canonical_statement": "Death is not a state of dread but a process of dissolution into eternal ecstasy.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 13,
+        "chapter": "Chapter II",
+        "surface_quote": "there is no dread hereafter. There is the dissolution, and eternal ecstasy",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "death",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0060",
+    "canonical_statement": "The ultimate reality is characterized by a state of non-dual union with the infinite.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 13,
+        "chapter": "Chapter II",
+        "surface_quote": "eternal ecstasy in the kisses of Nu.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "union"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0061",
+    "canonical_statement": "The divine presence is incompatible with the existence of fear, failure, or sorrow.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 13,
+        "chapter": "Chapter II",
+        "surface_quote": "Where I am these are not.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0062",
+    "canonical_statement": "The perceived separation between the individual and the divine is an illusory veil.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 13,
+        "chapter": "Chapter II",
+        "surface_quote": "There is a veil... Tear down that lying spectre of the centuries",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "illusion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0063",
+    "canonical_statement": "The ultimate source of existence contains a hidden, invisible fifth principle.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 13,
+        "chapter": "Chapter II",
+        "surface_quote": "there is a fifth who is invisible, \u0026 therein am I as a babe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0064",
+    "canonical_statement": "The fundamental nature of an individual's spiritual state is immutable and persistent.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 14,
+        "chapter": "Chapter II",
+        "surface_quote": "He that is righteous shall be righteous still; he that is filthy shall be filthy still.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0065",
+    "canonical_statement": "The apparent social and ontological hierarchy of the world is fixed and unchanging.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 14,
+        "chapter": "Chapter II",
+        "surface_quote": "There is none that shall be cast down or lifted up: all is ever as it was.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0066",
+    "canonical_statement": "The true essence of an individual can be concealed behind an external persona.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 14,
+        "chapter": "Chapter II",
+        "surface_quote": "it may be that yonder beggar is a King. A King may choose his garment as he will",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0067",
+    "canonical_statement": "The ultimate reality of consciousness is a state of non-dual unity and void.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 14,
+        "chapter": "Chapter II",
+        "surface_quote": "We are one; we are none.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0068",
+    "canonical_statement": "Death is a transformative experience that serves as a confirmation of spiritual union.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 14,
+        "chapter": "Chapter II",
+        "surface_quote": "Thy death shall be the seal of the promise of our age long love.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0069",
+    "canonical_statement": "The capacity to experience joy is limited by the individual's current strength and refinement.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 15,
+        "chapter": "Chapter II",
+        "surface_quote": "Be strong! Then canst thou bear more joy.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "capacity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0070",
+    "canonical_statement": "Death is the ultimate fulfillment or culmination of the individual's existence.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 15,
+        "chapter": "Chapter II",
+        "surface_quote": "death is the crown of all.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "death",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0071",
+    "canonical_statement": "The intensity of a desire for death directly correlates to the spiritual glory attained by the individual.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 15,
+        "chapter": "Chapter II",
+        "surface_quote": "The length of thy longing shall be the strength of its glory.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "death",
+      "aspiration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0072",
+    "canonical_statement": "The individual identity is capable of transcending the scale of the cosmos.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 15,
+        "chapter": "Chapter II",
+        "surface_quote": "thy stature shall surpass the stars.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0073",
+    "canonical_statement": "Certain metaphysical truths are encoded in ciphers that remain inaccessible to the current prophet.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 15,
+        "chapter": "Chapter II",
+        "surface_quote": "Thou knowest not; nor shalt thou know ever.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0074",
+    "canonical_statement": "The fundamental nature of reality is characterized by an underlying unity that transcends apparent division.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 16,
+        "chapter": "Chapter III",
+        "surface_quote": "There is division hither homeward; all is not aught.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0075",
+    "canonical_statement": "The divine entity manifests as an active force of conflict and retribution within the phenomenal world.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 16,
+        "chapter": "Chapter III",
+        "surface_quote": "I am a god of War and of Vengeance.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature of god"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0076",
+    "canonical_statement": "The individual must establish a protected, sovereign space for the cultivation of spiritual or metaphysical work.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 16,
+        "chapter": "Chapter III",
+        "surface_quote": "Choose ye an island! Fortify it!",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "practice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0077",
+    "canonical_statement": "The principle of causality is an illusion or a transient state that has ceased to exist.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 17,
+        "chapter": "Chapter III",
+        "surface_quote": "Because of the fall of Because, that he is not there again.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0078",
+    "canonical_statement": "The individual consciousness finds refuge in the infinite space of the universe and illumination in the infinitesimal point of the self.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 17,
+        "chapter": "Chapter III",
+        "surface_quote": "Nu is your refuge as Hadit your light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0079",
+    "canonical_statement": "The divine force acts as the inherent strength and vigor within the individual's physical actions.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 17,
+        "chapter": "Chapter III",
+        "surface_quote": "I am the strength, force, vigour, of your arms.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0080",
+    "canonical_statement": "The individual identity is the central focus of worship and the unifying point for all other manifestations of reality.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 18,
+        "chapter": "Chapter III",
+        "surface_quote": "I am the visible object of worship; the others are secret.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "worship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0081",
+    "canonical_statement": "Physical objects and ritual substances can be imbued with metaphysical force through specific preparation and intent.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 18,
+        "chapter": "Chapter III",
+        "surface_quote": "be they long kept, it is better; for they swell with my force.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "force"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0082",
+    "canonical_statement": "A sacred space possesses an invisible, indestructible structure that persists independently of its physical manifestation.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 18,
+        "chapter": "Chapter III",
+        "surface_quote": "though with fire and sword it be burnt down... an invisible house there standeth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0083",
+    "canonical_statement": "The manifestation of divine authority and prophetic truth is cyclical and subject to temporal epochs.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 18,
+        "chapter": "Chapter III",
+        "surface_quote": "another prophet shall arise... another king shall reign.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "prophecy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0084",
+    "canonical_statement": "The individual consciousness (Khabs) possesses an inherent capacity to influence or stabilize the self.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 19,
+        "chapter": "Chapter III",
+        "surface_quote": "The ways of the Khabs run through / To stir me or still me!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0085",
+    "canonical_statement": "Divine light functions as an internal force that empowers the individual to manifest cosmic order.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 19,
+        "chapter": "Chapter III",
+        "surface_quote": "its red flame is as a sword in my hand to push thy order.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0086",
+    "canonical_statement": "The human soul contains a hidden access point to the divine or transcendent realms.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 19,
+        "chapter": "Chapter III",
+        "surface_quote": "I have made a secret door / Into the House of Ra",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0087",
+    "canonical_statement": "The individual is a vessel for divine presence, which acts as an internal catalyst for creative or spiritual work.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 19,
+        "chapter": "Chapter III",
+        "surface_quote": "Hadit burning in thy heart shall make swift and secure thy pen.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0088",
+    "canonical_statement": "Success in worldly or spiritual endeavors serves as the primary empirical validation of one's alignment with divine will.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 20,
+        "chapter": "Chapter III",
+        "surface_quote": "Success is thy proof",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "validation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0089",
+    "canonical_statement": "The structure of reality is encoded within the specific arrangement and visual form of linguistic characters.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 20,
+        "chapter": "Chapter III",
+        "surface_quote": "in the chance shape of the letters and their position to one another: in these are mysteries",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "language",
+      "mysticism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0090",
+    "canonical_statement": "The ultimate nature of the divine is a secret, fourfold word that functions as a negation of all existing human religious constructs.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 20,
+        "chapter": "Chapter III",
+        "surface_quote": "I am in a secret fourfold word, the blasphemy against all gods of men.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "negation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0091",
+    "canonical_statement": "The attainment of spiritual power requires the total rejection of compassion, pity, and traditional moral constraints.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 20,
+        "chapter": "Chapter III",
+        "surface_quote": "Let her work the work of wickedness! Let her kill her heart!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0092",
+    "canonical_statement": "The fundamental law of existence is the exercise of individual volition.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 21,
+        "chapter": "Chapter III",
+        "surface_quote": "There is no law beyond Do what thou wilt.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "will",
+      "law",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0093",
+    "canonical_statement": "Spiritual evolution is achieved through successive stages of ordeal and transformation.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 21,
+        "chapter": "Chapter III",
+        "surface_quote": "Come ye through tribulation of ordeal, which is bliss.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "ordeal",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0094",
+    "canonical_statement": "The ultimate state of the universe is void or non-existence following the dissolution of manifested reality.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 21,
+        "chapter": "Chapter III",
+        "surface_quote": "I have crushed an Universe; \u0026 nought remains.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "void",
+      "dissolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0095",
+    "canonical_statement": "Love is the governing principle of action when directed by individual will.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 21,
+        "chapter": "Chapter III",
+        "surface_quote": "Love is the law, love under will.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "love",
+      "will",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_crowley_book_of_the_law_0096",
+    "canonical_statement": "The nature of the divine is characterized by silence, strength, and the capacity for universal destruction.",
+    "attributions": [
+      {
+        "source_id": "crowley_book_of_the_law",
+        "chunk_index": 21,
+        "chapter": "Chapter III",
+        "surface_quote": "I am the Hawk-Headed Lord of Silence \u0026 of Strength.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  }
+]

@@ -1,0 +1,2921 @@
+[
+  {
+    "id": "cl_amitabha_buddhist_theology_0001",
+    "canonical_statement": "The ultimate reality is an infinite, boundless light that transcends individual existence.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "Amitabha is the infinite light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0002",
+    "canonical_statement": "The ultimate reality of the Buddha is omnipresent, infinite, and inherently spiritual in nature.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 1,
+        "chapter": "A STORY OF",
+        "surface_quote": "The Buddha of Bliss is infinite, boundless, limitless, unceasing, and of a spiritual nature.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "buddhism",
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0003",
+    "canonical_statement": "Suffering is an inherent condition of the world, caused by selfish desire.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 1,
+        "chapter": "A STORY OF",
+        "surface_quote": "Suffering is always in evidence... rising from the desire of selfishness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "suffering",
+      "causality",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0004",
+    "canonical_statement": "Emancipation from suffering is achieved through the cessation of selfish attachment.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 1,
+        "chapter": "A STORY OF",
+        "surface_quote": "Emancipation from suffering by abandoning all selfish clinging.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "salvation",
+      "ethics",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0005",
+    "canonical_statement": "Perfect enlightenment requires the total renunciation of worldly attachments, including familial bonds and personal desires.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 2,
+        "chapter": "A STORY OF",
+        "surface_quote": "decided, for the sake of attaining perfect enlightenment, to give up everything dear to him",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "enlightenment",
+      "renunciation",
+      "asceticism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0006",
+    "canonical_statement": "Nirvana is a state of blissful rest from which an enlightened being may exert influence upon the world.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 2,
+        "chapter": "A STORY OF",
+        "surface_quote": "Buddha himself had descended... from his blissful rest in Nirvana to instruct",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "nirvana",
+      "afterlife",
+      "buddhism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0007",
+    "canonical_statement": "The ultimate state of the individual soul involves a return to a transcendent trinity of truth and collective consciousness.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 3,
+        "chapter": "A STORY OF",
+        "surface_quote": "my life will return to the precious trinity of the Buddha, the Truth and the Brotherhood.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0008",
+    "canonical_statement": "The nature of reality is defined by the problem of origination, which can be understood through specific spiritual discipline.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 3,
+        "chapter": "A STORY OF",
+        "surface_quote": "Who taught us to read The problem of origination.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "origination",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0009",
+    "canonical_statement": "Spiritual perfection is a state attainable through the guidance of a brotherhood and the cultivation of compassion.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 3,
+        "chapter": "A STORY OF",
+        "surface_quote": "May the Brotherhood receive me and raise me up to their height of spiritual perfection.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perfection",
+      "identity",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0010",
+    "canonical_statement": "The absence of dissent within a collective body functions as a formal mechanism for the validation of truth or consensus.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 4,
+        "chapter": "A STORY OF",
+        "surface_quote": "The Brotherhood indicates by its silence that it grants to Charaka the ordination.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consensus",
+      "social-structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0011",
+    "canonical_statement": "Ethical conduct, specifically the renunciation of violence, theft, and deception, is a prerequisite for spiritual advancement.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 4,
+        "chapter": "A STORY OF",
+        "surface_quote": "an ordained monk must abstain from carnal indulgence, from theft, from killing, and from boasts.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "discipline"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0012",
+    "canonical_statement": "The state of immortality is achieved through the cultivation of earnestness.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 5,
+        "chapter": "THE NOVICE.",
+        "surface_quote": "Earnestness leads to the State Immortal",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0013",
+    "canonical_statement": "Nirvana is characterized by the cessation of strife and the silencing of boisterous activity.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 5,
+        "chapter": "THE NOVICE.",
+        "surface_quote": "Only if like a broken gong... hast thou reached Nirvana",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nirvana",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0014",
+    "canonical_statement": "Existence itself is not inherently evil; only specific negative qualities like vanity, anger, and sloth are detrimental.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 5,
+        "chapter": "THE NOVICE.",
+        "surface_quote": "Not existence is evil, but vanity, anger, and sloth",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0015",
+    "canonical_statement": "The internal state of the soul can be fundamentally different from the external appearance of the individual.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 5,
+        "chapter": "THE NOVICE.",
+        "surface_quote": "if the venerable Subhuti could have looked into the heart of Charaka",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0016",
+    "canonical_statement": "Spiritual vanity acts as a more perilous impediment to liberation than worldly desire.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 6,
+        "chapter": "THE NOVICE.",
+        "surface_quote": "spiritual vanity... is more perilous than the lust of the world",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "liberation",
+      "vanity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0017",
+    "canonical_statement": "All compounded phenomena are subject to dissolution and decay.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 6,
+        "chapter": "THE NOVICE.",
+        "surface_quote": "doom of compounds which in due time must be dissolved again",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "impermanence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0018",
+    "canonical_statement": "The pursuit of supernatural powers is a manifestation of vanity and a distraction from the path.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 6,
+        "chapter": "THE NOVICE.",
+        "surface_quote": "to attempt the performance of supernatural deeds was vanity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "supernatural",
+      "vanity",
+      "discipline"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0019",
+    "canonical_statement": "The ultimate reality is an omnipotent, omnipresent, and omniscient consciousness that serves as the creator and ruler of the universe.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 7,
+        "chapter": "THE GOD PROBLEM.",
+        "surface_quote": "Brahma was revered as the Supreme Being, the Great, the Omnipotent, the Omnipresent.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "substrate",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0020",
+    "canonical_statement": "The existence of traditional deities is neither affirmed nor denied within the Buddhist framework.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 7,
+        "chapter": "THE GOD PROBLEM.",
+        "surface_quote": "The belief in the ancient gods was not disturbed. Their existence was neither denied nor affirmed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "buddhism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0021",
+    "canonical_statement": "The concept of an absolute, singular God is distinct from and transcends the category of specific, anthropomorphic deities.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 8,
+        "chapter": "THE GOD PROBLEM.",
+        "surface_quote": "My question refers to no one of the gods, but to God.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0022",
+    "canonical_statement": "The universal essence of a category cannot be reduced to the sum or collection of its individual manifestations.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 8,
+        "chapter": "THE GOD PROBLEM.",
+        "surface_quote": "I do not want particular fruits, I want fruit in general.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "logic",
+      "universals"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0023",
+    "canonical_statement": "The concept of an anthropomorphic or named Creator deity is a projection of human imagination.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 9,
+        "chapter": "THE GOD PROBLEM.",
+        "surface_quote": "an All-God conceived as a being that has name and form is the product",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "perception",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0024",
+    "canonical_statement": "Individual salvation is a self-directed process that cannot be achieved through the intervention of a deity.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 9,
+        "chapter": "THE GOD PROBLEM.",
+        "surface_quote": "Every one must find the path of salvation himself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "salvation",
+      "agency",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0025",
+    "canonical_statement": "The existence of an objective, eternal standard of truth is a necessary prerequisite for the pursuit of wisdom.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 9,
+        "chapter": "THE GOD PROBLEM.",
+        "surface_quote": "How shall I... succeed if there be no eternal standard of truth?",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "truth",
+      "metaphysics",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0026",
+    "canonical_statement": "The universe is governed by an inherent order and immutable laws.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 9,
+        "chapter": "THE GOD PROBLEM.",
+        "surface_quote": "The world in which we live is a world of order",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0027",
+    "canonical_statement": "The concept of a personal deity is a psychological tool for the immature rather than an ontological necessity.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 10,
+        "chapter": "THE GOD PROBLEM.",
+        "surface_quote": "Children need toys and the immature need gods.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "psychology",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0028",
+    "canonical_statement": "The ultimate reality can be defined as the First Cause, the Perceiver, and the Controller of all existence.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 10,
+        "chapter": "THE GOD PROBLEM.",
+        "surface_quote": "Brahma the First Cause of the All, the ultimate reason of existence.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "first-cause",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0029",
+    "canonical_statement": "The four states of material aggregation are inherently restless and incompatible with the attainment of perfect tranquility.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 11,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "life is restless and in none of the four states of aggregation can that calmness be found",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "matter",
+      "consciousness",
+      "tranquility"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0030",
+    "canonical_statement": "The cessation of the four states of material aggregation is a metaphysical problem that transcends the knowledge of divine beings and rulers of heavens.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 11,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "We gods, O priest, do not know where the four states of aggregation utterly cease.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "metaphysics",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0031",
+    "canonical_statement": "The physical world is composed of four fundamental states of aggregation: solid, watery, fiery, and air.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 11,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "the four states of aggregation: the solid state, the watery state, the fiery state, and the state of air",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0032",
+    "canonical_statement": "The four fundamental states of matter are not eternal and possess a point of cessation.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 12,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "where do these four states of aggregation... utterly cease?",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "matter",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0033",
+    "canonical_statement": "Divine beings and celestial rulers possess limited knowledge regarding the ultimate nature of reality.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 12,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "I do not know where these four states of aggregation... utterly cease.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0034",
+    "canonical_statement": "The ultimate creator or supreme being is characterized by omnipresence and manifests through radiance.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 12,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "inasmuch as he is omnipresent, you will see signs and notice a radiance.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "omnipresence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0035",
+    "canonical_statement": "The perceived omniscience of a deity is a social construct maintained for the benefit of subordinates.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 13,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "The gods... believe that Brahma sees all things... therefore I answered you as I did.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "deity",
+      "perception",
+      "social-construct"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0036",
+    "canonical_statement": "The ultimate cessation of the four material elements is a truth beyond the knowledge of celestial beings.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 13,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "I do not know where the four states of aggregation... utterly cease.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "elements",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0037",
+    "canonical_statement": "Enlightened beings possess knowledge of the fundamental cessation of material reality that deities lack.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 13,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "Turn back... and having drawn near to the Blessed One... ask him your question.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "enlightenment",
+      "knowledge",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0038",
+    "canonical_statement": "The four material elements (earth, water, fire, air) and the constructs of name and form are not ultimate realities and cease to exist in a state of infinite, non-material consciousness.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 14,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "Where do these four states of aggregation cease?",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "consciousness",
+      "elements"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0039",
+    "canonical_statement": "Ultimate liberation is a state of mind achieved through internal discipline rather than external divine intervention or ritual.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 14,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "The gods cannot help; nor even can Brahma himself.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "liberation",
+      "agency",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0040",
+    "canonical_statement": "The material world is inherently characterized by restlessness and instability.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 14,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "The world of matter is restless and remains restless.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature of reality",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0041",
+    "canonical_statement": "Nirvana is an infinite, radiant, and non-dual state of mind where all dualistic distinctions and material categories vanish.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 14,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "There disappear all mine and thine, Good, bad, long, short, and coarse, and fine.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nirvana",
+      "non-duality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0042",
+    "canonical_statement": "Individual liberation requires autonomous effort rather than reliance on external authority.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 15,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "we must by our own effort become lamps unto ourselves",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "agency",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0043",
+    "canonical_statement": "Nirvana is the ultimate objective of existence, transcending individual concerns of life and death.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 15,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "unconcerned about their own fate... only bent on the aim of reaching Nirvana",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nirvana",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0044",
+    "canonical_statement": "The act of confessing a moral transgression reduces the psychological burden of guilt.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 16,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "When a fault is confessed it will lie lightly upon him.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "consciousness",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0045",
+    "canonical_statement": "Intentional dishonesty acts as a metaphysical barrier to spiritual progression and sanctification.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 16,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "An intentional lie cuts a man off from sanctification.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "sanctification",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0046",
+    "canonical_statement": "The pursuit of truth for the purpose of self-enhancement is rooted in the illusion of selfhood.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 17,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "It is not the truth, then, that thou wantest, but thyself... it is self-enhancement.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "illusion",
+      "ego"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0047",
+    "canonical_statement": "Spiritual development is a progressive path rather than an immediate state of perfection.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 17,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "Thou art walking on the path, and hast not as yet reached the goal.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "process",
+      "enlightenment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0048",
+    "canonical_statement": "Pleasure and pain are the fundamental constituents of the experience of life.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 18,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "Pleasures like pains are the stuff that life is made of.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "phenomenology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0049",
+    "canonical_statement": "The concept of God is synonymous with the totality of truth, goodness, and rightness in the world.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 18,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "By God he means all that is right and good and true.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0050",
+    "canonical_statement": "The state of Buddhahood or the Tathagata transcends the status and power of divine beings.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 18,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "Gods, if they exist, are not Buddha's equals.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "buddhism",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0051",
+    "canonical_statement": "The absence of internal falsehood is achieved through the transparent disclosure of one's mental state.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 20,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "since you have openly laid bare the state of your mind, there is no longer any falsehood",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "consciousness",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0052",
+    "canonical_statement": "Spiritual commitment is only valid when maintained through voluntary individual will.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 20,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "there is no law that obliges you to remain in the Brotherhood against your will",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "will",
+      "ethics",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0053",
+    "canonical_statement": "Human beings in a state of ignorance or suffering can appear as spectral entities bound to the environment of their past existence.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 21,
+        "chapter": "KEVADDHA'S STORY.",
+        "surface_quote": "people... resembled even at a short distance dim dusky specters, like guilty ghosts",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0054",
+    "canonical_statement": "The individual soul possesses an existence that precedes its current biological birth.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 25,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "I believe that I existed before I was born",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "reincarnation",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0055",
+    "canonical_statement": "All individual life forms originate from a singular, underlying metaphysical ground.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 25,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "rooted in the mysterious ground from which springs all the life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0056",
+    "canonical_statement": "The state of celibacy is inherently superior to marriage in terms of spiritual holiness.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 25,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "Is not celibacy the state of holiness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0057",
+    "canonical_statement": "Individual identity is a transient manifestation of a continuous chain of karmic life impulses.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 26,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "I am a reproduction of the life impulses that preceded me.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "karma",
+      "reincarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0058",
+    "canonical_statement": "The ultimate goal of existence is to transcend individual form and unite with an eternal, unchanging substratum.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 26,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "I yearn for a union with that eternal substratum of all life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0059",
+    "canonical_statement": "Phenomenal reality is illusory and transient, functioning as a dream state relative to the abiding reality of Nirvana.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 26,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "Our present existence is phenomenal, while Nirvana is the abiding state.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "nirvana",
+      "illusion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0060",
+    "canonical_statement": "Nirvana is not merely a post-mortem state but an attainable condition of enlightenment within the present life.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 26,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "By attaining enlightenment, we shall enter Nirvana even in this present life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nirvana",
+      "enlightenment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0061",
+    "canonical_statement": "The spiritual nature of the individual is permanent, while bodily existence is transient.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 26,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "Comprehension of the transiency of all bodily existence and the permanence of our spiritual nature.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "spirit",
+      "transience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0062",
+    "canonical_statement": "Existence is inherently characterized by suffering.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 27,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "The Tathagata teaches that life is suffering.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0063",
+    "canonical_statement": "Nirvana represents a state of ultimate bliss and religious calmness.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 27,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "I feel the superiority of religious calmness, and the blissfulness of Nirvana.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nirvana",
+      "salvation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0064",
+    "canonical_statement": "The concept of God functions as an ideal synthesis for reconciling conflicting existential desires.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 27,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "All these conflicting thoughts produce in me the longing for a solution... I call it God.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0065",
+    "canonical_statement": "The individual self is a construct to be transcended rather than an object of attachment.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 27,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "I do not cling to self, but desire to apply myself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0066",
+    "canonical_statement": "Death is a transition point that facilitates rebirth into a state determined by the moral quality of one's past actions.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 29,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "I shall die innocent to be reborn in a happier state.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "karma",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0067",
+    "canonical_statement": "The ultimate purpose of human existence is the attainment of spiritual salvation or emancipation rather than worldly success.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 29,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "Man's first duty is to seek salvation.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "teleology",
+      "salvation",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0068",
+    "canonical_statement": "Secular power and worldly prosperity are subordinate to the pursuit of spiritual liberation.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 29,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "What is the world if we but gain salvation?",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "teleology",
+      "asceticism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0069",
+    "canonical_statement": "The physical body and material artifacts are subject to decay and impermanence.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 30,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "The king's mighty chariots of iron will rust, And also our bodies resolve into dust",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "impermanence",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0070",
+    "canonical_statement": "Moral and volitional actions possess an enduring quality that transcends physical dissolution.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 30,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "But deeds, 'tis sure, For aye endure.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "karma",
+      "ethics",
+      "persistence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0071",
+    "canonical_statement": "Nirvana is to be realized and attained within the context of worldly existence rather than through withdrawal.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 30,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "This world is the place in which the test of truth must be made",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nirvana",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0072",
+    "canonical_statement": "The stability and prosperity of a civilization are contingent upon the purity and preservation of the Dharma.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 31,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "India's golden age lasted as long as the Dharma was kept pure.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "dharma",
+      "civilization",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0073",
+    "canonical_statement": "The fundamental truth or dharma, once initiated, possesses an irreversible and absolute ontological status.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 32,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "the wheel of truth which no god... should ever be able to turn back.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "dharma",
+      "truth",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0074",
+    "canonical_statement": "The Buddha acts as an active, guiding intelligence in the lives of individuals, influencing human decision-making.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 32,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "The Buddha has guided my steps and induced me to make peace.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "buddha",
+      "agency",
+      "guidance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0075",
+    "canonical_statement": "Individual actions are subject to the law of karma, which influences one's spiritual merit and moral trajectory.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 33,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "if there is any merit in my action I owe thanks for my karma",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "karma",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0076",
+    "canonical_statement": "The nature of the Buddha as either a divine entity or a human being is a central ontological question in Buddhist theology.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 33,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "do we worship in Buddha a god or a man?",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "buddha",
+      "ontology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0077",
+    "canonical_statement": "Truth is an eternal principle, whereas all individual beings and deities are transient.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 34,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "Truth is eternal, but all actual beings, not even excluding the gods, are transient.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "existence",
+      "transience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0078",
+    "canonical_statement": "Divinity is defined as the objective reality of goodness, truth, and righteousness rather than a personal creator deity.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 34,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "God as goodness, as truth, as righteousness, as love.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0079",
+    "canonical_statement": "The universe is governed by an inherent, immutable law that directs life toward enlightenment through causal consequences.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 34,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "God is the good law that shapes existence, leading life onward toward its highest goal.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causation",
+      "teleology",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0080",
+    "canonical_statement": "Ultimate truth is an objective, eternal reality independent of mental construction.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 34,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "The highest truth is not a fabrication of the mind; the highest truth is eternal.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0081",
+    "canonical_statement": "The essence of an enlightened being is perceived through intellectual and spiritual recognition rather than physical observation.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 34,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "The Buddha can be recognised with the mind's eye alone.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "buddhahood"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0082",
+    "canonical_statement": "Buddhahood is an attainable state of being rather than an inherent biological or ontological status.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 34,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "A man is not a Buddha by birth, but he can become a Buddha.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "potentiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0083",
+    "canonical_statement": "The principle of Amitabha functions as the universal law governing the development and structure of both physical reality and cognitive processes.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 35,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "Amitabha is the intrinsic law which... producing uniformities and regularities in both the world of realities and the realm of thought.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology",
+      "rationality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0084",
+    "canonical_statement": "Individual manifestations of wisdom are partial incarnations of a singular, transcendent universal light.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 35,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "Wheresoever wisdom appears, there is an incarnation, more or less partial, more or less complete, of Amitabha.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0085",
+    "canonical_statement": "Existence as a state of being is ontologically distinct from the normative laws that govern it.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 35,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "Being is one thing and the norm that moulds it another.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0086",
+    "canonical_statement": "The ultimate reality is non-material, spiritual, and accessible exclusively through the mind.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 35,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "it is not concrete nor material... yet it exists, it is spiritual and can be discovered by the mind",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0087",
+    "canonical_statement": "Goodness possesses an ontological status that transcends the binary of existence and non-existence.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 35,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "Goodness is a reality which exists in both existence and non-existence.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ethics",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0088",
+    "canonical_statement": "The universe is governed by an omnipresent, invisible, and intrinsic law that shapes all existence.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 36,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "remains for all that exists the intrinsic and necessary norm",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0089",
+    "canonical_statement": "Existence is a synthesis of the universal type and the particular manifestation; neither can exist independently.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 36,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "The particular is the realisation of the universal; and the universal constitutes the type",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0090",
+    "canonical_statement": "The ultimate reality is an impersonal law rather than a personal deity or egoic entity.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 36,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "the good law that becomes incarnated in Buddhahood is not a somebody",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0091",
+    "canonical_statement": "The individual ego-soul is an illusion; personal salvation is a heresy.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 36,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "We are not ego-souls. For that reason the thought of an individual escape... is a heresy",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "ego"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0092",
+    "canonical_statement": "The nature of reality is fundamentally interconnected, requiring collective rather than individual liberation.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 36,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "We all stand together and every man must work for the salvation of mankind",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "interconnection",
+      "salvation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0093",
+    "canonical_statement": "The material world serves as the necessary medium for the actualization of spiritual truths.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 37,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "In the material body the spiritual truths of goodness and love are actualised.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "materiality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0094",
+    "canonical_statement": "The universal is realized only through the specific and the particular.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 37,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "It is the particular in which the universal must be realised.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "universal"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0095",
+    "canonical_statement": "Enlightenment consists of the sanctification of worldly life rather than its negation.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 37,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "Buddha's doctrine is not extinction... but their perfection and sanctification.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "enlightenment",
+      "asceticism",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0096",
+    "canonical_statement": "The ego is a restrictive state that limits the expansion of the heart.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 37,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "liberation of man's heart from the fetters of selfishness and from the seclusion of a separate egoity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "ego",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0097",
+    "canonical_statement": "All phenomena, including sentient beings and inanimate matter, possess an inherent potential for enlightenment and liberation.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 38,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "Even the dumb creatures and inanimate nature are yearning for their emancipation",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "enlightenment",
+      "nature",
+      "emancipation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0098",
+    "canonical_statement": "The expansion of truth acts as a transformative force upon the structure of reality and all existing conditions.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 38,
+        "chapter": "KING KANISHKA.",
+        "surface_quote": "The more the truth spreads, the more shall all relations and conditions be transfigured",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "transformation",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0099",
+    "canonical_statement": "Hatred cannot be neutralized by further hatred, but only by the application of love.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 41,
+        "chapter": "THE CONSPIRACY.",
+        "surface_quote": "Hate is not overcome by hate: By love alone 'tis quelled.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0100",
+    "canonical_statement": "The cessation of hatred is a necessary condition for the resolution of conflict.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 41,
+        "chapter": "THE CONSPIRACY.",
+        "surface_quote": "make an end of hatred by ceasing to hate.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "action"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0101",
+    "canonical_statement": "Forgiveness and loving-kindness are expressions of both moral virtue and superior wisdom.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 41,
+        "chapter": "THE CONSPIRACY.",
+        "surface_quote": "The policy of long suffering... shows goodness of heart but also a rare gift of wisdom.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "virtue"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0102",
+    "canonical_statement": "Hatred is fundamentally incapable of being resolved through reciprocal hatred, requiring love as the sole mechanism for its cessation.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 42,
+        "chapter": "THE CONSPIRACY.",
+        "surface_quote": "hatred cannot be appeased by hatred, but is appeased by love,--and by love only.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0103",
+    "canonical_statement": "The highest form of wisdom is the cultivation of non-hatred toward all beings.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 43,
+        "chapter": "THE CONSPIRACY.",
+        "surface_quote": "to hate no one is the highest wisdom.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0104",
+    "canonical_statement": "Moral actions are determined by the interplay between universal ethical principles and the specific duties of one's social role.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 43,
+        "chapter": "THE CONSPIRACY.",
+        "surface_quote": "a king is responsible for the welfare of his people and cannot let crime go unpunished.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "duty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0105",
+    "canonical_statement": "The potential for moral transformation exists within individuals, allowing for the redemption of misguided intentions.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 43,
+        "chapter": "THE CONSPIRACY.",
+        "surface_quote": "I cherish the confidence that the seeds of kindness will fall here upon good soil.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "transformation",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0106",
+    "canonical_statement": "Human suffering is an inherent and inseparable quality of existence.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 44,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "the first sentence of the four great truths declares that life itself is suffering.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "suffering",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0107",
+    "canonical_statement": "The existence of an omnipotent, benevolent deity is logically incompatible with the presence of suffering.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 44,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "If Amitabha... fashions the world... why should not life be possible without suffering?",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theodicy",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0108",
+    "canonical_statement": "Individual agency and discretion are insufficient to overcome the fundamental nature of suffering.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 44,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "no amount of discretion could give us happiness so long as we live.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "suffering",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0109",
+    "canonical_statement": "The fundamental nature of life is defined by constant change, separation, and combination.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 45,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "Life consists of separation and combination; it is a constant meeting and parting.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "change"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0110",
+    "canonical_statement": "Individual existence and identity are determined by the accumulation of past actions and self-determined choices.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 45,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "All beings exist by their own karma; they are the incarnation of deeds.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "karma",
+      "identity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0111",
+    "canonical_statement": "The divine or universal principle acts as an undifferentiated influence that individuals assimilate according to their own nature.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 45,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "Amitabha is like the rain that falls upon the earth without discrimination.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0112",
+    "canonical_statement": "Individual development is a process of self-education through experience, for which the individual bears sole responsibility.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 45,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "Each one is responsible for itself and has learned the lesson of life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "responsibility",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0113",
+    "canonical_statement": "The ultimate reality is an impersonal, inherent order of cause and effect rather than a sentient deity.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 46,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "He is the norm of all existence, the good law, the order and intrinsic harmony.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0114",
+    "canonical_statement": "Individual existence is self-originated through the exercise of will rather than created by an external power.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 46,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "We are not creatures of Amitabha, we are creatures of our own making.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0115",
+    "canonical_statement": "Self-willed actions are constrained and shaped by the pre-existing, eternal laws of the universe.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 46,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "Thou hast become what thou art of necessity according to the norms that constitute Amitabha.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "determinism",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0116",
+    "canonical_statement": "The experience of freedom is evidence against the existence of an external creator deity.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 46,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "If an Ishvara had created thee, thou wouldst not have the feeling of freedom.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "freedom",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0117",
+    "canonical_statement": "Moral outcomes are the result of impersonal causality rather than divine retribution or reward.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 46,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "There is neither punishment nor reward... There is only cause and effect.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0118",
+    "canonical_statement": "Individual fate is the direct causal consequence of one's own actions.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 47,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "Their fate is the result of their deeds.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "karma",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0119",
+    "canonical_statement": "Physical suffering is an inherent and unavoidable condition of embodied existence.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 47,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "While the Tathagata lived in the flesh, he was as much subject to pain.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "suffering",
+      "embodiment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0120",
+    "canonical_statement": "The ultimate source of spiritual illumination is an omnibenevolent, transcendent principle.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 47,
+        "chapter": "THE MAN-EATING TIGER.",
+        "surface_quote": "Buddha-Amitabha, the omnibenevolent source of all illumination.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "illumination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0121",
+    "canonical_statement": "The pursuit of truth is a universal human endeavor that transcends specific religious doctrines.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 48,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "The Shiva worshipers may be mistaken in their religious views, but they seek the truth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "truth",
+      "religion",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0122",
+    "canonical_statement": "Religious practices are valid as long as they do not cause harm to others.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 48,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "so long as they do no injury to their neighbors, their worship cannot be disturbed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "toleration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0123",
+    "canonical_statement": "Diverse religious traditions may simultaneously provide beneficial service to the populace.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 48,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "the Shiva priests may in their own way do good service to the people.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "religion",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0124",
+    "canonical_statement": "The ultimate reality is an impersonal, omnibenevolent law or norm rather than a deified ego.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 49,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "The good law is supreme... but that norm is not an Ishvara.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0125",
+    "canonical_statement": "The divine principle is indifferent to personal worship or praise, focusing instead on the welfare of sentient beings.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 49,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "Amitabha cares not for prayer, is indifferent to worship, and cannot be flattered.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0126",
+    "canonical_statement": "Individual existence is defined by the degree to which a being participates in the nature of the divine.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 49,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "So far as they partake of his nature, they are his children.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0127",
+    "canonical_statement": "The highest state of existence is union with a personal, self-conscious divine entity.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 49,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "The highest bliss will forever remain a union with Brahma.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0128",
+    "canonical_statement": "The divine possesses faculties of perception, judgment, and reason analogous to, but superior to, human consciousness.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 49,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "He is a higher kind of personality, which includes the faculties of perception, judgment and reason.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0129",
+    "canonical_statement": "The concept of a supreme creator deity is a metaphysical assumption lacking empirical or ontological verification.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 50,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "Brahma is an idea, a metaphysical assumption, and his mansion is everywhere and nowhere.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "deity",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0130",
+    "canonical_statement": "Religious systems based on inherited authority rather than direct realization are epistemologically blind.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 50,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "They are like a string of blind men clinging to one another and leading the blind.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0131",
+    "canonical_statement": "Conceptualizing the absolute as a static state of 'Being' is a misapprehension of reality compared to the realization of 'Enlightenment'.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 50,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "Brahma is generally interpreted to mean Being in general, but Amitabha is Enlightenment.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "absolute",
+      "enlightenment",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0132",
+    "canonical_statement": "Human perception often mistakes reflections or conceptual shadows for the underlying reality.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 50,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "Mistaking the reflection for the reality.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0133",
+    "canonical_statement": "The ultimate reality is an infinite, omnipresent, and eternal principle of truth and moral law.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 51,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "Amitabha is an infinite principle, an omnipresent law, an eternal norm.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0134",
+    "canonical_statement": "The ultimate principle manifests through the embodiment of law, the aspiration of evolutionary transformation, and the bliss of virtuous action.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 51,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "He is the Dharmakaya, the Nirmanakaya, and the Sambhogakaya.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0135",
+    "canonical_statement": "Truth is a singular, multifaceted reality that appears contradictory when viewed through limited, sectarian perspectives.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 51,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "The parable of the elephant explains the relation of the truth to sundry doctrines.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0136",
+    "canonical_statement": "Human knowledge of the ultimate principle is necessarily partial and progressive.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 51,
+        "chapter": "THE BUDDHIST ABBOT AND THE BRAHMAN.",
+        "surface_quote": "We know something but not all about Amitabha.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0137",
+    "canonical_statement": "Human perception of ultimate reality is inherently fragmented and limited by the observer's perspective.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 52,
+        "chapter": "THE PARABLE OF THE ELEPHANT.",
+        "surface_quote": "every one of them has a parcel of the truth, but wrong in taking his parcel to be the whole truth.",
+        "claim_type": "dramatized",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0138",
+    "canonical_statement": "The totality of existence transcends any single subjective experience or conceptual framework.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 52,
+        "chapter": "THE PARABLE OF THE ELEPHANT.",
+        "surface_quote": "every one is right in his way, but wrong in taking his parcel to be the whole truth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0139",
+    "canonical_statement": "Individual perspectives on ultimate truth are inherently limited and incomplete.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 53,
+        "chapter": "THE PARABLE OF THE ELEPHANT.",
+        "surface_quote": "all of them were purblind... in possession of parcels of the truth.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0140",
+    "canonical_statement": "The value of existence is derived from moral purpose rather than the mere fact of living.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 53,
+        "chapter": "THE PARABLE OF THE ELEPHANT.",
+        "surface_quote": "existence is not desirable for its own sake. That which gives worth to life is the purpose.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0141",
+    "canonical_statement": "Moral rectitude and the pursuit of justice are the primary objectives of human existence.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 53,
+        "chapter": "THE PARABLE OF THE ELEPHANT.",
+        "surface_quote": "Our aim is not to live, but... to avoid wrong doing and to let right prevail.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0142",
+    "canonical_statement": "Moral and ethical truths are eternal and consistent across enlightened teachers.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 53,
+        "chapter": "THE PARABLE OF THE ELEPHANT.",
+        "surface_quote": "All Buddhas teach this doctrine true Which will for aye endure.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0143",
+    "canonical_statement": "The potential for human invention and discovery is infinite, mirroring the nature of the infinite.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 54,
+        "chapter": "THE DOUBLE WEDDING.",
+        "surface_quote": "Amitabha is infinite, and thus the possibilities of invention are inexhaustible.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "infinity",
+      "potentiality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0144",
+    "canonical_statement": "Phenomena perceived as miraculous are actually the result of understanding and guiding natural forces through empirical observation.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 54,
+        "chapter": "THE DOUBLE WEDDING.",
+        "surface_quote": "His art was no magic but consisted simply in observation and experiment.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "causality",
+      "science"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0145",
+    "canonical_statement": "The evolution of human knowledge and enlightenment is a continuous, collective process that extends beyond the initial teachings of a founder.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 54,
+        "chapter": "THE DOUBLE WEDDING.",
+        "surface_quote": "The Tathagata has preached the religion of enlightenment... it is now our duty to follow up his thought.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "enlightenment",
+      "evolution",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0146",
+    "canonical_statement": "The Buddha is the ultimate source of spiritual illumination for all sentient beings.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 55,
+        "chapter": "THE DOUBLE WEDDING.",
+        "surface_quote": "Lord Buddha, the source of all spiritual light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "enlightenment",
+      "buddhology",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0147",
+    "canonical_statement": "The cultivation of loving-kindness is the primary mechanism for the enlightenment of the soul.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 55,
+        "chapter": "THE DOUBLE WEDDING.",
+        "surface_quote": "The enlightenment of our souls is most important.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "enlightenment",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0148",
+    "canonical_statement": "Perception of the absolute or enlightened state requires the observer to possess a corresponding highest self.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 56,
+        "chapter": "THE DOUBLE WEDDING.",
+        "surface_quote": "He who is possessed of the highest self, he is able to see Buddha.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "enlightenment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0149",
+    "canonical_statement": "The enlightened being remains accessible to perception even after attaining Nirvana.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 56,
+        "chapter": "THE DOUBLE WEDDING.",
+        "surface_quote": "Though Buddha has attained Nirvana, yet may you behold him.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "nirvana",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_amitabha_buddhist_theology_0150",
+    "canonical_statement": "The ultimate truth manifests in a triple aspect consisting of law, transformation, and bliss.",
+    "attributions": [
+      {
+        "source_id": "amitabha_buddhist_theology",
+        "chunk_index": 56,
+        "chapter": "THE DOUBLE WEDDING.",
+        "surface_quote": "Acvaghosha's doctrine of the triple aspect of the highest truth.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  }
+]

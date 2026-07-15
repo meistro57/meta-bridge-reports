@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "cl_us_history_0001",
+    "canonical_statement": "The divine entities are sustained by the sacrifice of sentient beings.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 36,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "Aztec belief centered on supplying the gods with human blood",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sacrifice",
+      "sustenance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0002",
+    "canonical_statement": "The cosmos is maintained through ritualistic acts.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 36,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "to sustain the sun on its long journey across the sky",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "cosmos",
+      "ritual",
+      "maintenance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0003",
+    "canonical_statement": "Specific deities govern distinct domains of existence.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 36,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "Each god in the Aztec pantheon represented and ruled an aspect of the natural world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0004",
+    "canonical_statement": "Future events can be known through dreams and omens.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 37,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "recounted an earlier dream to Moctezuma, the ruler of the Aztecs",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "prediction",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0005",
+    "canonical_statement": "The universe provides signs",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 37,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0006",
+    "canonical_statement": "The universe is a dualistic struggle between a benevolent creator God and a malevolent force of darkness.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 46,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "A benevolent God in heaven... controlled all events, warring against the force of darkness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "dualism",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0007",
+    "canonical_statement": "Human actions, such as sin, can have spiritual consequences and affect worldly events.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 46,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "Sickness, for example, might be a sign that a person had sinned",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "karma",
+      "causality",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0008",
+    "canonical_statement": "Spiritual forces and rituals are integral to the structure and progression of human life.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 46,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "The sacraments... marked every stage of life, from birth to maturation, marriage, and burial",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "life cycle",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0009",
+    "canonical_statement": "A divine entity is the ultimate creator and exists beyond the natural world.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 46,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "A benevolent God in heaven, creator of the universe and beyond the realm of nature",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "creation",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0010",
+    "canonical_statement": "The force of darkness possesses the ability to influence human behavior towards evil.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 46,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "Satan still had the power to trick humans and cause them to commit evil or sin",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "dualism",
+      "free will",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0011",
+    "canonical_statement": "The afterlife state of a soul is determined by religious authority.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 47,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "send a soul to hell forever",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0012",
+    "canonical_statement": "Religious texts are the exclusive source of divine will and knowledge.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 47,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "interpreting the will of God to the people",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "doctrine",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0013",
+    "canonical_statement": "Religious texts are the exclusive source of divine will and knowledge.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 47,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "read and interpret the Bible, the word of God",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "doctrine",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0014",
+    "canonical_statement": "Religious texts are the exclusive source of divine will and knowledge.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 47,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "The Koran contained his message",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "doctrine",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0015",
+    "canonical_statement": "Religious figures are intermediaries between the divine and humanity.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 47,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "interpreting the will of God to the people",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0016",
+    "canonical_statement": "Religious figures are intermediaries between the divine and humanity.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 47,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "read and interpret the Bible, the word of God",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0017",
+    "canonical_statement": "Religious figures are intermediaries between the divine and humanity.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 47,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "Muhammad received a revelation",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0018",
+    "canonical_statement": "The nature of divinity is understood through specific religious traditions.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 47,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "identifying Christ not as God but as a prophet",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "doctrine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0019",
+    "canonical_statement": "The structure of reality includes a divine realm and a human realm.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 47,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "interpreting the will of God to the people",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "divinity",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0020",
+    "canonical_statement": "Consciousness contains an inherent divine spark.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 157,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "everyone had an “inner light” inside him or her, a spark of divinity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0021",
+    "canonical_statement": "Social hierarchy is not inherent to existence.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 157,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "Quakers rejected the idea of worldly rank, believing instead in a new and radical form of social equality",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0022",
+    "canonical_statement": "The practice of slavery contradicts the principle of inherent divinity.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 157,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "contradiction between their belief in the “inner light” and the practice of slavery",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "ethics",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0023",
+    "canonical_statement": "The existence of an enslaved class provides a contrasting identity that enhances the sense of freedom for the dominant class.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 165,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "English liberty gained greater meaning and coherence for White people when they contrasted their status to that of the unfree class of enslaved Black people in British America.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "social structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0024",
+    "canonical_statement": "Shared racial identity can be forged through the institution of slavery.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 165,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "African slavery provided White colonists with a shared racial bond and identity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "social structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0025",
+    "canonical_statement": "Slavery is a fundamental element of imperial structure and influences all aspects of colonial life.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 165,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "Slavery formed a cornerstone of the British Empire in the eighteenth century. Slavery was more than",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0026",
+    "canonical_statement": "Parliamentary law holds supremacy over colonial law.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 207,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "Parliament’s power was supreme and that any laws the colonies may have passed to govern and tax themselves were null and void if they ran counter to parliamentary law.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "governance",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0027",
+    "canonical_statement": "The authority of a governing body is absolute and supersedes any subordinate legislative enactments.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 207,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "Parliament’s power was supreme and that any laws the colonies may have passed to govern and tax themselves were null and void if they ran counter to parliamentary law.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "governance",
+      "authority",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0028",
+    "canonical_statement": "The colonists perceived their liberty as being under assault when subjected to external taxation and regulation.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 207,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "colonists believed their liberty as loyal British subjects had come under assault for a second time.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "liberty",
+      "perception",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0029",
+    "canonical_statement": "All humans possess inherent, inalienable rights granted by a creator.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 242,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "all Men are created equal, that they are endowed by their Creator with certain unalienable Rights",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "rights",
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0030",
+    "canonical_statement": "The legitimate authority of governments derives from the consent of the governed.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 242,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "Governments are instituted among Men, deriving their just Powers from the consent of the governed",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "governance",
+      "authority",
+      "social contract"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0031",
+    "canonical_statement": "Sovereignty necessitates the right of a constituent entity to judge and remedy infractions of its delegated powers.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 399,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "the right of judging, in such cases, is an essential attribute of sovereignty",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "power",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0032",
+    "canonical_statement": "Granting one party exclusive authority to interpret the division of powers negates the division itself.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 399,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "to divide power, and to give to one of the parties the exclusive right of judging",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "power",
+      "governance",
+      "interpretation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0033",
+    "canonical_statement": "A central authority with exclusive interpretive power over delegated powers becomes a consolidated government with unlimited authority.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 399,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "to be exercised, is to convert it, in fact, into a great consolidated government",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "governance",
+      "power",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0034",
+    "canonical_statement": "The loss of the right to judge infractions of power results in the loss of sovereignty and subordinate status.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 399,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "without losing their sovereignty itself, and being reduced to a subordinate corporate condition",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "power",
+      "status"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0035",
+    "canonical_statement": "Consciousness can apprehend a reality beyond the ordinary sensory world.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 517,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "to transcend means to go beyond the ordinary sensory world to grasp personal insights",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0036",
+    "canonical_statement": "Individual consciousness possesses the capacity to understand reality beyond rational, sensory experience.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 517,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "all people could attain an understanding of the world that surpassed rational, sensory experience",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0037",
+    "canonical_statement": "Individual identity is unified with all other individuals through a transcendent bond.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 520,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "uniting the individual with all other people through a transcendent bond",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0038",
+    "canonical_statement": "Nature serves as a conduit for the development of individuality.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 520,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "nature as a gateway to greater individuality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "individuality",
+      "perception",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0039",
+    "canonical_statement": "Individuals possess the right to resist unjust authority.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 520,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "right to refuse allegiance to, and to resist, the government",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "authority",
+      "ethics",
+      "action"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0040",
+    "canonical_statement": "The individual self is intrinsically connected to and",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 521,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0041",
+    "canonical_statement": "Divine revelation is a process that can be completed, initiating a new era.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 523,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "Mother Ann represented the completion of divine revelation and the beginning of the millennium of heaven on earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "time",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0042",
+    "canonical_statement": "The divine nature encompasses both masculine and feminine aspects.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 523,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "She taught that God was both male and female; Jesus embodied the male side, while Mother Ann (as she came to be known by her followers) represented the female side.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "gender",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0043",
+    "canonical_statement": "Transformative individual religious experience is superior to ritual and formality.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 523,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "communities that stressed transformative individual religious experience or piety over religious rituals and formality.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "practice",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0044",
+    "canonical_statement": "A new social order can be created through radical communal living.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 523,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "members wanted to create a new social order, not reform the old.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "society",
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0045",
+    "canonical_statement": "Divine revelation can manifest through celestial phenomena and auditory experiences, conveying instructions for spiritual or worldly action.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 537,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "I heard a loud noise in the heavens, and the Spirit instantly appeared to me",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "perception",
+      "action"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0046",
+    "canonical_statement": "The cyclical nature of divine sacrifice and return is a sign of impending judgment and the commencement of a new spiritual epoch.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 537,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "the Saviour was about to lay down the yoke... and the great day of judgment was at hand",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "eschatology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0047",
+    "canonical_statement": "Spiritual entities can communicate directly with individuals, imparting directives and identifying cosmic adversaries.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 537,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "the Spirit instantly appeared to me and said the Serpent was loosened",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entity",
+      "communication",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0048",
+    "canonical_statement": "Celestial events serve as divine markers for the initiation of significant spiritual or historical undertakings.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 537,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "signs in the heavens that it would make known to me when I should commence",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "time",
+      "action"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0049",
+    "canonical_statement": "All human beings are created with inherent, inalienable rights by a creator.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 547,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "all men and women are created equal; that they are endowed by their Creator with certain inalienable rights",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "rights",
+      "creator",
+      "equality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0050",
+    "canonical_statement": "Women possess inherent moral and nurturing qualities superior to men.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 547,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "women as inherently more moral and nurturing than men",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gender",
+      "morality",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0051",
+    "canonical_statement": "The primary role of women is to instill moral virtue in children.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 547,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "women were uniquely qualified to take up the roles of educators of children",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gender",
+      "morality",
+      "education"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0052",
+    "canonical_statement": "The domestic sphere, specifically the parlor, is a domain of female authority.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 547,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "The home, especially the parlor, became the site of northern female authority",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "gender",
+      "authority",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0053",
+    "canonical_statement": "Individual salvation is attainable through personal agency.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 550,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "urged listeners to take charge of their own salvation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0054",
+    "canonical_statement": "The structure of society can be reformed to create a more equitable existence.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 550,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "aimed to recast economic and social relationships",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0055",
+    "canonical_statement": "The human mind and personality possess discernible characteristics.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 550,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "focused on revealing the secrets of the mind and personality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0056",
+    "canonical_statement": "Individual identity is a component of a larger, collective consciousness.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 1076,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "a fella ain't got a soul of his own, but on'y a piece of a soul",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "collective"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0057",
+    "canonical_statement": "Collective action and community support are essential for individual well-being and survival.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 1076,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "strength of community in the face of individual adversity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "community",
+      "existence",
+      "social"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0058",
+    "canonical_statement": "The structure of reality is influenced by collective human belief and action.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 1076,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "community support helps Stewart retain his business and home",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness",
+      "social"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0059",
+    "canonical_statement": "Consciousness is dualistic, comprising distinct and separable entities of body and soul.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 1263,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "distinction between body and soul, the sacred and the secular",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0060",
+    "canonical_statement": "Music possesses a celestial quality that governs the entirety of existence.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 1286,
+        "chapter": "CHAPTER OUTLINE",
+        "surface_quote": "music 'the celestial sound that controls the whole universe'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sound",
+      "reality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0061",
+    "canonical_statement": "Perception of land ownership is culturally contingent.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 1486,
+        "chapter": "Chapter 3",
+        "surface_quote": "Native Americans didn’t have any concept of owning personal property and believed that land should be held in common",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "culture",
+      "property"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_us_history_0062",
+    "canonical_statement": "The imposition of one belief system upon another can lead to conflict and resistance.",
+    "attributions": [
+      {
+        "source_id": "us_history",
+        "chunk_index": 1486,
+        "chapter": "Chapter 3",
+        "surface_quote": "As the Spanish tried to convert the Pueblo to Catholicism, the Native people tried to fold Christian traditions into their own practices.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "culture",
+      "belief",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  }
+]

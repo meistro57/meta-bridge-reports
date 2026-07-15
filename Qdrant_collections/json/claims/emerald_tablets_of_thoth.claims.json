@@ -1,0 +1,4525 @@
+[
+  {
+    "id": "cl_emerald_tablets_of_thoth_0001",
+    "canonical_statement": "Physical objects can be constructed with a fixed atomic structure that is immune to material decay.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "The atomic and cellular structure is fixed, no change ever taking place.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "matter",
+      "physics",
+      "alchemy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0002",
+    "canonical_statement": "Written symbols can function as conduits for mental vibrations that trigger specific cognitive states in the reader.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "Characters which respond to attuned thought waves, releasing the associated mental vibration.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "language",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0003",
+    "canonical_statement": "The capacity to perceive or understand metaphysical truth is dependent upon the internal state of the observer.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "If the light is in you, the light which is engraved in these tablets will respond.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "gnosis",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0004",
+    "canonical_statement": "The soul possesses an inherent resonance that can be activated by external vibrational stimuli.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "The vibration found therein will awaken a response in your soul.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "vibration",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0005",
+    "canonical_statement": "Higher planes of reality are accessible by shifting focus from external sensory perception to internal consciousness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "turning inward, not outward, in their search",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0006",
+    "canonical_statement": "Ultimate truth exists beyond the capacity of language and material symbolism.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "highest knowledge is unutterable",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0007",
+    "canonical_statement": "All phenomena in the universe are governed by immutable, universal laws.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "All things in all universes move according to law",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0008",
+    "canonical_statement": "The human mind functions as a bridge between material and spiritual states of existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "mind partakes of both the material and immaterial qualities",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind",
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0009",
+    "canonical_statement": "The ultimate purpose of existence is the attainment of complete union with universal consciousness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "final goal is complete oneness with the universal consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "teleology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0010",
+    "canonical_statement": "Deep understanding is an inherent, latent quality of the soul that must be awakened.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "understanding which is an inherent quality of the soul",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0011",
+    "canonical_statement": "Individual consciousness can persist across multiple incarnations by accessing a trans-temporal realm.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "from aeon to aeon did they renew their life in the Halls of Amenti",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "afterlife",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0012",
+    "canonical_statement": "Death is a cyclical transition rather than a terminal event for the soul.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "descended the dark way that led into light, and as many times have I ascended",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "death",
+      "cycle"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0013",
+    "canonical_statement": "Advanced consciousness can transcend the limitations of space and time.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Far to the stars I journeyed until space and time became as naught.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "space",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0014",
+    "canonical_statement": "Non-incarnate entities possess a nature fundamentally different from those in physical bodies.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "not as the sons of men are the Children of Light when they are not incarnate",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0015",
+    "canonical_statement": "The ultimate purpose of the soul is the attainment of wisdom through the search for truth.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "only in the Search for Truth could my Soul be stilled",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0016",
+    "canonical_statement": "The Logos is a fundamental creative force capable of altering the physical properties and energetic orientation of the Earth.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "using the Logos... changing and shifting... that great fire changed its direction.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "logos",
+      "creation",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0017",
+    "canonical_statement": "Advanced consciousness can manipulate physical reality through the application of vibration and sound.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "directed a ray of vibration, striking them still in their tracks",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "vibration",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0018",
+    "canonical_statement": "The soul can persist across vast epochs of time, maintaining identity and wisdom through deliberate preservation.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "living from age to age a Sun of Atlantis, keeping the wisdom",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "time",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0019",
+    "canonical_statement": "Physical structures can be engineered to act as conduits for etheric energy and gateways to non-physical dimensions.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "sending the ray into the Time-Space, drawing the force from out of the ether",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "technology",
+      "space-time",
+      "ether"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0020",
+    "canonical_statement": "Access to higher metaphysical realms requires ritual purification and the overcoming of fear.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "He who in courage would dare the dark realms, let him be purified first",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "initiation",
+      "purification",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0021",
+    "canonical_statement": "The soul possesses the capacity to exist in a state of roaming freedom while simultaneously incarnating in physical forms.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "my Soul roaming free will incarnate, dwell among men",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "incarnation",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0022",
+    "canonical_statement": "Individual consciousness is ontologically identical to the totality of existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "surely by right ye are one with the All.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "oneness",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0023",
+    "canonical_statement": "Physical structures can be engineered to serve as conduits or anchors for metaphysical knowledge across temporal cycles.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Built I the Great Pyramid... so that it might be here when again I return",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "structure",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0024",
+    "canonical_statement": "The evolution of human consciousness is directed by higher-order entities acting as emissaries.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Emissary on Earth am I of the Dweller, fulfilling his commands so man might be lifted.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "evolution",
+      "hierarchy",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0025",
+    "canonical_statement": "The universe is permeated by an infinite, foundational life force.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "bathed in the fire of the infinite ALL",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0026",
+    "canonical_statement": "Higher consciousness entities can manifest physical forms to interact with humanity.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "created bodies, taking the semblance of men as their own",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "incarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0027",
+    "canonical_statement": "Humanity is subject to a restrictive force that limits spiritual evolution.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "bound by the force that came from beyond",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "bondage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0028",
+    "canonical_statement": "Advanced beings maintain a dual existence, keeping physical bodies in a dormant state while their consciousness operates through human incarnations.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "while their bodies lie sleeping, incarnate they in the bodies of men",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "incarnation",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0029",
+    "canonical_statement": "Spiritual liberation involves transcending the cycle of human limitation and merging with higher masters.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "passes from man, to the Master of Life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "evolution",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0030",
+    "canonical_statement": "Individual identity is ultimately unified with the collective consciousness of higher beings.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "different yet one with the children of men",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0031",
+    "canonical_statement": "The universe is governed by hierarchical entities who exist outside the constraints of space and time.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Lords of the Cycles... free of all time and space.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "time",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0032",
+    "canonical_statement": "The ultimate goal of existence is an infinite progression toward wisdom that remains perpetually receding.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Approach ye ever the infinite Wisdom, ever before thee recedes the goal.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0033",
+    "canonical_statement": "Individual souls are eternal flames that undergo cyclic transformations through death and rebirth.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "These are lights that are souls among men... existing forever, changing yet living.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "reincarnation",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0034",
+    "canonical_statement": "The soul's evolution is a process of expanding its light through successive forms of life.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Steadily upward throughout the ages, growing, expanding into yet greater flame.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0035",
+    "canonical_statement": "Death is not an end but a veil that facilitates the transition of the soul into new forms.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Swiftly then send I my veil of darkness, shrouding and changing to new forms of life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "death",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0036",
+    "canonical_statement": "Death is a temporary illusion or obstacle that is transcended by the eternal nature of life.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "Death... only an obstacle, I in the pathway, quick to be conquered.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "death",
+      "eternity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0037",
+    "canonical_statement": "The individual soul possesses an inherent, inward-burning light that can expand to overcome darkness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "Awaken, O flame that burns ever inward, flame forth and conquer the veil.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0038",
+    "canonical_statement": "Human beings possess the capacity to evolve into higher states of existence characterized by light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "mysteries that man may never yet know of until he, too, is a Sun of the Light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "enlightenment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0039",
+    "canonical_statement": "Individual agency and free will are fundamental, allowing beings to determine their own destiny and service.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "Master are ye of your destiny, free to take or reject at will.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "agency",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0040",
+    "canonical_statement": "The universe is structured into hierarchical cycles or dimensions of existence governed by higher masters.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "Knelt I then before the great Masters, Lords of ALL from the cycles above.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0041",
+    "canonical_statement": "Wisdom and power are ontologically identical and mutually perfecting.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Wisdom is power and power is wisdom, one with each other.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "power",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0042",
+    "canonical_statement": "The universe is governed by a fundamental Law, and freedom is contingent upon adherence to this Law.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Only through Law comes the freedom of men.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "law",
+      "freedom",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0043",
+    "canonical_statement": "Ignorance is a state of spiritual death, where beneficial truths are perceived as harmful.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Knowledge is regarded by the fool as ignorance... He liveth in death.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ignorance",
+      "death",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0044",
+    "canonical_statement": "Liberation from darkness requires the discernment of the material from the immaterial.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Let he who would be free... first divine the material from the immaterial.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "liberation",
+      "duality",
+      "materiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0045",
+    "canonical_statement": "The individual contains an internal fire that is a manifestation of the eternal fire of the cosmos.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "He who knows the fire that is within himself shall ascend unto the eternal fire.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "cosmos",
+      "fire"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0046",
+    "canonical_statement": "The inner fire is the primary force capable of penetrating and overcoming all material existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Fire, the inner fire, is the most potent of all force.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "force",
+      "materiality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0047",
+    "canonical_statement": "Individual existence requires an external environment that provides resistance.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "Earth must resist man else he existeth not.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0048",
+    "canonical_statement": "Perception is subjective and variable, reflecting the changing nature of the underlying infinite reality.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "All eyes do not see with the same vision.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0049",
+    "canonical_statement": "The human essence is an eternal, inextinguishable light or fire.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "Man is a fire burning bright through the night.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0050",
+    "canonical_statement": "Name and form are illusory constructs that dissolve within the infinite, invisible consciousness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "Where do name and form cease? Only in consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0051",
+    "canonical_statement": "Physical manifestations are causal effects generated by the observer's vision.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "The forms that ye create by brightening thy vision are truly effects.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "causality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0052",
+    "canonical_statement": "The soul is a star constrained",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0053",
+    "canonical_statement": "The universe is structured by a hierarchy of nine fundamental entities or principles that govern existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "Four is he... Five is the master... Nine is the father",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0054",
+    "canonical_statement": "Human consciousness is intrinsically linked to and contains aspects of higher metaphysical entities.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "Six is the Lord of Light... part of the souls of the children of men.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "connection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0055",
+    "canonical_statement": "The transition between incarnations is a process governed by specific metaphysical laws or 'keys'.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "Find in the keys of the numbers I bring thee, light on the pathway from life unto life.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "afterlife",
+      "laws"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0056",
+    "canonical_statement": "Reality is fundamentally malleable through the application of focused thought and internal visualization.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "Place in thy body a thought-formed picture.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0057",
+    "canonical_statement": "The objective reality of the governing entities is non-apparent and transcends human sensory perception.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "Take thee, O man! As part of thy being, the Seven who are but are not as they seem.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0058",
+    "canonical_statement": "The human soul is capable of detaching from the physical body to traverse cosmic space.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "my Soul... broke from its bondage and bounded away.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "consciousness",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0059",
+    "canonical_statement": "Universal Law governs all celestial bodies and physical realms uniformly.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "found I Law, in all of its beauty, working through and among them.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "law",
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0060",
+    "canonical_statement": "Darkness is a temporary veil, while Light is the inherent, eternal essence of the human soul.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "Light is thine heritage. Know that darkness is only a veil.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "light",
+      "nature of being"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0061",
+    "canonical_statement": "Matter is a manifestation of a primal ether that can be manipulated by consciousness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "condensing, coalescing the ether into forms that grew as they willed.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "ether",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0062",
+    "canonical_statement": "Human identity is fundamentally cosmic, originating from and returning to a stellar state.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "man is truly space-born, a Sun of the Sun, a child of the stars.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "origin",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0063",
+    "canonical_statement": "The individual soul originates from a primal ether and is fundamentally composed of the same substance as the Infinite Cosmic Light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "Not of the earth are ye—earthy, but child of the Infinite Cosmic Light.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0064",
+    "canonical_statement": "The cosmos is governed by an inherent structure of order and balance, which serves as the mechanism for achieving unity with the totality of existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "Order and balance are the Law of the Cosmos.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmos",
+      "law",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0065",
+    "canonical_statement": "Human consciousness is currently bound by material desires and physical limitations, which must be transcended to achieve liberation.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "Conquer by silence, the bondage of words. Abstaining from eating until ye have conquered desire.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "liberation",
+      "asceticism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0066",
+    "canonical_statement": "The soul can be consciously detached from the physical body through the focused application of mental power and vibration.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "Vibrate back and forth with thy power. Loosen the soul from out of its night.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "consciousness",
+      "technique"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0067",
+    "canonical_statement": "The ultimate destiny of all human consciousness is to return to and merge with the Infinite Cosmic Light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "Ever man’s destiny leads him onward into the Curves of Infinity’s ALL.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "eschatology",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0068",
+    "canonical_statement": "The fundamental nature of the Cosmic is expressed through harmonic frequencies of sound and color.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "Mighty and balanced, moving in Order, music of harmonies... singing with color.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmos",
+      "vibration",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0069",
+    "canonical_statement": "The ultimate state of existence is the dissolution of individual identity into a singular, unified totality.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "One with all things and all things in One",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "unity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0070",
+    "canonical_statement": "The soul is inherently distinct from the physical body and can function independently of it.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "freed thy soul from its bondage... bound not by fetters forged in flesh",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "dualism",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0071",
+    "canonical_statement": "The universe is structured according to principles of order and harmony, which the liberated soul must align with.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "Move thou in Order, move thou in Harmony",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0072",
+    "canonical_statement": "Wisdom is accessible throughout the expanse of space once the soul is detached from physical constraints.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "Ever through space ye may seek wisdom",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "space",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0073",
+    "canonical_statement": "Advanced beings from higher cycles of existence can incarnate within human populations while remaining ontologically distinct from humanity.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "Master, He, from a cycle beyond us, living in bodies as one among men.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "incarnation",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0074",
+    "canonical_statement": "Physical matter can be manifested from the ether through the focused application of consciousness and sound.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "Out of the Ether called He its substance, moulded and formed by the Word.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "substrate",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0075",
+    "canonical_statement": "The soul can be guided from a state of darkness to a state of unity with the primordial Light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "Mastering darkness, leading the Man-Soul, upward to heights that were One with the Light.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "evolution",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0076",
+    "canonical_statement": "Highly evolved entities can exist simultaneously in a formless state and a human-like physical manifestation.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "Formless was He within his Temple, yet was He formed in the image of man.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "form",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0077",
+    "canonical_statement": "Individual souls possess the capacity to transcend material bondage and return to a primordial state of light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "Each soul on earth that loosens its fetters shall soon be made free.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0078",
+    "canonical_statement": "The totality of existence is a unified, infinite entity that transcends all finite knowledge.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "All is part of an ALL, great and yet greater than all that we know.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "infinity",
+      "substrate",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0079",
+    "canonical_statement": "The principle of correspondence dictates that the structure of the macrocosm is reflected in the microcosm.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "Deep into Earth’s heart I followed the pathway, learning the secrets, below as above.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0080",
+    "canonical_statement": "Accessing deeper or hidden dimensions of reality requires internal equilibrium to avoid entrapment by lower forces.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "He who descends below must have balance, else he is bound by lack of our Light.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "balance",
+      "ethics",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0081",
+    "canonical_statement": "The physical world is subject to manipulation and alteration through the application of metaphysical laws and higher consciousness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "Called He then on the powers of the Seven Lords wielded; changed the Earth’s balance.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "causality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0082",
+    "canonical_statement": "Access to higher states of consciousness or metaphysical realms is contingent upon the possession of specific esoteric knowledge.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "Yet ever to him who has knowing, open shall be the path to Amenti.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "consciousness",
+      "initiation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0083",
+    "canonical_statement": "Physical structures and artifacts can serve as conduits or gateways to transcendental states of existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "Each the gateway that leads into Life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacred geometry",
+      "gateway",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0084",
+    "canonical_statement": "Wisdom and metaphysical power are preserved across historical cycles to be reclaimed by future generations.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "Light shalt thou be all through the ages, hidden yet found by enlightened men.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "wisdom",
+      "cycles"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0085",
+    "canonical_statement": "Human nature is characterized by an inherent duality consisting of both light and darkness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "Men, then as now, were filled with both darkness and light.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0086",
+    "canonical_statement": "The universe is defined by an eternal, trans-dimensional conflict between opposing forces of light and darkness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "Age old is this warfare, the eternal struggle between darkness and light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0087",
+    "canonical_statement": "External entities can influence or bind the human soul through the application of hidden, non-physical powers.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "Silently, secretly, use they their power, enslaving and binding the souls of men.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0088",
+    "canonical_statement": "Human ignorance serves as a mechanism that facilitates the interaction with or invocation of malevolent non-physical entities.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "Man in his ignorance calls Them from below.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0089",
+    "canonical_statement": "Human consciousness is susceptible to external influence and metaphysical bondage by entities operating within a lower vibrational frequency.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "Into man’s mind-space reach the Dark Brothers. Around it, they close the veil.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "influence",
+      "bondage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0090",
+    "canonical_statement": "Spiritual evolution and the attainment of wisdom require active, difficult effort against internal and external obstacles.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "Light comes only to him who strives. Hard is the pathway that leads to the Wisdom.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "wisdom",
+      "effort"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0091",
+    "canonical_statement": "The universe is characterized by a fundamental, eternal duality between light and darkness, with light being the ultimate victor.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "In the end Light must conquer and darkness and night be banished from Light.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "cosmology",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0092",
+    "canonical_statement": "Advanced entities exist who operate in harmony with universal law to guide and protect human souls.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "There exists the Brothers of Light... seeking to free men from the night.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "entities",
+      "guidance",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0093",
+    "canonical_statement": "Individual souls originate from a state of primordial unity and maintain an underlying connection to the All One.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "One have they been in Oneness eternal, throughout all space since the beginning of time.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "unity",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0094",
+    "canonical_statement": "Fear and darkness are overcome through the acquisition of knowledge and wisdom.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Only by knowing can ye conquer; only by knowing can ye have Light.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0095",
+    "canonical_statement": "Internal mental states can be regulated and purged through the application of rhythmic physical vibrations.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Send through thy body a wave of vibration, irregular first and regular second.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "vibration",
+      "mind",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0096",
+    "canonical_statement": "Knowledge functions as a causal mechanism for the generation of power.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Knowledge brings wisdom and wisdom is power.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "power",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0097",
+    "canonical_statement": "Specific linguistic sounds or names possess inherent vibrational power to alter reality and liberate consciousness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "The names have the power to free by vibration the fetters that bind.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "vibration",
+      "language",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0098",
+    "canonical_statement": "Individual consciousness is interconnected, allowing one to act as a catalyst for another's spiritual liberation.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Thou, O man, art thy brother’s helper.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0099",
+    "canonical_statement": "The act of creation involves the transmission of life or consciousness from a divine source to a finite being.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "Creation, by Michelangelo",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0100",
+    "canonical_statement": "The individual soul can achieve unity with the Infinite by integrating cosmic light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "Open thy Soul, O man, to the Cosmic and let it flow in.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "unity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0101",
+    "canonical_statement": "The Infinite exists within the finite, obscured by human perception of darkness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "Deep in the finite the Infinite exists.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "infinity",
+      "perception",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0102",
+    "canonical_statement": "All existence originates from a singular source of light and wisdom.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "All that exists comes forth from the Light, and the Light comes forth from the ALL.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "monism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0103",
+    "canonical_statement": "The universe is governed by immutable laws and equilibrium, manifesting as cyclical processes.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "Everything created is based upon Order: Law rules the space where the Infinite dwells.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "law",
+      "cycles",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0104",
+    "canonical_statement": "Infinity itself is subject to change over vast temporal scales.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "Know ye, O man, that far in the space-time, Infinity itself shall pass into change.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "infinity",
+      "change"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0105",
+    "canonical_statement": "Higher consciousness entities exist as guides for humanity, operating from cycles beyond the current manifestation.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "Deep in the Dark Halls sit the Seven, units of consciousness from cycles above.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "hierarchy",
+      "cycles"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0106",
+    "canonical_statement": "Individual consciousness is a reflection of a primordial internal essence, metaphorically described as a hidden flame.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "Seek then within thine own hidden flame.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0107",
+    "canonical_statement": "Physical reality is an illusion of form imposed upon an underlying formless substrate.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "that which is formed truly is formless, having form only to thine eyes.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0108",
+    "canonical_statement": "The universe operates through cyclical time and space, which can be transcended through knowledge of their laws.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "Time and space are moving in circles. Know ye their law, and ye, too, shall be free.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0109",
+    "canonical_statement": "Life and death are dualistic states that will eventually merge into a singular, perfected existence within the All.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "life and death shall be one with the All.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0110",
+    "canonical_statement": "Higher states of existence are characterized by the absence of biological life and death, consisting instead of pure soul essence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "life itself will pass to the darkness and only the essence of Soul shall remain.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0111",
+    "canonical_statement": "The ultimate goal of evolution is the dissolution of individual identity into the Oneness of the All.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "when Two have become One and One has become the All, know ye the barrier has lifted.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0112",
+    "canonical_statement": "The fundamental nature of the human soul is identical to the essence of Light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "Ye are a child of the Light.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0113",
+    "canonical_statement": "External reality is a manifestation projected from the internal state of the individual.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "All else is brought from within.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0114",
+    "canonical_statement": "The individual consciousness is ontologically unified with the totality of the Cosmos.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "Know thou are one with the Cosmos.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0115",
+    "canonical_statement": "The human body serves as a continuous conduit for the flow of primordial light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "the brightness flows through thy body for aye.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0116",
+    "canonical_statement": "The ultimate nature of all physical forms is formlessness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "Know I now that the formless is all there is of form.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "form"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0117",
+    "canonical_statement": "Human evolution involves a transition from physical embodiment to a formless state.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "Man is in process of changing to forms that are not of this world.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0118",
+    "canonical_statement": "The universe is governed by a primordial force that maintains cosmic equilibrium.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "Learn of the Law that exists, holding the stars in their balance.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0119",
+    "canonical_statement": "Human identity is a composite of terrestrial and energetic (fire) components.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "Thou art complex, a being of earth and of fire.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0120",
+    "canonical_statement": "Entities from other dimensions require biological matter to manifest in the physical realm.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "Only through blood could they have formed being.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "dimensions",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0121",
+    "canonical_statement": "Entities can adopt human physical forms through the use of glamour or artifice.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "In the form of man moved they amongst us.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0122",
+    "canonical_statement": "The universe contains a boundary separating cycles of existence, guarded by non-human entities.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "Found I there the great barrier, holding man from leaving this cycle.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0123",
+    "canonical_statement": "Guardians of the cosmic barrier operate within angular dimensions rather than curved ones.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "Move they only through angles. Free are they not of the curved dimensions.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "dimensions"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0124",
+    "canonical_statement": "Consciousness and the soul can be tracked across space and time by specific entities.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "Follow they consciousness to the limits of space.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0125",
+    "canonical_statement": "Circular geometry provides a metaphysical shield against entities that move through angles.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "Only the circle will give ye protection.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "protection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0126",
+    "canonical_statement": "Fear acts as a metaphysical obstacle that sustains the presence of shadow-based phenomena.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "Know ye, O my brother, that fear is an obstacle great.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0127",
+    "canonical_statement": "Non-physical entities or forces are constrained by geometric structures, specifically unable to traverse curved space.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "Hounds of the Barrier move only through angles and never through curves of space.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "geometry",
+      "consciousness",
+      "entities"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0128",
+    "canonical_statement": "The soul's movement outside the physical body is vulnerable to interception by predatory metaphysical forces.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "when free from my body, cautious ever must I be not to move through angles.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "vulnerability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0129",
+    "canonical_statement": "The physical body serves as a protective anchor or sanctuary for the soul against non-physical threats.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "flee back to thy body through circles, penetrate not the mist before.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "body",
+      "soul",
+      "protection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0130",
+    "canonical_statement": "The ultimate evolutionary goal of consciousness is the attainment and integration of Light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "Light is thine ultimate end, O my brother.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "light",
+      "evolution",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0131",
+    "canonical_statement": "Access to higher dimensions or states of existence requires a specific threshold of internal Light and geometric navigation.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "Only the one who of Light has the fullest can hope to pass.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ascension",
+      "light",
+      "geometry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0132",
+    "canonical_statement": "Individual consciousness is fundamentally identical to the universal Light and can achieve unity with the Whole through vibrational alignment.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "Create the high vibration that will make thee One with the Whole.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "unity",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0133",
+    "canonical_statement": "The human soul is the true essence of identity, while the physical body is a temporary, restrictive vessel.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "Know ye, O man, ye are only a spirit. The body is nothing.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0134",
+    "canonical_statement": "Physical space is not infinite but is structured by specific geometric boundaries, angles, and curves.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "Space is not boundless but truly bounded by angles and curves.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "space",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0135",
+    "canonical_statement": "Matter is not static but a fluid, transient expression of underlying universal laws.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "Matter is fluid and flows like a stream, constantly changing.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "matter",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0136",
+    "canonical_statement": "Multiple distinct dimensions or realities coexist, interlaced within the same space but separated by their own dimensional properties.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "Others as great as your own, interlaced through the heart of your matter.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dimensions",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0137",
+    "canonical_statement": "Wisdom is an eternal, unchanging principle that exists independently of human awareness or historical context.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "Wisdom is lasting, existing since the All-Soul began.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "eternity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0138",
+    "canonical_statement": "The universe is structured into nine interlocked dimensions and cycles of space.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "Nine are the interlocked dimensions, and Nine are the cycles of space.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0139",
+    "canonical_statement": "Consciousness is a fundamental property that persists throughout all time-space, even when unperceived.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "throughout the time-space consciousness surely exists.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0140",
+    "canonical_statement": "The human individual is a gateway to universal mysteries and contains the key to all reality within themselves.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "The key to worlds within thee are found only within.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "gnosis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0141",
+    "canonical_statement": "Physical embodiment is a state of bondage; true life is only experienced by the soul when liberated from the body.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "Only the Soul is space-free, has life that is really a life.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0142",
+    "canonical_statement": "The essential nature of humanity is light-based spirit, not material origin.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "Man is a light-born spirit.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0143",
+    "canonical_statement": "The primordial source of all existence is a flame that contains all things in potentiality, manifesting as Order, Word, and Life.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "The flame is the source of all things, containing all things in potentiality.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0144",
+    "canonical_statement": "The fundamental essence of life is a creative vibration or 'Word' derived from a primordial fire.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "Life is but the Word of the Fire.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0145",
+    "canonical_statement": "The manifestation of reality and the attainment of power require the imposition of order upon chaos.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "Order brought forth from Chaos will bring thee the Word of the Source.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "order",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0146",
+    "canonical_statement": "Individual human identity is ontologically identical to the primordial fire or light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "Man is one with the fire.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "oneness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0147",
+    "canonical_statement": "The human soul can be perfected into an eternal force by aligning itself with the source of light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "Make of thy Soul a force that free will extend through the ages.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "perfection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0148",
+    "canonical_statement": "The universe operates through cyclical processes governed by the principle of order.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "The power of Cycles.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "cycles"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0149",
+    "canonical_statement": "Existence is contingent upon the Law, which governs the order and harmony of the universe.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "all that exists has being only because of the Law.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0150",
+    "canonical_statement": "The universe originated from a purposeful thought manifesting within a primordial void.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "into the nothingness came a thought, purposeful, all-pervading",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0151",
+    "canonical_statement": "Truth is an infinite, ever-expanding progression that remains unreachable even by advanced entities.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "Truth ever grows.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "infinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0152",
+    "canonical_statement": "Time is a static, rhythmic framework that separates events, while consciousness moves through it.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "Time is not in motion, but ye move through time",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0153",
+    "canonical_statement": "Individual separation in time is an illusion; all beings remain fundamentally unified across all temporal states.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "though in time ye are separate, yet still are One in all times",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0154",
+    "canonical_statement": "The soul can transcend the limitations of physical time by shifting its consciousness through specific non-linear trajectories.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "only by moving upward and right-ward could I be free from the time",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "transcendence",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0155",
+    "canonical_statement": "The fundamental substrate of all existence is Light, which serves as the essential life force for all matter.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "Light is life, for without the great Light nothing can ever exist.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0156",
+    "canonical_statement": "Individual human identity is ontologically identical to the primordial Light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "man is of Light and Light is of man.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0157",
+    "canonical_statement": "The cosmos is structured as a series of nested, distinct dimensions or worlds occupying the same space, separated by Law.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "all space is filled by worlds within worlds; aye, one within the other yet separate by Law.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "dimensions"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0158",
+    "canonical_statement": "The universe is governed by a teleological progression of cycles, moving toward an ultimate, expansive order.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "the Cosmos is Order and part of a movement that extends to all space.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0159",
+    "canonical_statement": "Specific linguistic vibrations or 'Words' possess the causal power to manipulate the boundaries between dimensional planes.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "in Words are power to open the planes that are hidden from man.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0160",
+    "canonical_statement": "Knowledge is the fundamental mechanism of universal law.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "Magic is knowledge and only is Law.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "law",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0161",
+    "canonical_statement": "The soul is currently restricted by the self-imposed limitation of fear.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "thy Soul is living in bondage fettered by fear",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "limitation",
+      "fear"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0162",
+    "canonical_statement": "Fear is a subjective construct created by those who succumb to it.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "fear has existence created by those who are bound by their fears.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "fear",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0163",
+    "canonical_statement": "Individual identity is determined by the content of one's beliefs.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "Man is only what he believeth",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "belief"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0164",
+    "canonical_statement": "The individual possesses the inherent potential to access all universal forces.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "all force is thine if thou wilt.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "power",
+      "potential",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0165",
+    "canonical_statement": "Individual consciousness is a developmental unit within a larger, evolving cosmic process.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "ye as a whole in this consciousness are only a cell in the process of growth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0166",
+    "canonical_statement": "The ultimate state of existence is a perfected, unified infinity where distinctions of hierarchy and position are dissolved.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "all One in a perfected Infinity, a harmony of all in the Oneness of All.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "oneness",
+      "infinity",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0167",
+    "canonical_statement": "The universe is structured by cycles of consciousness that function as intermediaries to unify local reality with the totality.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "Lords of the Cycles are units of consciousness sent from the others to unify This with the All.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cycles",
+      "consciousness",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0168",
+    "canonical_statement": "Spatial and hierarchical distinctions like 'above' and 'below' are illusory perspectives within the context of absolute infinity.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "in Infinity there is neither above nor below.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "infinity",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0169",
+    "canonical_statement": "Human consciousness is a spark that can be cultivated and expanded through external wisdom and guidance.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "Fanned I ever the spark of thy consciousness until at last ye flamed as men.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0170",
+    "canonical_statement": "Consciousness evolves through unique, non-repetitive paths within a cosmic cycle structure.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "No consciousness follows the path of those before it, else all would be repetition.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0171",
+    "canonical_statement": "The universe is organized into hierarchical cycles of consciousness, differentiated by their capacity to manipulate universal Law.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "The difference that exists between the cycles is only in ability to work with the Law.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0172",
+    "canonical_statement": "All individual consciousnesses originate from a single Source and are fundamentally interconnected as parts of a greater Oneness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "All is but part of the Oneness that is at the Source of the Law.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "oneness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0173",
+    "canonical_statement": "The purpose of existence and the manifestation of cosmic cycles is the acquisition of knowledge and wisdom for the Source.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "Means are they for the gaining of knowledge for the Plane of Law.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "purpose",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0174",
+    "canonical_statement": "The ultimate value of existence lies solely in the progress and perfection of the soul, rendering physical concerns secondary.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "Nothing else matters excepting the growth we can gain with our Soul.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "value"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0175",
+    "canonical_statement": "Hierarchical levels of consciousness are not spatial or temporal realities, but represent different operational modes of universal Law.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "Nothing there is that is really below thee but only a different operation of Law.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0176",
+    "canonical_statement": "Individual identity and future state are determined by the accumulation of wisdom and the initiation of causal actions.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "All that man is is because of his wisdom. All that he shall be is the result of his cause.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "causality",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0177",
+    "canonical_statement": "Spiritual growth requires intentional effort to ascend to a higher plane of existence characterized by universal Light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "Only by effort shall ye grow upward to the plane where Light is the All of the All.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ascension",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0178",
+    "canonical_statement": "The individual possesses the capacity to transcend environmental conditioning by mastering the causes of their own life.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "Be ye the master of all that surrounds thee. Never be mastered by the effects of thy life.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "agency",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0179",
+    "canonical_statement": "The essential nature of the soul is identical to the Greater Light when liberated from lower-dimensional constraints.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "Know that thou art the Greater Light, perfect in thine own sphere, when thou art free.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "nature of reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0180",
+    "canonical_statement": "Individual consciousness is fundamentally unified with the totality of existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "man in his movement through space-time shall ever be One with the All.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0181",
+    "canonical_statement": "The future is not predetermined but is a fluid outcome of current causal actions.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "the future is not fixed or stable but varies as cause brings forth an effect.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "free-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0182",
+    "canonical_statement": "The evolution of the soul is a teleological progression toward ultimate union with the Light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "Ever his destiny shall lead him onward until he is One with the Light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "teleology",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0183",
+    "canonical_statement": "Human history is characterized by cyclical rises and falls of civilizations and consciousness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "Man has risen and man has fallen as ever new waves of consciousness flow.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "cycles",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0184",
+    "canonical_statement": "The soul is not tethered to a single physical location or planetary existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "The Soul of man moves ever onward, bound not by any one star.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0185",
+    "canonical_statement": "Humanity possesses the potential to evolve into divine beings through the acquisition of knowledge.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "As I to thee am a God by my knowledge, so ye, too shall be Gods.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0186",
+    "canonical_statement": "The ultimate nature of reality is a singular, unified source that encompasses both the beginning and the end.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "the Source of all wisdom, the place of beginning, that is yet One with the end.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0187",
+    "canonical_statement": "At the culmination of cosmic cycles, all individual existence merges into a state of absolute oneness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "in a time that is yet unborn, all shall be One and One shall be All.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0188",
+    "canonical_statement": "Human consciousness is capable of transcending the current space-time continuum to exist in other dimensions.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "shall move even from out of this space-time into another beyond the stars.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0189",
+    "canonical_statement": "The soul is inherently deathless and capable of persisting across multiple ages.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "The time will come when ye, too, shall be deathless.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0190",
+    "canonical_statement": "Individual consciousness is capable of merging with a singular, universal substrate of existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 41,
+        "chapter": "General Content",
+        "surface_quote": "Blend thou thy Soul in the Great Essence.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "soul",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0191",
+    "canonical_statement": "The ultimate state of consciousness is identification with a universal light source.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 41,
+        "chapter": "General Content",
+        "surface_quote": "One, with the Great Light let thy consciousness be.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0192",
+    "canonical_statement": "The realization of universal oneness grants mastery over life and death.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "all shall be opened when ye shall find the oneness of all",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "oneness",
+      "mastery",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0193",
+    "canonical_statement": "Death is a transformative state of light and fire rather than an end.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "a death that is life and is fire and is Light",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "death",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0194",
+    "canonical_statement": "The individual consciousness contains the source of all life and death within the heart.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "Look in thy heart where the knowledge is bound",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0195",
+    "canonical_statement": "The Earth is a living entity with a spirit that sustains all embodied life.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "Earth is living in body as thou art alive",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "earth",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0196",
+    "canonical_statement": "Physical existence is maintained by the balanced polarity of the individual form.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "thy form is dual, balanced in polarity",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "polarity",
+      "existence",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0197",
+    "canonical_statement": "Death is the result of a loss of equilibrium between the poles of the physical form.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "Death approaches, it is only because thy balance is shaken",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "death",
+      "polarity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0198",
+    "canonical_statement": "An individual who achieves perfect internal balance can synchronize with the Earth's balance to transcend death.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 42,
+        "chapter": "General Content",
+        "surface_quote": "When thou hast learned to hold thine own balance, then shalt thou draw on the balance of Earth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "immortality",
+      "earth",
+      "balance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0199",
+    "canonical_statement": "The physical body's vitality is maintained by the specific orientation and movement of consciousness within the energetic centers.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "Hold thou in balance once in each seven, and thy balance will retain its strength.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "vitality",
+      "consciousness",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0200",
+    "canonical_statement": "The soul is a distinct entity capable of separating from the physical form to merge with a higher source of light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "Forth from thy form will thy silver spark fly, upward and onward to the Sun.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "death",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0201",
+    "canonical_statement": "Reincarnation is a process governed by the conscious will of the soul, allowing for the transition between lives.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "Thus pass the great Souls, changing at will from life unto life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reincarnation",
+      "identity",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0202",
+    "canonical_statement": "The mastery of time and the retention of past-life memories are achieved by focusing consciousness in the brain-seat during the transition of death.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "Hold thou thy flame here in thy brain-seat until the fingers of Death grasp.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "memory",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0203",
+    "canonical_statement": "The past, present, and future are unified when the consciousness is properly anchored during the transition of death.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "Then shalt the past be as one with the present.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0204",
+    "canonical_statement": "The physical Earth serves as a transitional threshold or portal to higher dimensional states of existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "Know ye this Earth is but a portal",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0205",
+    "canonical_statement": "The human soul must undergo purification from darkness to transition into higher states of light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "the soul must be cleansed of its darkness, ere ye may enter the portals of Light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0206",
+    "canonical_statement": "The human constitution consists of the Ba (eternal essence) and the Ka (the shadow or life-force), with the Ba requiring the Ka to be incarnate.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "Ba is the essence, living forever. Ka is the Shadow that man knows as life.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0207",
+    "canonical_statement": "The ultimate nature of the Divine is a beginningless and endless circle, encompassing all existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "learn of the circle beginningless and endless, the form of He who is One",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0208",
+    "canonical_statement": "Creation originates from a primeval equilibrium consisting of three unities: one God, one Truth, and one point of freedom.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "In the primeval, dwell three unities... one God, one Truth, one point of freedom.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0209",
+    "canonical_statement": "The Divine nature is characterized by the triad of infinite power, infinite wisdom, and infinite love.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "Three are the qualities of God... Infinite power, Infinite Wisdom, Infinite Love.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0210",
+    "canonical_statement": "The fundamental creative forces of the universe are Divine Love, Divine Wisdom, and Divine Power acting in synthesis.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "Three are the powers creating all things: Divine Love, Wisdom, and Power.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0211",
+    "canonical_statement": "Existence is structured into three primary states: the absolute state of God, the state of chaos/death, and the state of life/awareness.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "Three are the circles of existence: Light, Chaos, and Awareness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0212",
+    "canonical_statement": "The individual soul progresses through three evolutionary stages: Man, Liberty, and Light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "Three are the paths of the Soul: Man, Liberty, Light.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0213",
+    "canonical_statement": "The First Cause is an eternal, singular, and sustaining intelligence that governs all existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "There is one, even the First, who hath no beginning, who hath no end.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "monism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0214",
+    "canonical_statement": "The individual consciousness contains a reflection of the divine Light, enabling potential union with the First Cause.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "I beheld that Light, high above all darkness, reflected in my own being.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0215",
+    "canonical_statement": "Spiritual progress is hindered by ignorance, lack of divine attachment, and attachment to negative forces.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 46,
+        "chapter": "General Content",
+        "surface_quote": "Three are the hindrances: lack of knowledge; non-attachment to god; attachment to evil.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0216",
+    "canonical_statement": "The universe requires regulatory entities to maintain equilibrium against entropic chaos.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 47,
+        "chapter": "General Content",
+        "surface_quote": "Lords of Arulu... with their Infinite balance could stand in the way of the inpouring chaos.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0217",
+    "canonical_statement": "Individual souls possess the capacity to transcend darkness and attain a state of luminous existence.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 47,
+        "chapter": "General Content",
+        "surface_quote": "Saw all the souls who had conquered the darkness. Saw the splendor of Light.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0218",
+    "canonical_statement": "The soul retains the ability to choose its own path of service and incarnation.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 47,
+        "chapter": "General Content",
+        "surface_quote": "I stood in the Halls of Amenti and made my choice to the work I would do.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "free-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0219",
+    "canonical_statement": "Esoteric knowledge must be obscured through symbolism to ensure it is accessible only to the prepared.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 47,
+        "chapter": "General Content",
+        "surface_quote": "Hide them in symbols, so the profane will laugh and renounce.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gnosis",
+      "initiation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0220",
+    "canonical_statement": "Human beings possess an inherent divine essence that allows them to become god-men.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 47,
+        "chapter": "General Content",
+        "surface_quote": "God-men in Truth as in essence ye be.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0221",
+    "canonical_statement": "The structure of the universe is defined by fractal geometry and harmonic resonance.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 48,
+        "chapter": "General Content",
+        "surface_quote": "Cup of the Holy Grail",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "geometry",
+      "resonance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0222",
+    "canonical_statement": "Darkness and light are ontologically identical, differing only in their degree of order.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "Darkness and light are both of one nature, different only in seeming.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "duality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0223",
+    "canonical_statement": "The purpose of existence is the transmutation of disorder (darkness) into order (light).",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "Darkness transmuted is light of the Light. This, my children, your purpose in being.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "teleology",
+      "transmutation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0224",
+    "canonical_statement": "Human existence is structured as a threefold nature: physical, astral, and mental.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "Know ye, ye are threefold in nature, physical, astral and mental in one.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0225",
+    "canonical_statement": "The astral plane functions as a mediator between the physical and spiritual realms.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "Three are the natures of the Astral, mediator is between above and below.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "planes",
+      "astral"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0226",
+    "canonical_statement": "The mind serves as the carrier of the Divine Will and the arbiter of causality.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "Three are the natures of Mind, carrier it of the Will of the Great One.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0227",
+    "canonical_statement": "Human consciousness is bound to the Earth plane by planetary vibrational waves.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "Encircling each planet, a wave of vibration, binds him to his plane of unfoldment.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0228",
+    "canonical_statement": "The human soul possesses the inherent capacity to transcend physical and spatial limitations through the exercise of will.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "Bound are ye in your body, but by the power ye may be free.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "will",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0229",
+    "canonical_statement": "The human soul is capable of detaching from the physical body to access non-physical realms.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 50,
+        "chapter": "General Content",
+        "surface_quote": "Leave thou thy body as I have taught thee.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "consciousness",
+      "projection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0230",
+    "canonical_statement": "Mental focus and purity of intent are necessary prerequisites for navigating metaphysical dimensions.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 50,
+        "chapter": "General Content",
+        "surface_quote": "Pure must ye be in mind and in purpose.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "intent",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0231",
+    "canonical_statement": "The spiritual realm exists in a state of darkness relative to the physical world, yet contains the true light of spirit.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 50,
+        "chapter": "General Content",
+        "surface_quote": "Darkness of Earth, but Light of the Spirit.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "spirit",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0232",
+    "canonical_statement": "The individual identity can command entry into higher realms by asserting its essential nature as light.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 50,
+        "chapter": "General Content",
+        "surface_quote": "I am the Light. For me are no barriers.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_emerald_tablets_of_thoth_0233",
+    "canonical_statement": "Access to hidden dimensions is restricted to those who actively seek and possess the required wisdom.",
+    "attributions": [
+      {
+        "source_id": "emerald_tablets_of_thoth",
+        "chunk_index": 50,
+        "chapter": "General Content",
+        "surface_quote": "Only to those who seek my wisdom.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "initiation",
+      "access"
+    ],
+    "editorial_status": "auto"
+  }
+]

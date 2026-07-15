@@ -1,0 +1,3600 @@
+[
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0001",
+    "canonical_statement": "Human perception and belief are frequently distorted by emotional attachments to early childhood conditioning.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 3,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "fond are we all apt to be of what we learn’d in our Youth",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0002",
+    "canonical_statement": "The Divine nature is immutable and devoid of variability.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 4,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "God its Author, with whom there is no Variableness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0003",
+    "canonical_statement": "Truth and error are diametrically opposed extremes.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 4,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "Truth and Error to be the two Extreams",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0004",
+    "canonical_statement": "Divine revelation is the sole legitimate source of knowledge regarding the afterlife.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 5,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "God alone... can prescribe Injunctions relating to the World to come",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0005",
+    "canonical_statement": "Human authority is limited to the regulation of material, earthly affairs.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 5,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "human Powers regulate the Affairs of this [world]",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "governance",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0006",
+    "canonical_statement": "Divine revelation is verifiable through rational demonstration.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 8,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "demonstrate the Verity of Divine Revelation against Atheists",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0007",
+    "canonical_statement": "The nature of the physical or metaphysical world follows a specific, non-inverted order.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 8,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "the Order of Nature is in your Systems of Divinity quite inverted",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0008",
+    "canonical_statement": "True religion must be compatible with reason and intelligibility.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 9,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "true Religion muft necef]arily be reafonable and Satelligible",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "religion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0009",
+    "canonical_statement": "The Christian religion is a divine revelation from a celestial source.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 9,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "ChriftianReligion... was vinely reveal’d from Fleaven",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0010",
+    "canonical_statement": "Religious doctrines are intended to be rational and intelligible.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 11,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "Christianity was intended a Rational and Intelligible Religion",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "religion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0011",
+    "canonical_statement": "The Gospel contains nothing that transcends the capacity of human reason.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 11,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "nothing Mysterious, or above Reason in the Gospel",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0012",
+    "canonical_statement": "Human beings are fundamentally of a uniform nature and composition across time.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 12,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "they were of the fame Nature and Make with our selves",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "human-nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0013",
+    "canonical_statement": "Reason is the sole foundation of all certainty.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 13,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "Reason, is the only Foundation of all Certitude",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0014",
+    "canonical_statement": "No revealed truth is exempt from the scrutiny of rational inquiry.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 13,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "nothing reveal’d... is mere exerapted from its Difquifitions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0015",
+    "canonical_statement": "There is no theological doctrine that is contrary to or transcends human reason.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 13,
+        "chapter": "A MYSTERY.",
+        "surface_quote": "nothing in the Gofpel contraxy.to. Reason, nor aboue it",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0016",
+    "canonical_statement": "The mind is passive during the initial reception of sensory data and basic internal operations.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 16,
+        "chapter": "SECTION L",
+        "surface_quote": "receiving such Ideas... is not firstly Reason, because the Soul herein is passive",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0017",
+    "canonical_statement": "An idea is defined as the immediate object of the mind's thought.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 16,
+        "chapter": "SECTION L",
+        "surface_quote": "by the word IDEA... I understand the immediate Object of the Mind",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0018",
+    "canonical_statement": "Ideas may manifest as representations of physical bodies, sensory qualities, or abstract intellectual concepts.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 16,
+        "chapter": "SECTION L",
+        "surface_quote": "whether it be the Image... of a Body... or a purely intellectual Thought",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0019",
+    "canonical_statement": "Human knowledge consists of the perception of agreement or disagreement between ideas.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 16,
+        "chapter": "SECTION L",
+        "surface_quote": "all our Knowledge is... the Perception of the Agreement or Disagreement of our Ideas",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0020",
+    "canonical_statement": "Knowledge is categorized into two forms: immediate perception and mediate perception.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 17,
+        "chapter": "SECTION L",
+        "surface_quote": "our Knowledg is twofold",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0021",
+    "canonical_statement": "Intuition is the mind's immediate perception of the agreement or disagreement of ideas.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 17,
+        "chapter": "SECTION L",
+        "surface_quote": "Mind... immediately perceives the Agreement or Difagreement of two or more Ideas",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0022",
+    "canonical_statement": "Reason is the faculty of the soul that resolves uncertainty by comparing the unknown to the evidently known.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 17,
+        "chapter": "SECTION L",
+        "surface_quote": "Faculty of the Soul which difcovers the Certainty of any thing dubious",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "epistemology",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0023",
+    "canonical_statement": "All material bodies are divisible, and this divisibility implies their mortality.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 17,
+        "chapter": "SECTION L",
+        "surface_quote": "Mortality of all living Bosdies inferr’d from their Dévifibility",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "existence",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0024",
+    "canonical_statement": "Knowledge is contingent upon the existence of conceptual links (intermediate ideas) that demonstrate a necessary connection between premises.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 18,
+        "chapter": "SECTION L",
+        "surface_quote": "where intermediate ones... fail us, we can never go beyond Probability",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0025",
+    "canonical_statement": "Probability is distinct from and inferior to knowledge.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 18,
+        "chapter": "SECTION L",
+        "surface_quote": "PROBABILITY is not KNOWLEDGE",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0026",
+    "canonical_statement": "Reasoning is impossible regarding an object for which no conceptual representation (idea) exists.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 18,
+        "chapter": "SECTION L",
+        "surface_quote": "when we have no Notions or Ideas of a thing, we cannot reason",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0027",
+    "canonical_statement": "The means by which information is acquired are distinct from the logical grounds that compel mental assent to truth.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 18,
+        "chapter": "SECTION L",
+        "surface_quote": "distinguish it the Means of Information, from the Ground of Persuasion",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0028",
+    "canonical_statement": "Human knowledge is derived exclusively from external sensory input and internal mental operations.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 19,
+        "chapter": "SECTION L",
+        "surface_quote": "common Stock of all our Knowledg",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0029",
+    "canonical_statement": "The mind does not contain physical objects, but only mental representations (ideas) of those objects.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 19,
+        "chapter": "SECTION L",
+        "surface_quote": "only Ideas in us, and not the Things themselves",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0030",
+    "canonical_statement": "Ideas function as representative beings whose validity depends on their capacity to accurately represent their objects.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 19,
+        "chapter": "SECTION L",
+        "surface_quote": "Ideas therefore being Reprefentative Beings",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0031",
+    "canonical_statement": "Sensory qualities are not inherent in objects but are effects produced by the interaction of physical particles with the observer.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 20,
+        "chapter": "SECTION L",
+        "surface_quote": "Ideas are but the Result of certain Powers in the Particles",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0032",
+    "canonical_statement": "Mental representations are valid because they correspond to properties existing in an external exemplary cause.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 20,
+        "chapter": "SECTION L",
+        "surface_quote": "Properties must belong to the exemplary Cause, or to Nothing",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0033",
+    "canonical_statement": "The mind cannot spontaneously generate ideas; ideas are responses to external objects acting upon the senses.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 20,
+        "chapter": "SECTION L",
+        "surface_quote": "cannot make one single Idea by my Pleasure",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0034",
+    "canonical_statement": "The awareness of one's own mental operations is as certain as the fact of one's own existence.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 20,
+        "chapter": "SECTION L",
+        "surface_quote": "Evidence of the Ideas... is infallible as that of our own Being",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0035",
+    "canonical_statement": "The act of doubting presupposes a doubting entity, which constitutes the self.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 20,
+        "chapter": "SECTION L",
+        "surface_quote": "whatever doubts must-needs be as much something as what affirms",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0036",
+    "canonical_statement": "God is the creator of all existence.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 21,
+        "chapter": "SECTION L",
+        "surface_quote": "God the wise Creator of all",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0037",
+    "canonical_statement": "Human consciousness possesses the innate capacity to suspend judgment regarding uncertain information.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 21,
+        "chapter": "SECTION L",
+        "surface_quote": "endu'd us with the Power of suspending our Judgments",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0038",
+    "canonical_statement": "The law of non-contradiction is a necessary and universal truth.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 21,
+        "chapter": "SECTION L",
+        "surface_quote": "impossible the same thing should be and not be at once",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "logic",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0039",
+    "canonical_statement": "Perception of clarity or obscurity in a proposition is relative to the observer rather than an intrinsic property of the proposition.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 22,
+        "chapter": "SECTION L",
+        "surface_quote": "Perfpicuity and Obfcurity are relative Terms",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0040",
+    "canonical_statement": "The ability to comprehend a truth is contingent upon the observer possessing the corresponding conceptual ideas.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 22,
+        "chapter": "SECTION L",
+        "surface_quote": "using such as the other has no Ideas to",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0041",
+    "canonical_statement": "Sentient beings in a post-mortem state experience the absence of the divine presence as an ineffable torment.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 24,
+        "chapter": "SECT. IL.",
+        "surface_quote": "excluded from God's Presence... must prove ineffable Torment",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "divinity",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0042",
+    "canonical_statement": "The capacity for damnation requires the possession of understanding or intelligence.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 24,
+        "chapter": "SECT. IL.",
+        "surface_quote": "if they have no Understanding, they are incapable of Damnation",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0043",
+    "canonical_statement": "The comprehension of metaphysical doctrines requires the direct transmission of perceptions via extraordinary means rather than linguistic communication.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 25,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Perceptions be communicated to him in an extraordinary manner",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0044",
+    "canonical_statement": "Meaning is derived from the infusion of ideas into the soul rather than from the auditory processing of words.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 25,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Ideas of my Words should be infused into their Souls",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0045",
+    "canonical_statement": "Divine revelations are discernable only when they align with the innate natural notions of the human mind.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 25,
+        "chapter": "SECT. IL.",
+        "surface_quote": "discern his Revelations but by their agree with our common Notions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0046",
+    "canonical_statement": "The divine nature is characterized by an inherent inability to deceive.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 27,
+        "chapter": "SECT. IL.",
+        "surface_quote": "God is not a Man that he should lie",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0047",
+    "canonical_statement": "Divine revelation is compatible with human reason and contains no genuine contradictions.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 27,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Scripture and Reason contradictory",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0048",
+    "canonical_statement": "Epistemological certainty is derived from the rational comprehension of a thing's nature.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 28,
+        "chapter": "SECT. IL.",
+        "surface_quote": "he that comprehends a thing, is as fure of it",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0049",
+    "canonical_statement": "Revelation is a medium of information rather than a sufficient ground for belief.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 28,
+        "chapter": "SECT. IL.",
+        "surface_quote": "REVELATION was not a neceffary Affirmative of Assert, but a Mean",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "revelation",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0050",
+    "canonical_statement": "Logical contradictions are equivalent to non-existence or 'nothing'.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 29,
+        "chapter": "SECT. IL.",
+        "surface_quote": "every Contradictory... is a Synonym for nothing",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "logic",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0051",
+    "canonical_statement": "Omnipotence is limited to the realization of that which is logically possible.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 29,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Omnipotency it self can do no more",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0052",
+    "canonical_statement": "Mutually exclusive properties cannot coexist within a single subject.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 29,
+        "chapter": "SECT. IL.",
+        "surface_quote": "these Ideas destroy one another, and cannot subsist together",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0053",
+    "canonical_statement": "Intelligibility is the criterion for metaphysical possibility.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 29,
+        "chapter": "SECT. IL.",
+        "surface_quote": "conclude it possible because intelligible",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0054",
+    "canonical_statement": "The divine can alter the state of matter and the existence of beings.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 29,
+        "chapter": "SECT. IL.",
+        "surface_quote": "render immediately solid, what has been hitherto fluid",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0055",
+    "canonical_statement": "The internal consciousness of an individual is inaccessible to all other beings.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 30,
+        "chapter": "SECT. IL.",
+        "surface_quote": "no more than any of my fellow-Creatures can be fure of my private Thoughts",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0056",
+    "canonical_statement": "The internal state of a human is known only by the spirit residing within that human.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 30,
+        "chapter": "SECT. IL.",
+        "surface_quote": "who knoweth the things of a Man save the Spirit of a Man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0057",
+    "canonical_statement": "The internal state of the Divine is known only by the Spirit of the Divine.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 30,
+        "chapter": "SECT. IL.",
+        "surface_quote": "the things Y God knoweth none but the Spirit of Goa",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0058",
+    "canonical_statement": "Divine revelation is constrained by the requirement of being intelligible and logically possible to the human mind.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 30,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Words mut be intelligible, and the Matter poffible",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0059",
+    "canonical_statement": "The Divine is incapable of deception, whereas human beings are capable of it.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 31,
+        "chapter": "SECT. IL.",
+        "surface_quote": "God not being capable to deceive me, as Man is",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0060",
+    "canonical_statement": "Human beings are composed of earthly matter.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 31,
+        "chapter": "SECT. IL.",
+        "surface_quote": "God... has form’d Man of Earth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "identity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0061",
+    "canonical_statement": "The validity of spiritual claims must be verified through rational discernment and empirical evidence.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 31,
+        "chapter": "SECT. IL.",
+        "surface_quote": "to prove or try all things... to try the Spirits",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0062",
+    "canonical_statement": "Divine revelation must be consistent with natural reason and ordinary human conceptualizations.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 32,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Doctrines... of the New Testament... must consequently agree with Natural Reason",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "revelation",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0063",
+    "canonical_statement": "Divine authority is manifested through the performance of miracles that exceed natural or demonic capabilities.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 33,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Miracles as the... Jews themselves could not deny—to be Divine.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "evidence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0064",
+    "canonical_statement": "The divine and the human can exist in a state of mutual indwelling or ontological unity.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 33,
+        "chapter": "SECT. IL.",
+        "surface_quote": "the Father is in me, and I in him",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0065",
+    "canonical_statement": "The Word of God possesses the capacity to transform the human soul.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 36,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Law of the Lord... converting the Soul",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "divinity",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0066",
+    "canonical_statement": "Divine law is characterized by perfection and righteousness.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 36,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Law of the Lord, fays he, « perfect",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0067",
+    "canonical_statement": "Human nature is characterized by a conflict between physical appetites and the faculty of reason.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 38,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Law in our Body, sparring against the Law of our Minds",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "dualism",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0068",
+    "canonical_statement": "Cognitive defects and spiritual blindness are the result of acquired habits rather than an innate or necessary fate.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 38,
+        "chapter": "SECT. IL.",
+        "surface_quote": "no necessary Fate of sinning... Defects... of our own Creation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "determinism",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0069",
+    "canonical_statement": "The 'natural man' is defined by the primacy of sensual appetite over spiritual perception.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 38,
+        "chapter": "SECT. IL.",
+        "surface_quote": "natural Man... gives the swing to his Appetites",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0070",
+    "canonical_statement": "Human beings possess the volitional capacity to override physical impulses based on the perceived value of a future reward.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 38,
+        "chapter": "SECT. IL.",
+        "surface_quote": "for a Reward, he can forbear his Cups",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "will",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0071",
+    "canonical_statement": "Human cognitive faculties are sufficiently uniform and functional to allow for mutual understanding.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 39,
+        "chapter": "SECT. IL.",
+        "surface_quote": "reasoning Faculties... capable to [understand] them rightly",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0072",
+    "canonical_statement": "Human consciousness possesses the capacity for free will and autonomous determination of choice.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 39,
+        "chapter": "SECT. IL.",
+        "surface_quote": "free Disposers of all our [actions]",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0073",
+    "canonical_statement": "Free will is the most essential and immutable attribute of the human self.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 39,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Liberty or Freewill... the only thing we can properly call ours",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0074",
+    "canonical_statement": "Human reason possesses an inherent soundness and capacity for the discovery of truth.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 40,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Perfection or Soundnefs of our Reafon is fo evident",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0075",
+    "canonical_statement": "Objective reality remains constant regardless of subjective human perceptions or conceptions.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 40,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Things are always the fame, how different foever the Conceptions",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0076",
+    "canonical_statement": "Truth is accessible to human consciousness and is not inherently hidden or inaccessible.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 40,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Truth... not to be difcover’d by the Sons of Men?",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0077",
+    "canonical_statement": "All humans possess an equal fundamental capacity for reason and access to divine assistance.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 40,
+        "chapter": "SECT. IL.",
+        "surface_quote": "we are all upon the ame Level",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "equality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0078",
+    "canonical_statement": "The human soul is immortal.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 41,
+        "chapter": "SECT. IL.",
+        "surface_quote": "the Immortality of the Soul",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0079",
+    "canonical_statement": "Human beings possess absolute liberty of will.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 41,
+        "chapter": "SECT. IL.",
+        "surface_quote": "the absolute Liberty of the Will",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0080",
+    "canonical_statement": "Divine omnipotence is compatible with human free will.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 41,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Liberty... is consistent with God's Omnipotency",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "will",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0081",
+    "canonical_statement": "Divine revelation is a necessary means of acquiring certain metaphysical knowledge.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 41,
+        "chapter": "SECT. IL.",
+        "surface_quote": "they wanted a principal mean of Information, viz. REVELATION",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0082",
+    "canonical_statement": "In divinity, Reason and Mystery are functionally equivalent terms.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 42,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Reason is the same — with Mystery; and... convertible Terms",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0083",
+    "canonical_statement": "The divine essence is incorruptible, whereas human and animal forms are corruptible.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 42,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Glory of the incorruptible God into the Image... of corruptible Man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0084",
+    "canonical_statement": "There exists a superior method of dying that can be learned through specific initiation.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 43,
+        "chapter": "SECT. IL.",
+        "surface_quote": "accepted... a better way of dying",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "death",
+      "afterlife",
+      "initiation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0085",
+    "canonical_statement": "A lack of comprehensive conceptual understanding or a complete view of an object's properties does not render that object a mystery.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 45,
+        "chapter": "SECT. IL.",
+        "surface_quote": "nothing can be said to be a Mystery, because we have not an adequate Idea",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0086",
+    "canonical_statement": "Human perception is limited to the properties of objects that are functionally relevant to the observer's survival or utility.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 46,
+        "chapter": "SECT. IL.",
+        "surface_quote": "understand no more of these than are useful and necessary",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0087",
+    "canonical_statement": "Sensory organs do not perceive the intrinsic nature of things, but only their relation to the observer.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 46,
+        "chapter": "SECT. IL.",
+        "surface_quote": "not given us to see... any thing as it is in it self",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0088",
+    "canonical_statement": "Knowledge of an object consists of understanding its primary properties and their practical applications rather than its total essence.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 46,
+        "chapter": "SECT. IL.",
+        "surface_quote": "comprehend any thing when its chief Properties and their several Uses are known",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0089",
+    "canonical_statement": "Human cognition is limited to properties that are functionally relevant to the observer.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 47,
+        "chapter": "SECT. IL.",
+        "surface_quote": "no Properties ave knowable but what concern us",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0090",
+    "canonical_statement": "Knowledge of the fundamental constituent nature of a phenomenon is not required to utilize or understand its effects.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 47,
+        "chapter": "SECT. IL.",
+        "surface_quote": "knows not how many Particles go to a Drop",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0091",
+    "canonical_statement": "The nature of eternity is defined by the total absence of temporal boundaries, such as a beginning or an end.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 48,
+        "chapter": "SECT. IL.",
+        "surface_quote": "if any Bounds... could be affign’d.to Eternity, it ceafes immediately to be what it fhould",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "eternity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0092",
+    "canonical_statement": "Limitation is fundamentally a negative quality of existence.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 48,
+        "chapter": "SECT. IL.",
+        "surface_quote": "negative Idea, which is the Nature of all Limitation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0093",
+    "canonical_statement": "The inability to visually or mentally imagine a concept does not render that concept irrational or beyond the scope of reason.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 48,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Eternity therefore is no more above Reaſon becaufe it cannot be imaiv’d",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0094",
+    "canonical_statement": "The essence of any substance is inconceivable to the human mind.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 49,
+        "chapter": "SECT. IL.",
+        "surface_quote": "we can never conceive the Effence of any Subftanee",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0095",
+    "canonical_statement": "A distinction exists between the nominal essence (observed properties) and the real essence (intrinsic constitution) of a thing.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 49,
+        "chapter": "SECT. IL.",
+        "surface_quote": "diftinguifh... the Nomizal from the Real Effence of a thing",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0096",
+    "canonical_statement": "The real essence is the fundamental ground or support from which all observable properties emerge.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 49,
+        "chapter": "SECT. IL.",
+        "surface_quote": "real Effence is that intrinfick Conflitution... the Ground or Support",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0097",
+    "canonical_statement": "Properties or modes cannot exist independently; they require a subject or substrate to exist in.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 49,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Modes of things have fuch a Subject to exift in",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0098",
+    "canonical_statement": "The essential nature of the soul is not inherently more mysterious or unknowable than the essential nature of any other entity.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 50,
+        "chapter": "SECT. IL.",
+        "surface_quote": "nothing can be said to be a Mystery, because we are ignorant of its real Essence",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "epistemology",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0099",
+    "canonical_statement": "Human consciousness possesses clear conceptual knowledge of mental operations but lacks knowledge of the ontological substrate in which those operations exist.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 50,
+        "chapter": "SECT. IL.",
+        "surface_quote": "clearest Conceptions of Thinking... But we are Strangers to the Subject wherein these Operations exist",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0100",
+    "canonical_statement": "The internal constitution that supports the sensible properties of physical matter is as unknown to humans as the nature of the soul.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 50,
+        "chapter": "SECT. IL.",
+        "surface_quote": "know as Little of the internal Constitution... as we do of that wherein the [soul exists]",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "matter",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0101",
+    "canonical_statement": "The conceptual clarity of the soul is equivalent to the conceptual clarity of the physical body.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 51,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Idea of the Soul then is every whit as clear as Body",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0102",
+    "canonical_statement": "The properties of the soul are more immediately accessible to human consciousness than those of the body.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 51,
+        "chapter": "SECT. IL.",
+        "surface_quote": "its Properties are more immediately known to us",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0103",
+    "canonical_statement": "The soul serves as the primary cognitive instrument through which all other things are perceived.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 51,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Light whereby we discover all things besides",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0104",
+    "canonical_statement": "The ultimate essence of the Divine is unknown, while its attributes are comprehensible.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 51,
+        "chapter": "SECT. IL.",
+        "surface_quote": "comprehend nothing better than his Attributes... know not the Nature of that eternal Subject",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "god",
+      "essence",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0105",
+    "canonical_statement": "Knowledge of any entity, including the Divine, is derived from its properties rather than its underlying essence.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 51,
+        "chapter": "SECT. IL.",
+        "surface_quote": "understand those of all things else by theirs",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "essence",
+      "perception",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0106",
+    "canonical_statement": "Divine decrees and certain factual events are inaccessible to human reason until revealed by God.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 52,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Matters of Fact only known to God, and lodg’d inhis Decree",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0107",
+    "canonical_statement": "The Spirit of God is the sole entity capable of knowing the things of God.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 52,
+        "chapter": "SECT. IL.",
+        "surface_quote": "the things of God knoweth none but the Spirit of God",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0108",
+    "canonical_statement": "Metaphysical mysteries are not inherently inconceivable, but are defined by their prior state of being unknown before revelation.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 52,
+        "chapter": "SECT. IL.",
+        "surface_quote": "not from any prefent Inconceivablenefs... but with refpeéct to what they were before",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0109",
+    "canonical_statement": "Certain metaphysical truths are inaccessible to human sensory perception and intellect without divine revelation.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 53,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Eye hath not seen... God hath reveal'd them to us",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "revelation",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0110",
+    "canonical_statement": "The human soul may exist in a state of separation from the body, similar to angelic beings.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 53,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Soul acting separately like Angels",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0111",
+    "canonical_statement": "The physical body can serve as a punitive vessel or prison for a pre-existent soul.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 53,
+        "chapter": "SECT. IL.",
+        "surface_quote": "punishment be thrust into the Body... compar'd to a Prison",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "body",
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0112",
+    "canonical_statement": "Human existence involves a cycle of transmigration based on accumulated guilt or sin.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 53,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Origin of Transmigration... Sins of this World",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "soul",
+      "reincarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0113",
+    "canonical_statement": "Humanity inherits a state of mortality and spiritual deficiency from its primordial ancestor.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 54,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Adam the first Man became also the first Sinner, and Mortal",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "mortality",
+      "inheritance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0114",
+    "canonical_statement": "Metaphysical truths may be obscured by symbolic representations or temporal constraints before being fully revealed.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 54,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Law had a Shadow of good things to come",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "revelation",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0115",
+    "canonical_statement": "Truths previously designated as mysteries are inherently intelligible but were obscured by a temporary veil.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 55,
+        "chapter": "SECT. IL.",
+        "surface_quote": "intelligible enough, but cald Myfteries by reajon of the Vail",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0116",
+    "canonical_statement": "The state of mystery is a temporal condition of hiddenness rather than an intrinsic quality of the truth itself.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 55,
+        "chapter": "SECT. IL.",
+        "surface_quote": "under the Gofpel this Vail is wholly remov’d",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0117",
+    "canonical_statement": "Divine revelation is compatible with and does not contradict strict human reason.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 56,
+        "chapter": "SECT. IL.",
+        "surface_quote": "nothing in it above or contrary to the strictest Reason",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divine",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0118",
+    "canonical_statement": "The 'mysteries' of God are defined as doctrines that God has chosen to reveal.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 56,
+        "chapter": "SECT. IL.",
+        "surface_quote": "MYSTERIES of God; that is, the Preachers of those Doctrines",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "divine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0119",
+    "canonical_statement": "The divine essence has manifested in physical form.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 57,
+        "chapter": "SECT. IL.",
+        "surface_quote": "God was manifest in the Flesh",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "embodiment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0120",
+    "canonical_statement": "Divine truth is revealed progressively through historical dispensations.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 57,
+        "chapter": "SECT. IL.",
+        "surface_quote": "mystery to all preceding the New Testament Dispensation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0121",
+    "canonical_statement": "The universe is governed by a predetermined divine decree.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 58,
+        "chapter": "SECT. IL.",
+        "surface_quote": "this was nevertheless resolved upon in the Divine Decree",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "determinism",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0122",
+    "canonical_statement": "Certain metaphysical truths are revealed to humanity progressively over time.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 58,
+        "chapter": "SECT. IL.",
+        "surface_quote": "mystery... ceases so to continue after the Revelation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0123",
+    "canonical_statement": "The ultimate teleology of existence is the unification of all things within a single divine entity.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 58,
+        "chapter": "SECT. IL.",
+        "surface_quote": "gather together into one all things in Christ",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "unity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0124",
+    "canonical_statement": "Human beings possess a mortal physical substrate that can be instantaneously transformed into an incorruptible and immortal state.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 59,
+        "chapter": "SECT. IL.",
+        "surface_quote": "put off their Flesh and Blood... be render’d incorruptible and immortal",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0125",
+    "canonical_statement": "The transition from a mortal state to an immortal state can occur instantaneously without the necessity of death.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 59,
+        "chapter": "SECT. IL.",
+        "surface_quote": "be chang’d in a Moment... without Dying",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0126",
+    "canonical_statement": "Knowledge of divine mysteries is contingent upon a specific grant of access or revelation rather than inherent accessibility.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 60,
+        "chapter": "SECT. IL.",
+        "surface_quote": "given to you to know the MYSTERIES... but to them it is not given",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0127",
+    "canonical_statement": "Mysteries are not inherently incomprehensible but are obscured by the mode of communication or a lack of decoding keys.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 60,
+        "chapter": "SECT. IL.",
+        "surface_quote": "not in themfelves incomprehenfible, but myfterious to them only to whom they were not unfolded",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0128",
+    "canonical_statement": "Spiritual communication in unknown tongues is intelligible to the divine or the spirit, despite being opaque to human reason.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 60,
+        "chapter": "SECT. IL.",
+        "surface_quote": "in the Spirit he fpeaketh MYSTERIES... Secrets to fuch as underftand not",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "communication"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0129",
+    "canonical_statement": "The Creator is an eternal being who originated the heavens, the earth, and the sea.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 61,
+        "chapter": "SECT. IL.",
+        "surface_quote": "him that liveth for ever... who created Heaven... and the Earth",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creator",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0130",
+    "canonical_statement": "The physical universe and its contents are subject to a finite temporal limit.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 61,
+        "chapter": "SECT. IL.",
+        "surface_quote": "there should be Time no longer",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0131",
+    "canonical_statement": "Divine mysteries are not inherently inconceivable but are either obscured by figurative language or restricted to the knowledge of the Creator.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 62,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Mystery... not inconceivable... but either so veiled... or lodged in God's sole Knowledge",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0132",
+    "canonical_statement": "Special revelation is the necessary mechanism for accessing truths that are otherwise hidden from human reason.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 62,
+        "chapter": "SECT. IL.",
+        "surface_quote": "could not be discovered without special Revelation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0133",
+    "canonical_statement": "Truth and falsehood are not determined by consensus or chronological precedence.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 63,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Truth and Falsehood should be determined by Majority of Voices, or certain Periods",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "truth",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0134",
+    "canonical_statement": "Divine revelation progresses from a state of obscurity and mystery to a state of clarity and illumination.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 65,
+        "chapter": "SECT. IL.",
+        "surface_quote": "mysterious and obscure in the Old Testament are made plain in the New",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0135",
+    "canonical_statement": "Historical events and figures can serve as symbolic precursors or archetypes for future spiritual realities.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 65,
+        "chapter": "SECT. IL.",
+        "surface_quote": "That which... represent any thing in the New, they call’d the Type",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "symbolism",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0136",
+    "canonical_statement": "Divine justice is administered in a state of existence following the current life.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 66,
+        "chapter": "SECT. IL.",
+        "surface_quote": "expect to meet with that of God hereafter",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "justice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0137",
+    "canonical_statement": "Certain physical or historical narratives serve as symbolic representations of the spiritual ascent toward a heavenly state.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 66,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Promis'd Land to be Symbols... describing the way towards Heaven",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "heaven",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0138",
+    "canonical_statement": "Divine or religious truths are compatible with common human notions and rational understanding.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 67,
+        "chapter": "SECT. IL.",
+        "surface_quote": "agree all with COMMON NOTIONS",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0139",
+    "canonical_statement": "Truths concerning the nature of reality and religion are not inherently incomprehensible or inconceivable.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 67,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Cause of Incomprehenfible and Inconceivable Myfteries... given up",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0140",
+    "canonical_statement": "Humanly constructed philosophical systems are distinct from and often contradictory to objective reason and moral truth.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 68,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Principles are directly repugnant to common Sense and good Morals",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0141",
+    "canonical_statement": "No single philosophical hypothesis possesses the authority to serve as a universal standard of reason for all humanity.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 68,
+        "chapter": "SECT. IL.",
+        "surface_quote": "no particular Hypothesis... has a Right to set up for a Standard of Reason",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "universalism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0142",
+    "canonical_statement": "The concept of 'incomprehensible mysteries' in religion is functionally equivalent to 'occult qualities' in philosophy, serving to obstruct rational inquiry.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 68,
+        "chapter": "SECT. IL.",
+        "surface_quote": "MYSTERIES of the latter do perfectly answer the OCCULT QUALITIES of the former",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0143",
+    "canonical_statement": "Human reason is compatible with and capable of submitting to divine law.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 69,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Reason... ought to subject itself to the Divine Law",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "reason",
+      "divine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0144",
+    "canonical_statement": "The 'carnal mind' refers to sensual desires rather than the faculty of reason.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 69,
+        "chapter": "SECT. IL.",
+        "surface_quote": "carnal Mind... is not Reason, but the carnal Desires",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0145",
+    "canonical_statement": "Divine revelation must be uniform and self-consistent across all instances.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 70,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Word of God must be every-where uniform and self-consistent",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "revelation",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0146",
+    "canonical_statement": "Faith in divine revelation is fundamentally based on rational inference and logical deduction.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 70,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Faith now in the World... entirely built upon Ratiocination",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0147",
+    "canonical_statement": "True faith requires the conceptual understanding of the object of belief; confidence without comprehension is not genuine faith.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 70,
+        "chapter": "SECT. IL.",
+        "surface_quote": "To be confident of any thing without conceiving it, is no real Faith",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "faith",
+      "perception",
+      "cognition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0148",
+    "canonical_statement": "The Divine possesses an inherent nature of absolute truth and certainty in its communications.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 71,
+        "chapter": "SECT. IL.",
+        "surface_quote": "God speaks, always Truth and Certainty",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0149",
+    "canonical_statement": "Divine revelation is compatible with and does not contradict the fundamental cognitive faculties or common notions of humanity.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 71,
+        "chapter": "SECT. IL.",
+        "surface_quote": "God should not... disagree with their common Notions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "cognition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0150",
+    "canonical_statement": "Faith is a composite state requiring both intellectual knowledge and volitional assent.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 71,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Faith... must necessarily consist of two Parts, Knowledge and Assent",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "faith",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0151",
+    "canonical_statement": "Linguistic communication is based on a reciprocal relationship between words and the ideas they represent.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 71,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Words and their Ideas being reciprocal in all Languages",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0152",
+    "canonical_statement": "Faith is defined as a conviction or demonstration of facts, rather than mere conjecture.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 72,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Faith... [is] Conviction or Demonstration",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0153",
+    "canonical_statement": "Things that are invisible to corporeal sight are not necessarily incomprehensible or unintelligible.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 72,
+        "chapter": "SECT. IL.",
+        "surface_quote": "things not seen... [are not] incomprehensible or unintelligible",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0154",
+    "canonical_statement": "The illumination of the mind is proportional to the knowledge of things.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 72,
+        "chapter": "SECT. IL.",
+        "surface_quote": "as this Knowledge is more or less, so the Mind is proportionably illuminated",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0155",
+    "canonical_statement": "The Divine possesses the capacity to restore biological life from a state of death.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 73,
+        "chapter": "SECT. IL.",
+        "surface_quote": "God was able to raise him again from the Dead",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "life",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0156",
+    "canonical_statement": "Faith is a cognitive state of firm persuasion derived from substantial reasoning and evidence.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 73,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Faith but a most firm Persuasion built upon substantial Reasons",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "epistemology",
+      "faith"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0157",
+    "canonical_statement": "The object of faith must be intellectually comprehensible to be subject to moral obligation.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 74,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Obligations to believe do therefore suppose a Possibility to understand.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0158",
+    "canonical_statement": "Logical contradiction and theological mystery are equivalent to non-existence or nothingness.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 74,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Contradiction and Mystery are but two emphatick ways of saying Nothing.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "logic",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0159",
+    "canonical_statement": "Semantic meaning is dependent upon the intelligibility of the underlying subject denoted by a term.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 74,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Terms cannot be understood, unless the things they denote be understood also.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0160",
+    "canonical_statement": "Faith must be an intelligible persuasion accessible to reason to be valid.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 75,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Faith signifies an intelligible Persuasion",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "faith",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0161",
+    "canonical_statement": "Divine requirements for creaturely assent must be just and reasonable, excluding tyrannical demands.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 75,
+        "chapter": "SECT. IL.",
+        "surface_quote": "he may command whatever is just and reasonable",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ethics",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0162",
+    "canonical_statement": "Human consciousness lacks an adequate idea of the real essence of any physical substance.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 76,
+        "chapter": "SECT. IL.",
+        "surface_quote": "no race of the real Effence of any Subftance",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0163",
+    "canonical_statement": "Faith is not an assent to propositions that transcend reason.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 76,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Faith is fo far from being an implicite Affent to any thing above Reafon",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0164",
+    "canonical_statement": "Empirical or rational deduction is insufficient for the acquisition of metaphysical truth; divine revelation is necessary.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 77,
+        "chapter": "SECT. IL.",
+        "surface_quote": "no Matter of Fatt can be known without Revelation",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0165",
+    "canonical_statement": "Divine revelation is cognitively accessible and intelligible to human reason once provided.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 77,
+        "chapter": "SECT. IL.",
+        "surface_quote": "what is once reveal’d we muft as well underftand",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0166",
+    "canonical_statement": "Reason is a divine faculty implanted within every human being to serve as a guide and judge.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 77,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Rea/oz is not lefs from God than Revelation",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0167",
+    "canonical_statement": "Spiritual truths are inherently compatible with human comprehension regardless of social or educational status.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 77,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Doétrines of Chriftianity. are.not above. their Reachor Comprehenfion",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0168",
+    "canonical_statement": "Angels are finite created beings whose knowledge is limited to experience, reasoning, and love.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 78,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Angels, who being finite Creatures, can know nothing but by Experience, Ratiocination, or Love",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "epistemology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0169",
+    "canonical_statement": "A miracle is an action that exceeds human power and cannot be performed by the ordinary operations of natural laws.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 78,
+        "chapter": "SECT. IL.",
+        "surface_quote": "A MIRACLE then is some Action exceeding all humane Power... Laws of NATURE cannot perform",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "nature",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0170",
+    "canonical_statement": "Logical contradiction is equivalent to non-existence or impossibility.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 79,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Contradiftion is only another word fot Impoffible or Nothing",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "logic",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0171",
+    "canonical_statement": "Miracles must be intelligible and possible in principle, though extraordinary in execution.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 79,
+        "chapter": "SECT. IL.",
+        "surface_quote": "miraculous A@tion therefore muft be fomething in it felf intelligible",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0172",
+    "canonical_statement": "The Creator of nature possesses absolute command over all natural principles.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 79,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Author of Nature, who may command all its Principles",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0173",
+    "canonical_statement": "Divine intervention in the natural order occurs only to serve a specific, purposeful design.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 79,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Order of Nature is not alter’d... unlefs for fome weighty De-fign",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0174",
+    "canonical_statement": "Miracles are purposeful interventions intended to validate divine authority or specific doctrines.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 80,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Miracles... served to confirm the Authority of those that wrought it",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0175",
+    "canonical_statement": "Supernatural phenomena lacking a divine moral or doctrinal purpose are fictitious.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 80,
+        "chapter": "SECT. IL.",
+        "surface_quote": "feats of Goblins... must be accounted fictitious... no End deserving a Change in Nature",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0176",
+    "canonical_statement": "Miracles are not contrary to reason, but exist above the capacity of reason.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 81,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Miracles are not contrary to Reason... yet they are surely above it.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reason",
+      "miracles"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0177",
+    "canonical_statement": "A miracle is an event produced according to the laws of nature but exceeding its ordinary operations through supernatural assistance.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 81,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Miracle produced according to the Laws of Nature, tho above its ordinary Operations",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "supernatural",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0178",
+    "canonical_statement": "Truth is fundamentally simple and accessible to all cognitive capacities when stripped of external ceremonialism.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 82,
+        "chapter": "SECT. IL.",
+        "surface_quote": "stripp’d the Truth of all those external ‘Types and Ceremonies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0179",
+    "canonical_statement": "Heaven and heavenly entities are subject to reasonable conceptualization and worship.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 82,
+        "chapter": "SECT. IL.",
+        "surface_quote": "reasonable Worfhip, and those juft Conceptions of Heaven",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0180",
+    "canonical_statement": "Certain spiritual systems are identical in essential nature despite differing in their specific subjects of focus.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 84,
+        "chapter": "SECT. IL.",
+        "surface_quote": "they were one in Nature, however different in their Subjects",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nature",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0181",
+    "canonical_statement": "There exists a state of existence following the current life.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 85,
+        "chapter": "SECT. IL.",
+        "surface_quote": "the hope of the Life tocome",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0182",
+    "canonical_statement": "Ritualistic ceremonies distract the consciousness from the essential substance of spiritual truth.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 89,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Ceremonies never fail to take off the Mind from the Substance of Religion",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0183",
+    "canonical_statement": "True religion is characterized by transparency and accessibility rather than mystical or arbitrary representation.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 89,
+        "chapter": "SECT. IL.",
+        "surface_quote": "Christianity discovers Religion naked... the former delivers it under mystical Representations",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0184",
+    "canonical_statement": "The nature of the divine or the most perfect religion is compatible with human reason and contains no inherent mysteries or contradictions.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 90,
+        "chapter": "SECT. IL.",
+        "surface_quote": "there is no MYSTERY in CHRISTIANITY, or the moft perfed Religion",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "reason",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0185",
+    "canonical_statement": "Divine revelation must be intelligible and reasonable to the human mind.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 91,
+        "chapter": "SECT. IL.",
+        "surface_quote": "RELIGION muft... be... found and intelligible",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "epistemology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_christianity_not_mysterious_ocr_0186",
+    "canonical_statement": "Truth is the primary and sole valid authority for spiritual or doctrinal alignment.",
+    "attributions": [
+      {
+        "source_id": "christianity_not_mysterious_ocr",
+        "chunk_index": 91,
+        "chapter": "SECT. IL.",
+        "surface_quote": "I acknowledg'no METHOD BUT the TRUTH",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "truth",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  }
+]

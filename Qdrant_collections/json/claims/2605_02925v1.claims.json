@@ -1,0 +1,217 @@
+[
+  {
+    "id": "cl_2605_02925v1_0001",
+    "canonical_statement": "The quantum field of a photon can be conceptualized as two related waves.",
+    "attributions": [
+      {
+        "source_id": "2605_02925v1",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Green function for quantum field of a photon as two related waves",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "quantum physics",
+      "wave-particle duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02925v1_0002",
+    "canonical_statement": "The measured propagation velocity of a photon quantum field is always equal to the speed of light.",
+    "attributions": [
+      {
+        "source_id": "2605_02925v1",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "photon quantum field propagation velocity measured... is always equal to the velocity of light",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "physics",
+      "velocity",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02925v1_0003",
+    "canonical_statement": "Majorana variables can describe both classical electromagnetic fields and quantum photon fields.",
+    "attributions": [
+      {
+        "source_id": "2605_02925v1",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Majorana variables can be considered both as equations of the classic e.-m. field and as the quantum covariant equations of the photon field",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "quantum physics",
+      "classical physics",
+      "field theory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02925v1_0004",
+    "canonical_statement": "A photon field, when observed with classical instruments, appears as a classical field.",
+    "attributions": [
+      {
+        "source_id": "2605_02925v1",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "the field of a photon 'considered' with help of classic instruments is 'seen' as a classic field",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "observation",
+      "quantum-classical transition",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02925v1_0005",
+    "canonical_statement": "The energy of a field is discrete.",
+    "attributions": [
+      {
+        "source_id": "2605_02925v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "the energy of this field is discrete",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "energy",
+      "field",
+      "discrete"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02925v1_0006",
+    "canonical_statement": "Energy levels approach zero as their index approaches infinity.",
+    "attributions": [
+      {
+        "source_id": "2605_02925v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "energy level 𝑒𝑗 are such that 𝑒𝑗 → 0 when 𝑗 → ∞",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "energy",
+      "infinity",
+      "limit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02925v1_0007",
+    "canonical_statement": "Energy levels in certain photon states can be negative.",
+    "attributions": [
+      {
+        "source_id": "2605_02925v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "the energy levels in such states of the photon are negative",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "energy",
+      "photon",
+      "negative"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02925v1_0008",
+    "canonical_statement": "Force can arise from a compact quantum field of a photon with 'deinterlaced' spins.",
+    "attributions": [
+      {
+        "source_id": "2605_02925v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "the force 𝐹 can be considered as arising in the compact quantum field of a photon with “deinterlaced” spins",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "force",
+      "quantum field",
+      "photon",
+      "spin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02925v1_0009",
+    "canonical_statement": "A photon's 'Feynman path' can be represented as a segment of length in a plane.",
+    "attributions": [
+      {
+        "source_id": "2605_02925v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "represented as a segment of 𝑡 length in the plane 𝑧 = 0, as the “Feynman path” of such photon",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "photon",
+      "Feynman path",
+      "geometry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02925v1_0010",
+    "canonical_statement": "A constructed force corresponds to a segment of length on the time axis.",
+    "attributions": [
+      {
+        "source_id": "2605_02925v1",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "the constructed force 𝐹 corresponds to a segment of length 𝑡 on the time axis",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "force",
+      "time",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02925v1_0011",
+    "canonical_statement": "A quantum field",
+    "attributions": [
+      {
+        "source_id": "2605_02925v1",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  }
+]

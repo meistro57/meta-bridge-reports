@@ -1,0 +1,414 @@
+[
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0001",
+    "canonical_statement": "Consciousness possesses the ability to transcend physical spatial limitations.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "paranormal ability of breaking through spatial barriers",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "space",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0002",
+    "canonical_statement": "Objects can be moved through solid matter without causing damage.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "pass through the wall of a container and be removed, but no visible damage",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "matter",
+      "interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0003",
+    "canonical_statement": "Certain individuals exhibit paranormal abilities to manipulate objects through sealed barriers.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "remove an object placed in advance in a sealed container without damaging the seal",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "ability",
+      "manipulation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0004",
+    "canonical_statement": "Consciousness can interact with and manipulate physical objects across spatial barriers.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "persons with paranormal abilities could extract stationery from sealed kraft paper envelopes",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0005",
+    "canonical_statement": "The penetration of physical barriers by consciousness does not necessarily cause observable damage to the barrier.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "without any discernable effect on the life or actions of the insect",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0006",
+    "canonical_statement": "The process of consciousness penetrating physical barriers can be observed and recorded using scientific methods.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "observe the process of this breakthrough and the point of penetration",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "methodology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0007",
+    "canonical_statement": "The penetration of physical barriers by consciousness can occur over a span of time.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "whether or not the penetration of the wall was achieved over a span of time",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "reality",
+      "interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0008",
+    "canonical_statement": "Consciousness can overcome physical barriers and manipulate objects through non-physical means.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 8,
+        "chapter": "TABLE 2: SUCCESSFUL RESULTS SAMPLE ONE EXPERIMENT",
+        "surface_quote": "objects were actually removed from the bottle by the subject using paranormal abilities.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "psi"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0009",
+    "canonical_statement": "The physical container of reality is not an absolute barrier to consciousness.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 8,
+        "chapter": "TABLE 2: SUCCESSFUL RESULTS SAMPLE ONE EXPERIMENT",
+        "surface_quote": "This is the ability of breaking through spatial obstacles.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0010",
+    "canonical_statement": "Consciousness can transcend physical barriers.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 11,
+        "chapter": "ILLUSTRATION 10: DIAGRAM OF TABLET BREAKING THROUGH",
+        "surface_quote": "break through point is the wall of the container",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0011",
+    "canonical_statement": "Transcendence of obstacles occurs in a temporal sequence.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 11,
+        "chapter": "ILLUSTRATION 10: DIAGRAM OF TABLET BREAKING THROUGH",
+        "surface_quote": "break through of the obstacle occurs in a time sequence",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0012",
+    "canonical_statement": "Consciousness possesses the ability to transcend physical spatial limitations.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 13,
+        "chapter": "B. RESULTS OF EXPERIMENTS WITH CONTINUOUS TARGET OBJECT SAMPLES",
+        "surface_quote": "paranormal ability to break through spatial barriers actually exists",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "space",
+      "psi"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0013",
+    "canonical_statement": "The physical universe is permeable to non-physical influence.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 13,
+        "chapter": "B. RESULTS OF EXPERIMENTS WITH CONTINUOUS TARGET OBJECT SAMPLES",
+        "surface_quote": "the tablets and pieces of plexiglass were passed through the walls of the container",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate",
+      "psi"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0014",
+    "canonical_statement": "Physical objects can traverse solid barriers without creating a physical aperture.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 15,
+        "chapter": "2. CONCERNING THE POINT OF BREAKING THROUGH",
+        "surface_quote": "target objects passing through the walls of the container",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0015",
+    "canonical_statement": "The process of traversing solid barriers can involve changes in the object's perceived size.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 15,
+        "chapter": "2. CONCERNING THE POINT OF BREAKING THROUGH",
+        "surface_quote": "become larger during the process of the target objects passing through",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0016",
+    "canonical_statement": "Objects can be simultaneously perceived as both inside and outside a container during barrier traversal.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 15,
+        "chapter": "2. CONCERNING THE POINT OF BREAKING THROUGH",
+        "surface_quote": "see the target objects being both inside and outside the container",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0017",
+    "canonical_statement": "The speed of barrier traversal by physical objects can vary significantly, including speeds observable by the human eye.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 15,
+        "chapter": "2. CONCERNING THE POINT OF BREAKING THROUGH",
+        "surface_quote": "speed at which solid target objects pass through spatial barriers can be very slow",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0018",
+    "canonical_statement": "The ability to traverse spatial barriers is an objective paranormal phenomenon.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 15,
+        "chapter": "2. CONCERNING THE POINT OF BREAKING THROUGH",
+        "surface_quote": "objective reality of the paranormal ability of breaking through spatial barriers",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "paranormal"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0019",
+    "canonical_statement": "Spatial barriers can be traversed by consciousness or objects over a period of time.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 16,
+        "chapter": "2. CONCERNING THE POINT OF BREAKING THROUGH",
+        "surface_quote": "passing through the walls occurs over a period of time",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0020",
+    "canonical_statement": "The point of passage through a spatial barrier may be within the barrier itself, not merely at an opening.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 16,
+        "chapter": "2. CONCERNING THE POINT OF BREAKING THROUGH",
+        "surface_quote": "the point at which the objects pass through the Spatial barrier is... in the wall of the container",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_cia_2_rdp96_00792r000300390001_2_0021",
+    "canonical_statement": "The ability to pass through spatial barriers is a demonstrable paranormal ability.",
+    "attributions": [
+      {
+        "source_id": "cia_2_rdp96_00792r000300390001_2",
+        "chunk_index": 16,
+        "chapter": "2. CONCERNING THE POINT OF BREAKING THROUGH",
+        "surface_quote": "proved the existence of one type of paranormal ability - the ability to pass through spatial barriers",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  }
+]

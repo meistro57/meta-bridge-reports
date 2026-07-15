@@ -1,0 +1,4034 @@
+[
+  {
+    "id": "cl_the_oera_linda_book_0001",
+    "canonical_statement": "The validity of a metaphysical or historical account is measured by its alignment with the perceived boundaries of possibility and probability.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 3,
+        "chapter": "TRANSLATOR'S PREFACE.",
+        "surface_quote": "they do not offend our ideas of possibility or even probability.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0002",
+    "canonical_statement": "The ultimate reality is a singular, eternal, and omnipotent being from which all existence emanates.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 16,
+        "chapter": "WM. R. SANDBACH.",
+        "surface_quote": "Wr-alda or Wr-alda's spirit is the only eternal, unchangeable, perfect, and almighty being.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "monotheism",
+      "ontology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0003",
+    "canonical_statement": "Time and the physical world are secondary manifestations derived from the primary divine source.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 16,
+        "chapter": "WM. R. SANDBACH.",
+        "surface_quote": "Out of him proceeds everything--first the beginning, then time, and afterwards Irtha, the Earth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology",
+      "emanation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0004",
+    "canonical_statement": "Humanity is divided into distinct ancestral lineages originating from divine or semi-divine progenitors.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 16,
+        "chapter": "WM. R. SANDBACH.",
+        "surface_quote": "Irtha bore three daughters... the mothers of the three distinct races.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "humanity",
+      "ancestry",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0005",
+    "canonical_statement": "Divine authority is mediated through representative figures who establish moral and social order.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 16,
+        "chapter": "WM. R. SANDBACH.",
+        "surface_quote": "Frya is the representative of Wr-alda... Frya has established her 'Tex,' the first law.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "authority",
+      "divinity",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0006",
+    "canonical_statement": "Mythological deities are historically derived from the deification of mortal human figures.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 17,
+        "chapter": "WM. R. SANDBACH.",
+        "surface_quote": "Neptune... appears here to have been, when living, a Friesland Viking",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "deity",
+      "mythology",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0007",
+    "canonical_statement": "The origins of religious figures and archetypes are rooted in specific geographical and cultural lineages.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 17,
+        "chapter": "WM. R. SANDBACH.",
+        "surface_quote": "Min-erva (Athene) was originally a Burgtmaagd, priestess of Frya",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "origin",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0008",
+    "canonical_statement": "Time is a cyclical mechanism that facilitates the movement of the sun through the firmament.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 18,
+        "chapter": "WM. R. SANDBACH.",
+        "surface_quote": "Time is the carrier who must eternally turn the wheel and carry the sun.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0009",
+    "canonical_statement": "The passage of time is measured by the rotation of a celestial wheel, where each revolution constitutes a day.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 18,
+        "chapter": "WM. R. SANDBACH.",
+        "surface_quote": "every turn of the wheel being a day.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "measurement"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0010",
+    "canonical_statement": "The divine entity Wr-alda possesses the authority to permit or prevent the survival of a people.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 22,
+        "chapter": "OKKE MY SON--",
+        "surface_quote": "If Wr-alda permits it, and we do not chew ourselves strong to resist, they will exterminate us.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "fate",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0011",
+    "canonical_statement": "The loss of individual or collective freedom is a direct metaphysical consequence of violating the freedom of others.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 23,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "They robbed others of their freedom, and therefore lost their own.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "causality",
+      "freedom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0012",
+    "canonical_statement": "Divine protection or oversight is contingent upon adherence to established moral or social laws.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 23,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "Because they have acted thus, Frya cared no longer to watch over them.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "morality",
+      "oversight"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0013",
+    "canonical_statement": "The preservation of cultural and historical knowledge is essential for the continuity and survival of a people's identity.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 25,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "write down all the laws... and all the histories... in order that it may not be destroyed",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "history",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0014",
+    "canonical_statement": "The transmission of collective memory through maternal lineage is a mechanism for ensuring the endurance of national character.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 25,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "if you wish to impress it on the brains and the hearts of your sons, you must let it flow through the lips of your wives and your daughters.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "transmission",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0015",
+    "canonical_statement": "The ultimate source of existence is an eternal, singular, and benevolent entity.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 26,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "Wr-alda, who alone is eternal and good, made the beginning.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0016",
+    "canonical_statement": "Time is a secondary phenomenon that emerged only after the initial act of creation.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 26,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "Then commenced time.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0017",
+    "canonical_statement": "The physical world and its contents are products of the progression of time.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 26,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "Time wrought all things, even the earth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0018",
+    "canonical_statement": "Duality in the natural world is governed by a diurnal cycle of light and darkness.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 26,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "All that is good... by day, and all that is bad... by night.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0019",
+    "canonical_statement": "Humanity is connected to the divine through the infusion of a spiritual essence.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 26,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "Wr-alda breathed his spirit upon her in order that men might be bound to him.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "spirit",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0020",
+    "canonical_statement": "The absence of individual liberty renders all other virtues ineffective and leads to the degradation of one's essential nature.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 27,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "Without liberty all other virtues serve to make you slaves, and to disgrace your origin.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "liberty",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0021",
+    "canonical_statement": "The soul or consciousness may persist after death in a state capable of observing earthly events.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 27,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "Look down from your watch-star and weep.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0022",
+    "canonical_statement": "The ultimate source of existence is an eternal, primordial entity known as the Oldest Being.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 28,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "Wr-alda, always written as a compound word, meaning the Old Ancient, or the Oldest Being.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0023",
+    "canonical_statement": "The physical world is subject to periodic cataclysmic destruction and transformation.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 28,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "The land from which she had risen was now a stream, and all was overwhelmed.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0024",
+    "canonical_statement": "Divine guidance or sacred law acts as a stabilizing force for humanity amidst physical instability.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 28,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "Let this be your guide, and it can never go ill with you.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ethics",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0025",
+    "canonical_statement": "The transition of enlightened beings from the physical plane to a celestial state is marked by environmental upheaval.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 28,
+        "chapter": "THE BOOK OF ADELA'S FOLLOWERS.",
+        "surface_quote": "The earth shook... when they looked for their mother she was already risen.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ascension",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0026",
+    "canonical_statement": "True freedom is defined by the absence of subjugation to external entities and the absence of internal self-enslavement.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 29,
+        "chapter": "FRYA'S TEX.",
+        "surface_quote": "him only can I recognise as free who is neither a slave to another nor to himself.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "freedom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0027",
+    "canonical_statement": "The ultimate source of existence, Wr-alda, is the sole possessor of the fundamental elements of reality.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 29,
+        "chapter": "FRYA'S TEX.",
+        "surface_quote": "Four things are given for your enjoyment--air, water, land, and fire--but Wr-alda is the sole possessor of them.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0028",
+    "canonical_statement": "Human actions and moral transgressions are recorded by metaphysical entities.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 29,
+        "chapter": "FRYA'S TEX.",
+        "surface_quote": "my maidens would erase your name from the book",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0029",
+    "canonical_statement": "There exists a metaphysical law of reciprocity where harm inflicted upon others inevitably returns to the perpetrator.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 29,
+        "chapter": "FRYA'S TEX.",
+        "surface_quote": "any injury that you inflicted on them would recoil upon your own heads.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "karma",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0030",
+    "canonical_statement": "The preservation of cultural and moral homogeneity is a prerequisite for the continued protection and guidance of a divine entity.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 30,
+        "chapter": "FRYA'S TEX.",
+        "surface_quote": "if these were accepted by you, I could no longer watch over you.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "morality",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0031",
+    "canonical_statement": "The intellect is sustained by a divine light that requires specific social and moral conditions to remain active.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 30,
+        "chapter": "FRYA'S TEX.",
+        "surface_quote": "the lamp which I have lighted for you... shall always illuminate your intellect",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "intellect",
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0032",
+    "canonical_statement": "The legitimacy of social law is derived from ancestral tradition and communal consensus.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 31,
+        "chapter": "THIS HAS FASTA SPOKEN.",
+        "surface_quote": "regulations... may by the advice of the Eeremoeder... be inscribed... they become laws",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "governance",
+      "tradition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0033",
+    "canonical_statement": "The identity of a community is defined by adherence to its original, inherent customs.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 31,
+        "chapter": "THIS HAS FASTA SPOKEN.",
+        "surface_quote": "should we be released, we must always return to our own again",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0034",
+    "canonical_statement": "External imposition of law does not negate the fundamental validity of ancestral custom.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 31,
+        "chapter": "THIS HAS FASTA SPOKEN.",
+        "surface_quote": "if by force... regulations should be imposed... we must always return to our own",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0035",
+    "canonical_statement": "The temporal structure of reality is influenced by the moral or spiritual correctness of historical figures.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 32,
+        "chapter": "FASTA SAID--",
+        "surface_quote": "time has proved that she was right",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0036",
+    "canonical_statement": "Human actions performed on specific sacred days are subject to an inherent metaphysical failure mechanism.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 32,
+        "chapter": "FASTA SAID--",
+        "surface_quote": "Anything that any man commences... on the day appointed for Frya's worship shall eternally fail",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "ritual",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0037",
+    "canonical_statement": "The light of a citadel is ontologically dependent upon its connection to an original source.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 33,
+        "chapter": "THESE ARE THE LAWS ESTABLISHED FOR THE GOVERNMENT OF THE CITADELS.",
+        "surface_quote": "the lamp belonging to it must be lighted at the original lamp in Texland",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0038",
+    "canonical_statement": "Human passion is considered a polluting force that is incompatible with the maintenance of sacred light.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 33,
+        "chapter": "THESE ARE THE LAWS ESTABLISHED FOR THE GOVERNMENT OF THE CITADELS.",
+        "surface_quote": "resign her office, before her passion shall have polluted the light",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "purity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0039",
+    "canonical_statement": "The collective welfare of the community takes precedence over the interests of the individual.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 34,
+        "chapter": "THESE ARE THE LAWS ESTABLISHED FOR THE GOVERNMENT OF THE CITADELS.",
+        "surface_quote": "it is better that one man should suffer than many.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "social-order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0040",
+    "canonical_statement": "Truth and justice are not inherently absolute, but are subject to the fallibility of majority consensus.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 34,
+        "chapter": "THESE ARE THE LAWS ESTABLISHED FOR THE GOVERNMENT OF THE CITADELS.",
+        "surface_quote": "the majority maybe wrong as well as the minority.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "justice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0041",
+    "canonical_statement": "The natural world and its resources are a collective endowment provided by the divine for the benefit of all.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 35,
+        "chapter": "UNIVERSAL LAW.",
+        "surface_quote": "all that Wr-alda has given",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0042",
+    "canonical_statement": "Individual identity is fundamentally defined by an inherent equality of status and rights within the social order.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 35,
+        "chapter": "UNIVERSAL LAW.",
+        "surface_quote": "All free-born, men are equal",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "social-structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0043",
+    "canonical_statement": "Greed and usury are manifestations of a spiritual corruption that alienates the individual from their community and self.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 35,
+        "chapter": "UNIVERSAL LAW.",
+        "surface_quote": "For the sake of money they would betray everybody",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "human-nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0044",
+    "canonical_statement": "Social structures, including governance and conflict, emerge as a secondary necessity from the breakdown of original unity.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 36,
+        "chapter": "UNIVERSAL LAW.",
+        "surface_quote": "When they were driven hitherwards... arose the necessity of defending ourselves, and we had armies.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sociology",
+      "history",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0045",
+    "canonical_statement": "Formalized legal systems are derivative constructs originating from the practical requirements of social regulation.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 36,
+        "chapter": "UNIVERSAL LAW.",
+        "surface_quote": "For all this there were established regulations, and out of the regulations came fixed laws.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "law",
+      "order",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0046",
+    "canonical_statement": "The exercise of physical force and the exercise of political wisdom are mutually exclusive functions.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 37,
+        "chapter": "HERE FOLLOW THE LAWS WHICH WERE THUS ESTABLISHED.",
+        "surface_quote": "Those who fight with arms are not men of counsel, therefore no king must bear arms.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "governance",
+      "duality",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0047",
+    "canonical_statement": "Political authority is derived from the cultivation of wisdom rather than the possession of physical power.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 37,
+        "chapter": "HERE FOLLOW THE LAWS WHICH WERE THUS ESTABLISHED.",
+        "surface_quote": "His wisdom must be his weapon, and the love of his warriors his shield.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "governance",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0048",
+    "canonical_statement": "The laws governing human conduct are derived from a divine or primordial source known as Frya's Tex.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 42,
+        "chapter": "USEFUL EXTRACTS FROM THE WRITINGS LEFT BY MINNO.",
+        "surface_quote": "This is Frya's Tex, and it would be unjust to act contrary to it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "divine-law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0049",
+    "canonical_statement": "The lifespan and experiences of an individual are granted by a supreme creator entity.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 42,
+        "chapter": "USEFUL EXTRACTS FROM THE WRITINGS LEFT BY MINNO.",
+        "surface_quote": "Wr-alda or Alvader has given me many years.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0050",
+    "canonical_statement": "Human moral intuition is an innate disposition derived from the divine spirit.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 43,
+        "chapter": "USEFUL EXTRACTS FROM THE WRITINGS LEFT BY MINNO.",
+        "surface_quote": "Eva means that sentiment which is implanted in the breast of every man.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "morality",
+      "divinity",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0051",
+    "canonical_statement": "The fundamental nature of the divine is tranquility and an inherent tendency toward equilibrium.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 43,
+        "chapter": "USEFUL EXTRACTS FROM THE WRITINGS LEFT BY MINNO.",
+        "surface_quote": "Eva has another meaning; that is, tranquil, smooth, like water.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0052",
+    "canonical_statement": "The divine spirit is eternal, unchangeable, and the source of justice.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 43,
+        "chapter": "USEFUL EXTRACTS FROM THE WRITINGS LEFT BY MINNO.",
+        "surface_quote": "Eternity is another symbol of Wr-alda, who remains always just and unchangeable.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "eternity",
+      "justice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0053",
+    "canonical_statement": "Human judgment is infallible when aligned with the inspiration of the divine spirit.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 43,
+        "chapter": "USEFUL EXTRACTS FROM THE WRITINGS LEFT BY MINNO.",
+        "surface_quote": "Judgment shall be pronounced in accordance with the inspiration of Wr-alda's spirit.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "judgment",
+      "divinity",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0054",
+    "canonical_statement": "Moral transgression by individuals and collectives inevitably results in social instability and systemic collapse.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 44,
+        "chapter": "USEFUL EXTRACTS FROM THE WRITINGS LEFT BY MINNO.",
+        "surface_quote": "If men will commit wrong, there will arise quarrels... everything is thrown into confusion.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "causality",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0055",
+    "canonical_statement": "True possession and wealth are defined by internal virtues rather than external material assets.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 45,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "I carry my possessions in my own bosom. What I have inherited is the love of wisdom.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "value",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0056",
+    "canonical_statement": "The loss of internal wisdom and moral integrity results in a state of ontological or social enslavement.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 45,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "If I lose these I shall become as the least of your slaves.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "freedom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0057",
+    "canonical_statement": "The future of humanity is a latent potentiality contained within divine counsel, requiring temporal unfolding.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 46,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "These eggs are the symbols of Frya's counsels, in which our future lies concealed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "destiny",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0058",
+    "canonical_statement": "The ultimate source of existence is a singular, inherently good spirit that does not originate or perform evil.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 46,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "I know no gods that do evil... I only know one good spirit, that is Wr-alda's.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "evil",
+      "monism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0059",
+    "canonical_statement": "Evil is not a product of the divine, implying it arises from a source external to the primary good spirit.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 46,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "Where, then, does evil come from?",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "evil",
+      "theodicy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0060",
+    "canonical_statement": "Time functions as the fundamental mechanism through which human existence unfolds.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 47,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "the carrier, that is, Time, must do the rest.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0061",
+    "canonical_statement": "The divine intent for humanity is the attainment of wisdom and strength through self-directed problem solving.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 47,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "Wr-alda wills that we should search it out ourselves, in order that we may become strong and wise.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0062",
+    "canonical_statement": "Human suffering and societal ills are consequences of individual and collective moral choices rather than divine intervention.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 47,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "he leaves us to our own devices, in order that we may experience the results of wise or foolish conduct.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0063",
+    "canonical_statement": "Holiness is an emergent property resulting from the cultivation of wisdom and virtuous action.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 47,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "being wise and acting wisely can alone lead to holiness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "holiness",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0064",
+    "canonical_statement": "Physical and societal afflictions are manifestations of internal moral corruption and negative passions.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 47,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "the plague feeds not only on carrion but on bad laws and customs and wicked passions.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "causality",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0065",
+    "canonical_statement": "Spiritual authority and wisdom are subject to institutional corruption and appropriation by political actors.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 48,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "They cunningly made themselves masters of our laws and customs.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "authority",
+      "corruption",
+      "institutionalism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0066",
+    "canonical_statement": "The efficacy of spiritual practice is contingent upon the internal purity of the practitioner.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 48,
+        "chapter": "FROM MINNO'S WRITINGS.",
+        "surface_quote": "It becomes you to begin by rendering yourselves pure, so that you may look within.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "purity",
+      "perception",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0067",
+    "canonical_statement": "Social order and legal systems are derived from the fundamental human requirements for survival, reproduction, and autonomy.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 50,
+        "chapter": "THESE ARE THE THREE PRINCIPLES ON WHICH THESE LAWS ARE FOUNDED.",
+        "surface_quote": "These are the three principles on which these laws are founded.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "society",
+      "human-nature",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0068",
+    "canonical_statement": "Political legitimacy is contingent upon the alignment of laws with inherent human needs rather than the interests of ruling elites.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 50,
+        "chapter": "THESE ARE THE THREE PRINCIPLES ON WHICH THESE LAWS ARE FOUNDED.",
+        "surface_quote": "Rules not made according to what is just—only for the advantage of priests and princes—are full of disputes.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "governance",
+      "justice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0069",
+    "canonical_statement": "Moral culpability and the necessity of expiation are determined by the intent and outcome of actions within a social framework.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 51,
+        "chapter": "THESE RULES ARE MADE FOR ANGRY PEOPLE.",
+        "surface_quote": "he must expiate his crime under the general law.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "justice",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0070",
+    "canonical_statement": "Accidental harm is distinguished from intentional harm, altering the metaphysical status of the perpetrator's debt to the collective.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 51,
+        "chapter": "THESE RULES ARE MADE FOR ANGRY PEOPLE.",
+        "surface_quote": "if the prisoner can prove... the death was accidental, he may go free.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "intent"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0071",
+    "canonical_statement": "Human actions are recorded in an eternal metaphysical ledger that determines the status of an individual's moral transgressions.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 52,
+        "chapter": "THESE ARE THE RULES CONCERNING BASTARDS.",
+        "surface_quote": "Frya's maidens came around him and wrote his deed in the eternal book.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "karma",
+      "metaphysics",
+      "judgment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0072",
+    "canonical_statement": "Moral deeds possess the capacity to nullify or erase prior negative spiritual or ethical debts.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 52,
+        "chapter": "THESE ARE THE RULES CONCERNING BASTARDS.",
+        "surface_quote": "wrote his deed in the eternal book, and wiped out all his sins.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "redemption",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0073",
+    "canonical_statement": "Time originates from a primordial source or beginning point.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 53,
+        "chapter": "WHAT IS WRITTEN HEREUNDER IS INSCRIBED ON THE WALLS OF WARABURGT.",
+        "surface_quote": "the first symbol of Wr-alda, also of the origin or beginning from which Time is derived",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0074",
+    "canonical_statement": "The structure of reality and human expression is modeled after divine or primordial patterns.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 53,
+        "chapter": "WHAT IS WRITTEN HEREUNDER IS INSCRIBED ON THE WALLS OF WARABURGT.",
+        "surface_quote": "According to this model Frya formed the set hand which she used to write",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0075",
+    "canonical_statement": "Human consciousness and cultural development are influenced by the spirit of the primordial source.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 53,
+        "chapter": "WHAT IS WRITTEN HEREUNDER IS INSCRIBED ON THE WALLS OF WARABURGT.",
+        "surface_quote": "thankful to Wr-alda that he allowed his spirit to exercise such an influence",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "spirit",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0076",
+    "canonical_statement": "True knowledge is cyclical and aligned with the movement of the sun.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 53,
+        "chapter": "WHAT IS WRITTEN HEREUNDER IS INSCRIBED ON THE WALLS OF WARABURGT.",
+        "surface_quote": "it was taken from the Juul, and must therefore always be written round like the sun",
+        "claim_type": "stated",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0077",
+    "canonical_statement": "Time is experienced as a non-linear, qualitative state of being rather than a quantitative sequence.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 54,
+        "chapter": "THIS STANDS INSCRIBED UPON ALL CITADELS.",
+        "surface_quote": "The years were not counted, for one was as happy as another.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0078",
+    "canonical_statement": "The physical environment and its resources are divinely ordained and provided by a supreme entity.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 54,
+        "chapter": "THIS STANDS INSCRIBED UPON ALL CITADELS.",
+        "surface_quote": "twelve large rivers given us by Wr-alda",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0079",
+    "canonical_statement": "The physical earth is a sentient or living entity capable of experiencing states of decline or death.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 56,
+        "chapter": "HOW THE BAD TIME CAME.",
+        "surface_quote": "the earth began to tremble as if she was dying",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "nature",
+      "earth",
+      "animism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0080",
+    "canonical_statement": "Geological and environmental catastrophes are mechanisms for the restructuring of human civilization and social order.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 56,
+        "chapter": "HOW THE BAD TIME CAME.",
+        "surface_quote": "Many countries were submerged... Troops of Finda's people came and settled",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "civilization",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0081",
+    "canonical_statement": "Collective experience and suffering function as a pedagogical tool for the evolution of human social consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 56,
+        "chapter": "HOW THE BAD TIME CAME.",
+        "surface_quote": "time taught us that union is force",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0082",
+    "canonical_statement": "The divine essence, referred to as Wr-alda's spirit, is the fundamental reality of which ignorant populations remain unaware.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 57,
+        "chapter": "THIS IS INSCRIBED ON THE WARABURGT BY THE ALDEGAMUDE.",
+        "surface_quote": "of Wr-alda's spirit they know nothing",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0083",
+    "canonical_statement": "Spiritual or malevolent entities possess the capacity to inhabit and influence both human and animal forms.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 57,
+        "chapter": "THIS IS INSCRIBED ON THE WARABURGT BY THE ALDEGAMUDE.",
+        "surface_quote": "evil spirits abound everywhere, and enter into men and beasts",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0084",
+    "canonical_statement": "The capacity for clear-sightedness or spiritual discernment is distinct from the possession of physical or martial strength.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 59,
+        "chapter": "THIS IS INSCRIBED ON THE WARABURGT BY THE ALDEGAMUDE.",
+        "surface_quote": "Wodin was strong, fierce, and warlike, but he was not clear-sighted.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "discernment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0085",
+    "canonical_statement": "The physical disappearance of a ruler is interpreted by some as a transition to a higher state of existence or divine governance.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 60,
+        "chapter": "THIS IS INSCRIBED ON THE WARABURGT BY THE ALDEGAMUDE.",
+        "surface_quote": "The Magy said that he was taken up by their gods and still reigned.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "sovereignty",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0086",
+    "canonical_statement": "The physical geography of the Earth is subject to catastrophic submergence events that displace populations.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 61,
+        "chapter": "ALL THIS IS INSCRIBED NOT ONLY ON THE WARABURGT, BUT ALSO ON THE BURGT STAVIA, WHICH LIES BEHIND THE PORT OF STAVRE.",
+        "surface_quote": "When Atland was submerged there was much suffering also on the shores of the Mediterranean.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "catastrophe",
+      "geography",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0087",
+    "canonical_statement": "Human souls or children are fundamentally linked to a divine source or entity known as Wr-alda.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 64,
+        "chapter": "WHAT THE CONSEQUENCE OF THIS WAS.",
+        "surface_quote": "steal children from Wr-alda in order to give them to false gods.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "soul",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0088",
+    "canonical_statement": "Perception can be manipulated to invert the fundamental nature of environmental reality.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 66,
+        "chapter": "NOW WE WILL WRITE ABOUT THE WAR BETWEEN THE BURGTMAAGDEN KALTA AND MIN-ERVA,",
+        "surface_quote": "she blinded their eyes, so that they mistook land for water",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0089",
+    "canonical_statement": "Entities possess the capacity to exert malevolent metaphysical influence over both human populations and biological life forms.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 67,
+        "chapter": "NOW WE WILL WRITE ABOUT THE WAR BETWEEN THE BURGTMAAGDEN KALTA AND MIN-ERVA,",
+        "surface_quote": "Min-erva has bewitched all the people... as well as all our cattle",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "influence",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0090",
+    "canonical_statement": "The capacity for intellectual and spiritual development is contingent upon the presence of specific structural and symbolic safeguards within a society.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 69,
+        "chapter": "WE NOW COME TO THE HISTORY OF JON.",
+        "surface_quote": "without citadel, Burgtmaagden, or lamps, the people could not learn anything.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "societal-structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0091",
+    "canonical_statement": "The atmosphere of a geographic location can be spiritually or energetically corrupted by the influence of religious institutions.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 70,
+        "chapter": "IT IS INSCRIBED AT TEXLAND.",
+        "surface_quote": "the air has been long poisoned by the priests",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "environment",
+      "spirituality",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0092",
+    "canonical_statement": "The deification of historical figures is a social construct manufactured by religious authorities to legitimize political power.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 70,
+        "chapter": "IT IS INSCRIBED AT TEXLAND.",
+        "surface_quote": "the priests wished to have a king... they deified Teunis",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "politics",
+      "social-construct"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0093",
+    "canonical_statement": "The capacity for social evolution and the adoption of ethical customs is determined by ancestral lineage.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 71,
+        "chapter": "IT IS INSCRIBED AT TEXLAND.",
+        "surface_quote": "If the distant Greeks belong to the direct descent of Frya, then they will flourish.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "lineage",
+      "ethics",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0094",
+    "canonical_statement": "The maturation of a people toward liberty is a cyclical process governed by a specific temporal duration.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 71,
+        "chapter": "IT IS INSCRIBED AT TEXLAND.",
+        "surface_quote": "The carrier must make five thousand revolutions of his Juul before Finda's people will be ripe.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "liberty",
+      "cycles"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0095",
+    "canonical_statement": "The absolute quality of goodness is an exclusive attribute of the primordial spirit, Wr-alda.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 72,
+        "chapter": "IT IS INSCRIBED AT TEXLAND.",
+        "surface_quote": "no one could be perfectly good except the spirit of Wr-alda",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity",
+      "nature of goodness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0096",
+    "canonical_statement": "The deification of human figures is a social construct utilized by institutional authorities to manipulate public perception.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 72,
+        "chapter": "IT IS INSCRIBED AT TEXLAND.",
+        "surface_quote": "the priests pretended to be with us, and in order to make it appear so, they deified Hellenia",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "social reality",
+      "perception",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0097",
+    "canonical_statement": "Physical and geological phenomena are directly influenced or caused by the moral or spiritual virtues of human beings.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 73,
+        "chapter": "IT IS INSCRIBED AT TEXLAND.",
+        "surface_quote": "The land was upheaved... on account of the virtues of the Geertmen.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "metaphysics",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0098",
+    "canonical_statement": "The efficacy of spiritual or metaphysical objects is contingent upon the moral or cultural alignment of the possessor.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 74,
+        "chapter": "IT IS INSCRIBED AT TEXLAND.",
+        "surface_quote": "he obtained a lamp from her; but it did him no good",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "efficacy",
+      "alignment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0099",
+    "canonical_statement": "Cultural customs and spiritual practices are inherently tied to specific ancestral or regional identities and cannot be universally transplanted.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 74,
+        "chapter": "IT IS INSCRIBED AT TEXLAND.",
+        "surface_quote": "the customs of Frya could never take firm hold in Athens",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "culture",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0100",
+    "canonical_statement": "The presence of spiritual essence within a society acts as a foundational constraint on individual accumulation and social inequality.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 76,
+        "chapter": "IT IS INSCRIBED AT TEXLAND.",
+        "surface_quote": "As long as a ray of Frya's spirit existed, all the building materials were for common use.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "society",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0101",
+    "canonical_statement": "The degradation of moral virtue is causally linked to the prioritization of material wealth over communal honor.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 76,
+        "chapter": "IT IS INSCRIBED AT TEXLAND.",
+        "surface_quote": "Because riches were more valued by this lost and degenerate race than virtue or honour.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "materialism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0102",
+    "canonical_statement": "The loss of moral integrity is the direct causal precursor to the loss of societal liberty.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 77,
+        "chapter": "THIS IS INSCRIBED IN ALL OUR CITADELS.",
+        "surface_quote": "if they lost their morals they would soon lose their liberty.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "societal-structure",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0103",
+    "canonical_statement": "Material wealth and ornamentation are insufficient to sustain human existence in the absence of functional resources.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 77,
+        "chapter": "THIS IS INSCRIBED IN ALL OUR CITADELS.",
+        "surface_quote": "Their bodies were brilliantly adorned, but their cupboards and their sheds were empty.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "materialism",
+      "value"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0104",
+    "canonical_statement": "Collective security and social stability are contingent upon the individual's mastery of personal passions.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 78,
+        "chapter": "THIS IS INSCRIBED IN ALL OUR CITADELS.",
+        "surface_quote": "everybody must watch over his own passions, as well as the general welfare.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "society",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0105",
+    "canonical_statement": "The essence of a being may manifest as a non-physical energy signature, such as blue flame, upon the cessation of biological life.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 78,
+        "chapter": "THIS IS INSCRIBED IN ALL OUR CITADELS.",
+        "surface_quote": "There came from it a stream of black blood and a wreath of blue flame.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "death",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0106",
+    "canonical_statement": "Historical time follows a cyclical or periodic structure characterized by the rise and fall of societal freedom.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 79,
+        "chapter": "THIS IS INSCRIBED IN ALL OUR CITADELS.",
+        "surface_quote": "At the time of the submersion of Atland, the first spoke of the Juul stood.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "cycles"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0107",
+    "canonical_statement": "Truth and spiritual insight persist and endure even when the physical manifestations of society are destroyed.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 79,
+        "chapter": "THIS IS INSCRIBED IN ALL OUR CITADELS.",
+        "surface_quote": "what they have proclaimed shall endure, and shall bear fruit in the bosoms of able men.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "truth",
+      "persistence",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0108",
+    "canonical_statement": "The evolution of human society is governed by a deterministic progression toward eventual enlightenment and freedom.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 79,
+        "chapter": "THIS IS INSCRIBED IN ALL OUR CITADELS.",
+        "surface_quote": "After that, the dawn shall begin to glow... freedom, love, and unity will take the people.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "freedom",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0109",
+    "canonical_statement": "Prophetic vision is a form of perception that transcends physical sight and accesses a higher light.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 79,
+        "chapter": "THIS IS INSCRIBED IN ALL OUR CITADELS.",
+        "surface_quote": "My eyes are dim, but the other light dawns upon my soul.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "prophecy",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0110",
+    "canonical_statement": "The soul persists as a conscious entity after the death of the physical body.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 80,
+        "chapter": "THIS IS INSCRIBED IN ALL OUR CITADELS.",
+        "surface_quote": "Before seven days have passed your soul shall haunt the tombs",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0111",
+    "canonical_statement": "Time functions as an impersonal mechanism for the administration of cosmic justice.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 80,
+        "chapter": "THIS IS INSCRIBED IN ALL OUR CITADELS.",
+        "surface_quote": "We do not ask for revenge. Time will provide that",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "justice",
+      "karma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0112",
+    "canonical_statement": "The role of a spiritual or communal leader requires an internal purity of conscience and an impartial love that transcends personal romantic attachments.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 83,
+        "chapter": "THE END OF THE BOOK.",
+        "surface_quote": "an Eeremoeder ought to be as pure in her conscience as she appears outwardly",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "leadership",
+      "conscience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0113",
+    "canonical_statement": "Moral transgressions and crimes inevitably result in corresponding retributive consequences.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 84,
+        "chapter": "THE END OF THE BOOK.",
+        "surface_quote": "every crime brings its punishment",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "causality",
+      "karma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0114",
+    "canonical_statement": "The divine or universal force (Wr-alda) grants specific durations of time for the fulfillment of human intentions.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 84,
+        "chapter": "THE END OF THE BOOK.",
+        "surface_quote": "Wr-alda accorded him many years for that",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0115",
+    "canonical_statement": "Divine providence requires constant human vigilance to mitigate the influence of malevolent forces.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 87,
+        "chapter": "THE SECOND WRITING.",
+        "surface_quote": "Wr-alda wished to teach us that watchfulness should never be relaxed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theodicy",
+      "ethics",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0116",
+    "canonical_statement": "Darkness and obscurity serve as metaphysical conditions that facilitate the manifestation of treachery.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 87,
+        "chapter": "THE SECOND WRITING.",
+        "surface_quote": "As usual, darkness had favoured the wicked.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "duality",
+      "morality",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0117",
+    "canonical_statement": "Human effort and action can be empowered by divine or universal forces.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 89,
+        "chapter": "THE ELEGY OF THE BURGTMAAGD.",
+        "surface_quote": "Try to help them, and Wr-alda will give you strength.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0118",
+    "canonical_statement": "The ultimate reality is a singular, eternal, and omnipresent source from which all existence originates and to which it returns.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 91,
+        "chapter": "THE OLDEST DOCTRINE.",
+        "surface_quote": "Wr-alda is all in all... from Wr-alda all things proceed and return to him.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "monism",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0119",
+    "canonical_statement": "All created phenomena are transient manifestations, whereas the source of existence is the only enduring reality.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 91,
+        "chapter": "THE OLDEST DOCTRINE.",
+        "surface_quote": "As he endures, he alone exists; everything else is show.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0120",
+    "canonical_statement": "Moral evil and wickedness are not derived from the divine source but arise from human limitation and ignorance.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 91,
+        "chapter": "THE OLDEST DOCTRINE.",
+        "surface_quote": "wickedness of men does not come from him. Wickedness comes from heaviness, carelessness, and stupidity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "theodicy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0121",
+    "canonical_statement": "The laws of the universe are fixed, eternal principles established by the divine source.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 91,
+        "chapter": "THE OLDEST DOCTRINE.",
+        "surface_quote": "Wr-alda established eternal principles, upon which the laws of creation were founded.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0122",
+    "canonical_statement": "Divine goodness is the only immutable quality in a universe defined by constant change.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 91,
+        "chapter": "THE OLDEST DOCTRINE.",
+        "surface_quote": "In the progress of time all creation alters and changes, but goodness alone is unalterable.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0123",
+    "canonical_statement": "All individual creatures are constituent parts of the eternal being of the supreme source.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 92,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "Every creature is a part of Wr-alda's eternal being.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "unity",
+      "source"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0124",
+    "canonical_statement": "The belief that individual consciousness or intellect is the primary or superior manifestation of the divine is a fundamental error.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 92,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "They believe that they are the best part of Wr-alda.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "ego",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0125",
+    "canonical_statement": "The supreme source does not rely on individual biological structures to facilitate its own cognition.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 92,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "Wr-alda can only think by the help of their brains.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0126",
+    "canonical_statement": "Anthropomorphic deities demanding worship and sacrifice are non-existent constructs created by human artifice.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 92,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "Idols that have no real existence.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "illusion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0127",
+    "canonical_statement": "The absolute substrate of reality is an eternal, self-existent being from which all temporal phenomena originate and return.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 93,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "Wr-alda existed before all things, and will endure after all things.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "eternity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0128",
+    "canonical_statement": "Individual existence is ontologically derived from the eternal being, but individual form and consciousness are transient manifestations.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 93,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "We are a part of Wr-alda's everlasting being... our form, our qualities, our spirit, and all our thoughts, these do not belong to the being.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0129",
+    "canonical_statement": "The nature of the absolute is constant progression, necessitating that all created phenomena are in a state of perpetual flux.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 93,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "Whereas his life is continually progressing, nothing can remain stationary, therefore all created things change.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "change"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0130",
+    "canonical_statement": "Static self-identity is an illusion because the subject is in a state of continuous transformation.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 93,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "No man can say, I think; but rather, I thought.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0131",
+    "canonical_statement": "Individual existence is derived from and sustained by a primary, transcendent life force.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 94,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "we exist through Wr-alda's life",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0132",
+    "canonical_statement": "Finite beings are in a state of perpetual evolution toward perfection without reaching the absolute state of the source.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 94,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "always advancing towards perfection without ever attaining the excellence of Wr-alda",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evolution",
+      "perfection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0133",
+    "canonical_statement": "Individual consciousness is a derivative, diminished reflection of the absolute consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 94,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "Our spirit is not Wr-alda's spirit, it is merely a shadow of it.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0134",
+    "canonical_statement": "Cognition and the ability to perceive reality are dependent upon the possession of physical or functional organs granted by the creator.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 94,
+        "chapter": "THE SECOND PART OF THE OLDEST DOCTRINE.",
+        "surface_quote": "If Wr-alda had given us no organs, we should have known nothing",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0135",
+    "canonical_statement": "The divine source (Wr-alda) operates upon the human conscience to instill internal faculties of inclination, love, and anxiety.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 95,
+        "chapter": "THIS IS WRITTEN ON PARCHMENT--\"SKRIVFILT.\" SPEECH AND ANSWER TO OTHER MAIDENS AS AN EXAMPLE.",
+        "surface_quote": "Wr-alda wrought in her conscience inclination and love, anxiety and fright.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "conscience",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0136",
+    "canonical_statement": "Human agency and survival are predicated on the internal capacity to perceive, evaluate, and choose based on environmental necessity.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 95,
+        "chapter": "THIS IS WRITTEN ON PARCHMENT--\"SKRIVFILT.\" SPEECH AND ANSWER TO OTHER MAIDENS AS AN EXAMPLE.",
+        "surface_quote": "She looked round her, and her inclination chose the best.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "agency",
+      "perception",
+      "choice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0137",
+    "canonical_statement": "The human condition is defined by an inherent lack of external divine intervention, necessitating self-reliance.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 95,
+        "chapter": "THIS IS WRITTEN ON PARCHMENT--\"SKRIVFILT.\" SPEECH AND ANSWER TO OTHER MAIDENS AS AN EXAMPLE.",
+        "surface_quote": "She could ask no one, and there was no one who could give her any help.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "self-reliance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0138",
+    "canonical_statement": "The divine force, Wr-alda, actively withdraws favor from those who exhibit selfishness and social isolation.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 96,
+        "chapter": "THIS IS WRITTEN ON PARCHMENT--\"SKRIVFILT.\" SPEECH AND ANSWER TO OTHER MAIDENS AS AN EXAMPLE.",
+        "surface_quote": "Wr-alda, who is kind, turns away from the niggardly.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ethics",
+      "karma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0139",
+    "canonical_statement": "Individual survival and security are dependent upon communal cooperation rather than solitary effort.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 96,
+        "chapter": "THIS IS WRITTEN ON PARCHMENT--\"SKRIVFILT.\" SPEECH AND ANSWER TO OTHER MAIDENS AS AN EXAMPLE.",
+        "surface_quote": "Having found how hard it is to toil alone, she showed her children how.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "society",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0140",
+    "canonical_statement": "The principle of reciprocity is a fundamental law governing human prosperity and divine alignment.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 96,
+        "chapter": "THIS IS WRITTEN ON PARCHMENT--\"SKRIVFILT.\" SPEECH AND ANSWER TO OTHER MAIDENS AS AN EXAMPLE.",
+        "surface_quote": "If you are selfish... help your neighbours, and they will return the same to you.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "reciprocity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0141",
+    "canonical_statement": "Human spiritual development is contingent upon the acquisition of knowledge and the comprehension of divine principles.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 100,
+        "chapter": "NOW I WILL WRITE MYSELF, FIRST ABOUT MY CITADEL, AND THEN ABOUT WHAT I HAVE BEEN ABLE TO SEE.",
+        "surface_quote": "teach them what real freedom is, and how it behoves men to live",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirituality",
+      "education",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0142",
+    "canonical_statement": "The spirit of the divine (Wr-alda) serves as the ultimate source of blessing and the standard for human conduct.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 100,
+        "chapter": "NOW I WILL WRITE MYSELF, FIRST ABOUT MY CITADEL, AND THEN ABOUT WHAT I HAVE BEEN ABLE TO SEE.",
+        "surface_quote": "obtain the blessing of Wr-alda's spirit",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0143",
+    "canonical_statement": "The physical environment of the earth and sea is teleologically ordained for the habitation of a specific people.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 101,
+        "chapter": "NOW I WILL WRITE MYSELF, FIRST ABOUT MY CITADEL, AND THEN ABOUT WHAT I HAVE BEEN ABLE TO SEE.",
+        "surface_quote": "The earth and the sea were made for Frya's people.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0144",
+    "canonical_statement": "Human prosperity is intrinsically linked to physical movement and exploration.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 101,
+        "chapter": "NOW I WILL WRITE MYSELF, FIRST ABOUT MY CITADEL, AND THEN ABOUT WHAT I HAVE BEEN ABLE TO SEE.",
+        "surface_quote": "In movement and sailing is our prosperity.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "prosperity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0145",
+    "canonical_statement": "Divine abandonment occurs as a consequence of human engagement with idolatry.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 103,
+        "chapter": "THE WRITINGS OF FRETHORIK AND WILJOW.",
+        "surface_quote": "Frya had forsaken us, because monstrous idolatrous images had been found.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "morality",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0146",
+    "canonical_statement": "Access to esoteric or metaphysical knowledge is contingent upon the acquisition of literacy and intellectual preparation.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 103,
+        "chapter": "THE WRITINGS OF FRETHORIK AND WILJOW.",
+        "surface_quote": "You must first go and learn, otherwise it may not be shown to you.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "initiation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0147",
+    "canonical_statement": "The Earth possesses a sentient or reactive agency that responds to moral or spiritual corruption.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 104,
+        "chapter": "THE WRITINGS OF FRETHORIK AND WILJOW.",
+        "surface_quote": "Irtha shook her forests and her mountains... mountains spouted fire.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "nature",
+      "agency",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0148",
+    "canonical_statement": "Physical cataclysms are mechanisms for the purification of the Earth's surface.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 104,
+        "chapter": "THE WRITINGS OF FRETHORIK AND WILJOW.",
+        "surface_quote": "Irtha made him know that she would not tolerate any Magy or idol.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "purification",
+      "cataclysm",
+      "earth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0149",
+    "canonical_statement": "Genetic and cultural assimilation leads to the eventual dissolution of distinct ancestral lineages into a dominant bloodline.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 106,
+        "chapter": "THE WRITINGS OF FRETHORIK AND WILJOW.",
+        "surface_quote": "Their blood will disappear like smoke, till at last nothing but Frya's blood will remain.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "lineage",
+      "assimilation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0150",
+    "canonical_statement": "The physical geography of the earth, including straits and landmasses, is subject to alteration by divine or primordial feminine agency.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 110,
+        "chapter": "NOW I WILL RELATE HOW THE GEERTMAN AND MANY FOLLOWERS OF HELLENIA CAME BACK.",
+        "surface_quote": "the land that she had heaved up out of the sea",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0151",
+    "canonical_statement": "Divine abandonment of an individual's soul leads to self-destruction through loss of judgment.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 111,
+        "chapter": "NOW I WILL RELATE HOW THE GEERTMAN AND MANY FOLLOWERS OF HELLENIA CAME BACK.",
+        "surface_quote": "Wr-alda deserted his soul, so that he destroyed himself by wine and rashness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0152",
+    "canonical_statement": "Entry into the afterlife is contingent upon the moral purity of the soul.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 113,
+        "chapter": "NOW I WILL RELATE HOW THE GEERTMAN AND MANY FOLLOWERS OF HELLENIA CAME BACK.",
+        "surface_quote": "if your souls are not pure, you will never come into Walhalla.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0153",
+    "canonical_statement": "Impure souls are condemned to a state of terrestrial haunting and darkness after death.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 113,
+        "chapter": "NOW I WILL RELATE HOW THE GEERTMAN AND MANY FOLLOWERS OF HELLENIA CAME BACK.",
+        "surface_quote": "Your spirits will haunt the earth in darkness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0154",
+    "canonical_statement": "The divine entity Wr-alda possesses foreknowledge or purposeful intent regarding physical events.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 113,
+        "chapter": "NOW I WILL RELATE HOW THE GEERTMAN AND MANY FOLLOWERS OF HELLENIA CAME BACK.",
+        "surface_quote": "But Wr-alda knew well why he",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0155",
+    "canonical_statement": "Divine favor or approval is manifested through the successful navigation of physical events and the achievement of desired outcomes.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 114,
+        "chapter": "NOW I WILL RELATE HOW THE GEERTMAN AND MANY FOLLOWERS OF HELLENIA CAME BACK.",
+        "surface_quote": "It seems that this was pleasing to Wr-alda, for... we coasted along Britain.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "providence",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0156",
+    "canonical_statement": "The spirit of a deceased individual can be induced to inhabit a physical statue.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 116,
+        "chapter": "THIS WRITING HAS BEEN GIVEN TO ME ABOUT NORTHLAND AND SCHOONLAND (SCANDINAVIA).",
+        "surface_quote": "When they make a statue of a dead person they believe that the spirit enters.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "spirit",
+      "afterlife",
+      "animism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0157",
+    "canonical_statement": "Divine entities or their agents can influence the destiny and temperament of a newborn child.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 116,
+        "chapter": "THIS WRITING HAS BEEN GIVEN TO ME ABOUT NORTHLAND AND SCHOONLAND (SCANDINAVIA).",
+        "surface_quote": "pray to Frya to send her servants to bless the child.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "fate",
+      "birth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0158",
+    "canonical_statement": "Physical manifestations such as laughter or crying in an infant serve as omens of spiritual favor or moral status.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 116,
+        "chapter": "THIS WRITING HAS BEEN GIVEN TO ME ABOUT NORTHLAND AND SCHOONLAND (SCANDINAVIA).",
+        "surface_quote": "If the child laughs in its sleep, the servants have promised it happiness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "omens",
+      "divination",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0159",
+    "canonical_statement": "The earth possesses a transformative capacity to absorb the essence of the deceased and transmute it into physical sustenance that imparts wisdom to the living.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 118,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "The earth drank their blood, and that blood produced corn and fruits that inspired wisdom.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "transmutation",
+      "earth",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0160",
+    "canonical_statement": "Human existence is fundamentally dependent upon the presence of liberty, justice, and law.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 118,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "liberty, of justice, and laws, without which men cannot exist.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "ethics",
+      "social-order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0161",
+    "canonical_statement": "The earth provides resources to those who perform physical labor, establishing a direct correlation between effort and sustenance.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 119,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "The earth bestowed her treasures on those who scratch her skin.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nature",
+      "labor",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0162",
+    "canonical_statement": "Social obligation is only valid when rooted in voluntary goodwill rather than external compulsion.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 119,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "No one is obliged to do anything for another unless it be out of goodwill.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "social-structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0163",
+    "canonical_statement": "Material wealth derived from the earth's interior, such as precious metals, is inherently destructive to human love and social harmony.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 119,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "Men should not seek in her bowels for gold... which occasion envy and destroy love.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "materialism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0164",
+    "canonical_statement": "Justice is the supreme form of knowledge because it functions as a mechanism for preventing conflict and fostering affection.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 119,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "Justice is the greatest knowledge that time can teach.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "justice",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0165",
+    "canonical_statement": "The identity of a spiritual teacher is defined by the internal accumulation of wisdom and love, rather than external labels.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 119,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "He had in his head a treasure of wisdom, and in his heart a treasure of love.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0166",
+    "canonical_statement": "The afterlife is a state of joy and happiness accessible through specific earthly conduct.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 120,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "all those who followed his doctrine should enter his kingdom hereafter",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "eschatology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0167",
+    "canonical_statement": "Human perfection is defined by the total suppression of emotional and sensual passions.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 120,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "perfection of humanity consisted in being as unfeeling as the cold stones",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "humanity",
+      "ethics",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0168",
+    "canonical_statement": "Suffering and poverty on earth serve as the mechanism for attaining spiritual reward.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 120,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "poverty, suffering, and humility were the door by which to enter into his kingdom",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0169",
+    "canonical_statement": "The fundamental laws of existence are innate, residing within the human conscience as a divine imprint.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 121,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "the laws that Wr-alda in the beginning instilled into our consciences",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "divinity",
+      "conscience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0170",
+    "canonical_statement": "Human history follows a cyclical or teleological progression toward the eventual dissolution of hierarchical authority.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 121,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "1000 years later there shall exist no longer either priest or oppression",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "teleology",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0171",
+    "canonical_statement": "The spirit of the absolute (Wr-alda) is an omnipresent force that serves as the ultimate authority for human conduct.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 121,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "Wr-alda's spirit shall be invoked everywhere and always",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0172",
+    "canonical_statement": "The material prosperity of the earth is contingent upon the alignment of human labor with natural or divine justice.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 121,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "the earth will only bestow her gifts on those who work",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "nature",
+      "justice",
+      "labor"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0173",
+    "canonical_statement": "Historical cycles of darkness and enlightenment are driven by human agency rather than divine decree.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 122,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "Irtha has not given it birth, and Wr-alda has not decreed it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0174",
+    "canonical_statement": "The evolution of human consciousness toward clarity is an inevitable process that eventually overcomes oppression.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 122,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "until every man's head and heart has become bright and clear.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0175",
+    "canonical_statement": "Universal principles of love, freedom, and justice possess an inherent power to dissolve deception.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 122,
+        "chapter": "HAIL TO ALL TRUE FRISIANS.",
+        "surface_quote": "all deceit will cease to have any more power.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "truth",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0176",
+    "canonical_statement": "The divine entity Wr-alda provides protection to all creatures contingent upon their collective industry and mutual cooperation.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 123,
+        "chapter": "THE WRITING OF KONERED.",
+        "surface_quote": "Wr-alda, our universal father, protects all his creatures, if they preserve their courage.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-providence",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0177",
+    "canonical_statement": "The movement and settlement of human populations are guided or directed by a divine or primordial force.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 125,
+        "chapter": "NOW I WILL WRITE ABOUT FRISO.",
+        "surface_quote": "the land to which Wr-alda had conducted them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destiny",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0178",
+    "canonical_statement": "Natural geographic features are created by the divine entity Wr-alda.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 126,
+        "chapter": "NOW I WILL WRITE ABOUT FRISO.",
+        "surface_quote": "a beautiful one, created by Wr-alda.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0179",
+    "canonical_statement": "The divine source, Wr-alda, actively intervenes in human affairs by orchestrating the arrival of specific individuals to fulfill predestined roles.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 129,
+        "chapter": "WHAT FRISO DID FURTHER.",
+        "surface_quote": "Wr-alda has appointed Friso for it, for he has brought him here in a wonderful way.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "predestination",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0180",
+    "canonical_statement": "The primordial language is a divine instrument designed to facilitate moral alignment and eternal salvation.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 133,
+        "chapter": "HERE IS THE WRITING WITH GOSA'S ADVICE.",
+        "surface_quote": "Wr-alda gave one language to every tongue... to find salvation.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "language",
+      "divinity",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0181",
+    "canonical_statement": "The original human language possesses an inherent physiological mechanism that forces truth-telling.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 133,
+        "chapter": "HERE IS THE WRITING WITH GOSA'S ADVICE.",
+        "surface_quote": "men can neither lie nor use deceitful words without stammering or blushing.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "physiology",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0182",
+    "canonical_statement": "The creation of artificial languages is a mechanism used to bypass natural moral constraints and facilitate deception.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 133,
+        "chapter": "HERE IS THE WRITING WITH GOSA'S ADVICE.",
+        "surface_quote": "they went so far as to invent other languages... without betraying themselves.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "language",
+      "deception",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0183",
+    "canonical_statement": "Time acts as an inevitable force that reveals hidden or secret actions, regardless of human attempts to conceal them.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 133,
+        "chapter": "HERE IS THE WRITING WITH GOSA'S ADVICE.",
+        "surface_quote": "time brings to light the evil seed which has been sown... in darkness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0184",
+    "canonical_statement": "Linguistic fragmentation is a causal factor in the dissolution of social unity and moral order.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 134,
+        "chapter": "HERE IS THE WRITING WITH GOSA'S ADVICE.",
+        "surface_quote": "they invented as many languages as there are states... unity was lost",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "language",
+      "society",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0185",
+    "canonical_statement": "The loss of a singular, primordial language leads to the degradation of human wisdom and liberty.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 134,
+        "chapter": "HERE IS THE WRITING WITH GOSA'S ADVICE.",
+        "surface_quote": "God's language was clean forgotten... wisdom and liberty followed",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "language",
+      "metaphysics",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0186",
+    "canonical_statement": "Conflict and mutual alienation between peoples are metaphysical consequences of human presumption.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 134,
+        "chapter": "HERE IS THE WRITING WITH GOSA'S ADVICE.",
+        "surface_quote": "as a punishment of their inconsiderateness and presumption, they must quarrel",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "karma",
+      "conflict",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0187",
+    "canonical_statement": "Language acts as a metaphysical conduit that inherently transmits concepts of freedom and justice to the human consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 135,
+        "chapter": "HERE IS MY COUNSEL.",
+        "surface_quote": "If they learn God's language, then the words, 'to be free' and 'to have justice,' will come to them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "language",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0188",
+    "canonical_statement": "The purity of linguistic expression is essential for maintaining the integrity of a specific spiritual or cultural lineage.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 135,
+        "chapter": "HERE IS MY COUNSEL.",
+        "surface_quote": "Frya's or God's language has always remained here untainted.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0189",
+    "canonical_statement": "Humanity originates from a divine or primordial ancestor born in high mountain regions.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 136,
+        "chapter": "HERE IS MY COUNSEL.",
+        "surface_quote": "They believe that they are pure children of Finda, born in the Himmellaia mountains.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "origin",
+      "ancestry",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0190",
+    "canonical_statement": "Suffering and famine are products of human social and political structures rather than divine or primordial forces.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 137,
+        "chapter": "HERE IS MY COUNSEL.",
+        "surface_quote": "famines, however, must not be attributed to Wr-alda or Irtha, but to the princes and priests.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theodicy",
+      "causality",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0191",
+    "canonical_statement": "The absence of natural antidotes to lethal threats is a consequence of human moral failure and idolatry.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 138,
+        "chapter": "HERE IS MY COUNSEL.",
+        "surface_quote": "Irtha has given no antidote to their poison, because the people have so given themselves up to idolatry.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theodicy",
+      "morality",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0192",
+    "canonical_statement": "The ultimate source of all sustenance and life-giving power in the universe is a single, singular entity.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 141,
+        "chapter": "LETTER OF RIKA THE OUDMAAGD, READ AT STAVEREN AT THE JUUL FEAST.",
+        "surface_quote": "everything comes and proceeds from him for the sustenance of his creatures",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "theology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0193",
+    "canonical_statement": "Secondary manifestations of nourishment, such as nature or biological parents, are merely conduits for the primary power of the universal source.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 141,
+        "chapter": "LETTER OF RIKA THE OUDMAAGD, READ AT STAVEREN AT THE JUUL FEAST.",
+        "surface_quote": "Irtha would not bear any fruit or grain unless Wr-alda gave her the power",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0194",
+    "canonical_statement": "The divine entity Frya possesses the capacity for procreation independent of biological intercourse.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 142,
+        "chapter": "LETTER OF RIKA THE OUDMAAGD, READ AT STAVEREN AT THE JUUL FEAST.",
+        "surface_quote": "Frya bore children without having intercourse with a man.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0195",
+    "canonical_statement": "Human attempts to equate mortal status with divine archetypes constitute a fundamental error of identity.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 142,
+        "chapter": "LETTER OF RIKA THE OUDMAAGD, READ AT STAVEREN AT THE JUUL FEAST.",
+        "surface_quote": "women who wish to consider themselves equals of Frya.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "hierarchy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0196",
+    "canonical_statement": "Unjust actions and moral transgressions inherently generate their own retributive consequences over time.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 143,
+        "chapter": "LETTER OF RIKA THE OUDMAAGD, READ AT STAVEREN AT THE JUUL FEAST.",
+        "surface_quote": "every wrong sows the seed of its own rod",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "karma",
+      "causality",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0197",
+    "canonical_statement": "Post-mortem existence involves a state of consciousness capable of experiencing fear and seeking divine intervention.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 143,
+        "chapter": "LETTER OF RIKA THE OUDMAAGD, READ AT STAVEREN AT THE JUUL FEAST.",
+        "surface_quote": "Your ghosts will rise frightened out of their graves",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0198",
+    "canonical_statement": "The timeline of human suffering and divine judgment is governed by long-term cyclical cosmic periods.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 143,
+        "chapter": "LETTER OF RIKA THE OUDMAAGD, READ AT STAVEREN AT THE JUUL FEAST.",
+        "surface_quote": "they shall receive no succour before the Juul shall enter upon a pew circuit",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0199",
+    "canonical_statement": "The moral quality of an individual's soul is independent of their physical appearance or intellectual capacity.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 144,
+        "chapter": "THE END OF RIKA'S LETTER.",
+        "surface_quote": "He had a clear intellect... but his soul was blacker than his hair.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "morality",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0200",
+    "canonical_statement": "The divine entity Wr-alda communicates through natural phenomena such as thunder.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 148,
+        "chapter": "THE END OF RIKA'S LETTER.",
+        "surface_quote": "Wr-alda, she said, had told her by his thunder",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "communication",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0201",
+    "canonical_statement": "Dreams serve as a medium for the manifestation of spiritual entities or watch-maidens.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 148,
+        "chapter": "THE END OF RIKA'S LETTER.",
+        "surface_quote": "Frya's seven watch-maidens appeared to her in a dream",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dream",
+      "spirituality",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0202",
+    "canonical_statement": "The spirits of ancestors maintain a post-mortem awareness of the moral conduct of their descendants.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 149,
+        "chapter": "THE END OF RIKA'S LETTER.",
+        "surface_quote": "spirits of your forefathers appear to you, and reproach your cowardice",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ancestors",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0203",
+    "canonical_statement": "The universe operates under a moral law where actions contrary to divine counsel inevitably incur retributive consequences.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 151,
+        "chapter": "THE END OF RIKA'S LETTER.",
+        "surface_quote": "that was altogether contrary to Wr-alda's wish... Therefore the punishment was sure to follow it.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ethics",
+      "karma",
+      "divine law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0204",
+    "canonical_statement": "The enslavement of others constitutes a violation of the fundamental order established by divine authority.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 151,
+        "chapter": "THE END OF RIKA'S LETTER.",
+        "surface_quote": "he was obliged to take slaves; but that was altogether contrary to Wr-alda's wish",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "divine law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0205",
+    "canonical_statement": "Political freedom is contingent upon the rejection of hereditary monarchy and the maintenance of governance through collective consensus.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 152,
+        "chapter": "THE END OF RIKA'S LETTER.",
+        "surface_quote": "They had remained free, because they never would acknowledge any king... except those chosen.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "governance",
+      "freedom",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_oera_linda_book_0206",
+    "canonical_statement": "The efficacy of divine intervention in human conflict is contingent upon the collective belief and prayer of the populace.",
+    "attributions": [
+      {
+        "source_id": "the_oera_linda_book",
+        "chunk_index": 153,
+        "chapter": "THE END OF RIKA'S LETTER.",
+        "surface_quote": "Askar had lost the battle... because the people did not believe that Wodin could help.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "causality",
+      "belief"
+    ],
+    "editorial_status": "auto"
+  }
+]

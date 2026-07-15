@@ -1,0 +1,14 @@
+{
+  "id": "sumerian_hymns",
+  "title": "Sumerian Hymns from Cuneiform Texts in the British Museum",
+  "author": "Frederick Augustus Vanderburgh",
+  "medium": "",
+  "channel_type": "authored",
+  "tradition": "",
+  "year": 1907,
+  "region": "",
+  "ingested_at": "2026-05-26T13:43:41.559068692Z",
+  "chunk_count": 116,
+  "claim_count": 165,
+  "source_path": "incoming/Sumerian-Hymns.txt"
+}

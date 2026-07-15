@@ -1,0 +1,5517 @@
+[
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0001",
+    "canonical_statement": "Mind and body are an indivisible unity.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "mind and body are not separable",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0002",
+    "canonical_statement": "The human body possesses an inherent, intuitive wisdom.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "there is a wisdom in our bodies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0003",
+    "canonical_statement": "Healing is the process of returning to an inherent state of wholeness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "transformation brings forth the healing... of what is already there",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "healing"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0004",
+    "canonical_statement": "Psychological states and repressed emotional trauma can influence the onset and progression of physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "what in Mary’s particular experiences might also have contributed to her illness",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0005",
+    "canonical_statement": "Psychosomatic distress can manifest as physical pathology when the mind is unable to establish boundaries.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "our bodies may end up saying it for us",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "body-mind",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0006",
+    "canonical_statement": "The mind and body are a single unified entity rather than distinct, separate systems.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Dualism—cleaving into two that which is one",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "dualism",
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0007",
+    "canonical_statement": "The observer's perspective and assumptions fundamentally influence the nature and outcome of the observed phenomenon.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "position of an observer will influence the phenomenon being observed",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0008",
+    "canonical_statement": "Human experience and subjective insight constitute a form of essential knowledge that cannot be captured by scientific reductionism.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "not all essential information can be confirmed in the laboratory",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0009",
+    "canonical_statement": "The human psyche and physiological systems exist as an indissoluble unity.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "indissoluble unity of emotions and physiology",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "physiology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0010",
+    "canonical_statement": "Emotional states and psychological stress can act as primary causative agents for physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "emotional makeup... may indeed be causative in the many diseases",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0011",
+    "canonical_statement": "The human organism is a holistic entity that cannot be reduced to the sum of its constituent parts.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "human organism is more than simply the sum of its parts",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "holism",
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0012",
+    "canonical_statement": "Mental and emotional states are causally linked to physical health and the functioning of the immune system.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "emotions are deeply implicated in the causation of illness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "perception",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0013",
+    "canonical_statement": "Emotions are physical manifestations consisting of electrical, chemical, and hormonal discharges within the nervous system.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "emotions are themselves electrical, chemical and hormonal discharges",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "physiology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0014",
+    "canonical_statement": "The repression of emotions into the unconscious mind disrupts the body's physiological defense mechanisms.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Repression... disorganizes and confuses our physiological defences",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "mind-body",
+      "physiology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0015",
+    "canonical_statement": "Psychological conditioning and emotional repression may contribute to the manifestation of physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "way people have been conditioned... may contribute to their illness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0016",
+    "canonical_statement": "Conscious awareness is the necessary prerequisite for genuine agency and responsibility.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "There is no true responsibility without awareness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0017",
+    "canonical_statement": "Mind and body are not discrete entities but a single, unified system.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "no body that is not mind, no mind that is not body",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0018",
+    "canonical_statement": "The conceptual separation of mind and body is a linguistic and cognitive error.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Even to speak about links... is to imply that two discrete entities",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0019",
+    "canonical_statement": "Emotional repression can manifest as physical malignancy in the body.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "investigate the role of emotional repression in cancer",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mindbody",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0020",
+    "canonical_statement": "The body communicates internal states through the language of pain.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "telling me in the language of pain",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "mindbody"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0021",
+    "canonical_statement": "Repressed psychological dynamics are stored as programmed reflexes within the brain's structure.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "dynamic that had been etched into my developing brain",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "mindbody",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0022",
+    "canonical_statement": "Emotional repression is a universal human psychological dynamic.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "The dynamics of repression operate in all of us.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0023",
+    "canonical_statement": "Psychological repression is a primary cause of physiological stress and a significant contributor to physical illness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "repression is a major cause of stress and a significant contributor to illness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0024",
+    "canonical_statement": "The experience of shame obstructs an individual's capacity to perceive objective reality.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "fear of shame impairs our ability to see reality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0025",
+    "canonical_statement": "Psychological stress and emotional distress are causal factors in the onset or exacerbation of physical pathology.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "psychological stress increases the risk for multiple sclerosis",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "causality",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0026",
+    "canonical_statement": "Psychological stress and emotional trauma can act as catalysts for the manifestation of physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "emotional stress may be somehow implicated in the genesis of MS",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "causality",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0027",
+    "canonical_statement": "Psychological stress and boundary violations can act as catalysts for physiological disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "relationship between stress and disease",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "body-mind",
+      "causality",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0028",
+    "canonical_statement": "Psychological boundary instability in childhood manifests as physiological stress in adulthood.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "blurring of psychological boundaries... source of future physiological stress",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0029",
+    "canonical_statement": "Autoimmune processes are linked to emotional stress and personality structures.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "linking autoimmune processes themselves to stress and personality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0030",
+    "canonical_statement": "Emotional repression can contribute to the onset of physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "devastating effects of the stress brought on by emotional repression",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0031",
+    "canonical_statement": "The soul possesses a radiant quality that can persist independently of physical illness or life misery.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "he was ill, yet... he had a radiant soul",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0032",
+    "canonical_statement": "The physical body may manifest illness as a mechanism to reject an unsustainable psychological role or persona.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "MS was her means of casting off this role—her body’s way of saying no.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "body",
+      "identity",
+      "soma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0033",
+    "canonical_statement": "Artistic expression is a manifestation of emotion rather than a mechanism for emotional resolution.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "Artistic expression... is only a form of acting out emotions",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "emotion",
+      "expression"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0034",
+    "canonical_statement": "Biological functioning is inextricably linked to emotional and psychological interactions.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "emotional interactions—affect our biological functioning",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "physiology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0035",
+    "canonical_statement": "The mind, body, and external environment constitute an integrated, non-separable system.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "body and mind are separable from each other and from the milieu",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "holism",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0036",
+    "canonical_statement": "Conscious intent and decision-making can influence the biological process of healing and survival.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "conscious decision that I wanted to live",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "biology",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0037",
+    "canonical_statement": "The perception of a stressor is dependent upon the specific processing system that assigns meaning to the event.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "definition of a stressor depends on the processing system",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0038",
+    "canonical_statement": "There is no universal or uniform causal relationship between an external stimulus and the resulting internal stress response.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "no uniform and universal relationship between a stressor and the stress response",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0039",
+    "canonical_statement": "The experience of a present event is influenced by the resonance of the individual's past.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "experienced in the present, but it also has its resonance from the past",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0040",
+    "canonical_statement": "Human agency is often an illusion, as behavior is frequently driven by unconscious or unknown forces.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "forces unknown to them were driving their decisions and behaviours",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "agency",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0041",
+    "canonical_statement": "Psychological states and the perceived need for control can manifest as specific physical pathologies.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "scleroderma are those who’ve always had to feel in control",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0042",
+    "canonical_statement": "Emotional incompetence or the lack of emotional competence can manifest as physical pathology and the disruption of biological homeostasis.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 41,
+        "chapter": "General Content",
+        "surface_quote": "Emotional competence... protect ourselves from the hidden stresses that create a risk to health",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "health",
+      "consciousness",
+      "body-mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0043",
+    "canonical_statement": "Individual identity can become subsumed into a singular shared consciousness across multiple bodies.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "one possessed of two bodies",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0044",
+    "canonical_statement": "The sense of self can be experienced as a void or an absence of internal structure.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 43,
+        "chapter": "General Content",
+        "surface_quote": "huge cavern where the sense of self should be",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0045",
+    "canonical_statement": "A strong sense of self is contingent upon the presence of emotional nourishment during early childhood.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "self that could not develop under early childhood conditions of emotional barrenness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0046",
+    "canonical_statement": "A deficient sense of self leads to an unhealthy psychological fusion with other entities.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 45,
+        "chapter": "General Content",
+        "surface_quote": "In people with a weak sense of self, there is often an unhealthy fusion",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "interpersonal"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0047",
+    "canonical_statement": "Unprocessed emotional trauma and the suppression of powerful emotions can manifest as physical pathology in the nervous system.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 51,
+        "chapter": "General Content",
+        "surface_quote": "physical rigidity of ALS may well be a consequence",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soma",
+      "emotion",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0048",
+    "canonical_statement": "The nervous system possesses a finite capacity for energy expenditure regarding the suppression of emotion before losing regenerative ability.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 51,
+        "chapter": "General Content",
+        "surface_quote": "nerves may lose the ability to renew themselves",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "energy",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0049",
+    "canonical_statement": "The perceived persona or social facade may obscure the true nature of an individual's internal emotional state.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 52,
+        "chapter": "General Content",
+        "surface_quote": "Rage and anguish exist underneath the veneer of niceness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0050",
+    "canonical_statement": "Individuals may mistake a constructed social facade for their authentic self.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 52,
+        "chapter": "General Content",
+        "surface_quote": "mistakes the facade for her true self",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0051",
+    "canonical_statement": "Strongly held convictions may function as a psychological mechanism to compensate for an underlying lack of a coherent sense of self.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 55,
+        "chapter": "General Content",
+        "surface_quote": "beliefs may be... effort to build a sense of self to fill... a vacuum",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0052",
+    "canonical_statement": "Two distinct individuals can achieve a state of ontological fusion, merging into a single entity of body, heart, and soul.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 59,
+        "chapter": "General Content",
+        "surface_quote": "they fused. They became one body, heart and soul.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "union"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0053",
+    "canonical_statement": "Physical pathologies, specifically ALS, may be caused or exacerbated by emotional repression and childhood emotional trauma.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 61,
+        "chapter": "General Content",
+        "surface_quote": "ALS is caused by, or is at least potentiated by, emotional repression",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "causality",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0054",
+    "canonical_statement": "The human mind and physical body exist as an integrated complex.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 61,
+        "chapter": "General Content",
+        "surface_quote": "understanding of the mind/body complex",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0055",
+    "canonical_statement": "Physical healing can be achieved through the cultivation of unconditional self-acceptance and respect for the physical body.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 62,
+        "chapter": "General Content",
+        "surface_quote": "recovered from Lou Gehrig’s disease by learning to respect all aspects of her body",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "healing",
+      "consciousness",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0056",
+    "canonical_statement": "Psychosomatic states and emotional repression can manifest as physical pathology or physiological dysfunction.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 63,
+        "chapter": "General Content",
+        "surface_quote": "emotions were tied up... muscle tone was so much better",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0057",
+    "canonical_statement": "Conscious emotional processing and self-directed affection can facilitate physical healing.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 63,
+        "chapter": "General Content",
+        "surface_quote": "practice of emotional self-inventory and of self-love",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "healing",
+      "consciousness",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0058",
+    "canonical_statement": "Psychological states can exert biological influence over physical health and disease onset.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 65,
+        "chapter": "General Content",
+        "surface_quote": "biological connections between psychological influences and the onset of the disease",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "body",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0059",
+    "canonical_statement": "The distinction between hormonal processes and emotional states is an artificial dichotomy.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 65,
+        "chapter": "General Content",
+        "surface_quote": "artificial to impose a separation between hormones and emotions",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "emotion",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0060",
+    "canonical_statement": "Emotional states manifest biologically through the modulation of hormonal production.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 65,
+        "chapter": "General Content",
+        "surface_quote": "emotions act biologically... through the effect of hormones",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "emotion",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0061",
+    "canonical_statement": "Psychological distress and emotional repression can manifest as physical pathology in the body.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 67,
+        "chapter": "General Content",
+        "surface_quote": "cancer had to do with confusion",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0062",
+    "canonical_statement": "Chronic emotional suppression, specifically of anger, correlates with the manifestation of physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 70,
+        "chapter": "General Content",
+        "surface_quote": "association between the diagnosis of breast cancer and... abnormal release of emotions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0063",
+    "canonical_statement": "The repression of anger increases physiological stress, which contributes to biological risk.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 70,
+        "chapter": "General Content",
+        "surface_quote": "Repression of anger increases the risk for cancer... magnifies exposure to physiological stress",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "stress",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0064",
+    "canonical_statement": "Psychological distress and emotional trauma can manifest as physical pathology in the biological body.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 71,
+        "chapter": "General Content",
+        "surface_quote": "stress was instrumental in the development of her cancer",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0065",
+    "canonical_statement": "The human essence or soul is a distinct entity that can be damaged by emotional suffering.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 71,
+        "chapter": "General Content",
+        "surface_quote": "How could I have done that to my soul",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0066",
+    "canonical_statement": "The archetype of the mother is analogous to the fundamental nature of the world in its role as a provider.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 72,
+        "chapter": "General Content",
+        "surface_quote": "Mother is like the world—she’s just supposed to be there",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "archetype",
+      "existence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0067",
+    "canonical_statement": "Consciousness persists after physical death and retains the capacity for recognition and reunion.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 76,
+        "chapter": "General Content",
+        "surface_quote": "she would wait for me wherever it was that she was going",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0068",
+    "canonical_statement": "Memory is inherently selective and subjective.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 79,
+        "chapter": "General Content",
+        "surface_quote": "Memory is so selective, so subjective.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0069",
+    "canonical_statement": "Human personality is not inherently exhausting; fatigue resulting from interpersonal interaction is a product of the receiver's effort rather than the emitter's nature.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 83,
+        "chapter": "General Content",
+        "surface_quote": "There’s no such thing as a tiring person.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0070",
+    "canonical_statement": "Physical diseases can be the somatic manifestation of a poorly differentiated sense of individual identity.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 84,
+        "chapter": "General Content",
+        "surface_quote": "Cancer and ALS... happen to people who have a poor sense of themselves",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "health",
+      "identity",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0071",
+    "canonical_statement": "Psychological development is compensatory; deficiencies in one domain lead to overdevelopment in another.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 84,
+        "chapter": "General Content",
+        "surface_quote": "What doesn’t develop in one area will overdevelop in another",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "psychology",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0072",
+    "canonical_statement": "Psychosomatic illness is linked to the repression of anger and the inability to establish interpersonal boundaries.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 85,
+        "chapter": "General Content",
+        "surface_quote": "people with cancers... have difficulty saying no and expressing anger",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0073",
+    "canonical_statement": "Physical illness can be an internalized manifestation of a person's life experience and relational dynamics.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 85,
+        "chapter": "General Content",
+        "surface_quote": "I’ve invited the cancer into my body",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0074",
+    "canonical_statement": "Individual consciousness or illness can be shared or distributed across relational bonds.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 85,
+        "chapter": "General Content",
+        "surface_quote": "you’re a part of this too... your own part of my cancer",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0075",
+    "canonical_statement": "Death is facilitated by an external entity or psychopomp.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 85,
+        "chapter": "General Content",
+        "surface_quote": "a man who’d come to take her",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0076",
+    "canonical_statement": "Entities or guides act as escorts for consciousness during the transition of death.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 86,
+        "chapter": "General Content",
+        "surface_quote": "people who come for us as we die",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0077",
+    "canonical_statement": "The human mind translates non-conceptual metaphysical experiences into mental images and thoughts.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 86,
+        "chapter": "General Content",
+        "surface_quote": "mind has an experience, and we translate it into an image",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0078",
+    "canonical_statement": "The ability to perceive the suffering of others is contingent upon the recognition of one's own internal suffering.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 86,
+        "chapter": "General Content",
+        "surface_quote": "impossible for you to clearly see Barbara’s... because we haven’t seen our own",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0079",
+    "canonical_statement": "The mind generates symbolic imagery to represent underlying emotional anxieties.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 87,
+        "chapter": "General Content",
+        "surface_quote": "mind will create the image of a monster",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0080",
+    "canonical_statement": "The primary caregiver (mother) serves as the child's initial conceptualization of the universe.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 88,
+        "chapter": "General Content",
+        "surface_quote": "The mother is the universe for us.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0081",
+    "canonical_statement": "The experience of maternal emotional unavailability constitutes a fundamental form of abandonment.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 88,
+        "chapter": "General Content",
+        "surface_quote": "the child is actually experiencing abandonment by the mom",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0082",
+    "canonical_statement": "Psychological and emotional burdens are transmitted across multiple generations.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 89,
+        "chapter": "General Content",
+        "surface_quote": "carrying the burden of generations",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "inheritance",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0083",
+    "canonical_statement": "Intergenerational emotional trauma and behavioral patterns contribute to the manifestation of physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 89,
+        "chapter": "General Content",
+        "surface_quote": "generations... bear a part in the genesis of... cancer",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "health",
+      "causality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0084",
+    "canonical_statement": "Physical pathology is influenced by the psychological state and the capacity for emotional expression.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 90,
+        "chapter": "General Content",
+        "surface_quote": "lung cancer were frequently characterized by a tendency to 'bottle up' emotions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0085",
+    "canonical_statement": "Psychological states exert a direct causal influence on biological and physiological processes.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 92,
+        "chapter": "General Content",
+        "surface_quote": "Psychological influences make a decisive biological contribution",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0086",
+    "canonical_statement": "Mind and body are not autonomous entities but components of a single, integrated super-system.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 92,
+        "chapter": "General Content",
+        "surface_quote": "Biologic and psychological activity are not independent",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0087",
+    "canonical_statement": "The perceived division between psychological and biological sciences is a conceptual artifact rather than a fundamental reality.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 92,
+        "chapter": "General Content",
+        "surface_quote": "conceptual division... is a historical artifact",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0088",
+    "canonical_statement": "Psychological states and emotional repression directly influence biological processes and physical health.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 97,
+        "chapter": "General Content",
+        "surface_quote": "Stress and the repression of emotion can negatively affect both of those processes.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0089",
+    "canonical_statement": "The human endocrine system serves as a mediator between the psyche and physical pathology.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 97,
+        "chapter": "General Content",
+        "surface_quote": "endocrine system provides one critical mediator of interaction between psyche and tumor",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0090",
+    "canonical_statement": "The conceptualization of cancer as an external invader is a distortion of reality.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 101,
+        "chapter": "General Content",
+        "surface_quote": "conceive of cancer as an invader... is a distortion of reality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0091",
+    "canonical_statement": "The biological state of an organism is determined by a synthesis of biological, psychological, and social factors.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 102,
+        "chapter": "General Content",
+        "surface_quote": "biopsychosocial state of the organism",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0092",
+    "canonical_statement": "Emotional states exert a causal influence on the physical progression of disease within the body.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 102,
+        "chapter": "General Content",
+        "surface_quote": "emotional states are of great potential significance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0093",
+    "canonical_statement": "Psychological states and emotional repression directly influence physiological health and the manifestation of disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 104,
+        "chapter": "General Content",
+        "surface_quote": "internal milieu is profoundly affected by the stressors",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0094",
+    "canonical_statement": "The inability to maintain authenticity and express the true self leads to a state of existential hopelessness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 104,
+        "chapter": "General Content",
+        "surface_quote": "hopelessness follows from the chronic inability to be true to oneself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0095",
+    "canonical_statement": "Psychological states and emotional factors influence the physiological manifestation and progression of physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 112,
+        "chapter": "General Content",
+        "surface_quote": "potential links between stress, emotions and prostate cancer",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "causality",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0096",
+    "canonical_statement": "Psychic and emotional events exert a direct causal influence on biological hormonal functioning.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 115,
+        "chapter": "General Content",
+        "surface_quote": "hormones... are affected by psychic events",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "biology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0097",
+    "canonical_statement": "Behavioral changes and social status precede and determine physiological and hormonal alterations.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 115,
+        "chapter": "General Content",
+        "surface_quote": "behavioural changes... lead to the subsequent physiologic changes",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "biology",
+      "causality",
+      "behavior"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0098",
+    "canonical_statement": "Psychological states of dependency and a lack of individuation correlate with increased susceptibility to physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 118,
+        "chapter": "General Content",
+        "surface_quote": "dependent men were more likely to develop a number of diseases",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0099",
+    "canonical_statement": "The essential core of an individual's identity is distinct from their professional or social roles.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 119,
+        "chapter": "General Content",
+        "surface_quote": "I used to think the core of me was in politics…. It isn’t.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0100",
+    "canonical_statement": "Divine providence determines the occurrence of physical illness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 120,
+        "chapter": "General Content",
+        "surface_quote": "God sent him this disease",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0101",
+    "canonical_statement": "Psychological repression may contribute to the manifestation of physical malignancy.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 124,
+        "chapter": "General Content",
+        "surface_quote": "repression plays a role in the onset of testicular malignancy",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0102",
+    "canonical_statement": "Psychological repression is linked to the development of malignant melanoma.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 127,
+        "chapter": "General Content",
+        "surface_quote": "research evidence linking repression and the development of cancer",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0103",
+    "canonical_statement": "Emotional experiences can occur and produce physiological effects without being registered in conscious awareness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 131,
+        "chapter": "General Content",
+        "surface_quote": "sequester their feelings in a place completely beyond conscious awareness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0104",
+    "canonical_statement": "Psychological traits and emotional coping mechanisms are causally linked to the development of physical disease states.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 133,
+        "chapter": "General Content",
+        "surface_quote": "cancer would be associated with any pre-existing psychological factors",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "causality",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0105",
+    "canonical_statement": "Personality is largely composed of acquired coping mechanisms rather than fixed inherent traits.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 134,
+        "chapter": "General Content",
+        "surface_quote": "personality is... only coping mechanisms a person acquired in childhood",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "psyche"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0106",
+    "canonical_statement": "Personality traits emerge from the interaction between innate temperament and early childhood emotional environments.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 134,
+        "chapter": "General Content",
+        "surface_quote": "childhood interact with inborn temperament to give rise to personality traits",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0107",
+    "canonical_statement": "Personality traits are often acquired coping mechanisms rather than innate characteristics of the self.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 135,
+        "chapter": "General Content",
+        "surface_quote": "drive to control is not an innate trait but a coping style",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0108",
+    "canonical_statement": "The perceived self is frequently a collection of habituated defensive patterns.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 135,
+        "chapter": "General Content",
+        "surface_quote": "traits may be no more than habitual defensive techniques",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0109",
+    "canonical_statement": "Psychological stress and emotional trauma can manifest as physical disease in the body.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 141,
+        "chapter": "General Content",
+        "surface_quote": "connection between your stresses and your disease",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0110",
+    "canonical_statement": "Psychosocial factors influence biological disease susceptibility and activity via psychoimmunological pathways.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 143,
+        "chapter": "General Content",
+        "surface_quote": "psychosocial factors do affect disease susceptibility and activity",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "physiology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0111",
+    "canonical_statement": "Psychological states and emotions can trigger physiological changes and biological healing processes.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 145,
+        "chapter": "General Content",
+        "surface_quote": "placebo effect is entirely physiological... induced by thought or emotion",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "body",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0112",
+    "canonical_statement": "Subjective experience of physical sensation can exist independently of anatomical or biochemical pathology.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 147,
+        "chapter": "General Content",
+        "surface_quote": "symptoms are not explainable by any anatomical, pathological or biochemical abnormality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "body",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0113",
+    "canonical_statement": "The brain processes sensory data through emotional centers before relaying it to the gut.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 152,
+        "chapter": "General Content",
+        "surface_quote": "relayed to the gut is the interpretation... by emotional centres",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0114",
+    "canonical_statement": "Physiological responses in the gut reinforce the brain's emotional interpretations.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 152,
+        "chapter": "General Content",
+        "surface_quote": "physiological events in the gut then reinforce that emotional interpretation",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "body-mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0115",
+    "canonical_statement": "Certain physiological processes must occur outside of conscious awareness for life to be viable.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 152,
+        "chapter": "General Content",
+        "surface_quote": "functions must take place without intruding on consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0116",
+    "canonical_statement": "Physical pain serves as a secondary sensory mechanism for processing repressed or blocked psychological information.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 158,
+        "chapter": "General Content",
+        "surface_quote": "pain is also a mode of perception",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "body-mind",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0117",
+    "canonical_statement": "Unconscious emotional repression can manifest as somatic physical distress.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 158,
+        "chapter": "General Content",
+        "surface_quote": "pain... connected with her unconscious repression of anger",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "body-mind",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0118",
+    "canonical_statement": "Physical ailments can function as somatic manifestations of ignored emotional signals.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 159,
+        "chapter": "General Content",
+        "surface_quote": "body says, ‘Okay, here are some physical signals for you.’",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0119",
+    "canonical_statement": "Chronic stressful experiences can lead to a generalized sensitization of the nervous system's perception of pain.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 159,
+        "chapter": "General Content",
+        "surface_quote": "concept of nervous-system sensitization by stressful experience",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "perception",
+      "stress"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0120",
+    "canonical_statement": "Psychological states and repressed emotions can manifest as physical pathology.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 161,
+        "chapter": "General Content",
+        "surface_quote": "impact of psychological factors on a disease",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0121",
+    "canonical_statement": "The human self is contingent upon the integrity of memory and intellect.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 162,
+        "chapter": "General Content",
+        "surface_quote": "witnesses his memory, his intellect, his very self dissolve",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0122",
+    "canonical_statement": "Certain highly sensitive individuals possess a prescient capacity to perceive latent physiological or psychological processes within the body-mind complex.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 165,
+        "chapter": "General Content",
+        "surface_quote": "uncanny prescience of deeply hidden processes at work in the body/mind",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "body-mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0123",
+    "canonical_statement": "Repressed negative emotions act as a chronic source of physiological stress and biological damage.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 168,
+        "chapter": "General Content",
+        "surface_quote": "repression of negative emotion... is a chronic and significant source of damaging stress",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "emotion",
+      "body-mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0124",
+    "canonical_statement": "The human psyche absorbs emotional states and systemic stress from its environment regardless of cognitive awareness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 168,
+        "chapter": "General Content",
+        "surface_quote": "emotionally he is absorbing all the negative psychic vibrations",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0125",
+    "canonical_statement": "Emotional states can exist and exert influence while remaining outside the boundaries of conscious awareness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 171,
+        "chapter": "General Content",
+        "surface_quote": "his rage lay beyond the bounds of consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "emotion",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0126",
+    "canonical_statement": "Psychosomatic stress can be a primary causal factor in the development of autoimmune physical pathology.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 175,
+        "chapter": "General Content",
+        "surface_quote": "rheumatoid arthritis has... a nervous origin",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "causality",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0127",
+    "canonical_statement": "Psychological confusion regarding the boundary between self and non-self is mirrored by immunologic dysfunction.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 179,
+        "chapter": "General Content",
+        "surface_quote": "immunologic confusion that perfectly mirrors the unconscious psychological confusion",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0128",
+    "canonical_statement": "The mind and body operate as a single, interconnected super-system (PNI system).",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 179,
+        "chapter": "General Content",
+        "surface_quote": "interconnected body/mind mechanisms within the emotional-nervous-immunehormonal super-system",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0129",
+    "canonical_statement": "Emotions are biological mechanisms evolved for the purpose of organismal survival.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 179,
+        "chapter": "General Content",
+        "surface_quote": "Emotions... evolved as part and parcel of the apparatus of survival",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "emotion",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0130",
+    "canonical_statement": "The capacity to experience and respond to threat requires a fundamental ontological distinction between self and non-self.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 180,
+        "chapter": "General Content",
+        "surface_quote": "fundamental differentiation to be made is between self and non-self",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0131",
+    "canonical_statement": "The immune system functions as a sensory organ dedicated to the recognition of self and non-self.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 180,
+        "chapter": "General Content",
+        "surface_quote": "immune system is also a sensory organ",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0132",
+    "canonical_statement": "The biological immune system functions as a decentralized cognitive system capable of memory and perception.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 181,
+        "chapter": "General Content",
+        "surface_quote": "immune system as a 'floating brain'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0133",
+    "canonical_statement": "The identity of the 'self' is biologically defined by the presence of specific molecular markers.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 181,
+        "chapter": "General Content",
+        "surface_quote": "self is identified by means of so-called self-antigens",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0134",
+    "canonical_statement": "Psychological boundaries and physiological boundaries are functionally interdependent; a failure in the former precipitates a failure in the latter.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 182,
+        "chapter": "General Content",
+        "surface_quote": "impairment is bound to extend to our physiology as well",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "physiology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0135",
+    "canonical_statement": "The biological immune system and the psychological emotional system share a fundamental operational mechanism based on the distinction between self and non-self.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 182,
+        "chapter": "General Content",
+        "surface_quote": "shared functions of immunity and emotion",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "physiology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0136",
+    "canonical_statement": "Psychological states, specifically emotional repression and stress, can induce physiological autoimmune responses.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 183,
+        "chapter": "General Content",
+        "surface_quote": "emotional repression had already initiated immune reactivity against the self",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0137",
+    "canonical_statement": "The recurrence or re-enactment of past emotional trauma can trigger physical disease manifestations.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 183,
+        "chapter": "General Content",
+        "surface_quote": "arthritis occurred in response to an event that was a re-enactment",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "trauma",
+      "causality",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0138",
+    "canonical_statement": "Psychosocial stress factors influence the onset and severity of physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 184,
+        "chapter": "General Content",
+        "surface_quote": "onset and flare-ups of rheumatic diseases related to stress",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0139",
+    "canonical_statement": "Physical illness can be a result of excessive physical exertion and lack of rest.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 186,
+        "chapter": "General Content",
+        "surface_quote": "reasons, too, that I had rheumatoid... I was abusing myself",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "body",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0140",
+    "canonical_statement": "Physical illness can serve as a mechanism for psychological or spiritual learning.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 187,
+        "chapter": "General Content",
+        "surface_quote": "disease... was perhaps trying to teach her something",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "health",
+      "consciousness",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0141",
+    "canonical_statement": "Biological life is contingent upon the maintenance of specific internal and external parameters.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 193,
+        "chapter": "General Content",
+        "surface_quote": "Life is possible only within certain well-defined limits",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0142",
+    "canonical_statement": "Human physiological homeostasis and health are determined by the intersection of biological, psychological, and social factors.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 195,
+        "chapter": "General Content",
+        "surface_quote": "human physiologic homeostasis... influenced by the physical environment but also by the social environment",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "consciousness",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0143",
+    "canonical_statement": "Human physiological functioning is intrinsically linked to emotional and social connectivity.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 199,
+        "chapter": "General Content",
+        "surface_quote": "physiological functioning... is inseparable... from the emotional and social connections",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "physiology",
+      "consciousness",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0144",
+    "canonical_statement": "Emotional states can directly influence biological hormonal regulation and the development of physical pathology.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 199,
+        "chapter": "General Content",
+        "surface_quote": "effect of emotions on hormonal regulation... promotional effect on... cancers",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physiology",
+      "emotion",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0145",
+    "canonical_statement": "Individual differences in physiological responses to external stressors are determined by emotional development and innate temperament.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 199,
+        "chapter": "General Content",
+        "surface_quote": "apart from inborn temperament... A key factor is emotional development",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "physiology",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0146",
+    "canonical_statement": "Human physiological functioning is characterized by a continuous, moment-to-moment interrelatedness with other individuals.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 200,
+        "chapter": "General Content",
+        "surface_quote": "moment-to-moment interrelatedness of the physiological functioning of individuals",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "interconnectedness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0147",
+    "canonical_statement": "Interpersonal relationships act as biological regulators for the individual throughout the entire lifespan.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 200,
+        "chapter": "General Content",
+        "surface_quote": "relationships remain important biological regulators throughout a whole life",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0148",
+    "canonical_statement": "Emotional stress can be transferred between individuals and manifest as physical pathology in the recipient.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 202,
+        "chapter": "General Content",
+        "surface_quote": "anxiety in one person to be manifested as a physical symptom in another",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "interpersonal",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0149",
+    "canonical_statement": "The teleological objective of nature is the evolution of the individual from dependence to mature interdependence.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 202,
+        "chapter": "General Content",
+        "surface_quote": "Nature’s ultimate goal is to foster the growth... to the interdependence",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "teleology",
+      "development",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0150",
+    "canonical_statement": "Human development is characterized by a transition from external regulation to internal self-regulation.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 202,
+        "chapter": "General Content",
+        "surface_quote": "moving from complete external regulation to self-regulation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "development",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0151",
+    "canonical_statement": "Human beings possess a predetermined life purpose established at or before conception.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 205,
+        "chapter": "General Content",
+        "surface_quote": "She failed in her appointed life purpose almost from conception.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "destiny",
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0152",
+    "canonical_statement": "Humans and animals share ancestral brain structures that enable direct emotional communication.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 206,
+        "chapter": "General Content",
+        "surface_quote": "connect via shared brain structures that predate the development of the human frontal cortex",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0153",
+    "canonical_statement": "Animals possess a higher sensitivity to limbic system signals than humans do.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 206,
+        "chapter": "General Content",
+        "surface_quote": "animals are acutely sensitive to messages from the limbic brain",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0154",
+    "canonical_statement": "Early childhood emotional bonds and perceptions of parental love are causally linked to long-term physical and mental health outcomes.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 208,
+        "chapter": "General Content",
+        "surface_quote": "ratings of feelings of being loved are significantly related to health status",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "health",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0155",
+    "canonical_statement": "Tactile stimulation is a fundamental requirement for the development of healthy emotional and affectional capacities in humans.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 208,
+        "chapter": "General Content",
+        "surface_quote": "tactile stimulation is of fundamental significance for the development of healthy emotional... relationships",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "development",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0156",
+    "canonical_statement": "External interactions and social-emotional stimuli program human physiological and psychological development.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 209,
+        "chapter": "General Content",
+        "surface_quote": "Interactions with the world program our physiological and psychological development.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "development",
+      "consciousness",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0157",
+    "canonical_statement": "Emotional contact and physical contact are functionally analogous in their effect on the organism.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 209,
+        "chapter": "General Content",
+        "surface_quote": "Emotional contact is as important as physical contact.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0158",
+    "canonical_statement": "The human brain and sensory organs serve as the interface through which relational experiences shape individual evolution.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 209,
+        "chapter": "General Content",
+        "surface_quote": "sensory organs and brains provide the interface through which relationships shape our evolution",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0159",
+    "canonical_statement": "Social-emotional interactions regulate the activity and development of the psychoneuroimmunoendocrine system.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 209,
+        "chapter": "General Content",
+        "surface_quote": "they regulate the tone, activity and development of the psychoneuroimmunoendocrine (PNI) super-system",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0160",
+    "canonical_statement": "Human perception of the future is a projection based on the memory of past experiences.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 213,
+        "chapter": "General Content",
+        "surface_quote": "anticipate the future based on our perception of the past",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0161",
+    "canonical_statement": "The fundamental sense of reality and the nature of the world are constructed through early interpersonal relationships.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 213,
+        "chapter": "General Content",
+        "surface_quote": "parent-child interaction is established the child’s sense of the world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0162",
+    "canonical_statement": "Individual self-concept and the capacity for self-love are derived from the perceived quality of early external care.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 213,
+        "chapter": "General Content",
+        "surface_quote": "understand ourselves as we have felt understood",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0163",
+    "canonical_statement": "Early childhood trauma is encoded as biological imperatives that influence future behavioral patterns.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 215,
+        "chapter": "General Content",
+        "surface_quote": "entrenched as the biology of loss",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "biology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0164",
+    "canonical_statement": "Subconscious physiological imprints govern the selection of interpersonal dynamics in adulthood.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 215,
+        "chapter": "General Content",
+        "surface_quote": "psychological programming... choose adult relationships that re-enact",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0165",
+    "canonical_statement": "Parental love is an infinite quality inherent to the mammalian biological attachment system.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 216,
+        "chapter": "General Content",
+        "surface_quote": "Parental love is infinite... embedded in the attachment apparatus",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "biology",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0166",
+    "canonical_statement": "The transmission of love from parent to child is mediated and potentially distorted by the parent's individual personality and psychological state.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 216,
+        "chapter": "General Content",
+        "surface_quote": "love... is refracted through the parent’s personality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0167",
+    "canonical_statement": "Unresolved psychological patterns are transmitted intergenerationally.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 220,
+        "chapter": "General Content",
+        "surface_quote": "Whatever affected one generation but has not been fully resolved will be passed on",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "causality",
+      "inheritance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0168",
+    "canonical_statement": "Psychological trauma and stress are transmitted transgenerationally.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 221,
+        "chapter": "General Content",
+        "surface_quote": "stress is transmitted transgenerationally",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0169",
+    "canonical_statement": "Individual behavioral patterns are nested within ancestral legacies.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 221,
+        "chapter": "General Content",
+        "surface_quote": "generations are boxes within boxes",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0170",
+    "canonical_statement": "Psychological stress and anxiety can be transmitted unintentionally across generations.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 222,
+        "chapter": "General Content",
+        "surface_quote": "unintentional transmission of stress and anxiety across the generations",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "inheritance",
+      "consciousness",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0171",
+    "canonical_statement": "Childhood trauma and coping mechanisms can contribute to the development of physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 222,
+        "chapter": "General Content",
+        "surface_quote": "abuse and abandonment... created a coping pattern... scleroderma was an outcome",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "body-mind",
+      "causality",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0172",
+    "canonical_statement": "Psychological suffering can be transmitted across multiple generations within a family lineage.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 225,
+        "chapter": "General Content",
+        "surface_quote": "demonstrated the multigenerational nature of suffering",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "suffering",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0173",
+    "canonical_statement": "The subconscious mind possesses an awareness of deception that exists independently of conscious perception.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 225,
+        "chapter": "General Content",
+        "surface_quote": "knows when we are lied to... never reaches consciousness",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0174",
+    "canonical_statement": "Individuals occupy specific roles within a family system that are inherited from ancestral history.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 225,
+        "chapter": "General Content",
+        "surface_quote": "role in the family system, a role bequeathed to her",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "system",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0175",
+    "canonical_statement": "Repeated adaptive responses to perceived external demands crystallize into permanent character traits.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 226,
+        "chapter": "General Content",
+        "surface_quote": "adaptive responses... become character traits",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0176",
+    "canonical_statement": "Biological existence is sustained by a finite reserve of adaptation energy; its total depletion results in death.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 226,
+        "chapter": "General Content",
+        "surface_quote": "all of our adaptability is used up... death follow",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "substrate",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0177",
+    "canonical_statement": "Aging is the process of the gradual depletion of an organism's adaptation energy.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 226,
+        "chapter": "General Content",
+        "surface_quote": "Aging... reserves of adaptation energy become depleted",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0178",
+    "canonical_statement": "An individual's capacity for adaptiveness is contingent upon the differentiation and adaptiveness of their ancestral lineage.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 226,
+        "chapter": "General Content",
+        "surface_quote": "adaptiveness depends... on... previous generations",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0179",
+    "canonical_statement": "Physical illness is a manifestation of a systemic emotional process extending across multiple generations.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 227,
+        "chapter": "General Content",
+        "surface_quote": "physical illness... is a symptom of a relationship process",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "health",
+      "identity",
+      "systemics",
+      "intergenerational"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0180",
+    "canonical_statement": "The individual is not an isolated entity but is shaped by a multigenerational system.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 228,
+        "chapter": "General Content",
+        "surface_quote": "individual person is an isolated entity, not recognizing... multigenerational family system",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "systems"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0181",
+    "canonical_statement": "Individual consciousness and functioning are inextricably embedded within and regulated by larger collective social and cultural systems.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 229,
+        "chapter": "General Content",
+        "surface_quote": "functioning of human beings can no more be isolated from the larger social context",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "interconnectedness",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0182",
+    "canonical_statement": "Human existence is not an abstract entity but is fundamentally shaped by the specific material and social conditions of its environment.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 229,
+        "chapter": "General Content",
+        "surface_quote": "human life existed in an abstract form separable from the human beings",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0183",
+    "canonical_statement": "The prevailing cultural ideology posits a fundamental separation between mind and body.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 230,
+        "chapter": "General Content",
+        "surface_quote": "separation of mind and body that informs medical practice",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "ideology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0184",
+    "canonical_statement": "The cell membrane, rather than the nucleus, serves as the primary organ of perception and decision-making for the cell.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 232,
+        "chapter": "General Content",
+        "surface_quote": "cell membrane fulfills the functions analogous to the activities of the brain",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0185",
+    "canonical_statement": "Genetic material is not the primary determinant of human behavior and health.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 232,
+        "chapter": "General Content",
+        "surface_quote": "genes are [not] all-decisive in human behaviour and health",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0186",
+    "canonical_statement": "Genetic information is a necessary but insufficient condition for the manifestation of complex psychological and behavioral traits.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 233,
+        "chapter": "General Content",
+        "surface_quote": "genes alone cannot possibly account for the complex psychological characteristics",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "determinism",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0187",
+    "canonical_statement": "Biological blueprints function as templates for physical structure rather than as the sole cause of existence.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 233,
+        "chapter": "General Content",
+        "surface_quote": "biological template for the synthesis of the proteins",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0188",
+    "canonical_statement": "The realization of a biological plan is dependent upon the broader context of the living organism.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 233,
+        "chapter": "General Content",
+        "surface_quote": "Whether the plan becomes realized depends on far more than the gene",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0189",
+    "canonical_statement": "Biological expression is determined by the interaction between genetic potential and the external environment.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 234,
+        "chapter": "General Content",
+        "surface_quote": "cells are defined... by the requirements of the entire organism",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "determinism",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0190",
+    "canonical_statement": "Human development and functioning are primarily regulated by the early psychoemotional and physical environment.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 234,
+        "chapter": "General Content",
+        "surface_quote": "human... functioning is most profoundly regulated by the early environment",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "development",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0191",
+    "canonical_statement": "Human existence cannot be understood in isolation from its environmental context.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 234,
+        "chapter": "General Content",
+        "surface_quote": "humans could never be understood apart from their environment",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0192",
+    "canonical_statement": "Biological development and cellular identity are determined by environmental interaction rather than an internal genetic program.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 235,
+        "chapter": "General Content",
+        "surface_quote": "cell’s fate is controlled by interaction with environment, not genetic program",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "biology",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0193",
+    "canonical_statement": "Biological organisms cannot simultaneously occupy states of defense and growth.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 236,
+        "chapter": "General Content",
+        "surface_quote": "cells... can be either in defensive mode or growth mode but not both",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "state"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0194",
+    "canonical_statement": "Perceptions of the environment are stored within cellular memory at a molecular level.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 236,
+        "chapter": "General Content",
+        "surface_quote": "perceptions of the environment are stored in cellular memory",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "memory",
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0195",
+    "canonical_statement": "Unconscious beliefs are embedded at the cellular level and exert primary control over behavior regardless of conscious thought.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 236,
+        "chapter": "General Content",
+        "surface_quote": "unconscious beliefs, embedded at the cellular level... control our behaviours",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0196",
+    "canonical_statement": "Psychosomatic illness can manifest as a physical expression of mental or emotional incapacity.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 237,
+        "chapter": "General Content",
+        "surface_quote": "the body saying no when your mind can’t",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0197",
+    "canonical_statement": "Existence is contingent upon external action and the fulfillment of demands.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 243,
+        "chapter": "General Content",
+        "surface_quote": "don't exist unless I do something",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0198",
+    "canonical_statement": "Physical illness can manifest as a result of psychological or spiritual misalignment with one's life path.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 244,
+        "chapter": "General Content",
+        "surface_quote": "my body said no",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "body",
+      "consciousness",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0199",
+    "canonical_statement": "Unconscious perceptions and interpretations of early interactions form a biological substrate of belief that governs human behavior and emotion.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 245,
+        "chapter": "General Content",
+        "surface_quote": "interpretations, embedded at the cellular level, constitute the biology of belief",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "biology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0200",
+    "canonical_statement": "Psychosomatic illness is frequently caused by stress induced by unconscious belief systems.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 245,
+        "chapter": "General Content",
+        "surface_quote": "diseases... is an overload of stress induced by unconscious beliefs",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "health",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0201",
+    "canonical_statement": "The primary agent of healing is internal and resides within the individual's own biological and psychological state.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 245,
+        "chapter": "General Content",
+        "surface_quote": "the healing agent lies within",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "healing",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0202",
+    "canonical_statement": "True liberation from external circumstances requires the prior liberation from internalized biological belief systems.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 245,
+        "chapter": "General Content",
+        "surface_quote": "liberate ourselves from the tyranny of our ingrained biology of belief",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "freedom",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0203",
+    "canonical_statement": "Biological processes are characterized by dynamic flow and equilibrium rather than adversarial conflict.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 246,
+        "chapter": "General Content",
+        "surface_quote": "What happens with our body is a matter of flow",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "biology",
+      "balance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0204",
+    "canonical_statement": "The manifestation of disease is not determined solely by the presence of a pathogen but by the state of the host organism.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 246,
+        "chapter": "General Content",
+        "surface_quote": "why will the same bacterium... spare one person but fell another?",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "disease",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0205",
+    "canonical_statement": "The state of the host organism is the primary determinant of disease manifestation.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 247,
+        "chapter": "General Content",
+        "surface_quote": "the terrain... is everything",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "biology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0206",
+    "canonical_statement": "Linear cause-and-effect models are insufficient for understanding the transmutation of health and illness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 247,
+        "chapter": "General Content",
+        "surface_quote": "cause-and-effect model... is itself a source of misperception",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0207",
+    "canonical_statement": "The fundamental causes of health and disease reside within the internal state of the individual rather than external agents.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 247,
+        "chapter": "General Content",
+        "surface_quote": "we have to look inside",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0208",
+    "canonical_statement": "Disease etiology is multifactorial and cannot be reduced to a single isolated cause.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 247,
+        "chapter": "General Content",
+        "surface_quote": "No disease has a single cause",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0209",
+    "canonical_statement": "Human biology is the result of a continuous energy exchange between the organism and its environment.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 248,
+        "chapter": "General Content",
+        "surface_quote": "biology reflects the history of a human organism in lifelong interaction",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "biology",
+      "energy",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0210",
+    "canonical_statement": "Healing is the process of restoring balance and harmony to a system.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 248,
+        "chapter": "General Content",
+        "surface_quote": "healing is a phenomenon of finding balance and harmony",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "healing",
+      "harmony"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0211",
+    "canonical_statement": "The essential state of the being is wholeness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 248,
+        "chapter": "General Content",
+        "surface_quote": "how is it that we could ever be less than whole?",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "wholeness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0212",
+    "canonical_statement": "Disease is defined as a state of systemic disharmony.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 248,
+        "chapter": "General Content",
+        "surface_quote": "Disease is disharmony",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "disease",
+      "harmony"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0213",
+    "canonical_statement": "Conscious insight and self-knowledge possess the capacity to transform the state of being.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 248,
+        "chapter": "General Content",
+        "surface_quote": "knowledge and insight have the power to transform",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0214",
+    "canonical_statement": "Physical illness is a manifestation of internal disharmony.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 249,
+        "chapter": "General Content",
+        "surface_quote": "it is an expression of an internal disharmony",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "health",
+      "consciousness",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0215",
+    "canonical_statement": "The denial of negative aspects of reality creates psychological stress.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 249,
+        "chapter": "General Content",
+        "surface_quote": "excluding those parts of reality that strike us as negative",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0216",
+    "canonical_statement": "True autonomy is the absence of all external or internal drivers.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 250,
+        "chapter": "General Content",
+        "surface_quote": "autonomy is impossible as long as one is driven by anything",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0217",
+    "canonical_statement": "Perceived choice can be an illusion masking deterministic drivers.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 250,
+        "chapter": "General Content",
+        "surface_quote": "choices he makes are attached to invisible strings",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "will",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0218",
+    "canonical_statement": "Existence may be perceived as contingent upon the fulfillment of external demands.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 250,
+        "chapter": "General Content",
+        "surface_quote": "if I don’t fulfill demands, I won’t really exist",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0219",
+    "canonical_statement": "Psychological avoidance of internal distress via artificial positivity reduces biological immunity to illness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 251,
+        "chapter": "General Content",
+        "surface_quote": "positive states... to tune out psychic discomfort lower resistance to illness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "health",
+      "body-mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0220",
+    "canonical_statement": "The brain functions as the central regulator and integrator of all bodily systems and environmental interactions.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 251,
+        "chapter": "General Content",
+        "surface_quote": "brain governs and integrates the activities of all organs",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0221",
+    "canonical_statement": "Chronic environmental instability during development impairs the brain's capacity for environmental evaluation and discernment.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 251,
+        "chapter": "General Content",
+        "surface_quote": "impairment occurs in the developing apparatus of the brain",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0222",
+    "canonical_statement": "The adult personality's predisposition to disease is rooted in the childhood necessity to avoid pain and conflict.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 251,
+        "chapter": "General Content",
+        "surface_quote": "need of the child to avoid pain... predisposes the adult to disease",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "health",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0223",
+    "canonical_statement": "Internalized roles or personas are narrative constructs rather than autonomous controlling entities within the psyche.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 251,
+        "chapter": "General Content",
+        "surface_quote": "as if there really existed a powerful 'nurse' within her",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0224",
+    "canonical_statement": "Individual behavioral patterns and psychological incapacities are products of personal choices informed by childhood perceptions.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 252,
+        "chapter": "General Content",
+        "surface_quote": "choices, based on childhood perceptions, render her incapable",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "causality",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0225",
+    "canonical_statement": "Traumatic emotional experiences can be dissociated from conscious memory while the factual events remain accessible.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 256,
+        "chapter": "General Content",
+        "surface_quote": "retains conscious recall for events... but not for their traumatic",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "memory",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0226",
+    "canonical_statement": "Emotional numbness can be used as a psychological mechanism to simulate a state of happiness by suppressing painful aspects of reality.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 257,
+        "chapter": "General Content",
+        "surface_quote": "numb it out enough, you can imagine that you’re happy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0227",
+    "canonical_statement": "Emotional suppression and the concealment of pain are acquired behavioral responses rather than innate traits.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 259,
+        "chapter": "General Content",
+        "surface_quote": "Anything that we do to hide pain... is an acquired response.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "behavior"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0228",
+    "canonical_statement": "Individuals can develop a state of self-alienation where they are unaware of their own emotional suffering.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 259,
+        "chapter": "General Content",
+        "surface_quote": "They hide their pain and sadness, even from themselves.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0229",
+    "canonical_statement": "Physical illness can be generated by psychological stress and dysfunctional interpersonal dynamics.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 260,
+        "chapter": "General Content",
+        "surface_quote": "draining family relationships... risk factors in... major illness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "health",
+      "consciousness",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0230",
+    "canonical_statement": "The primary source of psychological stress is the individual's perception of others' intentions, rather than the intentions themselves.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 260,
+        "chapter": "General Content",
+        "surface_quote": "not others’ expectations... but the perception we have",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0231",
+    "canonical_statement": "Interpersonal perceptions are shaped by psychological templates constructed during early childhood.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 260,
+        "chapter": "General Content",
+        "surface_quote": "perceptions based on relationship templates... constructed as young children",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0232",
+    "canonical_statement": "The pursuit of an idealized self-image of invulnerability causes internal disharmony and physiological stress.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 261,
+        "chapter": "General Content",
+        "surface_quote": "self-image of strength and invulnerability generated stress and disrupted their internal harmony",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "health",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0233",
+    "canonical_statement": "Individual identity and aspirations can be subsumed by the internalized beliefs and expectations of others.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 261,
+        "chapter": "General Content",
+        "surface_quote": "she had made their beliefs into her own",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0234",
+    "canonical_statement": "Resentment constitutes a destructive force to the essence of the soul.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 262,
+        "chapter": "General Content",
+        "surface_quote": "Resentment is soul suicide.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "emotion",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0235",
+    "canonical_statement": "The suppression of truth and the forced adoption of positive thinking can contribute to physical pathology.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 262,
+        "chapter": "General Content",
+        "surface_quote": "compulsive positive thinkers are more likely to develop disease",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "health",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0236",
+    "canonical_statement": "The expression of suppressed anger can act as a catalyst for biological healing.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 262,
+        "chapter": "General Content",
+        "surface_quote": "healing can come from jump-starting the immune system with... anger",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "health",
+      "emotion",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0237",
+    "canonical_statement": "Certain belief systems can predispose an individual to physical illness or impede the healing process.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 263,
+        "chapter": "General Content",
+        "surface_quote": "beliefs that predispose to illness and undermine healing",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "health",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0238",
+    "canonical_statement": "Emotional competence is the internal capacity required to maintain a non-victimized relationship with one's environment.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 267,
+        "chapter": "General Content",
+        "surface_quote": "capacity that enables us to stand in a responsible, non-victimized... relationship",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "psychology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0239",
+    "canonical_statement": "Human beings possess an inherent worthiness and a capacity for wholeness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 268,
+        "chapter": "General Content",
+        "surface_quote": "belief that we are not worthy enough... to be whole",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0240",
+    "canonical_statement": "Consciousness possesses a perceptible energetic field or aura.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 269,
+        "chapter": "General Content",
+        "surface_quote": "I can see people’s auras.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0241",
+    "canonical_statement": "Self-identity can be experienced as a formless or amorphous state.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 269,
+        "chapter": "General Content",
+        "surface_quote": "I see myself as a big blob.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0242",
+    "canonical_statement": "Psychological self-judgment and internal conflict consume significant amounts of vital energy.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 270,
+        "chapter": "General Content",
+        "surface_quote": "Being this harsh on yourself takes up a lot of energy.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "energy",
+      "consciousness",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0243",
+    "canonical_statement": "Emotional truth-recognition is a fundamental capacity of consciousness that can be lost or repressed.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 271,
+        "chapter": "General Content",
+        "surface_quote": "reclaim the lost capacity for emotional truth-recognition",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0244",
+    "canonical_statement": "Non-verbal emotional cues constitute a primary layer of reality distinct from linguistic representation.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 271,
+        "chapter": "General Content",
+        "surface_quote": "read the emotional reality, not the word-reality",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0245",
+    "canonical_statement": "The acquisition of language can lead to the repression of innate emotional intelligence.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 271,
+        "chapter": "General Content",
+        "surface_quote": "lose that capacity as we acquire language",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0246",
+    "canonical_statement": "Emotional reality is a perceivable dimension of existence that can be accessed independently of linguistic cognition.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 272,
+        "chapter": "General Content",
+        "surface_quote": "aphasiac develops an enhanced ability to perceive emotional reality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0247",
+    "canonical_statement": "Physiological responses are more accurate indicators of an organism's actual experience than conscious intellectual awareness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 272,
+        "chapter": "General Content",
+        "surface_quote": "physiological stress response is a more accurate gauge... than conscious awareness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0248",
+    "canonical_statement": "The repression of emotional states, specifically anger, manifests as physical pathology in the biological organism.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 273,
+        "chapter": "General Content",
+        "surface_quote": "repression of anger is a major risk factor for disease",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "emotion",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0249",
+    "canonical_statement": "The external expression of anger is physiologically less stressful than its internal suppression.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 273,
+        "chapter": "General Content",
+        "surface_quote": "expression of anger has been found to be less physiologically stressful",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "mind-body",
+      "emotion",
+      "physiology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0250",
+    "canonical_statement": "Physical symptoms can be interpreted as communicative signals or messages from the organism.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 273,
+        "chapter": "General Content",
+        "surface_quote": "read symptoms... as messages to be heeded",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0251",
+    "canonical_statement": "The abnormal release or repression of emotions is a primary cause of physical disease.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 274,
+        "chapter": "General Content",
+        "surface_quote": "abnormal release of emotions that is at the root of disease",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "health",
+      "emotion",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0252",
+    "canonical_statement": "Unprocessed emotional states can be transmuted into biological pathology via the psychoneuroimmunological nexus.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 277,
+        "chapter": "General Content",
+        "surface_quote": "anxiety... may become deeply bound in the body... transmuted into biological changes",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body-mind",
+      "health",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0253",
+    "canonical_statement": "The mind and body are unified through a complex system of cross-connections.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 277,
+        "chapter": "General Content",
+        "surface_quote": "the unifying nexus of body/mind",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "body-mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0254",
+    "canonical_statement": "Physical health is contingent upon non-physical, emotional interventions.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 277,
+        "chapter": "General Content",
+        "surface_quote": "intervention... to restore the body... must use more than physical means",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "health",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0255",
+    "canonical_statement": "Anger is fundamentally a physiological process rather than merely a behavioral response.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 277,
+        "chapter": "General Content",
+        "surface_quote": "First and foremost, it is a physiological process to be experienced",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "emotion",
+      "physiology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0256",
+    "canonical_statement": "The primary purpose of nature is the realization of an autonomous, self-regulating psyche.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 278,
+        "chapter": "General Content",
+        "surface_quote": "existence of an autonomous, self-regulating psyche is nature’s higher purpose",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "purpose",
+      "psyche",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0257",
+    "canonical_statement": "Consciousness and spirit possess a durability that exceeds the physical body.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 278,
+        "chapter": "General Content",
+        "surface_quote": "Mind and spirit can survive grievous physical injury",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "spirit",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0258",
+    "canonical_statement": "Physical health is contingent upon the maintenance of psychic integrity and freedom.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 278,
+        "chapter": "General Content",
+        "surface_quote": "physical body begins to succumb when psychic integrity... are jeopardized",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "body",
+      "psyche",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0259",
+    "canonical_statement": "Human suffering is a consequence of the blurring or absence of psychological boundaries.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 280,
+        "chapter": "General Content",
+        "surface_quote": "people suffer when their boundaries are blurred",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0260",
+    "canonical_statement": "Physical disease is a manifestation of boundary violations or the failure to establish an autonomous self.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 280,
+        "chapter": "General Content",
+        "surface_quote": "disease itself is a boundary question",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "identity",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0261",
+    "canonical_statement": "The human organism possesses a non-verbal energetic expression extending beyond the physical skin.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 281,
+        "chapter": "General Content",
+        "surface_quote": "beyond where skin ends we have an energetic expression",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0262",
+    "canonical_statement": "Personal boundaries are an energetic experience of the self and others.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 281,
+        "chapter": "General Content",
+        "surface_quote": "boundary... is an energetic experience of myself or the other person",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0263",
+    "canonical_statement": "Boundaries are the manifestation of a conscious, internal felt sense of identity.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 281,
+        "chapter": "General Content",
+        "surface_quote": "Boundaries are... the result of a conscious, internal felt sense",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0264",
+    "canonical_statement": "Autonomy is defined as the development of an internal center of control.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 281,
+        "chapter": "General Content",
+        "surface_quote": "Autonomy... is the development of that internal centre of control",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0265",
+    "canonical_statement": "Social connection and emotional support are essential components of biological and psychological healing.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 282,
+        "chapter": "General Content",
+        "surface_quote": "Connection is also vital to healing.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "healing",
+      "consciousness",
+      "interconnectivity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0266",
+    "canonical_statement": "Human healing is contingent upon the fulfillment of a universal need for interpersonal connection.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 283,
+        "chapter": "General Content",
+        "surface_quote": "Seeking connections is a necessity for healing.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "healing",
+      "connection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0267",
+    "canonical_statement": "The experience of anger is a manifestation of a frustrated need for intimate contact.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 283,
+        "chapter": "General Content",
+        "surface_quote": "Behind all our anger lies a deeply frustrated need for truly intimate contact.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "emotion",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0268",
+    "canonical_statement": "Existence and identity are affirmed through the act of conscious assertion to oneself and the world.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 283,
+        "chapter": "General Content",
+        "surface_quote": "assertion: it is the declaration... that we are and that we are who we are.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0269",
+    "canonical_statement": "Human perception often erroneously equates existence with activity and meaning with achievement.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 283,
+        "chapter": "General Content",
+        "surface_quote": "we falsely equate reality with tumult, being with activity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0270",
+    "canonical_statement": "Existence is inherently self-justifying and independent of external validation or personal history.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 284,
+        "chapter": "General Content",
+        "surface_quote": "challenges the core belief that we must somehow justify our existence",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0271",
+    "canonical_statement": "Being is a state distinct from and independent of action or reaction.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 284,
+        "chapter": "General Content",
+        "surface_quote": "It is being, irrespective of action",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0272",
+    "canonical_statement": "Human beings possess an innate, universal creative impulse derived from a divine archetype.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 284,
+        "chapter": "General Content",
+        "surface_quote": "gods created humankind in their own image. Everyone has an urge to create",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0273",
+    "canonical_statement": "The expression of the innate creative urge is essential for the vitality of the body and spirit.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 284,
+        "chapter": "General Content",
+        "surface_quote": "honour the urge... not to do so deadens our bodies and our spirits",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "spirit",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0274",
+    "canonical_statement": "The perceived separation between the individual and the universe is an illusion.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 285,
+        "chapter": "General Content",
+        "surface_quote": "sense of separateness from the universe is false",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0275",
+    "canonical_statement": "Human beings are integral components of the universe possessing temporary consciousness.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 285,
+        "chapter": "General Content",
+        "surface_quote": "part of the universe with temporary consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0276",
+    "canonical_statement": "Human physical matter is enlivened universal substance rather than a temporary assembly of dust.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 285,
+        "chapter": "General Content",
+        "surface_quote": "we do not go from dust to dust, we are dust enlivened",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0277",
+    "canonical_statement": "The act of seeking a truth presupposes a prior innate knowledge of that truth's existence.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 286,
+        "chapter": "General Content",
+        "surface_quote": "one can fervently seek only what one already knows to exist",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0278",
+    "canonical_statement": "Human health is a tripartite equilibrium consisting of physical, psychological, and spiritual dimensions.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 286,
+        "chapter": "General Content",
+        "surface_quote": "Health rests on three pillars: the body, the psyche and the spiritual connection",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "health",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0279",
+    "canonical_statement": "The human psyche contains inherent archetypal polarities, such as the fool and the sage.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 286,
+        "chapter": "General Content",
+        "surface_quote": "Nasruddin, fool and sage, exists in all of us",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "psyche"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0280",
+    "canonical_statement": "Belief systems are encoded into biological structures.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 301,
+        "chapter": "General Content",
+        "surface_quote": "ingrained biology of belief",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "biology",
+      "consciousness",
+      "belief"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0281",
+    "canonical_statement": "Belief systems are encoded within biological structures.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 302,
+        "chapter": "General Content",
+        "surface_quote": "dissolving the entrenched biology of belief",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0282",
+    "canonical_statement": "Unconscious interpretations of past experiences act as triggers for chronic physiological stress.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 302,
+        "chapter": "General Content",
+        "surface_quote": "unconcious interpretations that underlie and trigger many of our chronic stresses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_when_the_body_says_no_by_gabor_mate_1_0283",
+    "canonical_statement": "Belief systems are encoded and manifested at the cellular biological level.",
+    "attributions": [
+      {
+        "source_id": "when_the_body_says_no_by_gabor_mate_1",
+        "chunk_index": 303,
+        "chapter": "General Content",
+        "surface_quote": "biology of belief is ingrained at the very cellular level",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "biology",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  }
+]

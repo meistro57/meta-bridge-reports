@@ -1,0 +1,2907 @@
+[
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0001",
+    "canonical_statement": "Divine entities can be physically transported or 'spoiled' like material possessions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 28,
+        "chapter": "COLUMN III",
+        "surface_quote": "They spoiled the gods belonging to URUK... carried away.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "materiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0002",
+    "canonical_statement": "Divine entities possess agency and can inflict physical harm or death upon mortals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 28,
+        "chapter": "COLUMN III",
+        "surface_quote": "Khumma-khaldasu... by the Fire-god was stricken and perished through the power (?) of the god.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0003",
+    "canonical_statement": "Deities can physically move between geographical locations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 29,
+        "chapter": "COLUMN III",
+        "surface_quote": "the god Gu'si and the gods proceeded to DUR-ILI",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "deity",
+      "movement",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0004",
+    "canonical_statement": "Deities can reside in specific cities or regions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 29,
+        "chapter": "COLUMN III",
+        "surface_quote": "Istar of the city of ACCAD and the gods of the city of ACCAD had departed from the country of ELAM",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "deity",
+      "residence",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0005",
+    "canonical_statement": "The non-issuance of a deity from a temple is a significant event.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 29,
+        "chapter": "COLUMN III",
+        "surface_quote": "The Sun-god from the temple of E-BABARA did not issue forth.",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "deity",
+      "ritual",
+      "omen"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0006",
+    "canonical_statement": "The names of early Babylonian kings are interpreted as having divine or protective meanings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 32,
+        "chapter": "COLUMN III",
+        "surface_quote": "TRANSLATION OF THE INSCRIPTION GIVING THE ASSYRIAN INTERPRETATION OF THE NAMES OF THE EARLY BABYLONIAN KINGS",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "linguistics",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0007",
+    "canonical_statement": "Some kings are described as having divine parentage or connection to deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 32,
+        "chapter": "COLUMN III",
+        "surface_quote": "A-dara-kalama. Acc. 'Son of the god EA king of the land.'",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0008",
+    "canonical_statement": "There was a historical event referred to as 'the flood' that predates some kings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 32,
+        "chapter": "COLUMN III",
+        "surface_quote": "These are the kings who after the flood are not described in chronological order.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "time",
+      "cataclysm"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0009",
+    "canonical_statement": "Some individuals are considered offspring or servants of specific deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 32,
+        "chapter": "COLUMN III",
+        "surface_quote": "Simmas-sipak. Kas. 'Offspring of MERODACH.'",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0010",
+    "canonical_statement": "A divine entity can be the source of life.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "With MERODACH is life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0011",
+    "canonical_statement": "A divine entity can be the source of verdure or growth.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "With MERODACH is verdure.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0012",
+    "canonical_statement": "A divine entity can be the lord or ruler of a land.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "The lord of the land is MERODACH.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "rulership"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0013",
+    "canonical_statement": "A divine entity can be an overshadowing or protective god.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "MERODACH is an over-shadowing god.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "protection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0014",
+    "canonical_statement": "A divine entity can declare or grant life to individuals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "MERODACH has declared life to him.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0015",
+    "canonical_statement": "A divine entity can be a progenitor.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "The Moon-god has begotten.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0016",
+    "canonical_statement": "A divine entity can possess strength or power over all things.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "The Moon-god is strong over all.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0017",
+    "canonical_statement": "A divine entity can be the lord of the universe.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "EA [lord of the universe].",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "universe",
+      "rulership"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0018",
+    "canonical_statement": "A divine entity can be a giver.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "The god NUSKU has given.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "benevolence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0019",
+    "canonical_statement": "A divine entity can vivify or bring life to a womb.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "May BAU vivify her womb.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "life",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0020",
+    "canonical_statement": "A divine entity can establish order among entities of varying scale.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "May BAU establish great and small.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0021",
+    "canonical_statement": "The word of a divine entity can be supreme.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "Supreme is the word of MERODACH.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0022",
+    "canonical_statement": "A divine entity can be a creator.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "BEL has created.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0023",
+    "canonical_statement": "A divine entity can be an overseer.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "URAS, thou art overseer.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "oversight"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0024",
+    "canonical_statement": "A divine entity can illuminate.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "NEBO illuminates.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0025",
+    "canonical_statement": "A divine entity can record names.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "The great mountain (BEL) records the name.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0026",
+    "canonical_statement": "A divine entity can possess knowledge of humanity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "BEL who knows mankind.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "knowledge",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0027",
+    "canonical_statement": "A divine entity's command is unchangeable.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 33,
+        "chapter": "COLUMN II",
+        "surface_quote": "PAP-SUKAL who changes not (his) command.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "authority",
+      "immutability"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0028",
+    "canonical_statement": "Divine entities can bestow offspring.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 34,
+        "chapter": "COLUMN II",
+        "surface_quote": "The Moon-god has given a son.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0029",
+    "canonical_statement": "Divine entities possess the power to grant life or vitality.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 34,
+        "chapter": "COLUMN II",
+        "surface_quote": "May the Moon-god vivify what is below him.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "life",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0030",
+    "canonical_statement": "Divine entities can provide protection or defense.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 34,
+        "chapter": "COLUMN II",
+        "surface_quote": "O BEL, defend the landmark.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "protection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0031",
+    "canonical_statement": "Divine entities are characterized by greatness or supremacy.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 34,
+        "chapter": "COLUMN II",
+        "surface_quote": "The Moon-god is great.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "supremacy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0032",
+    "canonical_statement": "Divine entities can offer assistance and support in times of adversity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 34,
+        "chapter": "COLUMN II",
+        "surface_quote": "O Sun-god, in difficulties and dangers take my hand.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "assistance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0033",
+    "canonical_statement": "Celestial phenomena directly influence terrestrial events and human endeavors, determining outcomes such as military success or political stability.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 36,
+        "chapter": "COLUMN IV",
+        "surface_quote": "When the moon... was favourable to Sargon... marched and subjugated it.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "astrology",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0034",
+    "canonical_statement": "Divine entities, such as goddesses, actively intervene in human affairs to grant favor and facilitate achievements.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 36,
+        "chapter": "COLUMN IV",
+        "surface_quote": "the goddess ISHTAR with favours filled for him his hand the goddess ISHTAR all countries caused him to conquer",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divine intervention",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0035",
+    "canonical_statement": "Celestial phenomena are causally linked to terrestrial events.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 37,
+        "chapter": "COLUMN IV",
+        "surface_quote": "astronomical occurrences and the events which immediately followed them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "astrology",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0036",
+    "canonical_statement": "The moon's appearance and phase can predict or influence the outcome of human endeavors.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 37,
+        "chapter": "COLUMN IV",
+        "surface_quote": "the moon was favourable to Sargon",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "astrology",
+      "fate",
+      "prediction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0037",
+    "canonical_statement": "The divine pantheon is structured hierarchically, with specific relationships and roles among deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 49,
+        "chapter": "BY M. ARTHUR AMIAUD",
+        "surface_quote": "Anna, the Sky-god... Ellilla or Bel... Nin-gharsag or Belit... En-ki or Ea...",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "pantheon",
+      "divinity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0038",
+    "canonical_statement": "The dwelling place of the gods is a specific location known as 'the mountain of the world'.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 49,
+        "chapter": "BY M. ARTHUR AMIAUD",
+        "surface_quote": "the seat of the gods was placed",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology",
+      "location"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0039",
+    "canonical_statement": "The realm of the dead is co-located with the dwelling place of the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 49,
+        "chapter": "BY M. ARTHUR AMIAUD",
+        "surface_quote": "as well as the habitation of the dead",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cosmology",
+      "location"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0040",
+    "canonical_statement": "Deities can have multiple names or forms, sometimes appearing as different gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 49,
+        "chapter": "BY M. ARTHUR AMIAUD",
+        "surface_quote": "Nin-dara, who is the god Ninib under another name",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "form"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0041",
+    "canonical_statement": "Divine beings are organized into generational hierarchies, with some deities originating from others.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 50,
+        "chapter": "BY M. ARTHUR AMIAUD",
+        "surface_quote": "this list arranges the divinities in three generations. In the first come the four great gods... from whom all the other gods proceed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0042",
+    "canonical_statement": "The identity of a deity can be expressed through multiple names or forms.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 50,
+        "chapter": "BY M. ARTHUR AMIAUD",
+        "surface_quote": "Nin-agal, who is only another form of En-ki; the god Shidlamta-ena, another name of Nin-girsu",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "nomenclature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0043",
+    "canonical_statement": "The worship of certain deities is sometimes predicated on their familial relationship to a principal divinity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 50,
+        "chapter": "BY M. ARTHUR AMIAUD",
+        "surface_quote": "the cult rendered to these gods was offered by reason of their being the mother, the brothers, or the sisters of the principal divinity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "worship",
+      "relationship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0044",
+    "canonical_statement": "Divine entities possess power that can be exerted over geographical regions or human societies.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 65,
+        "chapter": "COLUMN III",
+        "surface_quote": "by the god NIN-GIRSU, for the countries by the power of the god NIN-GIRSU",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "territory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0045",
+    "canonical_statement": "Divine beings possess the ability to bestow power upon individuals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 76,
+        "chapter": "COLUMN I",
+        "surface_quote": "endowed with power by the god NIN-GIRSU",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0046",
+    "canonical_statement": "Divine beings possess the ability to determine the destiny or selection of individuals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 76,
+        "chapter": "COLUMN I",
+        "surface_quote": "chosen by the immutable will of the goddess NINa",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0047",
+    "canonical_statement": "Divine beings possess the ability to bestow intelligence upon individuals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 76,
+        "chapter": "COLUMN I",
+        "surface_quote": "endowed with intelligence by the god EN-KI",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0048",
+    "canonical_statement": "Divine beings possess the ability to bestow names or identities upon individuals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 76,
+        "chapter": "COLUMN I",
+        "surface_quote": "named with a favourable name by the goddess BAU",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0049",
+    "canonical_statement": "Divine beings can be the progenitors of individuals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 76,
+        "chapter": "COLUMN I",
+        "surface_quote": "the offspring begotten by the god NIN-aGAL",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0050",
+    "canonical_statement": "Divine",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 84,
+        "chapter": "COLOPHON IN SEMITIC-BABYLONIAN:",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0051",
+    "canonical_statement": "Divine entities possess agency and can experience emotions such as anger.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 86,
+        "chapter": "COLOPHON IN SEMITIC-BABYLONIAN:",
+        "surface_quote": "For 1635 years had the goddess Nana been angry, had gone, and had dwelt within Elam.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "emotion",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0052",
+    "canonical_statement": "Divine entities can reside in specific locations, and some locations are more appropriate for them than others.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 86,
+        "chapter": "COLOPHON IN SEMITIC-BABYLONIAN:",
+        "surface_quote": "had dwelt within Elam, which was not her proper place",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "location",
+      "appropriateness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0053",
+    "canonical_statement": "Divine entities can communicate their will and intentions to mortals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 86,
+        "chapter": "COLOPHON IN SEMITIC-BABYLONIAN:",
+        "surface_quote": "she and the gods her fathers proclaimed my name to the dominion of the world. She intrusted to me the return of her divinity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "communication",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0054",
+    "canonical_statement": "Divine entities can reveal ancient commands or prophecies to later generations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 86,
+        "chapter": "COLOPHON IN SEMITIC-BABYLONIAN:",
+        "surface_quote": "The words of the command of her divinity, which she had spoken from remote days, she again revealed to the later people.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "revelation",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0055",
+    "canonical_statement": "Divine entities can experience joy.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 86,
+        "chapter": "COLOPHON IN SEMITIC-BABYLONIAN:",
+        "surface_quote": "she took the straight road, with joy of heart, to E-ana.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0056",
+    "canonical_statement": "Deities possess the power to direct and organize cosmic and earthly domains.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 93,
+        "chapter": "COLUMN I",
+        "surface_quote": "ASUR the great lord, the director of the hosts of the gods, the giver of the sceptre and the crown, the establisher of the kingdom",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "power",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0057",
+    "canonical_statement": "Deities are the source of sovereignty and authority for earthly rulers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 93,
+        "chapter": "COLUMN I",
+        "surface_quote": "Ye great gods, guiders of heaven (and) earth... with a crown supreme you have clothed him; to rule over the land of BEL mightily you have established him",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "sovereignty",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0058",
+    "canonical_statement": "Deities determine the destiny and preordain the actions of individuals, including rulers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 93,
+        "chapter": "COLUMN I",
+        "surface_quote": "the destiny of his lordship for his increase and supremacy... ASUR has predestined, and for the government of the four zones has proclaimed his name for ever",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "destiny",
+      "predestination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0059",
+    "canonical_statement": "Deities possess distinct attributes and domains of influence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 93,
+        "chapter": "COLUMN I",
+        "surface_quote": "SIN (the Moon-god), the sentient one... SAMAS (the Sun-god), the judge of heaven and earth... RIMMON (the Air-god), the prince",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "deity",
+      "attributes",
+      "domains"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0060",
+    "canonical_statement": "The will of deities is expressed through proclamations that confer power and legitimacy.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 93,
+        "chapter": "COLUMN I",
+        "surface_quote": "by the proclamation of SAMAS the illustrious sceptre has been given as a gift... by the proclamation of BEL he has no rival",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "deity",
+      "will",
+      "legitimacy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0061",
+    "canonical_statement": "Divine entities can grant power and influence to human rulers, enabling them to expand their dominion and achieve military success.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 94,
+        "chapter": "COLUMN I",
+        "surface_quote": "May ASUR (and) the great gods who have magnified my kingdom, who have given increase and strength to my fetters",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0062",
+    "canonical_statement": "Divine entities are owed tribute and gifts by human populations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 94,
+        "chapter": "COLUMN I",
+        "surface_quote": "taken the tribute and gifts owing to ASUR my lord",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "obligation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0063",
+    "canonical_statement": "Trust in a divine entity can lead to military victory and success in conflict.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 94,
+        "chapter": "COLUMN I",
+        "surface_quote": "Trusting in ASUR my lord I assembled my chariots and armies. Thereupon I delayed not.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "warfare"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0064",
+    "canonical_statement": "Divine entities issue commands that dictate the actions of earthly rulers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 101,
+        "chapter": "COLUMN III",
+        "surface_quote": "ASUR the lord commanded (me) to march.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0065",
+    "canonical_statement": "The glory or power of a divine entity can directly influence the actions and morale of people.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 101,
+        "chapter": "COLUMN III",
+        "surface_quote": "The glory of ASSUR my lord overwhelmed them, and they descended and took my feet.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "influence",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0066",
+    "canonical_statement": "Divine entities possess supreme power and everlasting grace, influencing earthly events and human actions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 105,
+        "chapter": "COLUMN IV",
+        "surface_quote": "through the supreme power of ASUR my lord, through the everlasting grace of SAMAS the warrior",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0067",
+    "canonical_statement": "Certain divine beings govern specific regions or aspects of the cosmos with righteousness and invincibility.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 105,
+        "chapter": "COLUMN IV",
+        "surface_quote": "great gods, who in the four zones rule in righteousness, and have no vanquisher",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "governance",
+      "invincibility"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0068",
+    "canonical_statement": "Divine will can directly compel human agents to undertake specific actions or journeys.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 105,
+        "chapter": "COLUMN IV",
+        "surface_quote": "ASUR the lord urged me and I went.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divine will",
+      "agency",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0069",
+    "canonical_statement": "Divine entities bestow power and weaponry upon chosen individuals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 111,
+        "chapter": "COLUMN VI",
+        "surface_quote": "URAS and NERGAL have given their forceful weapons and their supreme bow to the hands of my lordship.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0070",
+    "canonical_statement": "Divine entities provide protection to those they favor.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 111,
+        "chapter": "COLUMN VI",
+        "surface_quote": "Under the protection of URAS who loves me",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "protection",
+      "favor"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0071",
+    "canonical_statement": "The success of an individual's actions can be attributed to divine favor and assistance.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 111,
+        "chapter": "COLUMN VI",
+        "surface_quote": "Under the protection of URAS who loves me... their lives I ended",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "success"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0072",
+    "canonical_statement": "Deities possess a 'heart' that can experience joy.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 112,
+        "chapter": "COLUMN VI",
+        "surface_quote": "I rejoiced the heart of their great divinity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0073",
+    "canonical_statement": "Deities are present within their temples.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 112,
+        "chapter": "COLUMN VI",
+        "surface_quote": "The great gods, my lords, I introduced within;",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "deity",
+      "presence",
+      "sacred space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0074",
+    "canonical_statement": "Deities are 'lords' of human beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 112,
+        "chapter": "COLUMN VI",
+        "surface_quote": "The great gods, my lords,",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "deity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0075",
+    "canonical_statement": "Divine entities can express preferences and command actions in the physical world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 114,
+        "chapter": "COLUMN VII",
+        "surface_quote": "ANU and RIMMON the great gods, my lords, who love my priesthood, commanded the rebuilding of their habitation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0076",
+    "canonical_statement": "Divine entities possess emotions and can experience states such as pleasure or gladness.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 114,
+        "chapter": "COLUMN VII",
+        "surface_quote": "the seat of their rejoicing, the habitation of their pleasure... the heart of their great divinities I gladdened.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0077",
+    "canonical_statement": "Divine entities can be physically present within consecrated structures.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 114,
+        "chapter": "COLUMN VII",
+        "surface_quote": "ANU and RIMMON, the great gods I introduced within (it); on their thrones supreme I seated them.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "presence",
+      "sacred space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0078",
+    "canonical_statement": "Divine entities can be pleased or gladdened by human actions, such as diligent labor in their service.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 116,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "have quickly completed (it), and have gladdened the heart of their great divinity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0079",
+    "canonical_statement": "Divine entities can respond to human prayer and devotion by granting boons such as prosperity, protection, and victory.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 116,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "may they hearken to the earnestness of my prayer; abundant rains, years of fertility... may they give",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "prayer",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0080",
+    "canonical_statement": "Divine entities can bestow power and success upon individuals, enabling them to conquer enemies.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 116,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "the foes of ASUR, whom ANU and RIMMON have given for a spoil",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0081",
+    "canonical_statement": "Divine entities possess the capacity to influence human affairs and bestow blessings or curses based on human actions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 117,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "may ANU and RIMMON the great gods in goodness of heart kindly conduct him!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "karma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0082",
+    "canonical_statement": "Divine entities can inflict severe punishments, including destruction of lineage, power, and prosperity, upon those who disrespect sacred objects or established legacies.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 117,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "may ANU and RIMMON the great gods, my lords, fiercely regard him and may they curse him",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "punishment",
+      "karma"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0083",
+    "canonical_statement": "The perpetuation of one's name and legacy is a significant concern, implying a form of post-mortem existence or influence tied to remembrance.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 117,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "may he write his name along with mine. ... may he root out his name",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "legacy",
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0084",
+    "canonical_statement": "The universe originates from primordial elements.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 119,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "The gods themselves come and go like mortal men; they are the offspring of the everlasting elements of the heaven and earth, and of that watery abyss out of which mythology had created a demon of evil, but which the philosopher knew to be the mother and source of all things.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin",
+      "elements"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0085",
+    "canonical_statement": "Deities are symbolic representations of fundamental cosmic elements.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 119,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "The elementary spirits of the old Accadian faith have passed into the great gods of Semitic belief, and been finally resolved into mere symbolical representatives of the primordial elements of the world.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "deity",
+      "symbolism",
+      "elements"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0086",
+    "canonical_statement": "The nature of deities can evolve or change over time within a mythological framework.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 119,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "The Tiamat of the first tablet of the epic is a very different being from the Tiamat of the fourth.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "deity",
+      "evolution",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0087",
+    "canonical_statement": "Philosophical materialism can underlie theological frameworks.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 119,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "Under a thin disguise of theological nomenclature, the Babylonian theory of the universe has become a philosophic materialism.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "materialism",
+      "theology",
+      "philosophy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0088",
+    "canonical_statement": "The current creation was preceded by an earlier, imperfect, and chaotic creation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 120,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "present creation had been preceded by an earlier creation, an imperfect and chaotic prototype",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0089",
+    "canonical_statement": "The destruction of the chaotic prior creation by younger gods of light and order initiated the new creation of the visible world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 120,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "destruction of it by the younger gods of light and order ushered in the new creation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0090",
+    "canonical_statement": "Light and darkness, chaos and order, are in perpetual conflict.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 120,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "Light and darkness, chaos and order, are ever struggling one against the other",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "cosmology",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0091",
+    "canonical_statement": "The victory of light and order over chaos is assured.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 120,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "victory of light and order was assured ever since Merodach, the Sun-god, overthrew the dragon Tiamat",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "duality",
+      "cosmology",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0092",
+    "canonical_statement": "The universe originates from two primary principles, Tavthe and Apason, who are a male and female pair.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 120,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "constitute two, Tavthe and Apason, making Apason the husband of Tavthe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0093",
+    "canonical_statement": "Tavthe is the mother of the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 120,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "denominating her 'the mother of the gods.'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "origin",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0094",
+    "canonical_statement": "An 'intelligible world' (Mumis) proceeds from the two primary principles.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 120,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "From these proceeds an only-begotten son Mumis, which, I conceive, is no other than the intelligible world",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin",
+      "realms"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0095",
+    "canonical_statement": "The world was fabricated by a being named Belos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 120,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "Belos, who, they say, is the fabricator of the world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0096",
+    "canonical_statement": "The universe originated from a primordial watery chaos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 123,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "A watery chaos alone existed, Mummu Tiamat, 'the chaos of the deep.'",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0097",
+    "canonical_statement": "Divine beings emerged from the primordial chaos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 123,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "Out of the bosom of this chaos proceeded the gods.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "deity",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0098",
+    "canonical_statement": "The created world emerged from the primordial chaos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 123,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "Out of the bosom of this chaos proceeded... the created world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0099",
+    "canonical_statement": "The existence of a thing is intrinsically linked to the pronunciation of its name.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 123,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "since the name was supposed to be the same as the thing named, their names had not as yet been pronounced.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "language",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0100",
+    "canonical_statement": "The creation of the heavens and earth occurred after a period of non-existence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 123,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "The heavens and earth had not yet been created.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0101",
+    "canonical_statement": "The establishment of a suitable environment for younger gods and their creations necessitated the destruction of primordial chaos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 123,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "before the younger gods could find a suitable habitation... it was necessary to destroy 'the dragon' of chaos.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0102",
+    "canonical_statement": "The creation of the present world was preceded by a state of watery chaos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 125,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "the present world has been preceded by a watery chaos.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "chaos",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0103",
+    "canonical_statement": "The process of creation unfolds in successive acts.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 125,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "the history of the creation is divided into seven successive acts",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "process",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0104",
+    "canonical_statement": "A primordial chaotic entity can be personified as a mythological being.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 125,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "the deep has become a mythological personage, the mother of a chaotic brood.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0105",
+    "canonical_statement": "The Assyrian epic presents a mythological and polytheistic spiritual conception.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 126,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "The Assyrian epic is mythological and polytheistic.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0106",
+    "canonical_statement": "The first chapter of Genesis presents a sternly monotheistic spiritual conception.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 126,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "The first chapter of Genesis is sternly monotheistic.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0107",
+    "canonical_statement": "The Babylonian belief system includes the concept that woman was produced from man.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 126,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "Babylonians believed that the woman was produced from the man.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "gender"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0108",
+    "canonical_statement": "Existence originated from an undifferentiated primordial state.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 127,
+        "chapter": "FIRST TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "the unopened deep was their generator, MUMMU-TIAMAT (the chaos of the sea) was the mother of them all. Their waters were embosomed as one",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "origin",
+      "creation",
+      "primordial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0109",
+    "canonical_statement": "The universe, including its fundamental components and deities, underwent a process of sequential emergence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 127,
+        "chapter": "FIRST TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "At that time the heaven above had not yet announced, or the earth beneath recorded, a name... Then the (great) gods were created",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "sequential"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0110",
+    "canonical_statement": "Deities are not eternal but are created entities that emerge within the cosmic progression.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 127,
+        "chapter": "FIRST TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "At that time the gods had not appeared, any of them... Then the (great) gods were created",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "deity",
+      "creation",
+      "temporality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0111",
+    "canonical_statement": "The concept of destiny or fixed purpose for entities arises only after their creation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 127,
+        "chapter": "FIRST TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "no destiny (had they fixed)",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "destiny",
+      "purpose",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0112",
+    "canonical_statement": "The winds are entities that can be created and controlled.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 131,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He created the evil wind... and he caused the winds which he had created to issue forth.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "elements"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0113",
+    "canonical_statement": "Destiny is a force or concept that can be embodied or utilized.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 131,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He rode in the chariot of destiny that retreats without a rival.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "destiny",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0114",
+    "canonical_statement": "Divine beings can be exalted by other divine beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 132,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "On that day they exalted him, the gods exalted him, the gods his fathers exalted him.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0115",
+    "canonical_statement": "Divine beings can engage in warfare and opposition against each other.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 132,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "With her hostile lip(s) she announced opposition. (Then) the gods (came) to the help of the lord.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0116",
+    "canonical_statement": "Divine beings possess weapons and can utilize them in conflict.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 132,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "(And) the lord (launched) the deluge, his mighty weapon; (against) TIAMAT.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0117",
+    "canonical_statement": "Divine beings can issue challenges and engage in direct combat.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 132,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "Stand up, and I and thou will fight together.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0118",
+    "canonical_statement": "The physical form of a primordial being can be dismembered and its parts used to construct the cosmos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 133,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He swung the club, he shattered her stomach; he cut out her entrails; he overmastered (her) heart; he bound her and ended her life. He threw down her corpse; he stood upon it.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "primordial being"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0119",
+    "canonical_statement": "The defeat of a primordial being can lead to the subjugation and punishment of its allied entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 133,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "When TIAMAT who marched before (them) was conquered, he dispersed her forces, her host was overthrown, and the gods her allies who marched beside her trembled (and) feared (and) turned their backs.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "conflict",
+      "divine hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0120",
+    "canonical_statement": "The physical universe, specifically the heavens, was formed from the remains of a primordial being.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 134,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "the lord trampled on the underpart of TIAMAT... he stripped her of (her) skin like a fish... overshadowed the heavens... made of her image the house of the Firmament.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0121",
+    "canonical_statement": "The structure of the cosmos, including the heavens, is a deliberate creation by a divine entity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 134,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He strengthens (his) mind (?), he forms a clever plan... he described her likeness and (with it) overshadowed the heavens... E-SARRA which he had created (to be) the heavens.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "divine will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0122",
+    "canonical_statement": "Divine beings can inhabit specific strongholds or mansions within the created cosmos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 134,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "the chief prophet caused ANU, BEL and EA to inhabit as their stronghold. He prepared the mansions of the great gods.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmos",
+      "habitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0123",
+    "canonical_statement": "A 'Word' or 'saying' can possess real existence and be subject to creation, destruction, and re-creation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 135,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "The 'Word' is regarded as having a real existence which could be created, destroyed, and re-created.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "creation",
+      "word",
+      "concept"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0124",
+    "canonical_statement": "The universe was formed from the division of a primordial entity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 135,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "of one half of her he formed the earth, and of the other half the heavens",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0125",
+    "canonical_statement": "Humanity's rationality and divine knowledge originate from a mixture of divine blood and earth.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 135,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "the other gods mixed the blood...with the earth, and from thence men were formed. On this account it is that they are rational and partake of divine knowledge.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "humanity",
+      "origin",
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0126",
+    "canonical_statement": "The cosmos is structured with celestial bodies assigned specific roles and paths to maintain order.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 136,
+        "chapter": "FIFTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He fixed the stars... He ordained the year... He founded the mansion... that they might not err...",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "celestial mechanics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0127",
+    "canonical_statement": "Divine beings are responsible for the creation and maintenance of cosmic structures and laws.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 136,
+        "chapter": "FIFTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He prepared the twin mansions... He fixed the stars... He ordained the year...",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0128",
+    "canonical_statement": "Time is structured by the movements of celestial bodies, particularly the moon, which marks the passage of night and day.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 136,
+        "chapter": "FIFTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He illuminated the Moon-god that he might be porter of the night, and ordained for him the ending of the night that the day may be known...",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "celestial mechanics",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0129",
+    "canonical_statement": "Celestial bodies have prescribed functions and are commanded to adhere to them.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 136,
+        "chapter": "FIFTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "\"Month by month, without break, keep watch in thy disk. At the beginning of the month light up the night...\"",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "celestial mechanics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0130",
+    "canonical_statement": "Deities are responsible for the creation of all living beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 137,
+        "chapter": "THE SEVENTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "At that time the gods in their assembly created (the beasts).",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity",
+      "life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0131",
+    "canonical_statement": "Deities establish the dwelling places and distribution of living creatures.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 137,
+        "chapter": "THE SEVENTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "They fixed their habitations for the living creatures... They distributed in their dwelling-places the cattle...",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0132",
+    "canonical_statement": "Deities possess the power to strengthen or destroy life forms.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 137,
+        "chapter": "THE SEVENTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "the multitude of creeping things did I make strong. ...the seed of LAKHAMA did I destroy.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "deity",
+      "power",
+      "life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0133",
+    "canonical_statement": "The gods are capable of creating physical objects and structures.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 138,
+        "chapter": "THE FOLLOWING FRAGMENT (K 3449) BELONGS TO THE STORY OF THE CREATION, BUT ITS POSITION IS UNCERTAIN",
+        "surface_quote": "The snare which they had made the gods beheld. The work they had wrought they lay down.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity",
+      "physicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0134",
+    "canonical_statement": "The gods convene in an assembly.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 138,
+        "chapter": "THE FOLLOWING FRAGMENT (K 3449) BELONGS TO THE STORY OF THE CREATION, BUT ITS POSITION IS UNCERTAIN",
+        "surface_quote": "ANU lifted (it) up in the assembly of the gods.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "deity",
+      "social structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0135",
+    "canonical_statement": "Celestial bodies and their positions are established by divine decree.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 138,
+        "chapter": "THE FOLLOWING FRAGMENT (K 3449) BELONGS TO THE STORY OF THE CREATION, BUT ITS POSITION IS UNCERTAIN",
+        "surface_quote": "The third time is the ... of the star of the bow in heaven. I have established also the position of ...",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "deity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0136",
+    "canonical_statement": "Fates exist and influence reality.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 138,
+        "chapter": "THE FOLLOWING FRAGMENT (K 3449) BELONGS TO THE STORY OF THE CREATION, BUT ITS POSITION IS UNCERTAIN",
+        "surface_quote": "Since the fates...",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "fate",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0137",
+    "canonical_statement": "The initial state of existence, prior to structured creation, is characterized by chaos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 139,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "Chaos is a period when as yet writing was unknown.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "chaos",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0138",
+    "canonical_statement": "Early forms of life or beings can be imperfect or chaotic in nature.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 139,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "chaotic brood of Tiamat, imperfect first attempts, as it were, of nature",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "life",
+      "creation",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0139",
+    "canonical_statement": "Divine entities are responsible for the extermination of chaotic or imperfect primordial life forms.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 139,
+        "chapter": "TRANSLATED BY THE EDITOR",
+        "surface_quote": "The whole brood is exterminated by the gods of light.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "creation",
+      "destruction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0140",
+    "canonical_statement": "Divine",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 140,
+        "chapter": "COLUMN I",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0141",
+    "canonical_statement": "A divine entity has the capacity to cause widespread destruction and natural disasters.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 142,
+        "chapter": "COLUMN III",
+        "surface_quote": "night, death, plague, fear, violence, destruction, famine, deluge, foundations of the earth shaken",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "destruction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0142",
+    "canonical_statement": "Divine entities can command other entities to create.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 142,
+        "chapter": "COLUMN III",
+        "surface_quote": "Thou didst command me, and ... and they are created",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0143",
+    "canonical_statement": "Divine entities can offer protection.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 142,
+        "chapter": "COLUMN III",
+        "surface_quote": "Thou protectest ...",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "divinity",
+      "protection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0144",
+    "canonical_statement": "Ritualistic practices, including sacrifices and supplication, are directed towards divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 142,
+        "chapter": "COLUMN III",
+        "surface_quote": "memorial of drinking, supplication to Ea, holy memorial sacrifices, holy laws",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "divinity",
+      "worship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0145",
+    "canonical_statement": "Specific named deities exist and are recognized as 'great gods'.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 142,
+        "chapter": "COLUMN III",
+        "surface_quote": "I implored the great gods, ISHTAR, ZAMAMA, ANUNIT, NEBO, SAMAS",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "pantheon",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0146",
+    "canonical_statement": "Divine entities can designate individuals to govern earthly kingdoms.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 143,
+        "chapter": "COLUMN IV",
+        "surface_quote": "whom the god shall call (to) rule the kingdom",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0147",
+    "canonical_statement": "Divine entities possess the power to establish or destabilize human authority.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 143,
+        "chapter": "COLUMN IV",
+        "surface_quote": "May he establish thy seat!",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888_0148",
+    "canonical_statement": "Divine entities can influence the success or failure of human endeavors.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_2nd_series_vol_i_ed_by_a_h_sayce_1888",
+        "chunk_index": 143,
+        "chapter": "COLUMN IV",
+        "surface_quote": "Mayest thou achieve success in thy works!",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  }
+]

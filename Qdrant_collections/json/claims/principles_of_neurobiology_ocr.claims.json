@@ -1,0 +1,999 @@
+[
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0001",
+    "canonical_statement": "The brain is the biological substrate that enables sensory perception, cognition, memory, and volition.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 2,
+        "chapter": "ISBN 978-0-8153-4492-6 -- ISBN 978-0-8153-4494-0",
+        "surface_quote": "brain endows us the ability to sense, think, remember, and act",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0002",
+    "canonical_statement": "Neural maps exhibit structural configurations that are continuous, discrete, or hybrid.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 37,
+        "chapter": "HOW DO NEURAL MAPS FORM?",
+        "surface_quote": "Neural maps can be continuous, discrete, or a combination",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0003",
+    "canonical_statement": "The human brain contains vast regions of unknown functional or structural properties.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 56,
+        "chapter": "SUMMARY AND PERSPECTIVES",
+        "surface_quote": "brain is a world consisting of... unexplored continents",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0004",
+    "canonical_statement": "Certain neurobiological principles are universal across all biological organisms.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 59,
+        "chapter": "CHAPTER 1",
+        "surface_quote": "universally applicable to all organisms, including human beings",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "universality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0005",
+    "canonical_statement": "Mental functions are localized within specific regions of the brain.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 90,
+        "chapter": "CHAPTER 1",
+        "surface_quote": "Specific brain regions perform specialized functions",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "localization"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0006",
+    "canonical_statement": "All human behavior originates from the brain.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 90,
+        "chapter": "CHAPTER 1",
+        "surface_quote": "all behavior emanates from the brain",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0007",
+    "canonical_statement": "The human brain functions as a massively parallel computational system.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 95,
+        "chapter": "CHAPTER 1",
+        "surface_quote": "The brain is a massively parallel computational device",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "computation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0008",
+    "canonical_statement": "The structural architecture of the human brain is functionally analogous to that of a computer, utilizing input, output, processing, and memory systems.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 96,
+        "chapter": "CHAPTER 1",
+        "surface_quote": "architectures of the computer and the brain resemble each other",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0009",
+    "canonical_statement": "Information processing within the nervous system can transition between digital and analog formats.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 193,
+        "chapter": "HOW IS NEUROTRANSMITTER RELEASE",
+        "surface_quote": "processes... may change their character from digital to analog",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "information",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0010",
+    "canonical_statement": "The visual system does not provide a literal or faithful representation of external reality.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 328,
+        "chapter": "CHAPTER 4",
+        "surface_quote": "visual system does not simply provide a faithful representation",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0011",
+    "canonical_statement": "Conscious visual perception is the result of information processing within the visual cortex.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 351,
+        "chapter": "HOW IS INFORMATION PROCESSED IN THE VISUAL",
+        "surface_quote": "transmitted to the visual cortex for conscious vision",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0012",
+    "canonical_statement": "Conscious perception is the result of processed information streams originating in the retina and passing through the LGN to the cortex.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 372,
+        "chapter": "CHAPTER 4",
+        "surface_quote": "giving rise to conscious perception of object color, shape, depth, and motion",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0013",
+    "canonical_statement": "Perception is an internal representation of external sensory stimuli generated by the brain.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 385,
+        "chapter": "CHAPTER 4",
+        "surface_quote": "form an internal representation, or perception, of the sensory stimuli",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0014",
+    "canonical_statement": "Knowledge and identity are emergent properties of the specific structural connectivity of neurons.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 392,
+        "chapter": "CHAPTER 5",
+        "surface_quote": "all that we are, comes from the way our neurons are connected",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0015",
+    "canonical_statement": "Cognitive functions are the result of synaptic connections within the brain.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 392,
+        "chapter": "CHAPTER 5",
+        "surface_quote": "synaptic connections in the brain that give rise to our ability to sense",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate",
+      "cognition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0016",
+    "canonical_statement": "The biological structure of the brain is determined by genetic information.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 392,
+        "chapter": "CHAPTER 5",
+        "surface_quote": "instructions for the entire developmental process... are embedded in an organism’s DNA",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0017",
+    "canonical_statement": "Sensory perception is a product of specific neural activation patterns rather than inherent properties of the stimulus or the receptor.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 533,
+        "chapter": "CHAPTER 6 _",
+        "surface_quote": "taste is a reflection of the selective activation of sweet or bitter cells",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0018",
+    "canonical_statement": "Perception is the result of the brain transforming external stimuli into internal representations.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 601,
+        "chapter": "CHAPTER 6",
+        "surface_quote": "Sensory systems transform external stimuli into internal representations... which gives rise to perception.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0019",
+    "canonical_statement": "Subjective sensory experience is constructed through a gradual accumulation of neural activity across cortical regions.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 615,
+        "chapter": "CHAPTER 6",
+        "surface_quote": "Neural correlate of subjective sensory experience gradually builds up across cortical areas",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0020",
+    "canonical_statement": "Individual identity is fundamentally constituted by the accumulation of remembered experiences.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 882,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "Memory gives us much of our individuality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0021",
+    "canonical_statement": "Memory is a physical imprint within the brain produced by external experience.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 882,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "memory as an imprint made in the brain",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0022",
+    "canonical_statement": "Memory is encoded as the strength of synaptic connections within neural circuits.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 888,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "memory is stored as strengths of synaptic connections",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "memory",
+      "substrate",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0023",
+    "canonical_statement": "Memory is encoded as the weights of synaptic matrices within the neural architecture.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 892,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "memory is stored as weights of synaptic matrices",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "memory",
+      "substrate",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0024",
+    "canonical_statement": "Learning consists of the modification of synaptic connection strengths based on experience.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 892,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "essence of learning is to alter such weights",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "learning",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0025",
+    "canonical_statement": "Synaptic plasticity is the mechanism by which neuronal connections change in response to activity.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 892,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "synaptic plasticity... describe changes... in response to experience",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0026",
+    "canonical_statement": "Learning is fundamentally grounded in the modification of synaptic strength.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 931,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "changes of synaptic strengths underlie learning",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "learning",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0027",
+    "canonical_statement": "Behavioral habituation is caused by the depression of synaptic efficacy.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 931,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "habituation is caused by a depression... of the synaptic efficacy",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "learning",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0028",
+    "canonical_statement": "Behavioral sensitization is caused by the facilitation of synaptic efficacy.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 931,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "sensitization caused by a facilitation of the synaptic efficacy",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "learning",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0029",
+    "canonical_statement": "Spatial representation is a fundamental component of the formation of explicit memory.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 947,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "location of an experience is so essential to its explicit memory",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "memory",
+      "perception",
+      "space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0030",
+    "canonical_statement": "Memory is stored as synaptic weight matrices within neural circuits.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 954,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "memory is stored in the form of synaptic weight matrices",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "memory",
+      "substrate",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0031",
+    "canonical_statement": "Learning consists of the modification of synaptic weight matrices through experience.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 954,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "learning is equivalent to altering the synaptic weight matrix",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "learning",
+      "substrate",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0032",
+    "canonical_statement": "Memory is primarily encoded as the strength of synaptic connections within neural circuits.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 984,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "memory is primarily stored as strengths of synaptic connections",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0033",
+    "canonical_statement": "Learning consists of the modification of synaptic weight matrices via plasticity mechanisms.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 984,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "learning modifies synaptic weight matrices through... plasticity mechanisms",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "learning"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0034",
+    "canonical_statement": "Long-term memory requires the synthesis of new proteins, whereas short-term memory does not.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 984,
+        "chapter": "CHAPTER 10",
+        "surface_quote": "long-term memory requires new protein synthesis",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0035",
+    "canonical_statement": "The brain is the primary organ responsible for the generation of all emotional states.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 992,
+        "chapter": "CHAPTER 11",
+        "surface_quote": "from nothing else but the brain come joys... and sorrows",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0036",
+    "canonical_statement": "Cognitive functions, including wisdom, knowledge, and sensory perception, are localized in the brain.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 992,
+        "chapter": "CHAPTER 11",
+        "surface_quote": "by this... we acquire wisdom and knowledge, and see and hear",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0037",
+    "canonical_statement": "Moral and aesthetic judgments are products of brain function.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 992,
+        "chapter": "CHAPTER 11",
+        "surface_quote": "know what are foul and what are fair",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0038",
+    "canonical_statement": "Psychological instability and mental illness result from the dysfunction of the brain.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 992,
+        "chapter": "CHAPTER 11",
+        "surface_quote": "by the same organ we become mad and delirious",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0039",
+    "canonical_statement": "The mind and the brain are an inseparable unity.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1035,
+        "chapter": "CHAPTER 11.",
+        "surface_quote": "the brain and the mind are inseparable",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0040",
+    "canonical_statement": "Biological life possesses a unitary nature.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1092,
+        "chapter": "CHAPTER 12",
+        "surface_quote": "revealing clues about the unitary nature of life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0041",
+    "canonical_statement": "Biological life is characterized by continuous change rather than static existence.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1093,
+        "chapter": "CHAPTER 12",
+        "surface_quote": "living organisms are not static but evolving",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0042",
+    "canonical_statement": "Evolutionary change occurs as a gradual and continuous process.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1093,
+        "chapter": "CHAPTER 12",
+        "surface_quote": "evolution is a gradual and continuous process",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0043",
+    "canonical_statement": "All extant biological life originates from a single common ancestor.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1093,
+        "chapter": "CHAPTER 12",
+        "surface_quote": "all living organisms descended from a common ancestor",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0044",
+    "canonical_statement": "Natural selection is the primary mechanism governing the direction and outcome of evolution.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1093,
+        "chapter": "CHAPTER 12",
+        "surface_quote": "natural selection is the primary force that directs the evolutionary process",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0045",
+    "canonical_statement": "Evolutionary changes must originate at the level of DNA to be heritable.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1102,
+        "chapter": "CHAPTER 12",
+        "surface_quote": "Evolutionary changes must occur at the level of DNA",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0046",
+    "canonical_statement": "Genetic mutations occur without direction or purpose.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1102,
+        "chapter": "CHAPTER 12",
+        "surface_quote": "mutations... occur blindly",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0047",
+    "canonical_statement": "Biological evolution is governed by functional sufficiency rather than absolute perfection.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1141,
+        "chapter": "CHAPTER 12",
+        "surface_quote": "natural selection does not produce perfect products; it produces ‘good enough’ products",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evolution",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0048",
+    "canonical_statement": "The development of complex biological structures is constrained by historical lineage, energetic costs, and fitness utility.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1141,
+        "chapter": "CHAPTER 12",
+        "surface_quote": "natural selection is constrained by evolutionary history and by the competing energy costs",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evolution",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0049",
+    "canonical_statement": "Behavior is an emergent property of molecular/cellular neuronal properties, circuit wiring, and spatiotemporal activity patterns.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1278,
+        "chapter": "CHAPTER 13",
+        "surface_quote": "how behaviors arise from the molecular and cellular properties of neurons",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0050",
+    "canonical_statement": "All neurobiological processes are determined by genetic actions.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1293,
+        "chapter": "CHAPTER 13 Ways of exploring",
+        "surface_quote": "neurobiological processes are... consequences of gene actions",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "determinism",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_principles_of_neurobiology_ocr_0051",
+    "canonical_statement": "Behavior is grounded in and derived from the operational principles of neural circuits.",
+    "attributions": [
+      {
+        "source_id": "principles_of_neurobiology_ocr",
+        "chunk_index": 1294,
+        "chapter": "CHAPTER 13 Ways of exploring",
+        "surface_quote": "neural basis of behavior",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  }
+]

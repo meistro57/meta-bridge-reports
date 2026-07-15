@@ -1,0 +1,634 @@
+[
+  {
+    "id": "cl_2605_02477v1_0001",
+    "canonical_statement": "The universe's evolution in the phantom phase does not necessarily end in a singularity, as non-singular cosmological models exist.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "singularity is not the only possible ending of the evolution of the universe in the phantom phase",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "end"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0002",
+    "canonical_statement": "An increase in the Hubble parameter near a singularity leads to an increase in the universe's temperature.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "increase of the Hubble parameter near the singularity leads to an increase of the universe temperature",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "singularity",
+      "temperature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0003",
+    "canonical_statement": "Thermal radiation in the late Universe is caused by Hawking radiation generated on the visible horizon.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Thermal radiation is here caused by the Hawking radiation generated on the visible horizon",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "radiation",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0004",
+    "canonical_statement": "The viscosity of the cosmic fluid affects the behavior of the universe near a singularity and must be considered for accurate descriptions.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "viscosity of the cosmic fluid also affects the behavior of the universe near the singularity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "singularity",
+      "fluid"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0005",
+    "canonical_statement": "Entropic cosmology posits a connection between gravity and thermodynamics.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "approach to a modified theory of gravity is specifically based on the connection between gravity and thermodynamics",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "gravity",
+      "thermodynamics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0006",
+    "canonical_statement": "In entropic cosmology, the entropy function generates the energy density and pressure in the Friedmann equations.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "entropy function generates the energy density and pressure in the Friedmann equations",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "entropy",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0007",
+    "canonical_statement": "The Friedmann equations can be derived from the fundamental laws of thermodynamics.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Friedmann equations are derived from the fundamental laws of thermodynamics",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "thermodynamics",
+      "laws"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0008",
+    "canonical_statement": "In the late stage of the universe's evolution, if the cosmological constant is zero, dark energy density is entirely generated from entropy energy density.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "dark energy density is entirely generated from the entropy energy density",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "dark energy",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0009",
+    "canonical_statement": "The standard cold dark matter model is effective at cosmological scales but problematic at galactic scales due to the assumption of no pressure.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "standard cold dark matter model provides very efficient results at very large (cosmological) scales, but its application might be problematic at galactic scales",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "dark matter",
+      "scales"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0010",
+    "canonical_statement": "The accelerated expansion of the universe requires the pressure of the fluid to be negative.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "accelerated expansion of the universe, it is necessary that the pressure of the fluid specified in terms of the EoS is negative",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "expansion",
+      "pressure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0011",
+    "canonical_statement": "The universe can experience future finite-time singularities.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "future finite time singularities can appear.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0012",
+    "canonical_statement": "Big Rip singularities are the most destructive type of cosmological singularity.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "A cosmological singularity of the (BR) type is most destructive.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0013",
+    "canonical_statement": "All types of singularities are fundamentally classical in nature.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "All types of singularities are purely classical singularities in nature.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0014",
+    "canonical_statement": "An increase in the Hubble function leads to an increase in temperature.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "an increase of the Hubble function leads to an increase of the temperature.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0015",
+    "canonical_statement": "Thermal radiation near a singularity is associated with Hawking's radiation.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "The nature of this thermal radiation is associated with Hawking’s radiation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0016",
+    "canonical_statement": "Hawking's radiation is generated on the apparent horizon of the FLRW universe.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "generated on the apparent horizon of the FLRW universe.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0017",
+    "canonical_statement": "Hawking's radiation is linked to the existence of visible horizons in black holes and cosmic events.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "associated with the existence of the visible horizon of the black hole, as well as the visible horizon of cosmic events",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0018",
+    "canonical_statement": "Hawking's thermal spectrum radiation appears in the late universe at high temperatures before its Rip time.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Hawking’s thermal spectrum radiation shows up in the late universe, at high temperatures, shortly before its Rip time.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0019",
+    "canonical_statement": "Accounting for thermal radiation can qualitatively change the classical description of singularities and create a more realistic picture of the future universe.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Accounting for thermal radiation will allow a qualitative change in the classical description of the singularity and creates a more realistic picture of the future universe.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "physics",
+      "future"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0020",
+    "canonical_statement": "Thermal radiation energy density is proportional to the fourth power of absolute temperature.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "the thermal radiation energy density is proportional to the fourth power of the absolute temperature.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0021",
+    "canonical_statement": "Near a future singularity, where the Hubble parameter increases without limit, dark energy density can be represented as proportional to the fourth power of the Hubble parameter.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "near the future singularity, where the Hubble parameter increases without limit, one can phenomenological represent the dark energy density as ρ rad = λ H 4",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "energy",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0022",
+    "canonical_statement": "The Hayward-Kodama temperature describes the temperature of the horizon in cosmology, incorporating both the Hubble parameter and its derivative.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "the temperature of the horizon in cosmology is given by Hayward-Kodama temperature which contains both the Hubble parameter and its derivative.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0023",
+    "canonical_statement": "If the universe continues to expand with acceleration, it will approach de Sitter space-time, where a cosmological horizon will radiate like a black hole's event horizon.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "If the universe continues to expand with acceleration... the universe will approach de Sitter space time, where there will be a cosmological horizon that radiates in the same way as the event horizon of a black hole generates Hawking radiation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0024",
+    "canonical_statement": "A cosmological singularity of the Big Rip type occurs when the Hubble function tends to infinity at a finite time.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "If t tends to a finite value... then H → ∞, and a cosmological singularity of the Big Rip type appears.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0025",
+    "canonical_statement": "The Hubble function tends to a cosmological constant as time approaches infinity.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "In the limit t → ∞ the Hubble function tends to the cosmological constant.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0026",
+    "canonical_statement": "The universe can experience multiple singularities, which are points of infinite density or curvature.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "The time tmax corresponds to the occurrence of a new singularity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "singularity",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0027",
+    "canonical_statement": "The timing of cosmic singularities is not fixed and can vary based on physical models and parameters.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "The time of possible occurrence of singularities has again changed.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "singularity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0028",
+    "canonical_statement": "Cosmological models can exhibit finite scale factors, energy densities, and effective pressures, avoiding certain types of singularities.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "the values of the scale factor, energy density and effective pressure turn out to be finite",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0029",
+    "canonical_statement": "The absence of diverging higher derivatives of the Hubble function indicates the avoidance of cosmological finite-time singularities.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "higher derivatives of the Hubble function do not diverge. ... no cosmological finite-time singularity is here formed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0030",
+    "canonical_statement": "A type III singularity occurs when a specific parameter tends to zero, resulting in finite scale factor but diverging effective energy and pressure.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "if the parameter b tends to zero, then the scale factor is finite, but the effective energy and pressure diverge. This case corresponds to a type III singularity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "singularity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0031",
+    "canonical_statement": "Type III singularities are milder than Type I but stronger than Type II singularities.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "a type III singularity, which is milder than a Type I, and stronger than a Type II.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "singularity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02477v1_0032",
+    "canonical_statement": "Thermal radiation can influence a transition between different types of cosmological singularities.",
+    "attributions": [
+      {
+        "source_id": "2605_02477v1",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "A transition from singularity types, from Type I to Type III, is here possible, due to the influence of thermal radiation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "singularity"
+    ],
+    "editorial_status": "auto"
+  }
+]

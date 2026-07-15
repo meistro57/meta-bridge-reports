@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cl_2604_27023v1_0001",
+    "canonical_statement": "Causal relationships and structures are preserved under certain transformations between spacetimes.",
+    "attributions": [
+      {
+        "source_id": "2604_27023v1",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "the chronological as well as the causal futures and pasts of points are preserved",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "spacetime",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_27023v1_0002",
+    "canonical_statement": "The causal character of curves and time separation functions are maintained under isometric transformations.",
+    "attributions": [
+      {
+        "source_id": "2604_27023v1",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "the causal character of locally Lipschitz curves is preserved, as is the length of causal curves",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "causality",
+      "time",
+      "spacetime"
+    ],
+    "editorial_status": "auto"
+  }
+]

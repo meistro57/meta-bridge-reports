@@ -1,0 +1,2948 @@
+[
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0001",
+    "canonical_statement": "A divine spiritual principle exists within humanity as an inherent birthright.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "spiritual principle in man... his divine birthright",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0002",
+    "canonical_statement": "The universe is governed by a singular, eternal spiritual intelligence.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "invincible One, the eternal Flame... spirit of God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "god",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0003",
+    "canonical_statement": "Physical life is sustained by the presence of a spiritual light or flame within the body.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "When the flame within the body is withdrawn, the body is dead",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "life",
+      "body",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0004",
+    "canonical_statement": "Life and spirit are indestructible and eternal in essence.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "it cannot die, because it is life, and life cannot cease",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "soul",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0005",
+    "canonical_statement": "A divine providence regulates human affairs from a non-material dimension.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "A great hand reaches out from the unseen and regulates",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "providence",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0006",
+    "canonical_statement": "There exists a singular, universal spiritual essence, symbolized as fire, which constitutes the Creator and the foundation of all reality.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "one religion... the worship of God, the spiritual Flame of the universe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "god",
+      "substrate",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0007",
+    "canonical_statement": "All human beings originate from and eventually return to a single divine source.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "From the Flame they came, and to the Flame they have returned",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "origin",
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0008",
+    "canonical_statement": "All living beings are fundamentally unified because they are manifestations of the same eternal spiritual fire.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "all are one because all are part of that eternal Flame",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "unity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0009",
+    "canonical_statement": "The divine essence is immanent within every created thing.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "realizing that it is in all created things",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "immanence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0010",
+    "canonical_statement": "Human identity consists of a divine spark enclosed within a limiting physical or material form.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "built forms which have hidden our light",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "body",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0011",
+    "canonical_statement": "The human psyche is stratified into a lower self and a higher divine self.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "lower man must bow, a faithful servant of the Higher",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0012",
+    "canonical_statement": "The physical world functions as a pedagogical environment for the evolution of consciousness.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "The World is the schoolroom of God.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0013",
+    "canonical_statement": "Experience is a mandatory prerequisite for spiritual advancement.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "only ones ready to go onward are those who have passed through experience",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "evolution",
+      "experience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0014",
+    "canonical_statement": "A singular spiritual essence constitutes the animating force of all created entities.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "this Flame... is the spirit of all created things",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0015",
+    "canonical_statement": "The human identity is fundamentally identical to the universal spiritual essence.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Thou art the Flame",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0016",
+    "canonical_statement": "The physical body serves as a material vessel for the spiritual essence.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "thy bodies are the living altar",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "body",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0017",
+    "canonical_statement": "Human beings possess an internal spiritual essence described as a flame.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "the Flame that burns within thee",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0018",
+    "canonical_statement": "The maintenance of spiritual vitality is dependent upon ethical conduct and altruism.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "spiritual Flame must be fed by a life of purity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0019",
+    "canonical_statement": "Humanity is divided into two primary spiritual paths based on the opposing natures of fire and water.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "two paths... embody the doctrines of fire and water",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0020",
+    "canonical_statement": "The human physical or energetic form serves as the vessel or altar for the spiritual fire.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "we ourselves are the cube altar",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0021",
+    "canonical_statement": "The human spinal column is the physical correlate of the internal spiritual lamp.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "represents the spinal column of man",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "anatomy",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0022",
+    "canonical_statement": "The ascent of purified life essences provides the necessary fuel for the internal spiritual flame.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "life essences, which, when turned upward, provide fuel",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "energy",
+      "soul",
+      "process"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0023",
+    "canonical_statement": "The human individual possesses an internal spiritual essence that transmutes base qualities into a divine state.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Spiritual Flame within the student is slowly burning away and transmuting",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "transformation",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0024",
+    "canonical_statement": "Zodiacal symbols represent specific psychological or behavioral qualities within the human being.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "animal sacrifices are those of the celestial zodiac... qualities in man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "correspondence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0025",
+    "canonical_statement": "Spiritual initiation involves the sacrifice of lower animal instincts to a higher state of being.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "offering upon the altar of his own higher being the lower animal instincts",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "transformation",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0026",
+    "canonical_statement": "The human soul possesses a hidden, deeper dimension beneath the superficial layers of emotional experience.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "unearth the secret room far below the rubbish of the fallen temple",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0027",
+    "canonical_statement": "The human spinal column and sacrum bone are the physical manifestations of the metaphysical symbol of death.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "grave digger’s spade is the spinal column",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0028",
+    "canonical_statement": "Human life energy is a fluid force that can be shifted between lower and higher centers based on the focus of thought and emotion.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "centering of thought or emotion... determines where thin life energy will be expended",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "energy",
+      "consciousness",
+      "physiology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0029",
+    "canonical_statement": "Lower emotional states deplete the spiritual energy required to maintain higher consciousness.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "lower emotions predominate, the flame upon the altar burns low",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "energy",
+      "emotion",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0030",
+    "canonical_statement": "Altruistic states facilitate the transmutation and elevation of lower energies into a purified spiritual form.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "altruism predominates, then the lower forces are raised upward",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "energy",
+      "ethics",
+      "transmutation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0031",
+    "canonical_statement": "A purified spiritual flame exists as an external or hovering guide for the human individual.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Spiritual Flame that, hovering above man, lights his way",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "guidance",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0032",
+    "canonical_statement": "A divine, spiritual light exists within every human being.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "This flame in man is the Spiritual Flame within himself.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0033",
+    "canonical_statement": "The physical sun is a manifestation of a spiritual flame that grows through energy transmutation.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "Spiritual Sun... through the power of attraction and the transmuting of its energies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "energy",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0034",
+    "canonical_statement": "Epistemological clarity and the removal of ignorance are directly proportional to the activation of internal spiritual light.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "ignorance is dispelled in exactly the same proportion as his light is spread",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0035",
+    "canonical_statement": "The human body serves as the physical altar or vessel for the spiritual flame.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "make that altar, his body, as beautiful and harmonious as possible",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "body",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0036",
+    "canonical_statement": "Existence itself is evidence of an inherent, immortal essence within the individual.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "the fact that he exists at all proves... the promise of immortality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "immortality",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0037",
+    "canonical_statement": "Human spiritual consciousness is an evolutionary process of ascent through the physical and energetic structure of the body.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "spiritual consciousness in man is a pilgrim on the way to Mecca",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0038",
+    "canonical_statement": "The path to spiritual transcendence is characterized by an upward and inward movement within the self.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "the way that leads to heaven is upward and inward",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0039",
+    "canonical_statement": "The human consciousness can ascend through an internal spiritual structure to reach a higher state of being.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "consciousness be lifted upward through the Tree of Life within yourself",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "ascension"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0040",
+    "canonical_statement": "The divine essence or Spirit resides within the frontal sinus of the human brain.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "frontal sinus, is the seat of the divine in man",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "spirit",
+      "anatomy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0041",
+    "canonical_statement": "The Spirit exists as a fine essence within a specific gaseous material in the brain.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "peculiar gaseous material... exists... the fine essence which we know as the Spirit",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0042",
+    "canonical_statement": "A metaphysical connection, termed the Rainbow Bridge or Silver Cord, links the higher spiritual center to the lower physical world.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "connected to the lower world by the Rainbow Bridge, or the Silver Cord",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "connectivity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0043",
+    "canonical_statement": "The human soul undergoes a pilgrimage from the lower self/world to a higher state of existence located in the brain.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "individual leaves the lower man... and climbs upward into the Higher Man",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity",
+      "ascension"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0044",
+    "canonical_statement": "There is a macrocosm-microcosm correspondence between the earthly center of direction (Shamballa) and the human brain's governing system.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "as that great city is the center... so the corresponding great city in man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "correspondence",
+      "universe",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0045",
+    "canonical_statement": "The human being possesses seven internal spiritual centers of power.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "buds in the Rod are the seven centers within yourself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "anatomy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0046",
+    "canonical_statement": "Humanity possesses a higher self or higher principle that represents a divine birthright.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "attuned to his own higher self... receiving his divine birthright",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0047",
+    "canonical_statement": "External universal truths and entities are reflections of internal spiritual states and structures.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "must first happen within himself before he can find them in the universe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0048",
+    "canonical_statement": "Spiritual consciousness unfolds through a process of internal maturation and awakening.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "unfolding of consciousness within",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0049",
+    "canonical_statement": "The soul possesses inherent qualities that can be awakened and expanded.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "unfolding into full bloom of the soul qualities",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0050",
+    "canonical_statement": "Liberation from material bondage is achieved through a spiritual pilgrimage of internal fire.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "freed by his pilgrimage from the Wheel of Bondage",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "liberation",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0051",
+    "canonical_statement": "The liberated consciousness transcends the physical brain to enter a higher state of existence.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "rises upward from among... the convolutions of the brain",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0052",
+    "canonical_statement": "The soul possesses a distinct, purified body used in a post-liberation state.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "white robes of purity, their own soul bodies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0053",
+    "canonical_statement": "The realized human being is the primary instrument of mastery over material reality.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "stone of the philosopher... This stone is himself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "power",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0054",
+    "canonical_statement": "Spiritual evolution refines the individual to reflect the primordial light of creation.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "evolution have cut and polished... reflects the light of creation",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "consciousness",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0055",
+    "canonical_statement": "The human soul's history and evolution can be encoded within chemical symbolism.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "concealed under chemical symbolism the history of the soul",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0056",
+    "canonical_statement": "Consciousness persists and continues to explore the universe after physical death.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "he, with his little lamp, still explores the mysteries of the universe",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0057",
+    "canonical_statement": "Life experiences serve as the catalysts for spiritual transformation.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "Experiences are the chemicals of life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "transformation",
+      "experience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0058",
+    "canonical_statement": "The human spirit acts as the essential light or faculty required to perceive spiritual truths.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "His own Spiritual Flame is the lamp by which he reads",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0059",
+    "canonical_statement": "The physical body is the vessel for spiritual transmutation.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "His own body is the furnace in which he prepares the Philosopher’s Stone",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "body",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0060",
+    "canonical_statement": "The human being is a synthesis of spirit (blue) and body (red).",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "purple, which is the blending of the red and the blue",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "composition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0061",
+    "canonical_statement": "The mind serves as the mediating link that unites spirit and body into a perfected state.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "spirit and the body, are united through mercury, the link of mind",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind",
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0062",
+    "canonical_statement": "Humans are the incarnated manifestation of the principle of mind.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "Man is the incarnated principle of mind",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "mind",
+      "incarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0063",
+    "canonical_statement": "Human nature is dualistic, consisting of a celestial higher being and a material lower self.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "higher being is lifted to the celestial spheres, but the lower man ties him to matter",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0064",
+    "canonical_statement": "Human spiritual evolution involves the transmutation of lower nature into a higher spiritual state.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "transmutes the lower man into spiritual gold",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evolution",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0065",
+    "canonical_statement": "The universe is holographic; every part of matter contains a proportion of every other element in existence.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "every grain of sand... has... every element of the universe therein",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0066",
+    "canonical_statement": "Creation is the process of extracting and organizing existing potential rather than generating something from nothing.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "did not try to make something from nothing",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0067",
+    "canonical_statement": "The human being possesses all things as internal potential energy.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "man... does contain within, in potential energy, all things",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "potential"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0068",
+    "canonical_statement": "The manifestation of the higher self (Christ) results from the union of the spiritual and physical dimensions.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "union of the higher with the lower that the Christ is born",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0069",
+    "canonical_statement": "Purification of the spiritual fire results in the formation of a luminous soul body.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "radiates from the body as the soul body of gold and blue",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0070",
+    "canonical_statement": "The integration of opposing internal polarities (heart and mind, positive and negative) produces a refined spiritual state.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "heart and mind are joined in eternal union",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "polarity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0071",
+    "canonical_statement": "The soul body is a product of the cooperative union between higher and lower aspects of the human being.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "five-pointed star is the soul body, born of this co-operation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0072",
+    "canonical_statement": "The ultimate goal of spiritual alchemy is the union of the physical body and the spirit for mutual development.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "marriage of the body and the spirit for mutual development",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirit",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0073",
+    "canonical_statement": "Human desires and wishes act as catalysts that activate the latent powers of the soul.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "desires and wishes touch off the powers of his soul",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0074",
+    "canonical_statement": "Life experiences can be transmuted into permanent spiritual qualities through conscious perception.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "experiences may be transmuted into soul qualities",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "transmutation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0075",
+    "canonical_statement": "Spiritual equilibrium is achieved through the balanced integration of emotional and intellectual faculties.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "equal development of both heart and mind",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "balance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0076",
+    "canonical_statement": "The realized individual exists within the material world while remaining ontologically distinct from it.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "while he is in the world... he is not of it",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0077",
+    "canonical_statement": "Higher spiritual consciousness is attained through the internal synthesis of dualistic spiritual forces.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "two paths or parts of the spirit fire have been united",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0078",
+    "canonical_statement": "The universe is governed by a singular Divine Intelligence that manages the creation and maintenance of form.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "Divine One... the creation of life, the maintenance of form",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "universe",
+      "divinity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0079",
+    "canonical_statement": "Spirit descends into the domain of matter.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "spirit descending into the square of matter",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "spirit",
+      "matter",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0080",
+    "canonical_statement": "Matter can be purified to allow the manifestation of spirit.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "purify matter that spirit may shine through",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "spirit",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0081",
+    "canonical_statement": "Human beings possess an innate, dormant spiritual energy (serpent power).",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "sleeping serpent power in man",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "energy",
+      "identity",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0082",
+    "canonical_statement": "Spiritual initiation involves the upward transmutation of specific internal energies.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "serpent is the transmuted Scorpio energy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "initiation",
+      "energy",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0083",
+    "canonical_statement": "The human constitution consists of three distinct bodies: physical, emotional, and mental.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "three bodies that are the tools",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0084",
+    "canonical_statement": "Spiritual manifestation occurs through individuals who have achieved spiritual growth and purification.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "through spirituality and growth God was able to manifest",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0085",
+    "canonical_statement": "The physical body can be subjugated and mastered through specific disciplines.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "subjugated his physical body",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "mastery"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0086",
+    "canonical_statement": "The emotional body is a distinct entity capable of being guarded and kept.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "guardian and keeper of his emotional body",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0087",
+    "canonical_statement": "The mind is a distinct entity capable of being mastered.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "master of his mind",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "substrate",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0088",
+    "canonical_statement": "Purification of the lower emotional centers is a prerequisite for spiritual initiation.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "purification of the bodies... seat of the lower emotions",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "purification",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0089",
+    "canonical_statement": "The divine spirit is distinct from the physical body and survives its dissolution.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "divine spirit rises from the body that is no more",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0090",
+    "canonical_statement": "Life is an eternal phenomenon.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "The life is eternal",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0091",
+    "canonical_statement": "Individual identity and spiritual rank persist across multiple incarnations.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "leaders before are leaders now",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "reincarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0092",
+    "canonical_statement": "Spiritual rank is an intrinsic quality of the soul that persists independently of physical status or time.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "insignia of rank, which the loss of title or position cannot destroy",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "rank"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0093",
+    "canonical_statement": "The soul possesses a radiant quality derived from its purity and spiritual achievements.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "soul qualities which they radiate from themselves",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0094",
+    "canonical_statement": "Physical symbols of initiation have enduring spiritual counterparts that manifest in the lived experience.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "spiritual counterpart of that symbol radiates in their daily lives",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0095",
+    "canonical_statement": "The human being possesses an internal divine essence or higher self that serves as the ultimate authority.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "serve none but his own higher self, the god within",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0096",
+    "canonical_statement": "The soul possesses a distinct 'soul body' that serves as its true spiritual attire.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "His robes are his soul body",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0097",
+    "canonical_statement": "Spiritual initiation can occur in a non-physical or timeless dimension regardless of physical location.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "Still in the pyramid of Gizeh, the initiations continue",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "space",
+      "initiation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0098",
+    "canonical_statement": "The Ark is a universal symbol representing the primordial source of wisdom.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "the ark represents the fountain-head of wisdom",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0099",
+    "canonical_statement": "The human spirit is an active force that seeks ultimate realization within the individual's spiritual center.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "spirit fire in man rest until finally it is enthroned",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0100",
+    "canonical_statement": "The collective destiny of a nation is the aggregate result of the actions of its individual members.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "actions of a nation are the collective actions of its individuals",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "collective consciousness",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0101",
+    "canonical_statement": "Spiritual light is attracted to individuals who align their lives with truth and doctrine.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "law of attraction draws to them all who love and live the Truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "law of attraction",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0102",
+    "canonical_statement": "The human body serves as a vessel or ark for a threefold spiritual essence.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "threefold spirit contained within the ark of man’s bodies",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0103",
+    "canonical_statement": "The human brain contains a locus of communication between the individual and the divine.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "In the brain of man... man speaks with his God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "anatomy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0104",
+    "canonical_statement": "Mental rigidity or the exclusion of diverse perspectives severs the individual's connection to the universal life force.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "When the individual crystallizes... he excludes the life force",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "energy",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0105",
+    "canonical_statement": "The human body, universe, and soul can be perfected into a shrine for divine communion.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "perfected temple of the human body... perfect shrine for the living Ark",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "soul",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0106",
+    "canonical_statement": "The divine essence or the Most High resides within the individual as a spiritual core.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "converses with the Most High, the true spiritual essence within himself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0107",
+    "canonical_statement": "Access to the inner divine essence requires a process of spiritual initiation and purification.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "reach it after he has passed through all the degrees of initiation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "initiation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0108",
+    "canonical_statement": "The human body serves as a vessel for the universal life force or cosmic spirit.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "your own body within which is the life blood of the Sun Spirit",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "substrate",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0109",
+    "canonical_statement": "The individual can become a conduit for the expression of universal light.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "when he becomes a channel for its expression",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0110",
+    "canonical_statement": "Historical narratives and myths often serve as allegories for occult or mystic truths.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "great mystic or occult truth that it concealed under allegory",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0111",
+    "canonical_statement": "The journey of the individual is a process of spiritual development and self-mastery.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "path of Initiation along which each must pass to self-mastery",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0112",
+    "canonical_statement": "Universal truths regarding the human path are encoded across diverse cultural mythologies.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "To every nation... sacred legends have been given to teach man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "universalism",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0113",
+    "canonical_statement": "A universal truth exists that is communicated to humanity in forms adapted to their developmental stage.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "one great connected truth told to many different people",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0114",
+    "canonical_statement": "Spiritual initiation consists of the eternal unification of the spiritual and intellectual aspects of the self.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "wedding of the Spiritual and Intellectual within the Initiate",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "initiation",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0115",
+    "canonical_statement": "The human soul evolves into a state of grandeur through the processes of purification and service.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "soul of man, which through purification and service has blossomed",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0116",
+    "canonical_statement": "The physical body is represented symbolically as a cube or stone.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "The cube stone is the body",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0117",
+    "canonical_statement": "The spirit is a power that must be liberated from the constraints of the material world and the lower self.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "freeing the Sword of Spirit from the casings of the lower man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0118",
+    "canonical_statement": "The higher principle within humanity is susceptible to the influence of passion.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "spear of Passion that pierces the side of the Christ, the higher principle",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0119",
+    "canonical_statement": "Lucifer represents the dynamic energy of the universe.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "crown jewel of Lucifer, the dynamic energy of the universe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "universe",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0120",
+    "canonical_statement": "The grail cup symbolizes the creative force of nature and the evolving human race.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "grail cup is the symbol of the creative force of nature",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0121",
+    "canonical_statement": "There exists a spiritual force capable of transmuting the physical body into a soul.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "force which is transmuting the body into soul",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "transmutation",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0122",
+    "canonical_statement": "Mythological monsters represent the lower aspects of human nature that must be overcome.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "dragons and ogres... are their own lower natures",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0123",
+    "canonical_statement": "The struggle between knights and enemies symbolizes the internal conflict between the higher and lower self for the soul.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "higher and lower man fighting for the soul within",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0124",
+    "canonical_statement": "A purified physical body serves as a spiritual defense against vice and passion.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "white armor... is his own purified body",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "body",
+      "purification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0125",
+    "canonical_statement": "The creative life force within the individual operates through a polarity of two opposing poles.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "two poles of the creative life force within",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "energy",
+      "polarity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0126",
+    "canonical_statement": "Higher spiritual beings oversee human existence from a position outside the reach of the uninitiated.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "Elder Brothers... sitting around the circular table of the universe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0127",
+    "canonical_statement": "Spiritual illumination requires prior purification, as unpurified consciousness cannot withstand the intensity of the light.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "illuminated by the light which would have killed him without purification",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "purification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0128",
+    "canonical_statement": "Post-mortem existence involves continued labor and service in a spiritual state while the physical body is dormant.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "bodies are asleep still labor in their great search",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0129",
+    "canonical_statement": "External sacred objects are symbolic representations of internal human organs or functions.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "every sacred thing... stands for some organ or function within himself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "consciousness",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0130",
+    "canonical_statement": "The human individual is a composite entity consisting of numerous smaller units functioning in harmony.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "man... is a great number of small units, each working in harmony",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure",
+      "composition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0131",
+    "canonical_statement": "All complex entities or achievements are aggregates of smaller constituent parts.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "It is the same with everything... a number of small achievements",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0132",
+    "canonical_statement": "The human physical composition is derived from four fundamental elements.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "four elements of which man’s bodies are composed",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "composition",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0133",
+    "canonical_statement": "Humanity possesses four distinct bodies, each originating from a specific elemental base.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "four bodies of man are raised, each from its own element",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0134",
+    "canonical_statement": "The physical body originates from the element of earth.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "physical body is raised from the earth",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "composition",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0135",
+    "canonical_statement": "The vital body originates from the element of water.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "vital body is raised from the water",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "composition",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0136",
+    "canonical_statement": "The emotional body originates from the element of fire.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "emotional body from the fire",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "composition",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0137",
+    "canonical_statement": "The mental body originates from the element of air.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "mental body from the air",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "composition",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0138",
+    "canonical_statement": "The complete human constitution is twelvefold, comprising threefold body, mind, soul, and spirit.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "twelvefold constitution of man... threefold body, mind, soul, and spirit",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0139",
+    "canonical_statement": "Humanity is composed of a spiritual essence emerging from animalistic drives.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "mind and spirit of the human rising out of the animal desires",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0140",
+    "canonical_statement": "Access to higher spiritual states requires the mastery of the physical body.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "gateway to the spirit is through the bodies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirit",
+      "body",
+      "ascension"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0141",
+    "canonical_statement": "The human being is structured as a threefold spiritual entity.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "three great divisions in man which are the seats of the threefold spirit",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0142",
+    "canonical_statement": "The physical brain, heart, and generative systems are governed by distinct hierarchical spiritual authorities.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "lower room... Jehovah... center room... Christ... upper room... Father",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "governance",
+      "body",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0143",
+    "canonical_statement": "Spiritual liberation is achieved through the symbolic or actual death of the lower self.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "death of the lower man and the liberation of the higher",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "liberation",
+      "identity",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0144",
+    "canonical_statement": "The universe is the primary temple of the Solarman, which is being reconstructed within human consciousness.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "true temple of Solomon is the universe... being rebuilt in man",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "universe",
+      "soul",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0145",
+    "canonical_statement": "The human spirit is the essential key to unlocking the mysteries of creation.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "This key is the spirit.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "spirit",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0146",
+    "canonical_statement": "The human spirit is a divine element that has descended into a lower, degraded state.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "spirit in man, which fell from its high position",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirit",
+      "fall",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0147",
+    "canonical_statement": "Spiritual ascension requires the unification of internal fragmented aspects under the direction of the higher self.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "binds them to the service of the higher man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0148",
+    "canonical_statement": "The transmutation of passion into spirit is facilitated by a specific cosmic dynamic energy.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "transmute from the fire of passion to the flame of spirit",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "energy",
+      "transmutation",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0149",
+    "canonical_statement": "The human being is a spiritual temple whose integrity is compromised by the pursuit of material gain.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "soul and body... sacrificed in order that he might have material things",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "matter",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0150",
+    "canonical_statement": "The human being possesses an internal spiritual structure analogous to a temple.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "our own mystery temple",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0151",
+    "canonical_statement": "Human consciousness consists of a higher spiritual component and a lower nature.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "stone of spirit... bury our lower nature",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_manly_p_hall_initiates_of_the_flame_0152",
+    "canonical_statement": "Spiritual enlightenment is achieved through the perfection of the internal spiritual structure.",
+    "attributions": [
+      {
+        "source_id": "manly_p_hall_initiates_of_the_flame",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "hasten to perfect our pyramid... mysteries be revealed",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  }
+]

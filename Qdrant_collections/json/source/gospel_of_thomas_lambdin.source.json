@@ -1,0 +1,14 @@
+{
+  "id": "gospel_of_thomas_lambdin",
+  "title": "Gospel of Thomas",
+  "author": "Unknown",
+  "medium": "Jesus",
+  "channel_type": "dialogue",
+  "tradition": "Gnosticism",
+  "year": 0,
+  "region": "",
+  "ingested_at": "2026-05-22T14:36:41.231326344Z",
+  "chunk_count": 13,
+  "claim_count": 72,
+  "source_path": "incoming/Gospel-of-Thomas-Lambdin.pdf"
+}

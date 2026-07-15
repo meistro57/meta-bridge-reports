@@ -1,0 +1,283 @@
+[
+  {
+    "id": "cl_2605_02976v1_0001",
+    "canonical_statement": "The fundamental spatial geometry of the universe, as described by Newtonian gravity, is Euclidean.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 2,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "Consistently with Newtonian gravity, the background geometry is assumed to be Euclidean.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "geometry",
+      "space",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0002",
+    "canonical_statement": "There are infinitely many locally distinct but globally equivalent formulations of energy density in Newtonian gravitation.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 6,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "there is an infinite number of energy densities εa (x, t) (a continuous 1-parameter family described by a), which are locally different, but globally equivalent",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "physics",
+      "energy",
+      "gravitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0003",
+    "canonical_statement": "Locally distinct energy density formulations yield the same total gravitational energy when integrated over all space under specific boundary conditions.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 6,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "their distributions are different point-by-point in space, but when integrated over all space under suitable boundary conditions at spatial infinity... they return the same total gravitational energy Eg",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "physics",
+      "energy",
+      "gravitation",
+      "integration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0004",
+    "canonical_statement": "The fundamental balance of physical quantities is independent of the observer's reference frame.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 18,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "the balance itself is observer independent: it is a spacetime divergence of a four-quantity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "relativity",
+      "observation",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0005",
+    "canonical_statement": "The local balance of physical quantities is a representation of a covariant law within an external laboratory frame.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 18,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "The local balance is a laboratory frame version of the covariant law.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "relativity",
+      "physics",
+      "measurement"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0006",
+    "canonical_statement": "The substantial balance of physical quantities represents the same covariant law as the local balance, but is expressed in a comoving frame using relative quantities from the laboratory frame.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 18,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "the substantial balance is the same in a comoving frame, but expressed with the relative quantities of the labframe.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "relativity",
+      "physics",
+      "measurement"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0007",
+    "canonical_statement": "The bulk force of a gravitational field within a spatial region can be expressed as a surface traction on its boundary.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 19,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "the bulk force due to fg = ρg of the gravitational field g = −∇φ in any spatial region can be expressed as a surface traction on the boundary",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "gravity",
+      "holography",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0008",
+    "canonical_statement": "The classical holographic property of the gravitational field arises as a consequence of zero dissipation in ideal, dissipation-free continuous fields.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 19,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "the classical holographic property emerges as a consequence of zero dissipation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "holography",
+      "thermodynamics",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0009",
+    "canonical_statement": "The thermodynamic information necessary to define bulk equations of motion is entirely encoded by boundary fluxes.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 19,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "the thermodynamic information required to specify the bulk equations of motion...is entirely encoded by the boundary fluxes",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "information",
+      "thermodynamics",
+      "holography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0010",
+    "canonical_statement": "A classical system can be thermodynamically holographic while remaining kinematically volumetric.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 19,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "the classical weakly nonlocal fluid is thermodynamically holographic, yet kinematically volumetric",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "holography",
+      "thermodynamics",
+      "kinematics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0011",
+    "canonical_statement": "The gravitational Lagrangian density describes the interaction between matter and gravity, and the intrinsic nature of the gravitational field.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 37,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "the pure gravitational term...describes the gravitational field 'on its own', while the coupling term...describes the 'inter-action' of matter ρ and gravity φ.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gravity",
+      "interaction",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0012",
+    "canonical_statement": "In the context of the gravitational Lagrangian, mass density is considered a fixed, a priori parametric variable, not a dynamically variable field.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 37,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "mass density distribution ρ(x, t)=fixed, given a priori, regarded as a 'parametric variable (function)', but not as a dynamically variable field itself.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "matter",
+      "physics",
+      "modeling"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0013",
+    "canonical_statement": "Matter dictates the distribution of gravity in space, but gravity does not reciprocally influence the motion of matter.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 38,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "matter tells gravity how to spread in space, but gravity does not (yet) tell matter how to move",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "gravity",
+      "matter",
+      "interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02976v1_0014",
+    "canonical_statement": "The gravitational field is derived from a more fundamental scalar field.",
+    "attributions": [
+      {
+        "source_id": "2605_02976v1",
+        "chunk_index": 38,
+        "chapter": "ON THE ENERGY BALANCE OF NEWTONIAN GRAVITATION",
+        "surface_quote": "g = −∇φ as an ”auxiliary” vector field, derived from the more fundamental scalar field φ",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "gravity",
+      "field",
+      "scalar"
+    ],
+    "editorial_status": "auto"
+  }
+]

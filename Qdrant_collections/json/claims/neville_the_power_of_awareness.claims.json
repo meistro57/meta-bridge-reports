@@ -1,0 +1,5081 @@
+[
+  {
+    "id": "cl_neville_the_power_of_awareness_0001",
+    "canonical_statement": "All manifest existence is composed of light.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 3,
+        "chapter": "Chapter One",
+        "surface_quote": "everything that is made manifest is light",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0002",
+    "canonical_statement": "Consciousness is a singular, non-divisional entity manifesting as multiple forms.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 3,
+        "chapter": "Chapter One",
+        "surface_quote": "Consciousness is one, manifesting in legions of forms",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0003",
+    "canonical_statement": "There is no ontological separation between individual consciousness and the totality of existence.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 3,
+        "chapter": "Chapter One",
+        "surface_quote": "no one that is not all that is",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0004",
+    "canonical_statement": "The core essence of being remains invariant regardless of the conceptual identity assumed.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 3,
+        "chapter": "Chapter One",
+        "surface_quote": "center of my being remains the same regardless of the concept",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0005",
+    "canonical_statement": "The center of manifestation is a single consciousness projecting various concepts of itself.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 3,
+        "chapter": "Chapter One",
+        "surface_quote": "one I AM manifesting in legions of forms or concepts",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0006",
+    "canonical_statement": "The absolute is self-defined as the primary cause-substance and the foundation of all existence.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 4,
+        "chapter": "H E \" LIGH T \"",
+        "surface_quote": "I AM is the self-definition of the absolute",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence",
+      "absolute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0007",
+    "canonical_statement": "The core of consciousness is a permanent, irreducible awareness of being that persists regardless of identity loss.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 4,
+        "chapter": "H E \" LIGH T \"",
+        "surface_quote": "The very center of consciousness is the feeling of I AM",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0008",
+    "canonical_statement": "The individual's conceptualization of the self determines the external manifestation of their reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 4,
+        "chapter": "H E \" LIGH T \"",
+        "surface_quote": "his concept of himself that determines the world",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "identity",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0009",
+    "canonical_statement": "Physical and circumstantial states are specific arrangements of the primary cause-substance driven by self-concept.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 4,
+        "chapter": "H E \" LIGH T \"",
+        "surface_quote": "particular arrangement of the basic cause-substance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "manifestation",
+      "health"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0010",
+    "canonical_statement": "The primary cause-substance is singular and universal, regardless of the diverse forms or identities it assumes.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 4,
+        "chapter": "H E \" LIGH T \"",
+        "surface_quote": "defining different concepts or arrangements of the one cause-substance",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "identity",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0011",
+    "canonical_statement": "Reality is a singular consciousness that manifests as diverse experiences based on its own self-conception.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 5,
+        "chapter": "H E \" LIGH T \"",
+        "surface_quote": "reality - conceiving itself to be something... and becoming that",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0012",
+    "canonical_statement": "External causality is an illusion; all life events are products of the individual mind.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 5,
+        "chapter": "H E \" LIGH T \"",
+        "surface_quote": "free from the belief that there are causes outside of your own mind",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0013",
+    "canonical_statement": "The external world is a projection of the individual's self-concept.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 5,
+        "chapter": "H E \" LIGH T \"",
+        "surface_quote": "If man's concept of himself were different, everything in his world would be different",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0014",
+    "canonical_statement": "There exists a single, infinite universal identity of which every individual is a part.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 5,
+        "chapter": "H E \" LIGH T \"",
+        "surface_quote": "there is only one I AM and you are that I AM",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "nonduality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0015",
+    "canonical_statement": "Individual limitation is a result of a restrictive self-concept rather than an inherent lack of capacity.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 5,
+        "chapter": "H E \" LIGH T \"",
+        "surface_quote": "by your concept of yourself, are displaymg only a limited aspect",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "limitation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0016",
+    "canonical_statement": "Consciousness is the primary and sole reality and the fundamental cause of all phenomena.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 6,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "consciousness is the one and only reality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0017",
+    "canonical_statement": "Existence is contingent upon the consciousness of the observer.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 6,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "Nothing has existence for man save through the consciousness he has of it",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0018",
+    "canonical_statement": "All manifestations of the universe are variations of a single substance: consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 6,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "all its evolutions, fruits, and phenomena must remain consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0019",
+    "canonical_statement": "Material objects and external circumstances are projections of individual consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 6,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "material objects are really only the products of your own consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "materiality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0020",
+    "canonical_statement": "The distinction between the observer and the external environment is an illusion; they are a single unity.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 6,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "You and your world are one",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "nonduality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0021",
+    "canonical_statement": "Diversity in the universe is a result of the arrangement of consciousness, not a variety of substances.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 6,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "Difference does not consist in variety of substance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "diversity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0022",
+    "canonical_statement": "The external world lacks independent agency and exists to manifest the concepts of the individual's consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 6,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "it has no motive of its own, but is under the necessity of manifesting your concept",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0023",
+    "canonical_statement": "The structure of the individual mind is a reflection of the beliefs and truths the individual accepts.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 7,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "mind is always arranged in the image of all you believe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0024",
+    "canonical_statement": "Diverse human conditions are not different essences but different configurations of a single, universal mind.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 7,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "different arrangements of the same mind",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0025",
+    "canonical_statement": "Positive attributes and states of being are not created but are manifested through specific mental arrangements.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 7,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "Health, wealth... are not created; they are only manifested",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0026",
+    "canonical_statement": "An individual's psychological state determines their experience in the physical world.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 7,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "where you live psychologically, determines how you live here",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0027",
+    "canonical_statement": "Consciousness is the primal cause and the ultimate substance of all existence.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 7,
+        "chapter": "Chapter Two CONSCIOUSNESS",
+        "surface_quote": "ultimate substance of all things IS consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0028",
+    "canonical_statement": "External circumstances are the direct result of an individual's state of consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 8,
+        "chapter": "Chapter Three POWER OF ASSUMPTION",
+        "surface_quote": "all that befalls a man... happens as a result of his state of consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0029",
+    "canonical_statement": "Consciousness is defined as the totality of an individual's thoughts, desires, loves, and beliefs.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 8,
+        "chapter": "Chapter Three POWER OF ASSUMPTION",
+        "surface_quote": "consciousness is all that he thinks and desires and loves",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0030",
+    "canonical_statement": "Modification of the external world requires a prior modification of the internal state of consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 8,
+        "chapter": "Chapter Three POWER OF ASSUMPTION",
+        "surface_quote": "change of consciousness is necessary before you can change your outer world",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0031",
+    "canonical_statement": "Cognitive transformation requires the introduction of new conceptual frameworks.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 9,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "thoughts cannot change unless you have new ideas",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0032",
+    "canonical_statement": "The manifestation of a desired state is achieved by assuming the emotional reality of that state in the present.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 9,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "assuming the feeling of your unfulfilled [dream]",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0033",
+    "canonical_statement": "Idealized versions of the self exist as potentials awaiting human incarnation.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 9,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "ideal you hope to achieve is always ready for an incarnation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0034",
+    "canonical_statement": "Mental knowledge and spiritual knowledge are distinct and operate via different methodologies.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 9,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "methods of mental and spiritual knowledge are entirely different",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0035",
+    "canonical_statement": "Mental knowledge is characterized by external observation, comparison, and analysis.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 9,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "know a thing mentally by looking at it from the outside",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0036",
+    "canonical_statement": "True knowledge of a state of being is achieved only through the direct experience of being that state.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 10,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "He only knew the flame who in it burned",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0037",
+    "canonical_statement": "The evolution of identity requires the dissolution of the current self-concept.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 10,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "becoming a new person be willing to die to your present self",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0038",
+    "canonical_statement": "The internal assumption of a desired state of consciousness precipitates its physical manifestation.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 10,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "assume that you already are what you want to be",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0039",
+    "canonical_statement": "Wholeness and integrity consist of the total alignment of the self with a specific feeling or state of being.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 10,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "submission of the whole self to the feeling",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0040",
+    "canonical_statement": "The evolution of the self into a higher state of consciousness cannot occur through natural biological or evolutionary processes.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 11,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "folly to expect... incarnation... to come about by natural evolutionary process",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evolution",
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0041",
+    "canonical_statement": "Imagination is the primary mechanism by which an individual constructs and manifests their personal reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 11,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "imagination-the instrument by which you create your world",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "imagination",
+      "creation",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0042",
+    "canonical_statement": "Imagination is the sole power capable of effecting redemption or transformation within the universe.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 11,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "Imagination is the only redemptive power in the universe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "imagination",
+      "redemption",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0043",
+    "canonical_statement": "The individual possesses the volitional agency to choose their own conceptual identity and state of being.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 11,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "optional to you whether you remain in your present concept",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "identity",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0044",
+    "canonical_statement": "The source of all necessary spiritual strength and divine authority resides within the internal consciousness of the individual.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 11,
+        "chapter": "A N 'S CHIEF",
+        "surface_quote": "strength for all need... From the fountain within you",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "internalism",
+      "strength"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0045",
+    "canonical_statement": "External life events are the direct result of an individual's internal consciousness and self-concept.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 12,
+        "chapter": "Chapter Four DESIRE",
+        "surface_quote": "changes... result of a change of your consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "causality",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0046",
+    "canonical_statement": "Persistent assumptions, regardless of their initial truth value, eventually manifest as physical facts.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 12,
+        "chapter": "Chapter Four DESIRE",
+        "surface_quote": "assumption, though false, if persisted in will harden into fact",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "belief",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0047",
+    "canonical_statement": "The realization of a desired state requires the prior psychological assumption of that state's current existence.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 12,
+        "chapter": "Chapter Four DESIRE",
+        "surface_quote": "not be realized... until you have imagined that you are already that ideal",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0048",
+    "canonical_statement": "An individual's internal attitude toward themselves is the primary necessary condition for the realization of goals.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 12,
+        "chapter": "Chapter Four DESIRE",
+        "surface_quote": "that attitude alone is the necessary condition",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0049",
+    "canonical_statement": "All transformation occurs through the process of suggestion and the openness of the subject to influence.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 12,
+        "chapter": "Chapter Four DESIRE",
+        "surface_quote": "All transformation is based upon suggestion",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "transformation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0050",
+    "canonical_statement": "The Law of Assumption operates universally, whether the individual is consciously aware of it or not.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 12,
+        "chapter": "Chapter Four DESIRE",
+        "surface_quote": "he does live by the law of assumption unconsciously",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "law",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0051",
+    "canonical_statement": "Ascension to a higher level of being is contingent upon the adoption of a higher self-concept.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 12,
+        "chapter": "Chapter Four DESIRE",
+        "surface_quote": "To reach a higher level of being, you must assume a higher concept",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0052",
+    "canonical_statement": "Identity is plastic and determined by the individual's internal conceptualization of themselves.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 13,
+        "chapter": "Chapter Four DESIRE",
+        "surface_quote": "imagine yourself as other than what you are",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0053",
+    "canonical_statement": "The conscious assumption of a desired state transforms a potential future into a present reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 13,
+        "chapter": "Chapter Four DESIRE",
+        "surface_quote": "assumption of the feeling... makes the future dream a present fact",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "manifestation",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0054",
+    "canonical_statement": "External life circumstances are manifestations of an individual's internal assumptions.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 14,
+        "chapter": "Chapter Five THE TRUTH THAT SETS YOU FREE",
+        "surface_quote": "events of your life are brought to pass by your assumptions",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0055",
+    "canonical_statement": "Conscious control of the imagination allows for the deliberate modification of one's existential state.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 14,
+        "chapter": "Chapter Five THE TRUTH THAT SETS YOU FREE",
+        "surface_quote": "attain this mastery by deliberate conscious control of your imagination",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0056",
+    "canonical_statement": "The internal feeling of having already achieved a state is the mechanism for manifesting that state in reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 14,
+        "chapter": "Chapter Five THE TRUTH THAT SETS YOU FREE",
+        "surface_quote": "feel yourself to be in that state as though it actually formed",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0057",
+    "canonical_statement": "Conscious imagination and sustained attention can transmute mental images into physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 15,
+        "chapter": "H E DRAMA",
+        "surface_quote": "imagination... changed into a seemingly solid reality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0058",
+    "canonical_statement": "Identity is determined by the internal conceptualization and assumption of a specific state of being.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 15,
+        "chapter": "H E DRAMA",
+        "surface_quote": "you identify yourself with it and thereby transform yourself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0059",
+    "canonical_statement": "All potential states of existence exist as possibilities until they are experienced from an internal perspective.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 15,
+        "chapter": "H E DRAMA",
+        "surface_quote": "Every state is already there as mere possibilities",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "potentiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0060",
+    "canonical_statement": "The individual's nature is a reflection of their accepted self-concept and resigned will.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 15,
+        "chapter": "H E DRAMA",
+        "surface_quote": "You become according to your resigned will",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0061",
+    "canonical_statement": "Imagination is the primary mechanism for the creation of individual life experience.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 16,
+        "chapter": "H E DRAMA",
+        "surface_quote": "Every phase of your life is made by the exercise of your imagination.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "creation",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0062",
+    "canonical_statement": "Consistent mental simulation of a desired state precipitates its manifestation in physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 16,
+        "chapter": "H E DRAMA",
+        "surface_quote": "maintaining this experience in imagination, your desire will become an actuality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0063",
+    "canonical_statement": "The ability to generate vivid internal imagery grants the individual agency over their destiny.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 16,
+        "chapter": "H E DRAMA",
+        "surface_quote": "forms of your imagination are as vivid... you are master of your fate",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "agency",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0064",
+    "canonical_statement": "Human thought possesses the capacity for instantaneous non-local traversal across dimensions and the universe.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 16,
+        "chapter": "H E DRAMA",
+        "surface_quote": "From the fourth dimension... Our thoughts go lightning shod",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "space",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0065",
+    "canonical_statement": "Imagination and the Divine are functionally identical or interchangeable concepts.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 16,
+        "chapter": "H E DRAMA",
+        "surface_quote": "Some call it imagination, And others call it God.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "imagination",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0066",
+    "canonical_statement": "The present moment is the only point of efficacy for transformation.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 17,
+        "chapter": "H E DRAMA",
+        "surface_quote": "It is only what is done now that counts",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0067",
+    "canonical_statement": "The assumption of a desired state constitutes a metaphysical investment in reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 17,
+        "chapter": "H E DRAMA",
+        "surface_quote": "Whenever we assume the feeling... we are investing",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0068",
+    "canonical_statement": "The manifestation of a desire is contingent upon the exclusive concentration of attention.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 17,
+        "chapter": "H E DRAMA",
+        "surface_quote": "desire which realizes itself is always a desire upon which attention is exclusively concentrated",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0069",
+    "canonical_statement": "The power of an idea is proportional to the degree of attention focused upon it.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 17,
+        "chapter": "H E DRAMA",
+        "surface_quote": "idea is endowed with power only in proportion to the degree of attention",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0070",
+    "canonical_statement": "The capacity for concentrated attention is the primary metric of an individual's internal spiritual or creative power.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 18,
+        "chapter": "Chapter Six ATTENTION",
+        "surface_quote": "power of attention is the measure of your inner force",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0071",
+    "canonical_statement": "The dominant idea within consciousness is the sole catalyst for physical action.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 18,
+        "chapter": "Chapter Six ATTENTION",
+        "surface_quote": "ideas which impel you to action are those which dominate",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "action"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0072",
+    "canonical_statement": "The individual is identical to their own imagination.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 18,
+        "chapter": "Chapter Six ATTENTION",
+        "surface_quote": "Your imagination is you yourself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0073",
+    "canonical_statement": "Objective reality is defined by the perception of the imagination.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 18,
+        "chapter": "Chapter Six ATTENTION",
+        "surface_quote": "world as your imagination sees it is the real world",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0074",
+    "canonical_statement": "The course of external events can be altered through the mastery of attention.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 18,
+        "chapter": "Chapter Six ATTENTION",
+        "surface_quote": "master the movements of attention... alter the course of observed events",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "attention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0075",
+    "canonical_statement": "The future is determined by the individual's internal concept of self.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 19,
+        "chapter": "Chapter Six ATTENTION",
+        "surface_quote": "change your concept of yourself... change your future",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0076",
+    "canonical_statement": "The efficacy of imagination is contingent upon the direction of attention.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 19,
+        "chapter": "Chapter Six ATTENTION",
+        "surface_quote": "Imagination... only according to the internal direction of your attention",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0077",
+    "canonical_statement": "The true identity of the individual is a 'greater self' that can be awakened through conscious effort.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 19,
+        "chapter": "Chapter Six ATTENTION",
+        "surface_quote": "become conscious of your greater self, the real you",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0078",
+    "canonical_statement": "The assumption of a desired state functions as a stable ontological foundation for experience.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 19,
+        "chapter": "Chapter Six ATTENTION",
+        "surface_quote": "walk in the assumption-of the wish fulfilled as on a foundation",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0079",
+    "canonical_statement": "Perceptual reality is a projection of the observer's internal assumptions rather than an objective reflection of external matter.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 20,
+        "chapter": "Chapter Seven ATTITUDE",
+        "surface_quote": "what you see... depends... on the assumption you make",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0080",
+    "canonical_statement": "The physical world is an assumptive construct rather than an independent objective reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 20,
+        "chapter": "Chapter Seven ATTITUDE",
+        "surface_quote": "physical world is actually only an 'assumptive' world",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0081",
+    "canonical_statement": "Conscious and subconscious actions are governed by the individual's underlying assumptions.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 20,
+        "chapter": "Chapter Seven ATTITUDE",
+        "surface_quote": "assumptions determine... what you do",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0082",
+    "canonical_statement": "External reality is plastic and conforms to the consciousness and attributes of the observer.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 21,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "world was plastic and fluid... to his attributes as we bring to it",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0083",
+    "canonical_statement": "The physical universe is shaped by the individual's internal assumptions.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 21,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "assumption is the hand of God moulding the firmament",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "will",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0084",
+    "canonical_statement": "Matter possesses no inherent moral quality of cleanliness or uncleanness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 21,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "nothing unclean ofitself (or clean of itself)",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0085",
+    "canonical_statement": "Perceptions of others are reflections of the observer's own internal state.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 21,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "see in him that which you do see",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0086",
+    "canonical_statement": "Truth regarding external entities is relative to the observer's belief system.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 21,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "cannot be absolutely true but is only relatively true",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0087",
+    "canonical_statement": "Controlled imagination and focused attention can determine future material outcomes.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 21,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "all your assumption implies will come to pass",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "will",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0088",
+    "canonical_statement": "Subjective appearance constitutes reality for the individual perceiving it.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 21,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "What seems to be , is, to those to whom it seems to be",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0089",
+    "canonical_statement": "External reality and the behavior of others are reflections of an individual's internal mental state and conceptualizations.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 22,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "employer was merely bearing witness... what her concept of him was",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0090",
+    "canonical_statement": "Internal mental discourse and focused intent automatically determine the nature of external interpersonal experiences.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 22,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "intensity and force of her mental arguments... automatically established his behavior",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0091",
+    "canonical_statement": "Individuals manifest and subsequently encounter physical incidents that they have previously constructed within their own minds.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 22,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "incident they themselves have mentally created and therefore must now encounter",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "time",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0092",
+    "canonical_statement": "Internal assumptions and attitudes determine the external events and circumstances of an individual's life.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 23,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "her own attitude was the cause of all that befell her",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0093",
+    "canonical_statement": "The external behavior of others is a reflection of the observer's internal concept of them.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 23,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "His attitude... reflected her changed concept of him",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "interpersonal",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0094",
+    "canonical_statement": "Controlled imagination has the power to influence the mental states and behaviors of others.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 23,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "persistent assumption influenced his behavior",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind",
+      "influence",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0095",
+    "canonical_statement": "Imagination, rather than objective facts, is the primary force that shapes human experience.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 23,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "not facts, but that which we create in our imagination",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0096",
+    "canonical_statement": "Human thoughts can be subconsciously determined or initiated by the mental influence of another person.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 23,
+        "chapter": "X P E R I M E NT S RECENTLY",
+        "surface_quote": "original thoughts are determined by another",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mind",
+      "influence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0097",
+    "canonical_statement": "Attention serves as the mechanism that sustains the reality of a phenomenon.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 24,
+        "chapter": "Chapter Eight RENUNCIATION",
+        "surface_quote": "When you resist evil... you continue to make it real",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "attention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0098",
+    "canonical_statement": "The conscious redirection of attention can alter the state of an individual's existence.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 24,
+        "chapter": "Chapter Eight RENUNCIATION",
+        "surface_quote": "concentrate your attention on things as you would like them to be",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0099",
+    "canonical_statement": "The divine essence is identified as the primary state of existence (I AM).",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 24,
+        "chapter": "Chapter Eight RENUNCIATION",
+        "surface_quote": "He is I AM",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0100",
+    "canonical_statement": "The glorification of the divine occurs through the manifestation of the highest self-concept.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 24,
+        "chapter": "Chapter Eight RENUNCIATION",
+        "surface_quote": "I AM is glorified when your highest concept of yourself is manifested",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "identity",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0101",
+    "canonical_statement": "The disciplined use of imagination is a primary means of spiritual liberation.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 24,
+        "chapter": "Chapter Eight RENUNCIATION",
+        "surface_quote": "discovered your own controlled imagination to be your saviour",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0102",
+    "canonical_statement": "The quality of an individual's lived experience is determined by the selective focus and discipline of their imagination.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 25,
+        "chapter": "Chapter Eight RENUNCIATION",
+        "surface_quote": "happier, more noble life... result of wisely pruning your own imagination",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0103",
+    "canonical_statement": "Human thought and speech possess the capacity to manifest material or systemic effects in the external world.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 25,
+        "chapter": "Chapter Eight RENUNCIATION",
+        "surface_quote": "thy thoughts shall the world's famine feed",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0104",
+    "canonical_statement": "The individual's self-concept determines the nature of their experienced reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 26,
+        "chapter": "Chapter Nine",
+        "surface_quote": "Everything depends upon your concept of yourself.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0105",
+    "canonical_statement": "The internal assumption of a state precedes and necessitates its external realization.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 26,
+        "chapter": "Chapter Nine",
+        "surface_quote": "Assume it... imagining that you already are",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0106",
+    "canonical_statement": "Human experience is governed by the law of assumption, regardless of the perception of free will.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 26,
+        "chapter": "Chapter Nine",
+        "surface_quote": "you obey... the law of assumption",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "determinism",
+      "will",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0107",
+    "canonical_statement": "Psychological assumptions create a causal chain of events leading to their own fulfillment.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 26,
+        "chapter": "Chapter Nine",
+        "surface_quote": "assumption builds a bridge of incidents",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0108",
+    "canonical_statement": "The future is not a linear result of the past, but a result of current psychological positioning.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 26,
+        "chapter": "Chapter Nine",
+        "surface_quote": "future to be the natural development of the past... not the case",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0109",
+    "canonical_statement": "Psychological movement precedes and causes physical movement through time.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 27,
+        "chapter": "Chapter Nine",
+        "surface_quote": "psychological forward motions... produce your physical forward motions in time",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0110",
+    "canonical_statement": "The imagination is the faculty that accesses future states of existence.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 27,
+        "chapter": "Chapter Nine",
+        "surface_quote": "The 'I'... is your imagination which goes into the future",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "imagination",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0111",
+    "canonical_statement": "A desired state of being is a distinct existential location or 'mansion'.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 27,
+        "chapter": "Chapter Nine",
+        "surface_quote": "Mansion is the state desired",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "state"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0112",
+    "canonical_statement": "Precognition is the act of emotionally aligning with a desired future state until it feels real.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 27,
+        "chapter": "Chapter Nine",
+        "surface_quote": "telling of an event... is simply feeling yourself into the state desired",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0113",
+    "canonical_statement": "Physical manifestation is the result of first inhabiting a state in imagination.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 27,
+        "chapter": "Chapter Nine",
+        "surface_quote": "where you have been in imagination, there you will be in the flesh",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0114",
+    "canonical_statement": "All temporal events and spatial contents coexist simultaneously in an eternal present.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 28,
+        "chapter": "Chapter Ten",
+        "surface_quote": "all time and all space... coexist in an infinite and eternal now",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0115",
+    "canonical_statement": "The totality of individual and collective human existence is currently present.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 28,
+        "chapter": "Chapter Ten",
+        "surface_quote": "all that mankind ever was or ever will be-exists now",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0116",
+    "canonical_statement": "Creation is a completed state; existence consists of manifestation rather than new generation.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 28,
+        "chapter": "Chapter Ten",
+        "surface_quote": "creation is finished means nothing is ever to be created",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0117",
+    "canonical_statement": "Creativity is the process of becoming aware of pre-existing realities.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 28,
+        "chapter": "Chapter Ten",
+        "surface_quote": "creativeness is only becoming aware of what already is",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0118",
+    "canonical_statement": "All possible experiences and entities already exist within the individual consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 29,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "The whole of creation exists in you",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "existence",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0119",
+    "canonical_statement": "Creation is a completed state in which all events occur simultaneously.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 29,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "creation is finished, and all events are taking place now",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0120",
+    "canonical_statement": "The individual's self-concept determines the specific sequence of events they experience within the totality of creation.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 29,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "your concept of yourself... determine your present",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0121",
+    "canonical_statement": "Attention is directed by the internal conceptual framework of the observer.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 29,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "Concepts determine the route that attention follows",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "attention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0122",
+    "canonical_statement": "Persistent internal assumption of a state leads to the external manifestation of that state.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 29,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "Persistence in this assumption will result in actually experiencing",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0123",
+    "canonical_statement": "The individual possesses the volitional capacity to define and alter their own self-concept.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 30,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "free to choose the concept you will accept of yourself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "volition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0124",
+    "canonical_statement": "The imagination is the primary creative and redemptive power within the individual.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 30,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "imagination to be HIM that is able to do all",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0125",
+    "canonical_statement": "Attention is the mechanism by which the individual creates their experienced world.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 30,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "attention to be the power by which you create your world",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0126",
+    "canonical_statement": "The manifestation of reality is contingent upon the internal feeling of having already attained the desired state.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 30,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "completely feel that you are already this ideal it will manifest",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0127",
+    "canonical_statement": "Consciousness is the sole fundamental substance of existence.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 30,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "there is only one substance . This substance is consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0128",
+    "canonical_statement": "Imagination shapes the fundamental substance of consciousness into concepts, which then manifest as physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 30,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "imagination which forms this substance into concepts... manifested as physical objects",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0129",
+    "canonical_statement": "The capacity to alter future events is contingent upon the ability to direct attention subjectively.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 31,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "capacity to change your future depends on the latter",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0130",
+    "canonical_statement": "The subjective state is characterized by a lack of conscious control over attention.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 31,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "control in the subjective state is almost nonexistent",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0131",
+    "canonical_statement": "The human imagination is the internal manifestation of the divine (Christ).",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 31,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "Christ in you is your imagination",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0132",
+    "canonical_statement": "The imagination possesses ontological supremacy over external conditions.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 31,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "assert the supremacy of imagination",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0133",
+    "canonical_statement": "Human perception extends beyond the limitations of physical sensory organs.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 32,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "Perceptions are not bounded by organs of Perception",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0134",
+    "canonical_statement": "The perceived material world is a manifestation of imagination.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 32,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "you are actually living in a world of imagination",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0135",
+    "canonical_statement": "Physical events are the causal results of prior states of consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 32,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "physical events... results of previous... states of consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0136",
+    "canonical_statement": "Intense emotional absorption is the primary mechanism of creative power.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 32,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "moments of absorption... exercising your creative power",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0137",
+    "canonical_statement": "Imagined states possess a degree of reality equivalent to the objective world.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 32,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "the imagined state is so real",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0138",
+    "canonical_statement": "Conscious imagination can supersede linear temporal causality, allowing future states to determine present experience.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 32,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "instead of your experience resulting from your past",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0139",
+    "canonical_statement": "The transition between different states of consciousness is a continuous process rather than a leap across a void.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 33,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "continuity between the so-called real and unreal",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0140",
+    "canonical_statement": "The manifestation of a desired state is achieved through the psychological act of assumption rather than through willpower or effort.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 33,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "psychological equivalent of Least Action is mere assumption",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0141",
+    "canonical_statement": "The internal state of acceptance serves as the necessary conduit for divine or universal action.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 33,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "acceptance is the channel of His action",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0142",
+    "canonical_statement": "The principle of Least Action, as found in physics, governs the movement between psychological states of consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 33,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "Principle of Least Action governs everything",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "universal law",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0143",
+    "canonical_statement": "All desired states of existence already exist in a completed creation.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 34,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "Because creation is finished, what you desire already exists.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0144",
+    "canonical_statement": "Perception is limited to the contents of an individual's own consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 34,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "you can see only the contents of your own consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0145",
+    "canonical_statement": "The act of assumption modifies the observer's perception rather than the external world.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 34,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "not the world but your assumptions that change",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0146",
+    "canonical_statement": "Imagination is the divine faculty used to perceive the invisible.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 34,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "seeing with the eye of God, i.e., imagination",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0147",
+    "canonical_statement": "The future is collapsed into the present through the mental assumption of a fulfilled state.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 34,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "future becomes the present when you imagine that you already are",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0148",
+    "canonical_statement": "Internal assumptions are the primary cause and determinant of objective experience.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 34,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "assumptions determine your experience",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "experience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0149",
+    "canonical_statement": "Every physical event originates from a prior idea or assumption in a non-visible realm.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 34,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "Every event in the visible world is the result of an assumption",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0150",
+    "canonical_statement": "The present moment is the only point of agency for controlling assumptions.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 34,
+        "chapter": "R E ATIO N IS",
+        "surface_quote": "only in the present moment that our assumptions can be controlled",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0151",
+    "canonical_statement": "The subconscious mind is the mechanism through which the assumption of a desired state is realized.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 35,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "realization is subconscious and effortless",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0152",
+    "canonical_statement": "Ideas and desires originate within individual consciousness independently of external physical stimuli.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 35,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "birth of an idea in your own consciousness unaided by another",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0153",
+    "canonical_statement": "The internal assumption of a state elevates the consciousness to a higher ontological or psychological level.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 35,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assume the feeling of the wish fulfilled, you are mentally lifted up",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "state"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0154",
+    "canonical_statement": "Conscious and subconscious assumptions determine and dictate the sequence of events in the objective world.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 35,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assumptzons... actually dictates the events",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0155",
+    "canonical_statement": "Objective reality is a psychological projection produced by the individual's assumptions.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 35,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "drama of life is a psychological one... produced by your assumptzons",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0156",
+    "canonical_statement": "The individual lacks the power to create or alter the fundamental laws of reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 36,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "impossible to force anything into being",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0157",
+    "canonical_statement": "Manifestation occurs through conformity to existing metaphysical laws rather than through independent creation.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 36,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "can do so only by conforming to the law",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0158",
+    "canonical_statement": "Human experience is the direct result of conscious or unconscious assumptions.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 36,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "experiences are the result of your assumptions",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "experience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0159",
+    "canonical_statement": "The internal state of assuming a desire is fulfilled predestines its external realization.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 36,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "fixed assumptions his desires were predestined to be fulfilled",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "manifestation",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0160",
+    "canonical_statement": "Sensory evidence and external appearances are secondary to the internal state of assumption.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 36,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "disregard appearances... evidence of your senses",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0161",
+    "canonical_statement": "The individual consciousness and the Infinite Being exist in a state of creative unity.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 37,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "you and your Infinite Being are merged in creative unity",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0162",
+    "canonical_statement": "Conscious assumptions possess the power to alter the external circumstances of reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 37,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "power of your assumptions to change circumstances",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0163",
+    "canonical_statement": "The nature of an individual's experienced world is determined by their conscious assumptions.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 37,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assumptions, determine the nature of the world in which you live",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0164",
+    "canonical_statement": "Every single moment of existence involves the assumption of a feeling.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 37,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "Every moment... you are assuming a feeling",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "affect"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0165",
+    "canonical_statement": "The manifestation of desire is achieved through the law of assumption rather than wishful thinking.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 37,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "law of assumption is the means by which... desires may be realized",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0166",
+    "canonical_statement": "The conscious assumption of a desired state is the mechanism for its physical realization.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 38,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "persist in the assumption that your desire is already fulfilled",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0167",
+    "canonical_statement": "The human capacity to consciously determine one's own assumptions is an innate power.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 38,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "the power to consciously determine your assumption",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "will",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0168",
+    "canonical_statement": "Ontological state (being) must precede functional action (doing).",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 38,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "In order to do, it is necessary to be",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0169",
+    "canonical_statement": "Self-concept is modified by replacing an existing mental concept with a new one.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 38,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "concept of yourself can only be driven out... by another concept",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0170",
+    "canonical_statement": "Identification with a mental ideal results in the transformation of the self into that ideal.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 38,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "Identify yourself with it until you become one and the same",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0171",
+    "canonical_statement": "The soul is the totality of an individual's beliefs, thoughts, feelings, and accepted truths.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 39,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "soul is interpreted as the sum total of all you believe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0172",
+    "canonical_statement": "The individual's personal God is identical to their current level of awareness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 39,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "your God, I AM... the present level of awareness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "awareness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0173",
+    "canonical_statement": "The self consists of a series of levels of awareness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 39,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "I am an infinite series of levels of awareness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "awareness",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0174",
+    "canonical_statement": "Physical stillness and the closure of sensory input to the objective world facilitate the release of the mind's greater energies.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 39,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "greater energies of the mind... when the body is stilled",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "body",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0175",
+    "canonical_statement": "Imagination serves as the primary gateway to the manifestation of reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 40,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "imagination is the very door to the reality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0176",
+    "canonical_statement": "The assumption of a desired state as already achieved facilitates union with that objective.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 40,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assumption of the wish already fulfilled is the way to at-one-ment",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0177",
+    "canonical_statement": "The laws of manifestation operate impersonally, independent of the moral quality of the intent.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 40,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "works just as impersonally as the law of electricity",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "law",
+      "ethics",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0178",
+    "canonical_statement": "Righteousness is defined as the conscious state of already possessing a desired identity.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 40,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "righteousness... defined as the consciousness of already being what you want",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0179",
+    "canonical_statement": "Sin is defined as the failure to manifest a desired state of being or identity.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 41,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "Sin means to miss the mark.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "sin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0180",
+    "canonical_statement": "Righteousness is the psychological state of identifying as the desired version of oneself.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 41,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "Righteousness is the consciousness of already being what you want to be.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0181",
+    "canonical_statement": "Reality operates under a changeless law where effects are the inevitable result of causes.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 41,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "changeless educative law that effects must follow causes",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0182",
+    "canonical_statement": "The assumption of a desired state (righteousness) is the mechanism for altering physical circumstances.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 41,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "successful use of the law of assumption would have the inevitable result",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0183",
+    "canonical_statement": "True righteousness is the state of consciousness wherein one identifies as the desired version of themselves.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 42,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "consciousness of already being that which you want to be",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0184",
+    "canonical_statement": "The totality of creation is contained within the individual's sense of self (the I AM).",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 42,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "The kingdom (entire creation) of God (your I AM) IS within you",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "universe",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0185",
+    "canonical_statement": "The belief in the capacity to influence outcomes through physical action is a delusion.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 42,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "delusion that... you can do anything to aid the realization",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "free-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0186",
+    "canonical_statement": "All events and actions are the automatic result of conscious or unconscious assumptions.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 42,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "Your assumptions... direct all thought and action to their fulfillment",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0187",
+    "canonical_statement": "Free will is limited exclusively to the selection of a desired idea or assumption.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 42,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "Free will actually means freedom to select any idea you desire",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "free-will",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0188",
+    "canonical_statement": "The act of assuming an idea to be a fact converts that idea into physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 42,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assuming the idea already to be a fact, it is converted into reality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0189",
+    "canonical_statement": "External events are determined by the individual's internal concept of self.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 43,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "events... are determined by the concept you have of yourself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0190",
+    "canonical_statement": "The ultimate reality or God is defined as the infinite consciousness of present existence (I AM).",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 43,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "God is defined as I AM",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "god",
+      "consciousness",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0191",
+    "canonical_statement": "The individual's infinite self is identical to the singular, universal consciousness of God.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 43,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "your infinite self is that I AM",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "non-duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0192",
+    "canonical_statement": "Future events are mutable and can be altered through a change in consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 43,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "change of consciousness... to alter the course of observed events",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0193",
+    "canonical_statement": "Existence is complete; there is no state of 'becoming,' only 'being.'",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 43,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "everything exists... can speak only in the present tense",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0194",
+    "canonical_statement": "Assumption of a state creates a creative atmosphere that influences the level of one's being.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 43,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assumption is creative and forms an atmosphere",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0195",
+    "canonical_statement": "Action is secondary to state of being; one must first exist as a state to manifest it.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 43,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "You must be in order to do",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0196",
+    "canonical_statement": "Sustained assumptions inevitably manifest as physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 44,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "inevitable fulfillment awaits all sustained assumptions",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0197",
+    "canonical_statement": "An assumption is a specific movement of consciousness that shapes the surrounding substance of reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 44,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assumption is a certain motion of consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "substrate",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0198",
+    "canonical_statement": "Changes in external circumstances are rearrangements of the singular substance of consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 44,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "change in arrangement of the same mind substance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0199",
+    "canonical_statement": "The reality of an assumption exists independently of objective physical facts.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 44,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assumption has its being in complete independence of objective fact",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0200",
+    "canonical_statement": "Persistent assumptions eventually solidify into objective facts.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 44,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assumptions, if persisted in, harden into facts",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0201",
+    "canonical_statement": "Free will is limited to the selection of assumptions, not the direct manipulation of external events.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 44,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "infinite free will in choosing your assumptions, but no power to determine conditions",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "free will",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0202",
+    "canonical_statement": "Consciousness does not create new matter but determines which existing portion of creation is experienced.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 44,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assumption determines what portion of creation you will experience",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0203",
+    "canonical_statement": "The physical senses act as a barrier separating the perceived world from the unseen reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 45,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "shut door symbolizes the senses which separate the seen from the unseen",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0204",
+    "canonical_statement": "Manifestation requires the individual to elevate their consciousness to match the desired state, rather than the state descending to the individual.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 45,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "desired state of consciousness cannot rise to you, you must rise to it",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0205",
+    "canonical_statement": "The attainment of a desire is achieved by assuming the consciousness of the wish already being fulfilled, regardless of sensory evidence.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 45,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assuming the consciousness of already having what you desire",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0206",
+    "canonical_statement": "Desire originates from a subconscious awareness of the ultimate attainment of that desire.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 46,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "desire springs from the awareness of ultimate attainment",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "desire",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0207",
+    "canonical_statement": "Maintaining the consciousness of a desire as already fulfilled manifests that state in physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 46,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "persistence in maintaining the consciousness of the desire already being fulfilled",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0208",
+    "canonical_statement": "External circumstances and the behavior of others are reflections of an individual's internal assumptions.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 46,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "all must respond in harmony with your persistent assumption",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0209",
+    "canonical_statement": "The truest identity of a being is defined by the state of consciousness to which they most frequently return.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 46,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "That to which you constantly return constitutes your truest self",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0210",
+    "canonical_statement": "Consciousness is the sole fundamental reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 47,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "consciousness was the only reality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0211",
+    "canonical_statement": "External events are determined by an individual's state of consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 47,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "state of consciousness determined the events",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "causality",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0212",
+    "canonical_statement": "The internal state of consciousness at the moment of sleep onset can influence external physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 48,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "consciousness be filled with the assumption that he was already what he wanted",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0213",
+    "canonical_statement": "Subjective experience can be maintained in direct opposition to objective experience.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 48,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "objective experience continued to be directly opposite to his subjective experience",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0214",
+    "canonical_statement": "The deliberate use of imagination can be employed to achieve specific external objectives.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 49,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "deliberately used imagination to attain an almost fantastic objective",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0215",
+    "canonical_statement": "The law of assumption is a functional mechanism for producing success in physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 49,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "demonstrating the power of imagination and the law of assumption",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "law-of-assumption"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0216",
+    "canonical_statement": "Strong subjective conviction and focused imagination can manifest physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 50,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "if he felt strongly enough... it was bound to be the case",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0217",
+    "canonical_statement": "The internal assumption of a desired state as a present reality manifests that state in the physical world.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 51,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assuming the feeling that he already had what he desired",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0218",
+    "canonical_statement": "Imagination serves as a causal mechanism for producing physical results.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 51,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "seeing his family name... long before it was actually there",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "imagination",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0219",
+    "canonical_statement": "The assumption of a state of consciousness corresponding to a fulfilled desire facilitates the manifestation of that objective.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 52,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "assuming the state of consciousness that would be hers were her desire already fulfilled",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0220",
+    "canonical_statement": "Intentional mental simulation of a desired reality during the transition to sleep is a mechanism for achieving goals.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 52,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "Every night... I am going to pretend that I have a dog",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0221",
+    "canonical_statement": "Intense desire combined with vivid mental simulation can manifest physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 53,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "imagined a dog... Within a few weeks it happened",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0222",
+    "canonical_statement": "The internal state of belief and imagination can influence external circumstances to bypass existing obstacles.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 53,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "believed implicitly... bring about a change of heart",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0223",
+    "canonical_statement": "The conscious assumption of a desired state can manifest a corresponding physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 54,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "apply immediately the law of assumption. 'Let's actualize it'",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0224",
+    "canonical_statement": "Sensory imagination serves as a mechanism for actualizing a specific state of consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 54,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "in imagination they felt themselves actually in Florida",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0225",
+    "canonical_statement": "The internal assumption of a desired state precipitates its physical manifestation in reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 55,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "law of assumption and its visible manifestation",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0226",
+    "canonical_statement": "The feeling of naturalness regarding a desired outcome is a requirement for its realization.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 55,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "create the necessary feeling of naturalness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0227",
+    "canonical_statement": "Mental simulation of a state, combined with the feeling of its current reality, alters external circumstances.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 55,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "imagining and feeling that she was sleeping",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0228",
+    "canonical_statement": "Consciousness is the sole fundamental reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 56,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "consciousness was the only reality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0229",
+    "canonical_statement": "External conditions are modified by altering the state of consciousness regarding them.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 56,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "change any condition was to change his state of consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "causality",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0230",
+    "canonical_statement": "The internal assumption of a desired state can manifest as a physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 57,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "successful use of the law of assumption",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0231",
+    "canonical_statement": "External circumstances are the manifestation of an individual's internal concept of self.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 58,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "present situation was only a manifestation of his concept of himself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0232",
+    "canonical_statement": "Changing one's internal concept of self results in a change of external circumstances.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 58,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "change the circumstances... by changing his concept of himself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "causality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0233",
+    "canonical_statement": "The intentional cultivation of a specific feeling or mental state can manifest a corresponding physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 58,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "if he did this faithfully, he would inevitably get the position",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0234",
+    "canonical_statement": "The law of assumption can be consciously utilized to achieve specific objectives.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 59,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "conscious use of this law by two people concentrating on the same objective",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0235",
+    "canonical_statement": "Focused mental imagination of a desired state can manifest as physical reality.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 60,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "imagine as they fell asleep... they were actually sleeping in the penthouse",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0236",
+    "canonical_statement": "The manifestation of a desired state in physical reality is proportional to the internal sense of naturalness associated with that state.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 61,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "time it takes... is directly proportionate to the naturalness of your feeling",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0237",
+    "canonical_statement": "The internal feeling of naturalness is a prerequisite for the actualization of an imagined identity or circumstance.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 61,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "if you do not feel natural... you will not be it",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0238",
+    "canonical_statement": "Imagination is the mechanism by which a consciousness can bypass current physical or psychological limitations to achieve a state of naturalness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 61,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "essential feeling of naturalness can be achieved by... filling your consciousness with imagination",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "imagination",
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0239",
+    "canonical_statement": "Evolution or progress of the individual occurs exclusively through the faculty of imagination and the desire to transcend the current state.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 61,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "Progress can spring only from your imagination",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "evolution",
+      "imagination",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0240",
+    "canonical_statement": "Consciousness is the fundamental and sole reality and the primary cause of all manifestation.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 62,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "consciousness is the only reality and is the sole creator",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0241",
+    "canonical_statement": "Persistent mental assumptions inevitably manifest as physical facts.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 62,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "an assumption, if persisted in, will harden into fact",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0242",
+    "canonical_statement": "The duration between a mental assumption and its physical realization is determined by the degree of naturalness felt by the subject.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 62,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "time... is proportionate to the naturalness of being it",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0243",
+    "canonical_statement": "The external world is a projection of the individual's internal state and identity.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 62,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "Man surrounds himself with the true image of himself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0244",
+    "canonical_statement": "Perception is limited to the current state of the observer's own being.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 62,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "What we are, that only can we see",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0245",
+    "canonical_statement": "All possible states and outcomes already exist in a completed state of creation.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 63,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "creation is finished and everything exists",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0246",
+    "canonical_statement": "External experience is a direct reflection of an individual's internal state of consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 63,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "experience is the faithful reproduction of your state of consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0247",
+    "canonical_statement": "Faith is the mental perception of the reality of non-visible states.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 63,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "faith is the awareness of the reality of that which you assume",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0248",
+    "canonical_statement": "The efficacy of faith is an internal function of consciousness rather than the result of external agency.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 63,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "not due to the work of any outside agency... activity of your own consciousness",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0249",
+    "canonical_statement": "The individual possesses an infinite self that communicates the existence of desired states to the conscious mind.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 63,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "always being 'preached' to you by your infinite self",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0250",
+    "canonical_statement": "The manifestation of desire is contingent upon the individual achieving a specific state of consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 64,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "fulfillment of your desire is predicated upon your change to the right state",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0251",
+    "canonical_statement": "Righteousness is defined as the conscious state of identifying as the desired version of oneself.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 64,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "righteousness is the consciousness of already being what you want to be",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0252",
+    "canonical_statement": "External conditions and circumstances possess no inherent power over the individual.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 64,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "rise above... belief in the power of outside conditions or circumstances",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0253",
+    "canonical_statement": "Objective reality inevitably conforms to the internal assumption of the observer.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 64,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "your world inevitably conforms to your assumption",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0254",
+    "canonical_statement": "Existence consists of an infinite sequence of individual destinies, where each completion initiates a new trajectory.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 65,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "infinite number of individual destinies... starting place for a new destiny",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "destiny",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0255",
+    "canonical_statement": "Consciousness is the sole fundamental reality and the only creative force.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 65,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "consciousness is the only reality... the only creator",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0256",
+    "canonical_statement": "Individual consciousness is the direct cause and creator of an individual's life experiences and destiny.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 65,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "your consciousness is the creator of your destiny",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0257",
+    "canonical_statement": "The inherent trajectory of the soul is a continuous ascent toward higher states of consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 65,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "destiny to rise to higher and higher states of consciousness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0258",
+    "canonical_statement": "Successive destinies can be consciously engineered through the application of desire.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 65,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "through your own desire you can consciously create your successive destinies",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "will",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0259",
+    "canonical_statement": "The individual essence is identical to the divine creator and universal consciousness.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 66,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "You are God... You are consciousness. You are the creator.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0260",
+    "canonical_statement": "The true self is the observing consciousness that precedes and transcends the individual persona.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 66,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "consciousness which knows that you are John Jones",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0261",
+    "canonical_statement": "The nature of the divine self is non-intellectual and accessible only through direct awareness or feeling.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 66,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "cannot know this intellectually... You can only feel it",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_neville_the_power_of_awareness_0262",
+    "canonical_statement": "The individual's existence is predicated upon the identity of the self as the creator.",
+    "attributions": [
+      {
+        "source_id": "neville_the_power_of_awareness",
+        "chunk_index": 66,
+        "chapter": "THE CROWN OF THE MYSTERIES",
+        "surface_quote": "upon this fact that your very existence is built",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  }
+]

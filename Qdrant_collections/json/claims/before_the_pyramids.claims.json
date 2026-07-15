@@ -1,0 +1,2031 @@
+[
+  {
+    "id": "cl_before_the_pyramids_0001",
+    "canonical_statement": "Physical objects and material resources are required to facilitate the needs of the soul in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "fourteen full-scale ships for his afterlife needs",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "materiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0002",
+    "canonical_statement": "The orientation of the deceased toward the west reflects a specific cultural cosmology regarding the afterlife.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "faces to the west, indicating that they shared the Egyptian theory of the west",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cosmology",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0003",
+    "canonical_statement": "The past is not a static, disconnected abstraction but an active, continuous presence that informs current human identity.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "ancient footprints... do not lead down an abstract... alley — they lead to... us.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "identity",
+      "continuity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0004",
+    "canonical_statement": "Complex societal structures emerge through the cumulative, multi-layered synergy of diverse factors rather than singular deterministic causes.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "state formation is a multi-layered process and the synergic and cumulative result",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "emergence",
+      "systems"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0005",
+    "canonical_statement": "Physical environment acts as a foundational stage set for the manifestation of social and historical phenomena.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "the Nilotic environment was of immense importance as a stage set",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0006",
+    "canonical_statement": "Material substances, such as gold, can be ontologically categorized as divine essence or the flesh of the gods.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "gold, sometimes called the flesh of the gods",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0007",
+    "canonical_statement": "The maintenance of cosmic and social order is contingent upon the presence of a central sovereign authority.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "without the king as defender of order, chaos would triumph",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "order",
+      "sovereignty",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0008",
+    "canonical_statement": "Social order is ontologically linked to cosmic order, such that societal instability reflects a disruption in the structure of the universe.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "A breakdown in social order could be perceived as a breakdown in cosmic order.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0009",
+    "canonical_statement": "The ruler functions as a metaphysical agent responsible for maintaining equilibrium against entropic forces of nature.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "The ruler’s duty was to keep in check the opposing forces of nature.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "nature",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0010",
+    "canonical_statement": "The will to power is a fundamental driver of human social and political conflict.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "rivalry, competition, and endemic conflict — manifestations of the will to power",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "human nature",
+      "power",
+      "sociology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0011",
+    "canonical_statement": "Autonomous political entities possess an inherent resistance to the surrender of sovereignty.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "autonomous political units... simply do not willingly surrender their sovereignty",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "political theory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0012",
+    "canonical_statement": "The ruler functions as a mediator who maintains cosmic order through the integration of religious and martial authority.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "the ruler... as a divine king he was also the defender of cosmic order",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "authority",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0013",
+    "canonical_statement": "Social and political structures are fundamentally shaped by shared beliefs regarding the afterlife.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 40,
+        "chapter": "General Content",
+        "surface_quote": "political compacting... was preceded by a “mortuary compacting” rooted in the ideology of afterlife",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "sociology",
+      "ideology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0014",
+    "canonical_statement": "The social hierarchy and power dynamics of the living are intentionally extended into the funerary arrangement of the deceased.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "nothing arbitrary about their layout or their occupants",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "hierarchy",
+      "social-structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0015",
+    "canonical_statement": "The ritualized burial of subordinates with a central figure signifies a belief in the continuity of service or association beyond physical death.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 49,
+        "chapter": "General Content",
+        "surface_quote": "specially selected for the honor of accompanying their lord",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "continuity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0016",
+    "canonical_statement": "The capacity to assume the attributes of non-human entities is a manifestation of sovereign power.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 52,
+        "chapter": "General Content",
+        "surface_quote": "the power exhibited here was not simply the authority to control... but also to become them",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "metamorphosis",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0017",
+    "canonical_statement": "Representational depictions of objects and rituals in funerary contexts serve as functional substitutes for the physical items in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 55,
+        "chapter": "General Content",
+        "surface_quote": "managed to take all the trappings with him to his burial place by painting them",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0018",
+    "canonical_statement": "The ruler functions as a metaphysical guarantor of societal prosperity and existential order.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 76,
+        "chapter": "General Content",
+        "surface_quote": "role of the ruler as a guarantor of prosperity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0019",
+    "canonical_statement": "The state or ruler is responsible for the active suppression of entropic forces of chaos.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 76,
+        "chapter": "General Content",
+        "surface_quote": "taming of forces of chaos and disorder",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0020",
+    "canonical_statement": "The afterlife is a state of existence requiring the provision of material sustenance and symbolic objects.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 87,
+        "chapter": "General Content",
+        "surface_quote": "Predynastic Egyptians chose particular types from a wider repertoire to accompany the deceased into the afterlife.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0021",
+    "canonical_statement": "The maintenance of cosmic order requires the active containment of chaotic forces.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 98,
+        "chapter": "General Content",
+        "surface_quote": "maintenance of order over chaos or the containment of unrule in the universe",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0022",
+    "canonical_statement": "Symbolic representations of royal power serve as metaphysical instruments for preserving universal stability.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 98,
+        "chapter": "General Content",
+        "surface_quote": "royal symbolism referring to the destruction of enemies and the maintenance of order",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "symbolism",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0023",
+    "canonical_statement": "Funerary art functions as a symbolic system for the renewal of life.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 100,
+        "chapter": "General Content",
+        "surface_quote": "representations... refer to the funerary world and the renewal of life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "symbolism",
+      "renewal"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0024",
+    "canonical_statement": "Meaning in ritual iconography is generated through associative and oppositional structures rather than linear narrative.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 100,
+        "chapter": "General Content",
+        "surface_quote": "creates meaning through association and opposition",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "semiotics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0025",
+    "canonical_statement": "Ritual objects and symbols serve to maintain cosmic or social order.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 100,
+        "chapter": "General Content",
+        "surface_quote": "referring to the... importance of wild animals in ritual contexts and the maintenance of order.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "order",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0026",
+    "canonical_statement": "Theriomorphic entities represent chaotic forces that are subject to regulation by positive metaphysical or sovereign powers.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 102,
+        "chapter": "General Content",
+        "surface_quote": "mythological animals are to be seen as the theriomorphic powers of the chaos",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0027",
+    "canonical_statement": "Symbolic representations of animals function as prophylactic agents, exerting influence over the environment or the soul.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 102,
+        "chapter": "General Content",
+        "surface_quote": "Many of these objects must have been worn clearly visible and can be considered prophylactic.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "magic",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0028",
+    "canonical_statement": "Human identity can be fluidly extended through symbolic identification with animal archetypes.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 103,
+        "chapter": "General Content",
+        "surface_quote": "hunters identified themselves to a certain degree with the animal.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "archetype"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0029",
+    "canonical_statement": "The natural world is structured by a fundamental duality between chaotic wildness and ordered cultivation.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 103,
+        "chapter": "General Content",
+        "surface_quote": "giraffe symbolizes the wild aspect of nature... palm tree the tamed aspect.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "nature",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0030",
+    "canonical_statement": "The exercise of power and sovereignty is defined by the capacity to impose order upon chaos.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 103,
+        "chapter": "General Content",
+        "surface_quote": "there can be no doubt that the decorated palettes refer to control over chaos.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "power",
+      "order",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0031",
+    "canonical_statement": "The exercise of sovereign authority is the metaphysical source of vitality for the physical realm.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 139,
+        "chapter": "General Content",
+        "surface_quote": "Kingship gives life to the land.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "ontology",
+      "vitalism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0032",
+    "canonical_statement": "The preservation of identity through symbolic representation is a primary function of funerary practice.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 139,
+        "chapter": "General Content",
+        "surface_quote": "dissemination of prestigious names... on objects placed with the dead.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0033",
+    "canonical_statement": "The act of ritual labeling transforms mundane objects into entities with an elevated, official biography.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 143,
+        "chapter": "General Content",
+        "surface_quote": "marking and labeling grave goods created an official and elevated biography for them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "ritual",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0034",
+    "canonical_statement": "Ritual commemoration serves as a foundational mechanism for the formation of centralized social structures.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 143,
+        "chapter": "General Content",
+        "surface_quote": "In their coming together for an act of ritual commemoration, we can dimly perceive a centralized society taking shape.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "society",
+      "ritual",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0035",
+    "canonical_statement": "The imposition of order upon chaos is a foundational function of leadership and royal authority.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 167,
+        "chapter": "General Content",
+        "surface_quote": "leader’s role in protecting the subjects... and in creating order over chaos",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "order",
+      "chaos",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0036",
+    "canonical_statement": "Ideology and symbolic frameworks serve as the primary mechanisms for the legitimization of political power.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 167,
+        "chapter": "General Content",
+        "surface_quote": "ideology, religion, and symbolism played an important role in the legitimization of kingship",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ideology",
+      "power",
+      "legitimacy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0037",
+    "canonical_statement": "The primordial mound serves as the ontological origin of all life and the mechanism for post-mortem resurrection.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 176,
+        "chapter": "General Content",
+        "surface_quote": "the primordial mound, which... is where all life began and which guaranteed the resurrection",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "afterlife",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0038",
+    "canonical_statement": "The afterlife environment is structured as a symbolic architectural model of a terrestrial dwelling.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 178,
+        "chapter": "General Content",
+        "surface_quote": "chambers 2–10 are a model of a house or palace that the deceased would inhabit",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0039",
+    "canonical_statement": "Physical structures in funerary contexts facilitate symbolic interaction between the deceased and material offerings.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 178,
+        "chapter": "General Content",
+        "surface_quote": "openings were intended to give the owner of the tomb symbolic access to the grave goods",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0040",
+    "canonical_statement": "The architecture of the afterlife dwelling is designed to mirror the physical environment of the deceased's earthly existence.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 179,
+        "chapter": "General Content",
+        "surface_quote": "the tomb is deliberately laid out to reflect the features of a princely residence",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ontology",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0041",
+    "canonical_statement": "Physical sustenance is required for the deceased in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 181,
+        "chapter": "General Content",
+        "surface_quote": "vessels that contained oil or fat were especially important for sustenance in the afterlife.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0042",
+    "canonical_statement": "Human beings are capable of transitioning into an afterlife state.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 186,
+        "chapter": "General Content",
+        "surface_quote": "high-status people appear to have been deliberately killed to accompany the king into the afterlife.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0043",
+    "canonical_statement": "Social hierarchy and status distinctions persist beyond the physical death of the individual.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 186,
+        "chapter": "General Content",
+        "surface_quote": "high-status people appear to have been deliberately killed to accompany the king into the afterlife.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "afterlife",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0044",
+    "canonical_statement": "Ritual destruction of funerary monuments serves to transition the structure from a functional site for the living to a companion for the deceased.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 189,
+        "chapter": "General Content",
+        "surface_quote": "destruction indicates that they... were ritually killed and buried to accompany the deceased king",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0045",
+    "canonical_statement": "The afterlife necessitates the provision of material objects or vessels to accompany the deceased.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 191,
+        "chapter": "General Content",
+        "surface_quote": "buried to accompany the king in his afterlife",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "mortuary"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0046",
+    "canonical_statement": "The transition from ephemeral to permanent funerary architecture signifies a shift in the conceptualization of eternal existence.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 195,
+        "chapter": "General Content",
+        "surface_quote": "monument in stone intended to stand for eternity",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0047",
+    "canonical_statement": "Divine entities can be represented through zoomorphic or hybrid forms to signify celestial domains.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 199,
+        "chapter": "General Content",
+        "surface_quote": "horned heads... represent the goddess Bat and in this context signify heaven.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "symbolism",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0048",
+    "canonical_statement": "The sovereign acts as a terrestrial manifestation of divine power, exerting control over foreign entities.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 199,
+        "chapter": "General Content",
+        "surface_quote": "Horus has brought the people... in subjection to the king.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0049",
+    "canonical_statement": "Physical conquest and the destruction of the body serve as metaphors for the subjugation of collective entities.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 199,
+        "chapter": "General Content",
+        "surface_quote": "bull... expressive of his aggressive power against foreign foes.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "power",
+      "metaphor",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0050",
+    "canonical_statement": "Divine consciousness possesses the capacity for instantaneous, non-linear comprehension of complex information.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 200,
+        "chapter": "General Content",
+        "surface_quote": "a divine being could instantly comprehend any meanings",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0051",
+    "canonical_statement": "The structure of reality is defined",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 200,
+        "chapter": "General Content",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0052",
+    "canonical_statement": "The daily rebirth of the sun god is a foundational metaphysical process symbolized by specific ritualistic imagery.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 202,
+        "chapter": "General Content",
+        "surface_quote": "these elements in their totality symbolize the daily (re-)birth of the sun god Re",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity",
+      "cyclicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0053",
+    "canonical_statement": "Identity can be represented through zoomorphic transformation or symbolic association with non-human entities.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 202,
+        "chapter": "General Content",
+        "surface_quote": "Narmer, who is represented directly as a catfish",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0054",
+    "canonical_statement": "The maintenance of the cosmic order and the daily rebirth of the sun require the ritualized destruction and assimilation of opposing forces.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 204,
+        "chapter": "General Content",
+        "surface_quote": "enemies that needed to be slain in order for the sun god Re to achieve... rebirth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "rebirth",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0055",
+    "canonical_statement": "Individual identity can be subsumed or integrated into a singular divine entity through the consumption or assimilation of defeated opponents.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 204,
+        "chapter": "General Content",
+        "surface_quote": "combine the power each opponent represented into a single great entity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "assimilation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0056",
+    "canonical_statement": "Human ritual acts, specifically those performed by a sovereign, are ontologically linked to and supportive of cosmic processes.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 204,
+        "chapter": "General Content",
+        "surface_quote": "royal ceremonial which is seen as analogous to and supportive of these cosmos-shaking events.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "sovereignty",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0057",
+    "canonical_statement": "The physical cosmos is sustained by a cyclical process of vitality that necessitates constant renewal through the defeat of chaos.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 204,
+        "chapter": "General Content",
+        "surface_quote": "each repeated sunrise would revitalize the cosmos.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmos",
+      "vitality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0058",
+    "canonical_statement": "Royal ceremonial acts are ontologically parallel to the cosmic process of solar rebirth.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 205,
+        "chapter": "General Content",
+        "surface_quote": "royal ceremonials that are analogous or parallel to this process",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "kingship",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0059",
+    "canonical_statement": "Iconographic records function as representations of generalized metaphysical cycles rather than specific historical occurrences.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 205,
+        "chapter": "General Content",
+        "surface_quote": "records generalized ceremonies rather than specific historical events",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0060",
+    "canonical_statement": "The horizon serves as a liminal zone facilitating the transition between states of solar death and rebirth.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 206,
+        "chapter": "General Content",
+        "surface_quote": "akhet (horizon), the liminal zone between day and night, and the locale for solar death",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology",
+      "liminality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0061",
+    "canonical_statement": "Temporal and earthly events are reflections of archetypal cosmological processes.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 206,
+        "chapter": "General Content",
+        "surface_quote": "reference may be being made to a cosmological rather than historic event.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0062",
+    "canonical_statement": "The actions of earthly rulers are ontologically parallel to the struggles of divine solar entities.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 206,
+        "chapter": "General Content",
+        "surface_quote": "king’s generalized victories over his enemies on earth are depicted as paralleling that of the sun god",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0063",
+    "canonical_statement": "Physical objects can serve as conduits for apotropaic or magical efficacy in daily life.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 209,
+        "chapter": "General Content",
+        "surface_quote": "This points in a general manner to an apotropaic, magical function.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "magic",
+      "materiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0064",
+    "canonical_statement": "Funerary artifacts can serve as symbolic representations of the process of rebirth in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 210,
+        "chapter": "General Content",
+        "surface_quote": "interpretation of the eggs themselves as referring to rebirth in the afterlife.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "rebirth",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0065",
+    "canonical_statement": "Specific biological forms can serve as symbolic conduits for the concept of eternal life.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 211,
+        "chapter": "General Content",
+        "surface_quote": "tilapia fish in this latter context might be understood in relation to... eternal life",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "symbolism",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0066",
+    "canonical_statement": "Female imagery functions as a symbolic representation of life and birth within a religious framework.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 224,
+        "chapter": "General Content",
+        "surface_quote": "female images are almost self-evident symbols of life and birth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "religion",
+      "life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0067",
+    "canonical_statement": "Funerary vessels utilize a standardized visual language to represent concepts of regeneration.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 224,
+        "chapter": "General Content",
+        "surface_quote": "on the vessels they are in the context of regeneration",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "regeneration",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0068",
+    "canonical_statement": "The imposition of order upon chaos is a foundational ideological principle of reality.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 235,
+        "chapter": "General Content",
+        "surface_quote": "The establishment of order over chaos is a fundamental ideological concept.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "order",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0069",
+    "canonical_statement": "The metaphysical meaning of symbols is contingent upon their specific context.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 235,
+        "chapter": "General Content",
+        "surface_quote": "Depending on the context, the meaning of hybrid animals may equally differ.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "epistemology",
+      "context"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0070",
+    "canonical_statement": "The practice of depositing votive objects implies a structured belief system requiring material offerings to deities.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 242,
+        "chapter": "General Content",
+        "surface_quote": "a set of beliefs that required the deposition of votives",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "theology",
+      "cult"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0071",
+    "canonical_statement": "Animal figurines function as symbolic representations or proxies for divine entities.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 242,
+        "chapter": "General Content",
+        "surface_quote": "animal figurines are references to deities",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0072",
+    "canonical_statement": "Deities function as archetypal representations of biological and cosmic processes such as rebirth and fecundity.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 245,
+        "chapter": "General Content",
+        "surface_quote": "the frog represents the goddess Hekat, a deity who is associated with rebirth and fecundity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "rebirth",
+      "archetype"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0073",
+    "canonical_statement": "Ritual objects serve as conduits to influence or promote natural generative forces.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 245,
+        "chapter": "General Content",
+        "surface_quote": "Female figures were probably deposited in the temple to promote fertility.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ritual",
+      "fertility",
+      "sympathetic-magic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0074",
+    "canonical_statement": "Specific animal forms act as intermediaries or heralds for celestial entities and cosmic cycles.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 245,
+        "chapter": "General Content",
+        "surface_quote": "They are those who announce Re in heaven and on earth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0075",
+    "canonical_statement": "Human identity is defined by the nature of one's relationship and devotion to the divine.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 246,
+        "chapter": "General Content",
+        "surface_quote": "The name emphasizes the man’s devotion to the deity.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0076",
+    "canonical_statement": "Votive offerings serve as a functional mechanism to influence or secure the favor of divine entities.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 246,
+        "chapter": "General Content",
+        "surface_quote": "deposited in the temple to gain favor from Osiris.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0077",
+    "canonical_statement": "The physical form of an object can embody a linguistic concept or spiritual intent.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 247,
+        "chapter": "General Content",
+        "surface_quote": "The silhouette of the hes is the word “to honor” in hieroglyphic writing.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0078",
+    "canonical_statement": "Ritual actions and objects serve as a bridge between human activity and the divine or sacred sphere.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 247,
+        "chapter": "General Content",
+        "surface_quote": "The slender hes jar was used to pour liquids in funerary and temple ceremonies.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ritual",
+      "sacred"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0079",
+    "canonical_statement": "Symbolic forms possess inherent semiotic potential that is actualized only through specific contextual application.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 250,
+        "chapter": "General Content",
+        "surface_quote": "the visual element of the “cone” has a semiotic meaning that obtains meaning through context.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "semiotics",
+      "symbolism",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0080",
+    "canonical_statement": "Physical objects can serve as conduits for religious forces intended to facilitate or support the afterlife.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 250,
+        "chapter": "General Content",
+        "surface_quote": "the cone shape may refer to religious forces supporting a positive afterlife.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0081",
+    "canonical_statement": "Ritual action can facilitate the restoration of life to the deceased.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 253,
+        "chapter": "General Content",
+        "surface_quote": "the deceased... were brought back to life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0082",
+    "canonical_statement": "Physical objects can serve as vessels for metaphysical or magical efficacy.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 255,
+        "chapter": "General Content",
+        "surface_quote": "ripple-flaked knives were the carriers of magical powers",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "magic",
+      "ontology",
+      "materiality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0083",
+    "canonical_statement": "The intentional destruction of an object can be a ritual act related to its metaphysical function.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 255,
+        "chapter": "General Content",
+        "surface_quote": "knives had obviously been deliberately broken before they were placed inside the tombs",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "afterlife",
+      "death"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0084",
+    "canonical_statement": "Political and religious authority is conceptually linked to the ritualized suppression of chaos.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 256,
+        "chapter": "General Content",
+        "surface_quote": "The decoration on this palette refers to the control of chaos.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ideology",
+      "order",
+      "chaos",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0085",
+    "canonical_statement": "The king functions as a metaphysical agent whose dominance over external entities maintains cosmic order.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 256,
+        "chapter": "General Content",
+        "surface_quote": "Control of chaos is equated with the Egyptian king’s domination over his enemies.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "cosmology",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0086",
+    "canonical_statement": "The fundamental structure of reality is defined by the perpetual conflict and interaction between the forces of chaos and order.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 257,
+        "chapter": "General Content",
+        "surface_quote": "the contrast between chaos and order",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0087",
+    "canonical_statement": "Order is achieved through the subjugation and binding of chaotic elements.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 257,
+        "chapter": "General Content",
+        "surface_quote": "the conquest of chaos is represented by the binding and subjugation of the enemy",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0088",
+    "canonical_statement": "Nature possesses inherent dual aspects representing wild chaos and tamed order.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 257,
+        "chapter": "General Content",
+        "surface_quote": "giraffe symbolizes the wild aspect of nature... palm tree the tamed aspect",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nature",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0089",
+    "canonical_statement": "The monarch serves as a living embodiment of the divine principle.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 258,
+        "chapter": "General Content",
+        "surface_quote": "identifying the king as a living manifestation of Horus",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "kingship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0090",
+    "canonical_statement": "The earthly sovereign functions as a metaphysical agent responsible for maintaining cosmic order by suppressing chaos.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 259,
+        "chapter": "General Content",
+        "surface_quote": "The king maintained the order of the cosmos by eradicating chaos on earth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sovereignty",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0091",
+    "canonical_statement": "Political and military subjugation of enemies is a symbolic manifestation of the containment of unrule.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 259,
+        "chapter": "General Content",
+        "surface_quote": "Containment of unrule was one of the main duties of the king.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "dualism",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0092",
+    "canonical_statement": "The monarch functions as the physical embodiment or earthly manifestation of a divine entity.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 264,
+        "chapter": "General Content",
+        "surface_quote": "the nature of the king as the earthly manifestation of the god",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "kingship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0093",
+    "canonical_statement": "The sovereign holds a metaphysical obligation to preserve cosmic order and suppress chaotic forces.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 268,
+        "chapter": "General Content",
+        "surface_quote": "primary obligations of the king was to maintain the order of the world",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sovereignty",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0094",
+    "canonical_statement": "Ritual objects and symbolic actions serve as conduits for maintaining the stability of the universe.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 268,
+        "chapter": "General Content",
+        "surface_quote": "smiting scenes function on a more cosmic level far beyond any reference",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "cosmology",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0095",
+    "canonical_statement": "Physical objects can function as conduits for sympathetic magic, influencing reality through symbolic representation.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 269,
+        "chapter": "General Content",
+        "surface_quote": "red ocher... could be a form of sympathetic magic alluding to the blood",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "magic",
+      "sympathy",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0096",
+    "canonical_statement": "The vital force of an individual is symbolically represented by the physical gesture of upraised arms.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 271,
+        "chapter": "General Content",
+        "surface_quote": "the common hieroglyph of upraised arms was modified to include a throwstick",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "symbolism",
+      "vitality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0097",
+    "canonical_statement": "Animal forms can serve as metaphysical protectors or personifications of human identity.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 273,
+        "chapter": "General Content",
+        "surface_quote": "animals have been chosen as protectors, or... as personifications of the individuals.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "symbolism",
+      "archetype"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0098",
+    "canonical_statement": "Specific animal archetypes represent the metaphysical forces of chaos and evil.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 273,
+        "chapter": "General Content",
+        "surface_quote": "the hippopotamus was a symbol of evil and chaos.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "duality",
+      "archetype",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0099",
+    "canonical_statement": "The afterlife is a state of existence where the deceased requires symbolic or functional representations of earthly activities and status.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 274,
+        "chapter": "General Content",
+        "surface_quote": "deposited in the tomb for the king to use in the afterlife",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0100",
+    "canonical_statement": "Ritual objects and games can function as magical instruments to facilitate the transition to the afterlife.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 275,
+        "chapter": "General Content",
+        "surface_quote": "victory in such games could be symbolic of attaining life after death",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "magic",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0101",
+    "canonical_statement": "The human ka is an entity capable of being guided or created.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 278,
+        "chapter": "General Content",
+        "surface_quote": "She Who Guides My Ka; That Which My Ka Created.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0102",
+    "canonical_statement": "Burial within a royal funerary complex serves as a marker of social and metaphysical status.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 278,
+        "chapter": "General Content",
+        "surface_quote": "Burial in the royal funerary complex was a sign of prestige.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_before_the_pyramids_0103",
+    "canonical_statement": "The individual possesses a spiritual double or vital essence known as the Ka, which serves as a companion to the self.",
+    "attributions": [
+      {
+        "source_id": "before_the_pyramids",
+        "chunk_index": 279,
+        "chapter": "General Content",
+        "surface_quote": "My Companion is My Ka.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "egyptian-metaphysics"
+    ],
+    "editorial_status": "auto"
+  }
+]

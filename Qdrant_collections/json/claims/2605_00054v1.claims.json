@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cl_2605_00054v1_0001",
+    "canonical_statement": "The universe's expansion and dark energy can be modeled using entropic cosmology, which is equivalent to teleparallel gravity.",
+    "attributions": [
+      {
+        "source_id": "2605_00054v1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "Entropic cosmology... is equivalent to cosmology based on the teleparallel gravity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "thermodynamics",
+      "gravity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00054v1_0002",
+    "canonical_statement": "The thermodynamics-gravity correspondence allows for the investigation of dark energy models.",
+    "attributions": [
+      {
+        "source_id": "2605_00054v1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "By virtue of the thermodynamics-gravity correspondence a model of dark energy is investigated.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "dark energy",
+      "thermodynamics",
+      "gravity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00054v1_0003",
+    "canonical_statement": "The late-time acceleration of the universe can be described through the thermodynamics-gravity correspondence.",
+    "attributions": [
+      {
+        "source_id": "2605_00054v1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "Making use of the thermodynamics-gravity correspondence, we describe the late time of the universe acceleration.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "universe",
+      "acceleration",
+      "thermodynamics",
+      "gravity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00054v1_0004",
+    "canonical_statement": "The apparent horizon radius in a spatially flat FLRW spacetime coincides with the Hubble radius.",
+    "attributions": [
+      {
+        "source_id": "2605_00054v1",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "apparent horizon radius coincides with the Hubble radius",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "spacetime",
+      "horizon"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00054v1_0005",
+    "canonical_statement": "The Hubble radius is the distance at which cosmic expansion causes objects to recede at the speed of light.",
+    "attributions": [
+      {
+        "source_id": "2605_00054v1",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "Hubble radius which is the distance from an observer where the expansion of the universe causes objects to recede at the speed of light",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "expansion",
+      "light speed"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00054v1_0006",
+    "canonical_statement": "The first law of apparent horizon thermodynamics can be used to derive the Friedmann equation within entropic cosmology.",
+    "attributions": [
+      {
+        "source_id": "2605_00054v1",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "To obtain the Friedmann equation within entropic cosmology we consider the first law of apparent horizon thermodynamics",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "thermodynamics",
+      "cosmology",
+      "entropy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00054v1_0007",
+    "canonical_statement": "The Rényi entropy represents a deformation of the Bekenstein–Hawking entropy.",
+    "attributions": [
+      {
+        "source_id": "2605_00054v1",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "The Rényi entropy (7) represents the deformation of the BH entropy.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entropy",
+      "black holes",
+      "information"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00054v1_0008",
+    "canonical_statement": "Corrections to the Bekenstein–Hawking entropy decrease the Rényi entropy.",
+    "attributions": [
+      {
+        "source_id": "2605_00054v1",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "corrections to the BH entropy SBH decrease the SR entropy.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "entropy",
+      "corrections"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00054v1_0009",
+    "canonical_statement": "The Rényi entropy can mimic quantum gravity corrections to Bekenstein–Hawking entropy.",
+    "attributions": [
+      {
+        "source_id": "2605_00054v1",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "One can assume that entropy (7) mimics the quantum gravity corrections to SBH entropy.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "entropy",
+      "quantum gravity",
+      "corrections"
+    ],
+    "editorial_status": "auto"
+  }
+]

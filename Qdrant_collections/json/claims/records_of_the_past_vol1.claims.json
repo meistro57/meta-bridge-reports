@@ -1,0 +1,3094 @@
+[
+  {
+    "id": "cl_records_of_the_past_vol1_0001",
+    "canonical_statement": "Deities possess the capacity to physically relocate between geographical locations and urban centers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 25,
+        "chapter": "COLUMN III",
+        "surface_quote": "Istar of the city of ACCAD and the gods... departed from the country of ELAM",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0002",
+    "canonical_statement": "The presence or absence of a deity within a temple is contingent upon their physical movement.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 25,
+        "chapter": "COLUMN III",
+        "surface_quote": "The Sun-god from the temple of E-BABARA did not issue forth.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0003",
+    "canonical_statement": "The divine entity is the fundamental source and sustainer of all life.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 29,
+        "chapter": "COLUMN II",
+        "surface_quote": "With MERODACH is life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0004",
+    "canonical_statement": "The divine word or command is the supreme governing force of reality.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 29,
+        "chapter": "COLUMN II",
+        "surface_quote": "Supreme is the word of MERODACH.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0005",
+    "canonical_statement": "The divine entity possesses comprehensive knowledge of human nature.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 29,
+        "chapter": "COLUMN II",
+        "surface_quote": "BEL who knows mankind.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0006",
+    "canonical_statement": "The divine entity acts as the primary creator of the manifest world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 29,
+        "chapter": "COLUMN II",
+        "surface_quote": "BEL has created.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "structure",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0007",
+    "canonical_statement": "Divine commands are immutable and constant.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 29,
+        "chapter": "COLUMN II",
+        "surface_quote": "PAP-SUKAL who changes not his command.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0008",
+    "canonical_statement": "The Moon-god possesses the capacity to animate or sustain life in the terrestrial realm.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 30,
+        "chapter": "COLUMN II",
+        "surface_quote": "May the Moon-god vivify what is below him.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "life",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0009",
+    "canonical_statement": "Divine entities act as protectors of physical boundaries and territorial markers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 30,
+        "chapter": "COLUMN II",
+        "surface_quote": "O BEL, defend the landmark.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "deity",
+      "protection",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0010",
+    "canonical_statement": "Human existence is defined by a hierarchical relationship of service to divine beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 30,
+        "chapter": "COLUMN II",
+        "surface_quote": "Servant of NERGAL.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "hierarchy",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0011",
+    "canonical_statement": "Divine intervention is required to navigate existential hardship and peril.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 30,
+        "chapter": "COLUMN II",
+        "surface_quote": "In difficulties and dangers take my hand.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "intervention",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0012",
+    "canonical_statement": "Human identity and social status are defined by their relationship to and derivation from divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 31,
+        "chapter": "COLUMN IV",
+        "surface_quote": "Man of the god SUQAMUNA.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0013",
+    "canonical_statement": "Celestial phenomena serve as signs or indicators of divine favor regarding human political and military actions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 31,
+        "chapter": "COLUMN IV",
+        "surface_quote": "the moon was favourable for Sargon who marched against the country",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divination",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0014",
+    "canonical_statement": "Celestial phenomena serve as signs or indicators of divine favor regarding terrestrial political and military outcomes.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 32,
+        "chapter": "COLUMN IV",
+        "surface_quote": "When the moon... the moon was favourable to Sargon",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divination",
+      "astrology",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0015",
+    "canonical_statement": "The success of a ruler in unifying and conquering territories is mediated by divine intervention.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 32,
+        "chapter": "COLUMN IV",
+        "surface_quote": "the goddess ISHTAR all countries caused him to conquer",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divine-intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0016",
+    "canonical_statement": "Celestial phenomena serve as deterministic indicators or precursors for terrestrial political and military events.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 33,
+        "chapter": "COLUMN IV",
+        "surface_quote": "trace a connection between certain astronomical occurrences and the events which immediately followed them",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "astrology",
+      "determinism",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0017",
+    "canonical_statement": "Divine or cosmic decrees establish the fixed order of phenomena.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 34,
+        "chapter": "COLUMN IV",
+        "surface_quote": "Thus he has appointed.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0018",
+    "canonical_statement": "Certain celestial or metaphysical phenomena exist beyond the capacity of human measurement.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 34,
+        "chapter": "COLUMN IV",
+        "surface_quote": "It could not be measured.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0019",
+    "canonical_statement": "The divine realm is structured as a hierarchical pantheon with specific familial and functional relationships.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 45,
+        "chapter": "THE INSCRIPTIONS OF TELLOH",
+        "surface_quote": "The list of divinities at the commencement of the imprecatory formula",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "pantheon",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0020",
+    "canonical_statement": "The mountain of the world serves as both the seat of the gods and the habitation of the dead.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 45,
+        "chapter": "THE INSCRIPTIONS OF TELLOH",
+        "surface_quote": "the lord of the mountain of the world, where the seat of the gods was placed",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "afterlife",
+      "sacred-geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0021",
+    "canonical_statement": "Divine entities exist within a hierarchical structure defined by generational lineage.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 46,
+        "chapter": "THE INSCRIPTIONS OF TELLOH",
+        "surface_quote": "list arranges the divinities in three generations",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "hierarchy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0022",
+    "canonical_statement": "Multiple divine names and forms may refer to a single underlying entity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 46,
+        "chapter": "THE INSCRIPTIONS OF TELLOH",
+        "surface_quote": "Nin-agal, who is only another form of En-ki",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0023",
+    "canonical_statement": "Religious veneration is predicated on the familial relationships between deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 46,
+        "chapter": "THE INSCRIPTIONS OF TELLOH",
+        "surface_quote": "cult rendered to these gods was offered by reason of their being the mother",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "worship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0024",
+    "canonical_statement": "The conceptualization of divine hierarchies is a projection of human social structures onto the metaphysical realm.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 47,
+        "chapter": "THE INSCRIPTIONS OF TELLOH",
+        "surface_quote": "the need experienced by the mind of man to establish for his god a family",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "anthropomorphism",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0025",
+    "canonical_statement": "Deities can exist as multiple distinct manifestations or identities simultaneously.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 48,
+        "chapter": "THE INSCRIPTIONS OF TELLOH",
+        "surface_quote": "worshipped as being a brother of the god or as being the god himself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0026",
+    "canonical_statement": "Divine hierarchies are structured through familial relationships and lineages.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 48,
+        "chapter": "THE INSCRIPTIONS OF TELLOH",
+        "surface_quote": "Gal-alim and Dun-shagana had each a temple because they were the sons of Nin-girsu",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "structure",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0027",
+    "canonical_statement": "Individual entities require specialized intercessors to mediate access to the supreme deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 48,
+        "chapter": "THE INSCRIPTIONS OF TELLOH",
+        "surface_quote": "each prince... selected also a special deity... who acted as his intercessor",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mediation",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0028",
+    "canonical_statement": "Divinities function as personifications of specific natural phenomena or environmental states.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 49,
+        "chapter": "THE INSCRIPTIONS OF TELLOH",
+        "surface_quote": "Nin-girsu was a solar deity, personifying more particularly the sun when veiled in clouds.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature",
+      "personification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0029",
+    "canonical_statement": "The influence of terrestrial deities extends beyond the living world to include the realm of the dead.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 49,
+        "chapter": "THE INSCRIPTIONS OF TELLOH",
+        "surface_quote": "Bau presided also over Hades, and not only over the living and fertile earth.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0030",
+    "canonical_statement": "The construction of sacred architecture is a ritual act that manifests divine order within the physical realm.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 53,
+        "chapter": "COLUMN III",
+        "surface_quote": "The temple of the goddess GATUMDUG he has erected.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "ritual",
+      "sacred"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0031",
+    "canonical_statement": "The 'apzu' represents a foundational metaphysical structure or cosmic reservoir that must be constructed or maintained.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 53,
+        "chapter": "COLUMN III",
+        "surface_quote": "The great apzu he has constructed.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0032",
+    "canonical_statement": "Physical structures dedicated to deities serve as conduits or thresholds connecting the terrestrial realm to the celestial domain.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 58,
+        "chapter": "COLUMN III",
+        "surface_quote": "his temple which rises to the entrance of heaven",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sacred-architecture",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0033",
+    "canonical_statement": "Physical structures dedicated to deities serve as conduits or dwelling places for divine presence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 59,
+        "chapter": "COLUMN V",
+        "surface_quote": "The temple wherein dwells the god NIN-GIRSU he has constructed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "temple",
+      "sacred-space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0034",
+    "canonical_statement": "Certain architectural constructions possess a vertical orientation that bridges the terrestrial and celestial realms.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 59,
+        "chapter": "COLUMN V",
+        "surface_quote": "his temple which rises to the entrance of heaven",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "architecture",
+      "heaven"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0035",
+    "canonical_statement": "The primordial state of existence is characterized by a void or emptiness.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 61,
+        "chapter": "COLUMN III",
+        "surface_quote": "Bau... interpreted 'the night'... compared with the Hebrew bohu, translated 'void'.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0036",
+    "canonical_statement": "The first generation of humanity originated from the interaction of night and wind.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 61,
+        "chapter": "COLUMN III",
+        "surface_quote": "Bau... and her husband Kolpia, 'the wind,' produced the first generation of men.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "anthropogony",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0037",
+    "canonical_statement": "Individual human rulers possess a specific, assigned tutelary deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 62,
+        "chapter": "IV. INSCRIPTION OF ENTENA ON A BUTTRESS",
+        "surface_quote": "His god is the god DUN-SIR-ANNA.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0038",
+    "canonical_statement": "Human authority is derived from or sanctioned by divine election.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 62,
+        "chapter": "IV. INSCRIPTION OF ENTENA ON A BUTTRESS",
+        "surface_quote": "the chosen of the heart of the goddess NINa",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "authority",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0039",
+    "canonical_statement": "Human authority and capacity are derived from and bestowed by divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 63,
+        "chapter": "VI. INSCRIPTIONS OF UR-BAU AND HIS REIGN",
+        "surface_quote": "endowed with power by the god NIN-GIRSU, endowed with intelligence by the god EN-KI",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "agency",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0040",
+    "canonical_statement": "Individual identity and destiny are determined by the immutable will of deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 63,
+        "chapter": "VI. INSCRIPTIONS OF UR-BAU AND HIS REIGN",
+        "surface_quote": "chosen by the immutable will of the goddess NINa",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0041",
+    "canonical_statement": "Human identity is defined by a subordinate relationship to divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 64,
+        "chapter": "COLUMN II",
+        "surface_quote": "I am UR-BAU; the god NIN-GIRSU is my king.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0042",
+    "canonical_statement": "The material world is subject to divine favor and sanctification.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 64,
+        "chapter": "COLUMN II",
+        "surface_quote": "covered with renown by the goddess NINNI",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0043",
+    "canonical_statement": "The physical world is a constructed space organized according to a pre-existing divine plan.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 65,
+        "chapter": "COLUMN III",
+        "surface_quote": "According to the plan adopted he has marked out a large space",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0044",
+    "canonical_statement": "The material realm is a localized manifestation within a larger, structured cosmic framework.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 65,
+        "chapter": "COLUMN III",
+        "surface_quote": "into the middle (of it) he has carried this earth, and he has made its mundus",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ontology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0045",
+    "canonical_statement": "The construction of physical temples serves as a ritual mechanism for honoring and anchoring divine entities within the material realm.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 66,
+        "chapter": "COLUMN IV",
+        "surface_quote": "he has constructed her temple",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ritual",
+      "sacred-space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0046",
+    "canonical_statement": "Deities possess the authority to determine or govern the destinies of beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 67,
+        "chapter": "COLUMN V",
+        "surface_quote": "NIN-DARA, the lord of destinies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0047",
+    "canonical_statement": "The construction of physical temples serves as a ritualized act of devotion to specific deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 67,
+        "chapter": "COLUMN V",
+        "surface_quote": "his temple he has constructed",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ritual",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0048",
+    "canonical_statement": "Human rulers derive their authority and patronage status from specific divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 70,
+        "chapter": "TRANSLATION OF THE INSCRIPTION OF SIN-GASHID",
+        "surface_quote": "Sin-gashid... to LUGAL-BANDA his god and NIN-GUL his goddess.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "authority",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0049",
+    "canonical_statement": "Physical structures can serve as the designated seat for divine joy.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 70,
+        "chapter": "TRANSLATION OF THE INSCRIPTION OF SIN-GASHID",
+        "surface_quote": "E-KANKAL, the house which is the seat of the joy of his heart.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacred-space",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0050",
+    "canonical_statement": "Human rulers may establish legitimacy by claiming divine lineage rather than biological descent.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 71,
+        "chapter": "COLOPHON IN SEMITIC-BABYLONIAN:",
+        "surface_quote": "Sin-gashid... did not mean to imply that she was his real earthly parent.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0051",
+    "canonical_statement": "Deities possess the capacity to relocate their presence and dwell in locations external to their proper domain.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 73,
+        "chapter": "COLOPHON IN SEMITIC-BABYLONIAN:",
+        "surface_quote": "the goddess Nana... had gone, and had dwelt within Elam, which was not her proper place",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "deity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0052",
+    "canonical_statement": "Divine entities exert influence over human political history and the appointment of rulers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 73,
+        "chapter": "COLOPHON IN SEMITIC-BABYLONIAN:",
+        "surface_quote": "she and the gods her fathers proclaimed my name to the dominion of the world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0053",
+    "canonical_statement": "Divine commands are eternal and can be revealed across different temporal epochs.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 73,
+        "chapter": "COLOPHON IN SEMITIC-BABYLONIAN:",
+        "surface_quote": "The words of the command... which she had spoken from remote days, she again revealed",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0054",
+    "canonical_statement": "The divine entity possesses a disposition that can be influenced or altered by human supplication.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 75,
+        "chapter": "TRANSLATION OF THE LAMENT",
+        "surface_quote": "Let thy heart take rest, let thy disposition be softened.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "theology",
+      "prayer"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0055",
+    "canonical_statement": "Human suffering and misfortune are perceived as being orchestrated or permitted by the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 75,
+        "chapter": "TRANSLATION OF THE LAMENT",
+        "surface_quote": "My Lady, thou hast surrounded me, and brought me to grief.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "suffering",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0056",
+    "canonical_statement": "The sun is identified as a divine entity that emerges from the divine day.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 79,
+        "chapter": "INSCRIPTION OF TIGLATH-PILESER I",
+        "surface_quote": "Masu is defined as being the Sun-god who rises from the divine day.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity",
+      "sun"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0057",
+    "canonical_statement": "The firmament is conceptualized as a divine house or structural origin for celestial deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 79,
+        "chapter": "INSCRIPTION OF TIGLATH-PILESER I",
+        "surface_quote": "he became the son of E-sarra, or the house of the firmament.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0058",
+    "canonical_statement": "The structure of political authority and royal legitimacy is divinely ordained and established by the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 80,
+        "chapter": "INSCRIPTION OF TIGLATH-PILESER I",
+        "surface_quote": "the giver of the sceptre and the crown, the establisher of the kingdom",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theocracy",
+      "sovereignty",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0059",
+    "canonical_statement": "Divine entities possess omniscience regarding human internal states and intentions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 80,
+        "chapter": "INSCRIPTION OF TIGLATH-PILESER I",
+        "surface_quote": "who discloses all that is in the heart",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "omniscience",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0060",
+    "canonical_statement": "Human destiny and the duration of royal rule are predetermined by divine decree.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 80,
+        "chapter": "INSCRIPTION OF TIGLATH-PILESER I",
+        "surface_quote": "the destiny of his lordship... for ever have you summoned",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "destiny",
+      "time",
+      "predestination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0061",
+    "canonical_statement": "The physical world is governed by a hierarchy of deities who act as guiders of heaven and earth.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 80,
+        "chapter": "INSCRIPTION OF TIGLATH-PILESER I",
+        "surface_quote": "Ye great gods, guiders of heaven (and) earth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0062",
+    "canonical_statement": "The sovereign ruler acts as an instrument of divine will, deriving authority and military success from the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 81,
+        "chapter": "INSCRIPTION OF TIGLATH-PILESER I",
+        "surface_quote": "ASUR and the great gods who have magnified my kingdom",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0063",
+    "canonical_statement": "The expansion of physical territory and the subjugation of foreign populations are manifestations of divine order.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 81,
+        "chapter": "INSCRIPTION OF TIGLATH-PILESER I",
+        "surface_quote": "The boundary of their land to be enlarged",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "order",
+      "territory",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0064",
+    "canonical_statement": "The identity of conquered peoples can be subsumed and assimilated into the identity of the conquering nation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 81,
+        "chapter": "INSCRIPTION OF TIGLATH-PILESER I",
+        "surface_quote": "I laid hold upon them and counted them among the men of my own country",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "assimilation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0065",
+    "canonical_statement": "The physical landscape, specifically mountains, serves as a sacred locus where divine entities reside and interact with the terrestrial realm.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 82,
+        "chapter": "INSCRIPTION OF TIGLATH-PILESER I",
+        "surface_quote": "the Mountain of the World was the Olympos on which the gods dwelt",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity",
+      "sacred-geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0066",
+    "canonical_statement": "The terrestrial world is subject to historical divisions or fragmentation originating from a primordial state.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 82,
+        "chapter": "INSCRIPTION OF TIGLATH-PILESER I",
+        "surface_quote": "Peleg, in whose days the earth was divided",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0067",
+    "canonical_statement": "The authority and glory of a deity are an objective force that induces fear and submission in those who oppose it.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 83,
+        "chapter": "COLUMN II",
+        "surface_quote": "fear that avoided the glory of ASSUR my lord overwhelmed them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0068",
+    "canonical_statement": "Divine authority is the source of human military strength and the legitimacy of conquest.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 84,
+        "chapter": "COLUMN II",
+        "surface_quote": "ASSUR the lord gave for strength and heroism",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "authority",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0069",
+    "canonical_statement": "The ruler acts as a mediator between the divine and the material world through ritual dedication of spoils.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 84,
+        "chapter": "COLUMN II",
+        "surface_quote": "I dedicated to ASUR my lord",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0070",
+    "canonical_statement": "The sovereign ruler acts as an instrument of divine will, deriving authority and military capability directly from a deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 85,
+        "chapter": "COLUMN II",
+        "surface_quote": "ASUR the lord has caused my hand to hold the mighty weapon",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0071",
+    "canonical_statement": "The expansion of a terrestrial domain is a divinely mandated objective.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 85,
+        "chapter": "COLUMN II",
+        "surface_quote": "to enlarge the frontier of his country has commanded (me)",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0072",
+    "canonical_statement": "The sovereign authority of a deity acts as the primary impetus and justification for military conquest.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 88,
+        "chapter": "COLUMN III",
+        "surface_quote": "In the supreme power of ASUR my lord... ASUR the lord commanded (me) to march.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0073",
+    "canonical_statement": "Divine glory possesses an inherent power to overwhelm and compel the submission of human populations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 88,
+        "chapter": "COLUMN III",
+        "surface_quote": "The glory of ASSUR my lord overwhelmed them, and they descended and took my feet.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0074",
+    "canonical_statement": "The sovereign ruler acts as an instrument of divine power, and military conquest is an extension of the deity's will.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 91,
+        "chapter": "COLUMN IV",
+        "surface_quote": "In the mightiness of the power of ASUR my lord... I marched.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "divine-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0075",
+    "canonical_statement": "The appropriation of foreign deities and their symbols signifies the subjugation of the conquered people's spiritual authority.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 91,
+        "chapter": "COLUMN IV",
+        "surface_quote": "Their 25 gods... I carried away.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "power",
+      "conquest"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0076",
+    "canonical_statement": "Divine entities exercise sovereign authority over the physical world and direct human actions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 92,
+        "chapter": "COLUMN IV",
+        "surface_quote": "through the supreme power of ASUR my lord... ASUR the lord urged me",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0077",
+    "canonical_statement": "The authority of a sovereign is derived from and sanctioned by a divine entity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 97,
+        "chapter": "COLUMN VI",
+        "surface_quote": "the conquest of the lands, which through ASUR my god I had conquered",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0078",
+    "canonical_statement": "Divine will serves as the ultimate justification for the subjugation and destruction of opposing entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 97,
+        "chapter": "COLUMN VI",
+        "surface_quote": "who were not submissive to ASUR my lord",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "morality",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0079",
+    "canonical_statement": "The sovereign ruler acts as an agent fulfilling a divine mission ordained by supreme deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 98,
+        "chapter": "COLUMN VI",
+        "surface_quote": "who completes the mission of the supreme (gods).",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0080",
+    "canonical_statement": "Divine entities provide physical instruments of power to earthly rulers to facilitate their dominion.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 98,
+        "chapter": "COLUMN VI",
+        "surface_quote": "URAS and NERGAL have given their forceful weapons... to the hands of my lordship.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0081",
+    "canonical_statement": "The favor of a deity acts as a protective metaphysical shield for the ruler's actions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 98,
+        "chapter": "COLUMN VI",
+        "surface_quote": "Under the protection of URAS who loves me",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "protection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0082",
+    "canonical_statement": "Divine beings actively intervene in human affairs to guide and empower rulers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 100,
+        "chapter": "COLUMN VII",
+        "surface_quote": "ASUR and URAS... conduct [the king] according to the desire of his heart.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sovereignty",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0083",
+    "canonical_statement": "The prosperity and expansion of a nation are contingent upon the favor of the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 100,
+        "chapter": "COLUMN VII",
+        "surface_quote": "To the land of ASUR I added land... the gods who love me have given.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0084",
+    "canonical_statement": "Ritual sacrifice serves as a mechanism for maintaining a favorable relationship with the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 100,
+        "chapter": "COLUMN VII",
+        "surface_quote": "along with my pure sacrifices annually I sacrificed to ASUR my lord.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ritual",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0085",
+    "canonical_statement": "Divine entities possess specific habitations within the physical realm that require human maintenance and ritual construction.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 101,
+        "chapter": "COLUMN VII",
+        "surface_quote": "commanded the rebuilding of their habitation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "temple",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0086",
+    "canonical_statement": "The physical structure of a temple serves as a localized vessel for the presence of divine beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 101,
+        "chapter": "COLUMN VII",
+        "surface_quote": "ANU and RIMMON, the great gods I introduced within (it)",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sacred-space"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0087",
+    "canonical_statement": "Human architectural and artistic efforts can mirror or replicate celestial or divine qualities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 101,
+        "chapter": "COLUMN VII",
+        "surface_quote": "beautified like the star(s) of heaven",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "art"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0088",
+    "canonical_statement": "Divine favor and material prosperity are contingent upon the ritual maintenance and construction of sacred spaces.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 103,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "I have laboured at... the temple... may ANU and RIMMON... give abundant rains.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theurgy",
+      "divinity",
+      "reciprocity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0089",
+    "canonical_statement": "The efficacy of a ruler's reign is derived from the active support and intervention of the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 103,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "in battle and conflict may they conduct me in safety.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0090",
+    "canonical_statement": "Historical and political events are manifestations of divine will and agency.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 103,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "foes of ASUR, whom ANU and RIMMON have given for a spoil.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0091",
+    "canonical_statement": "Divine entities possess the authority to influence the stability of political structures and the prosperity of human domains.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 104,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "May ANU and RIMMON... overthrow his kingdom; may they remove the foundation of the throne.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sovereignty",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0092",
+    "canonical_statement": "The preservation of a name and monumental record is linked to the continuity of an individual's legacy and existence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 104,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "May he root out his name and his seed in the land.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "legacy",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0093",
+    "canonical_statement": "Divine retribution is a mechanism for maintaining the sanctity of sacred objects and historical inscriptions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 104,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "Whoever my monumental-stones... shall shatter... may they curse him with a withering curse.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "justice",
+      "sacred"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0094",
+    "canonical_statement": "Physical objects can be transformed into sacred entities through ritual consecration.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 105,
+        "chapter": "COLUMN VIII",
+        "surface_quote": "Thereby turning them into Beth-els or consecrated stones.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacred",
+      "ritual",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0095",
+    "canonical_statement": "The universe originates from primordial elements rather than divine volition.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 106,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "gods... are the offspring of the everlasting elements of the heaven and earth",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "materialism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0096",
+    "canonical_statement": "The watery abyss serves as the fundamental substrate and source of all existence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 106,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "watery abyss... the mother and source of all things",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0097",
+    "canonical_statement": "Deities are transient entities subject to the same cycles of birth and death as mortals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 106,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "The gods themselves come and go like mortal men",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0098",
+    "canonical_statement": "Anthropomorphic deities are symbolic representations of underlying physical or primordial elements.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 106,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "resolved into mere symbolical representatives of the primordial elements",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0099",
+    "canonical_statement": "The material universe originated from a primordial state of water or chaos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 107,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "Babylonians had always believed that the world had been created out of water.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0100",
+    "canonical_statement": "The current ordered universe was preceded by an imperfect, chaotic prototype.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 107,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "the present creation had been preceded by an earlier creation, an imperfect and chaotic prototype.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0101",
+    "canonical_statement": "Reality is defined by an eternal, fundamental struggle between the principles of light/order and darkness/chaos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 107,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "Light and darkness, chaos and order, are ever struggling one against the other.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "duality",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0102",
+    "canonical_statement": "The intelligible world is a manifestation derived from the union of two primordial principles.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 107,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "Mumis... is no other than the intelligible world proceeding from the two principles.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0103",
+    "canonical_statement": "The existence of an entity or phenomenon is contingent upon the pronunciation of its name.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 110,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "the name was supposed to be the same as the thing named",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "language",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0104",
+    "canonical_statement": "A state of undifferentiated watery chaos serves as the primordial substrate from which all divine beings and the material world emerge.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 110,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "Out of the bosom of this chaos proceeded the gods as well as the created world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "substrate",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0105",
+    "canonical_statement": "The manifestation of order and the creation of habitable space require the destruction or subjugation of primordial chaos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 110,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "before the younger gods could find a suitable habitation... it was necessary to destroy the dragon of chaos",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0106",
+    "canonical_statement": "The destiny of a divine being is determined by the collective consensus of the pantheon.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 110,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "the great gods determined for him his destiny",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "destiny",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0107",
+    "canonical_statement": "The physical universe is constructed from the primordial substance of chaotic forces.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 111,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "The visible heaven was formed out of the skin of Tiamat.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0108",
+    "canonical_statement": "Order and natural law are imposed upon chaotic elements to establish the structure of reality.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 111,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "chaotic waters of the dragon became the law-bound sea.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "order",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0109",
+    "canonical_statement": "The governance of the universe is determined by the possession of metaphysical instruments of destiny.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 111,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "books of destiny... were now transferred to the younger deities.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "destiny",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0110",
+    "canonical_statement": "Time and celestial cycles are governed by fixed laws imposed upon physical bodies.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 111,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "heavenly bodies were bound down by fixed laws that they might regulate the calendar.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "laws"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0111",
+    "canonical_statement": "The material universe emerged from a primordial state of undifferentiated watery chaos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 112,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "the present world has been preceded by a watery chaos",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0112",
+    "canonical_statement": "The formation of the ordered universe is the result of a conflict between divine forces and chaotic entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 112,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "struggle between Merodach and the powers of evil",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0113",
+    "canonical_statement": "The structure of the cosmos is defined by a sequence of distinct creative acts.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 112,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "history of the creation is divided into seven successive acts",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0114",
+    "canonical_statement": "The female principle is derived from the male principle in the process of creation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 113,
+        "chapter": "THE ASSYRIAN STORY OF THE CREATION",
+        "surface_quote": "the woman from the man do they bring forth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "gender",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0115",
+    "canonical_statement": "Existence and identity are contingent upon the act of naming.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 114,
+        "chapter": "THE ASSYRIAN EPIC OF THE CREATION",
+        "surface_quote": "the earth beneath recorded, a name; ... by no name were they recorded",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0116",
+    "canonical_statement": "The primordial state of reality is an undifferentiated, chaotic unity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 114,
+        "chapter": "THE ASSYRIAN EPIC OF THE CREATION",
+        "surface_quote": "Their waters were embosomed as one",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0117",
+    "canonical_statement": "The universe originates from a singular, generative, chaotic source.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 114,
+        "chapter": "THE ASSYRIAN EPIC OF THE CREATION",
+        "surface_quote": "the unopened deep was their generator, MUMMU-TIAMAT was the mother of them all",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0118",
+    "canonical_statement": "Divine beings are subject to a process of temporal emergence and generation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 114,
+        "chapter": "THE ASSYRIAN EPIC OF THE CREATION",
+        "surface_quote": "the gods were created... until they grew up",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0119",
+    "canonical_statement": "The primordial state of existence is characterized by the generation of monstrous, chaotic entities from a singular maternal source.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 115,
+        "chapter": "THIRD TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "The mother of KHUBUR, the creatress of them all.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "primordial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0120",
+    "canonical_statement": "The structure of the universe is defined by an inherent, perpetual conflict between order and chaotic, reptilian forces.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 115,
+        "chapter": "THIRD TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "I made ready the dragon, the mighty serpent and the god LAKHA(MA).",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "duality",
+      "cosmology",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0121",
+    "canonical_statement": "Divine authority and cosmic law are established through the violent subjugation of primordial, chaotic manifestations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 115,
+        "chapter": "THIRD TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "Strong through the law which yields not before the foe.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "law",
+      "divinity",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0122",
+    "canonical_statement": "The spoken word of a sovereign deity possesses the ontological power to manifest, destroy, and recreate reality.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 117,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He spake and with his mouth destroyed his word; he spake and it was re-created.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0123",
+    "canonical_statement": "Divine authority is established through the collective consensus and delegation of power by the pantheon.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 117,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "We give thee the sovereignty, the hosts of all the universe.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0124",
+    "canonical_statement": "The soul is a distinct entity capable of being preserved or destroyed by divine judgment.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 117,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "Be gracious to the soul of him who trusts, and destroy the soul of evil.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "judgment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0125",
+    "canonical_statement": "The creative process involves the deliberate ordering and manipulation of elemental forces to establish cosmic dominance.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 118,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He created the evil wind, the hostile wind, the storm, the tempest.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0126",
+    "canonical_statement": "Destiny functions as a structured vehicle or mechanism through which the divine agent operates.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 118,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He rode in the chariot of destiny that retreats without a rival.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "destiny",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0127",
+    "canonical_statement": "The manifestation of reality is governed by the authoritative command of the creator.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 118,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "By his command he kept back the...",
+        "claim_type": "stated",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "creation",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0128",
+    "canonical_statement": "The structure of the universe is established through the resolution of primordial conflict between opposing divine forces.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 119,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "War on high thou hast excited... Stand up, and I and thou will fight together.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "duality",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0129",
+    "canonical_statement": "Divine authority and lordship are validated through the successful subjugation of chaotic, rebellious forces.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 119,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "the gods exalted him... he catches TIAMAT by her waist",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "authority",
+      "order",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0130",
+    "canonical_statement": "The physical structure of the universe is derived from the conquest and dismemberment of a primordial entity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 120,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He shattered her stomach; he cut out her entrails; he overmastered her heart.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0131",
+    "canonical_statement": "Divine authority and order are established through the subjugation and binding of chaotic forces.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 120,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He bound her and ended her life. He threw down her corpse.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "order",
+      "chaos",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0132",
+    "canonical_statement": "Defeat in cosmic conflict results in the moral burden of sin and existential bondage.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 120,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "They bear their sin, they are kept in bondage.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "fate",
+      "bondage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0133",
+    "canonical_statement": "The physical universe is constructed from the remains of primordial chaos.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 121,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "he stripped her of her skin... he described her likeness and overshadowed the heavens",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0134",
+    "canonical_statement": "Divine order is established through the subjugation and transformation of chaotic forces.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 121,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "he bound him... he established fully the victory of AN-SAR over the foe",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "order",
+      "duality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0135",
+    "canonical_statement": "The heavens and the firmament are structured entities derived from the physical form of a primordial deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 121,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "the chief prophet made of her image the house of the Firmament",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0136",
+    "canonical_statement": "The creative Word possesses an independent ontological status, capable of being generated, annihilated, and restored.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 122,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "The Word is regarded as having a real existence which could be created or destroyed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "logos",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0137",
+    "canonical_statement": "The physical universe is derived from the fragmentation and transformation of a primordial divine entity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 122,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "Of one half of her he formed the earth, and of the other half the heavens.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0138",
+    "canonical_statement": "Human consciousness and rationality are derived from the admixture of divine substance with terrestrial matter.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 122,
+        "chapter": "FOURTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "The gods mixed the blood with the earth, and from thence men were formed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "humanity",
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0139",
+    "canonical_statement": "The physical universe is a structured system designed to regulate time and celestial movement.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 123,
+        "chapter": "FIFTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He ordained the year, appointing the signs of the Zodiac over it.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0140",
+    "canonical_statement": "Celestial bodies function as markers to prevent error and maintain cosmic boundaries.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 123,
+        "chapter": "FIFTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "that they might know their bonds, that they might not err.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0141",
+    "canonical_statement": "The structure of the universe is established by divine intelligence to facilitate the measurement of day and night.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 123,
+        "chapter": "FIFTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "He illuminated the Moon-god that he might be porter of the night.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0142",
+    "canonical_statement": "The physical world and its biological inhabitants are the result of deliberate creation by a collective of divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 124,
+        "chapter": "THE SEVENTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "At that time the gods in their assembly created the beasts.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0143",
+    "canonical_statement": "Divine entities possess the authority to organize and distribute biological life within specific environmental habitations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 124,
+        "chapter": "THE SEVENTH TABLET OF THE STORY OF THE CREATION",
+        "surface_quote": "They distributed in their dwelling-places the cattle and the creeping things.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "order",
+      "creation",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0144",
+    "canonical_statement": "The celestial order and the positions of stars are established and maintained by divine decree.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 125,
+        "chapter": "THE FOLLOWING FRAGMENT (K 3449) BELONGS TO THE STORY OF THE CREATION, BUT ITS POSITION IS UNCERTAIN",
+        "surface_quote": "I have established also the position of ... the star of the bow in heaven.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0145",
+    "canonical_statement": "The fates are a fundamental governing principle of existence, recognized by the divine assembly.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 125,
+        "chapter": "THE FOLLOWING FRAGMENT (K 3449) BELONGS TO THE STORY OF THE CREATION, BUT ITS POSITION IS UNCERTAIN",
+        "surface_quote": "Since the fates...",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "fate",
+      "determinism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0146",
+    "canonical_statement": "The initial state of the universe is characterized by chaotic, imperfect manifestations of life.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 126,
+        "chapter": "THE BABYLONIAN STORY OF THE CREATION ACCORDING TO THE TRADITION OF CUTHA",
+        "surface_quote": "inhabited by the chaotic brood of Tiamat, imperfect first attempts, as it were, of nature",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0147",
+    "canonical_statement": "The material world existed prior to the establishment of orderly creation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 126,
+        "chapter": "THE BABYLONIAN STORY OF THE CREATION ACCORDING TO THE TRADITION OF CUTHA",
+        "surface_quote": "But the earth already existed",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0148",
+    "canonical_statement": "The transition from chaos to order requires the destruction of primordial, composite life forms by divine forces.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 126,
+        "chapter": "THE BABYLONIAN STORY OF THE CREATION ACCORDING TO THE TRADITION OF CUTHA",
+        "surface_quote": "the whole brood is exterminated by the gods of light",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0149",
+    "canonical_statement": "The divine word functions as the primary mechanism of cosmic command.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 127,
+        "chapter": "COLUMN I",
+        "surface_quote": "His word is the command of the gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0150",
+    "canonical_statement": "The gods possess dominion over both the celestial and terrestrial realms.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 127,
+        "chapter": "COLUMN I",
+        "surface_quote": "lord of that which is above and that which is below",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0151",
+    "canonical_statement": "Hybrid entities possessing avian features were intentionally engineered by the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 127,
+        "chapter": "COLUMN I",
+        "surface_quote": "Warriors with the body of a bird... did the great gods create.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "anthropology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0152",
+    "canonical_statement": "The primordial entity Tiamat serves as the maternal source of nourishment for created beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 127,
+        "chapter": "COLUMN I",
+        "surface_quote": "TIAMAT gave them suck.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0153",
+    "canonical_statement": "The individual self maintains a persistent identity that is distinct from the physical body and the inevitability of death.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 128,
+        "chapter": "COLUMN II",
+        "surface_quote": "Verily it is I, and never may I go beneath the dust!",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "mortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0154",
+    "canonical_statement": "The ruler's internal state and identity are inextricably linked to the wholeness and vitality of the governed territory.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 128,
+        "chapter": "COLUMN II",
+        "surface_quote": "I am a king who makes not his country whole",
+        "claim_type": "implied",
+        "confidence": 0.75
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "correspondence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0155",
+    "canonical_statement": "The physical world and its foundations are subject to catastrophic dissolution by divine agency.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 129,
+        "chapter": "COLUMN III",
+        "surface_quote": "I have effected the overthrow of all that exist.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity",
+      "destruction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0156",
+    "canonical_statement": "Human existence and the natural order are contingent upon the commands and interventions of deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 129,
+        "chapter": "COLUMN III",
+        "surface_quote": "Thou didst command me, and they are created.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0157",
+    "canonical_statement": "Ritual and memorial practice serve as the mechanism for maintaining relationship with the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 129,
+        "chapter": "COLUMN III",
+        "surface_quote": "A memorial of drinking and holy memorial sacrifices.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ritual",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0158",
+    "canonical_statement": "The divine voice possesses the ontological capacity to manifest or create reality.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 130,
+        "chapter": "COLUMN IV",
+        "surface_quote": "The voice creates.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol1_0159",
+    "canonical_statement": "The divine principle is manifested as a plurality of localized entities sharing a common identity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol1",
+        "chunk_index": 139,
+        "chapter": "INSCRIPTION OF THE VANNIC KING MENUAS",
+        "surface_quote": "there were many Khaldis-gods who are invoked by the Vannic kings",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  }
+]

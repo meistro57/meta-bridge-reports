@@ -1,0 +1,2073 @@
+[
+  {
+    "id": "cl_records_of_the_past_vol4_0001",
+    "canonical_statement": "Political authority and governance are derived from divine appointment through oracular communication.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 2,
+        "chapter": "RECORDS OF THE PAST",
+        "surface_quote": "appointed to his office by the oracle of the mighty king",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "authority",
+      "theology",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0002",
+    "canonical_statement": "Deities are identified across disparate cultures through the syncretism of local titles and attributes.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 2,
+        "chapter": "RECORDS OF THE PAST",
+        "surface_quote": "the most high God... was locally known under the name of Marru",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "syncretism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0003",
+    "canonical_statement": "The divine entity functions as the arbiter and determiner of fixed destiny.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 4,
+        "chapter": "RECORDS OF THE PAST",
+        "surface_quote": "O god of fixed destiny",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0004",
+    "canonical_statement": "Human moral transgressions are subject to removal or absolution through divine intervention.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 4,
+        "chapter": "RECORDS OF THE PAST",
+        "surface_quote": "remove (our) sin",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "morality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0005",
+    "canonical_statement": "The divine entity possesses the authority to determine and fix the destiny of individuals and nations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 5,
+        "chapter": "RECORDS OF THE PAST",
+        "surface_quote": "O SUN-GOD, great lord, I beseech thee, O god of fixed destiny remove our sin!",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destiny",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0006",
+    "canonical_statement": "The monarch serves as the earthly representative of the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 14,
+        "chapter": "THE OFFICIAL LIFE OF AN EGYPTIAN OFFICER, FROM THE TOMB OF AMEN-EM-HEB AT THEBES",
+        "surface_quote": "the monarch who represented the divinity",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "monarchy",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0007",
+    "canonical_statement": "The monarch functions as a divine conduit who bestows eternal life.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 16,
+        "chapter": "THE OFFICIAL LIFE OF AN EGYPTIAN OFFICER, FROM THE TOMB OF AMEN-EM-HEB AT THEBES",
+        "surface_quote": "Thothmes ... who gives life eternally.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "kingship",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0008",
+    "canonical_statement": "Human emotional states like joy and cheerfulness are experienced as physical manifestations within the body.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 16,
+        "chapter": "THE OFFICIAL LIFE OF AN EGYPTIAN OFFICER, FROM THE TOMB OF AMEN-EM-HEB AT THEBES",
+        "surface_quote": "joy to take possession of my heart and cheerfulness to alight upon my limbs.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "embodiment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0009",
+    "canonical_statement": "The king is defined as a truth-speaker, implying a moral or ontological status that persists through time.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 16,
+        "chapter": "THE OFFICIAL LIFE OF AN EGYPTIAN OFFICER, FROM THE TOMB OF AMEN-EM-HEB AT THEBES",
+        "surface_quote": "as a truth-speaker, from his happy first year until his 54th year.",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0010",
+    "canonical_statement": "The deceased soul achieves union with the divine solar essence upon ascending to the celestial realm.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 17,
+        "chapter": "THE OFFICIAL LIFE OF AN EGYPTIAN OFFICER, FROM THE TOMB OF AMEN-EM-HEB AT THEBES",
+        "surface_quote": "ascended to heaven, to unite himself with the solar disk",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0011",
+    "canonical_statement": "The sovereign acts as a terrestrial manifestation of divine power, possessing the authority to grant or withhold life.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 17,
+        "chapter": "THE OFFICIAL LIFE OF AN EGYPTIAN OFFICER, FROM THE TOMB OF AMEN-EM-HEB AT THEBES",
+        "surface_quote": "He granted unto them the breath of life.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0012",
+    "canonical_statement": "The deceased ruler or sovereign can attain a state of deification and remain an object of address after death.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 18,
+        "chapter": "THE OFFICIAL LIFE OF AN EGYPTIAN OFFICER, FROM THE TOMB OF AMEN-EM-HEB AT THEBES",
+        "surface_quote": "Amen-em-heb addresses his inscription to the deified Thothmes III.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "deification",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0013",
+    "canonical_statement": "The status of 'ma-kheru' represents the capacity to manifest or realize divine intent.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 20,
+        "chapter": "THE OFFICIAL LIFE OF AN EGYPTIAN OFFICER, FROM THE TOMB OF AMEN-EM-HEB AT THEBES",
+        "surface_quote": "Ma-kheru, whose voice makes true, or realises the privilege of the deity.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0014",
+    "canonical_statement": "The monarch functions as a terrestrial incarnation of the divine, executing the deity's designs.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 20,
+        "chapter": "THE OFFICIAL LIFE OF AN EGYPTIAN OFFICER, FROM THE TOMB OF AMEN-EM-HEB AT THEBES",
+        "surface_quote": "The king realises the designs of the deity whose incarnation he is.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "kingship",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0015",
+    "canonical_statement": "The transition of royal power is cosmologically analogous to the rising sun dispelling shadows.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 20,
+        "chapter": "THE OFFICIAL LIFE OF AN EGYPTIAN OFFICER, FROM THE TOMB OF AMEN-EM-HEB AT THEBES",
+        "surface_quote": "The new king is compared with the rising sun, which pierced the shadows.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "kingship",
+      "metaphor"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0016",
+    "canonical_statement": "Evil principles are ontologically associated with shadows and aridity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 20,
+        "chapter": "THE OFFICIAL LIFE OF AN EGYPTIAN OFFICER, FROM THE TOMB OF AMEN-EM-HEB AT THEBES",
+        "surface_quote": "Shadows where the evil principles hide themselves; Set, the god of aridity.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "evil",
+      "ontology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0017",
+    "canonical_statement": "The deceased maintain a continued existence and require sustenance through ritual offerings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 23,
+        "chapter": "HYMN TO OSIRIS ON THE STELE OF AMON-EM-HA",
+        "surface_quote": "presents the table of offerings... to his father and mother",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ritual",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0018",
+    "canonical_statement": "The living and the dead occupy a shared social and familial structure within the afterlife.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 23,
+        "chapter": "HYMN TO OSIRIS ON THE STELE OF AMON-EM-HA",
+        "surface_quote": "Amon-em-ha presents the table of offerings... to his father and mother",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity",
+      "kinship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0019",
+    "canonical_statement": "The deity Osiris functions as the foundational substrate of existence, manifesting through multiple divine identities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 24,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "king of the gods with the thousand names",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0020",
+    "canonical_statement": "The soul of Osiris is ontologically identical to the solar deity Ra.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 24,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "the soul whose body itself is RA",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0021",
+    "canonical_statement": "The divine essence sustains and nourishes the vital doubles (Ka) of all beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 24,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "TUM who nourishes the doubles",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "vitality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0022",
+    "canonical_statement": "The material universe, including the stars and elements, is subservient to and integrated with the divine presence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 24,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "The soil has produced for him provisions, the vault of heaven has brought unto him its stars",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0023",
+    "canonical_statement": "The immortal beings and the celestial bodies are structurally subordinate to the divine face of Osiris.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 24,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "The indestructible ones are under the place of his face",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "hierarchy",
+      "immortality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0024",
+    "canonical_statement": "The afterlife realm and its inhabitants are subject to the authority and presence of the divine sovereign.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 24,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "the august dead submit to him",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0025",
+    "canonical_statement": "The divine entity acts as the architect and creator of the physical world, including its biological and elemental components.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 25,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "He has fashioned this earth with his hand, its waters, its atmosphere, its vegetation.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0026",
+    "canonical_statement": "The divine presence functions as a source of illumination that dispels darkness and manifests order.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 25,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "Like RA he rises on the horizon, he creates light on the face of the darkness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "light",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0027",
+    "canonical_statement": "The efficacy of divine will is mediated through the power of spoken words and ritual incantations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 25,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "Uttering the word with the incantations of her mouth... her speech is effectual.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "language",
+      "magic",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0028",
+    "canonical_statement": "The memory of the divine is an eternal substrate existing across both celestial and terrestrial realms.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 25,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "The master whose memory is eternal in heaven as on the earth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "eternity",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0029",
+    "canonical_statement": "The divine essence is transmitted through lineage, maintaining continuity of identity across generations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 26,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "the son of ISIS, the flesh of OSIRIS",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0030",
+    "canonical_statement": "The sovereign ruler of the cosmos exercises absolute authority over both natural phenomena and biological life.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 26,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "The circle of the solar disk is under his orders, winds, river, inundation",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0031",
+    "canonical_statement": "The manifestation of divine order (Ma'at) results in the physical and spiritual flourishing of the world.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 26,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "the earth, fertilised by its lord, teems with produce. Established is the truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0032",
+    "canonical_statement": "The divine presence is omnipresent and sustains the life-force of all existing beings.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 26,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "he spreads himself through all lands. All that exists breathes",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0033",
+    "canonical_statement": "The Ka functions as a distinct, inherent double of an individual's identity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 27,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "The Ka is the double of the individual.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0034",
+    "canonical_statement": "Divine decrees manifest as physical reality upon being spoken.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 27,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "what thy father SEB has ordained for thee, that is executed when he has spoken.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0035",
+    "canonical_statement": "Post-mortem existence involves the soul's capacity to perceive the solar cycle and maintain physical-like functions.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 27,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "to appear in the form of a living soul, to see the solar disk.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0036",
+    "canonical_statement": "The state of being dead involves a transformation into a luminous, magical entity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 28,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "Khu, luminous, and hence a magic power, applied to the dead.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0037",
+    "canonical_statement": "The primordial abyss or water exists as a foundational substrate anterior to the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 28,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "The primordial water or abyss. The Nu is anterior to Osiris.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0038",
+    "canonical_statement": "The afterlife is a realm located beyond the physical boundaries of the earth rather than beneath it.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 28,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "The other world was not under the earth but beyond its limits.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0039",
+    "canonical_statement": "Celestial bodies function as physical manifestations or symbolic images of divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 29,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "stars being images or manifestations of each god",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0040",
+    "canonical_statement": "Magic charms serve as instrumental mechanisms for divine beings to achieve victory.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 29,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "magic charms which enable the gods... to triumph",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "magic",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0041",
+    "canonical_statement": "The state of being 'true of voice' refers to the moral integrity of speech in the afterlife.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 29,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "true of speech, truth speaking",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0042",
+    "canonical_statement": "The deceased possess a state of heightened intelligence or gnosis.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 30,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "Rekhi-u, the intelligent, those who know, frequently used of the dead.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0043",
+    "canonical_statement": "Existence is characterized by a continuous process of becoming.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 30,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "Khopiru, the becomings.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0044",
+    "canonical_statement": "There exist specific transitional pathways connecting the physical world to the afterlife.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 30,
+        "chapter": "HYMN TO OSIRIS",
+        "surface_quote": "Corridors which led from this world to the next.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0045",
+    "canonical_statement": "Death is an inevitable state that overcomes individuals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 36,
+        "chapter": "COLUMN III",
+        "surface_quote": "tsalmati was overcome by death.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "death",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0046",
+    "canonical_statement": "The universe is governed by a hierarchy of divine entities who determine the destinies of individuals and nations.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 41,
+        "chapter": "INSCRIPTION ON THE OBELISK OF SHALMANESER II",
+        "surface_quote": "the great gods who have determined my destinies",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "destiny",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0047",
+    "canonical_statement": "The monarch acts as a terrestrial intermediary between the divine realm and the human multitude.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 41,
+        "chapter": "INSCRIPTION ON THE OBELISK OF SHALMANESER II",
+        "surface_quote": "high-priest of ASSUR... the Sun-god of the multitude of mankind",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "theocracy",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0048",
+    "canonical_statement": "The structure of reality is defined by the active governance and legal ordering of the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 41,
+        "chapter": "INSCRIPTION ON THE OBELISK OF SHALMANESER II",
+        "surface_quote": "the master of the laws; the ordainer of all things",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "law",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0049",
+    "canonical_statement": "The sovereign ruler acts as a terrestrial manifestation of the divine, with their authority and military success derived from the power of the patron deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 48,
+        "chapter": "FACE C, BASE",
+        "surface_quote": "The terror of the glory of ASSUR my lord overwhelmed him",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "theology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0050",
+    "canonical_statement": "The sovereign ruler acts as a terrestrial manifestation of divine authority and glory.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 49,
+        "chapter": "FACE C, BASE",
+        "surface_quote": "the terror of the glory of ASSUR my lord overwhelmed him",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0051",
+    "canonical_statement": "Deities are identified with celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 53,
+        "chapter": "THE EPITAPHS OVER THE BAS-RELIEFS",
+        "surface_quote": "The moon is our god.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0052",
+    "canonical_statement": "The divine realm determines the destinies of all beings and establishes the fundamental laws of heaven and earth.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 57,
+        "chapter": "THE MONOLITH INSCRIPTION OF SHALMANESER II",
+        "surface_quote": "BEL the father of the gods, who determines destiny, who institutes the laws",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "destiny",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0053",
+    "canonical_statement": "Political authority and earthly sovereignty are granted and legitimized by divine selection.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 57,
+        "chapter": "THE MONOLITH INSCRIPTION OF SHALMANESER II",
+        "surface_quote": "ASSUR the great lord... had called me to the government of ASSYRIA",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0054",
+    "canonical_statement": "The monarch acts as a terrestrial representative or vicar of the divine power.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 57,
+        "chapter": "THE MONOLITH INSCRIPTION OF SHALMANESER II",
+        "surface_quote": "the appointed vicar of ASSUR, the august prince",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0055",
+    "canonical_statement": "The authority and military success of a monarch are derived from and subordinate to the divine power of a patron deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 58,
+        "chapter": "THE MONOLITH INSCRIPTION OF SHALMANESER II",
+        "surface_quote": "The terror of the glory of ASSUR my lord overwhelmed them.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0056",
+    "canonical_statement": "Ritual purification of instruments of violence is a necessary act of religious devotion.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 58,
+        "chapter": "THE MONOLITH INSCRIPTION OF SHALMANESER II",
+        "surface_quote": "I purified my weapons in the sea; I sacrificed victims to my gods.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "sacred",
+      "violence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0057",
+    "canonical_statement": "The success of military and political endeavors is contingent upon the favor and active protection of divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 59,
+        "chapter": "THE MONOLITH INSCRIPTION OF SHALMANESER II",
+        "surface_quote": "Under the protection of ASSUR and the great gods, my lords, I fought",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-intervention",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0058",
+    "canonical_statement": "Divine beings possess the capacity to manifest as a force that precedes and guides the actions of earthly leaders.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 59,
+        "chapter": "THE MONOLITH INSCRIPTION OF SHALMANESER II",
+        "surface_quote": "By the supreme power of NERGAL who marches before me",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0059",
+    "canonical_statement": "The monarch acts as an earthly manifestation or representative of the divine solar principle.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 67,
+        "chapter": "COLUMN II",
+        "surface_quote": "The identification of the king with the Sun-god is frequent.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0060",
+    "canonical_statement": "Military and political authority are granted and mediated by divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 67,
+        "chapter": "COLUMN II",
+        "surface_quote": "With the mighty forces which ASSUR the lord has given me.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0061",
+    "canonical_statement": "The monarch functions as a divinely appointed shepherd of the people.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 67,
+        "chapter": "COLUMN II",
+        "surface_quote": "Had called me as a prophet to the shepherding.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0062",
+    "canonical_statement": "Divinities may be associated with specific cognitive states such as dreaming.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 71,
+        "chapter": "THE INSCRIPTION OF SHALMANESER II ON THE GATES OF BALAWAT",
+        "surface_quote": "a chapel dedicated to Makhir, the god of dreams",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "consciousness",
+      "dreams"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0063",
+    "canonical_statement": "The monarch derives authority and power from a divine entity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 72,
+        "chapter": "THE INSCRIPTION OF SHALMANESER II ON THE GATES OF BALAWAT",
+        "surface_quote": "In those days, through the great lord, MERODACH",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0064",
+    "canonical_statement": "The city of Babylon serves as the metaphysical nexus connecting the celestial and terrestrial realms.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 76,
+        "chapter": "COLUMN V",
+        "surface_quote": "BABYLON, the bond of heaven to earth",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "sacred-geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0065",
+    "canonical_statement": "Divine favor and the granting of human desires are contingent upon the performance of ritual sacrifice and religious observance.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 77,
+        "chapter": "COLUMN VI",
+        "surface_quote": "After the great gods had favourably regarded Shalmaneser... had granted the desire of his heart.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "ritual",
+      "divine-intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0066",
+    "canonical_statement": "The power of a deity can manifest as a psychological state of terror or overwhelming influence upon individuals.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 77,
+        "chapter": "COLUMN VI",
+        "surface_quote": "The terror of the glory of Merodach the great lord overwhelmed him.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "consciousness",
+      "divine-power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0067",
+    "canonical_statement": "Divine attributes and laws can be transferred from the divine realm to the human sphere.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 78,
+        "chapter": "COLUMN VI",
+        "surface_quote": "the god of the storm-cloud who was believed to have stolen the laws",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "law",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0068",
+    "canonical_statement": "The physical structure of a sanctuary serves as a symbolic representation of immutable divine presence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 78,
+        "chapter": "COLUMN VI",
+        "surface_quote": "E-Zida, the immutable house, was the name of the sanctuary",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sanctuary",
+      "divinity",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0069",
+    "canonical_statement": "The deity Makhir functions as the overseer or governor of the dream state.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 79,
+        "chapter": "A VOTIVE INSCRIPTION OF ASSUR-NATSIR-PAL",
+        "surface_quote": "Makhir, whom we know only as the god of dreams",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "dreams",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0070",
+    "canonical_statement": "Divine blessings and curses are contingent upon the moral actions of human rulers regarding sacred monuments.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 79,
+        "chapter": "A VOTIVE INSCRIPTION OF ASSUR-NATSIR-PAL",
+        "surface_quote": "The blessing of Assur is promised; while... the curse of Ishtar is invoked",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divine-justice",
+      "morality",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0071",
+    "canonical_statement": "Divine favor and the support of deities are the primary causal agents for human political and military success.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 81,
+        "chapter": "A VOTIVE INSCRIPTION OF ASSUR-NATSIR-PAL",
+        "surface_quote": "with the help of ASSUR his lord has marched",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0072",
+    "canonical_statement": "The physical presence of a deity is anchored to a specific location through the construction of a temple and the installation of an image.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 81,
+        "chapter": "A VOTIVE INSCRIPTION OF ASSUR-NATSIR-PAL",
+        "surface_quote": "MAKHIR the great lord in the midst I seated",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sacred_space",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0073",
+    "canonical_statement": "Ritual actions performed by humans, such as maintenance of sacred objects, directly influence divine favor and personal destiny.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 81,
+        "chapter": "A VOTIVE INSCRIPTION OF ASSUR-NATSIR-PAL",
+        "surface_quote": "to its place shall restore (it), ASSUR the great lord his prayers shall hear",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0074",
+    "canonical_statement": "The efficacy of divine worship is contingent upon the exclusive devotion to a single deity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 83,
+        "chapter": "INSCRIPTION OF RIMMON-NIRARI III",
+        "surface_quote": "Put thy trust in Nebo; trust in no other god!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "devotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0075",
+    "canonical_statement": "The world is structured as a cosmic mountain that serves as the dwelling place of the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 85,
+        "chapter": "GENEALOGY OF RIMMON-NIRARI III",
+        "surface_quote": "E-kharsak-Kurkurra... had a cosmical meaning as applied to the world-mountain.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0076",
+    "canonical_statement": "Political authority and earthly kingship are divinely ordained and sanctioned by the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 85,
+        "chapter": "GENEALOGY OF RIMMON-NIRARI III",
+        "surface_quote": "the king whom... ASSUR... appointed",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0077",
+    "canonical_statement": "The divine entity functions as the primary source of illumination for the entirety of the cosmic structure.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 87,
+        "chapter": "INVOCATION TO THE GODDESS BELTIS",
+        "surface_quote": "who, like the sun her brother, the ends of heaven and earth together enlightens",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0078",
+    "canonical_statement": "The divine entity possesses the authority to grant or withhold the vital force of life.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 87,
+        "chapter": "INVOCATION TO THE GODDESS BELTIS",
+        "surface_quote": "who bestows life",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "life",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0079",
+    "canonical_statement": "The divine entity acts as an intermediary that facilitates the reception of human prayers and supplications.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 87,
+        "chapter": "INVOCATION TO THE GODDESS BELTIS",
+        "surface_quote": "hearer of prayers, receiver of supplication, who accepts entreaty",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0080",
+    "canonical_statement": "Human military and political success is directly attributed to the inspiration and agency of the divine.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 87,
+        "chapter": "INVOCATION TO THE GODDESS BELTIS",
+        "surface_quote": "to whom are gratefully ascribed both the inspiration and the merit of his victorious campaigns",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0081",
+    "canonical_statement": "Human rulers are the direct creation and physical manifestation of divine agency.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 88,
+        "chapter": "INVOCATION TO THE GODDESS BELTIS",
+        "surface_quote": "the governor, the work of her hands",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0082",
+    "canonical_statement": "Divine favor is the causal mechanism behind military victory and political dominance.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 88,
+        "chapter": "INVOCATION TO THE GODDESS BELTIS",
+        "surface_quote": "by her great command in the onset of battle",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0083",
+    "canonical_statement": "The physical maintenance of sacred spaces is a prerequisite for divine favor and longevity.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 88,
+        "chapter": "INVOCATION TO THE GODDESS BELTIS",
+        "surface_quote": "I made great for ever... a life of long days... bestow",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0084",
+    "canonical_statement": "The universe is divided into distinct realms of upper air spirits and underworld spirits.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 89,
+        "chapter": "INVOCATION TO THE GODDESS BELTIS",
+        "surface_quote": "The spirits of the under world opposed to Igigi, the spirits of the upper air.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0085",
+    "canonical_statement": "The temple of heaven (E-sarra) and the temple of the earth (E-kur) represent a fundamental structural duality of existence.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 89,
+        "chapter": "INVOCATION TO THE GODDESS BELTIS",
+        "surface_quote": "E-sarra is the temple of heaven, opposed to E-kur, the temple of the earth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0086",
+    "canonical_statement": "Multiple distinct deities can be understood as functional manifestations or aspects of a single underlying divine principle.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 98,
+        "chapter": "IV.--THE MEDES AND PERSIANS IN BACTRIA.",
+        "surface_quote": "explains them all as Marduk or Merodach",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "monism",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0087",
+    "canonical_statement": "The success of human military and political conquest is contingent upon the mandate and agency of divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 107,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "By the command of KHALDIS, the lord... I collected my chariots and troops.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty",
+      "divine-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0088",
+    "canonical_statement": "Material spoils and territorial acquisitions are gifts bestowed by divine powers upon the ruler.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 107,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "To the KHALDISES I prayed, to the supreme powers who have given the country... as a present.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0089",
+    "canonical_statement": "Political and military success is granted by divine agency.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 108,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "To the KHALDISES... who have given the land of the HITTITES.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0090",
+    "canonical_statement": "The ruler acts as an instrument of divine will, and conquests are offerings to the gods.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 108,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "This is the spoil of the cities which I obtained for the people of KHALDIS.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0091",
+    "canonical_statement": "Divine entities possess the authority to grant territorial sovereignty and military success to human rulers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 109,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "By the command of KHALDIS... the gods have prospered me.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0092",
+    "canonical_statement": "Human military and political achievements are contingent upon the favor and agency of supreme divine powers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 109,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "To the KHALDISES I prayed, to the powers supreme, who have given the lands.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0093",
+    "canonical_statement": "Divine entities act as the ultimate dispensers of territorial sovereignty and political success.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 110,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "To the KHALDISES... who have given the country of ASSYRIA... as a present.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0094",
+    "canonical_statement": "Human rulers operate as agents executing the commands of divine powers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 110,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "By the command of KHALDIS, the lord... the gods have prospered me.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "agency",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0095",
+    "canonical_statement": "Divine entities act as the ultimate source of territorial sovereignty and political success.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 111,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "the gods... have prospered me",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0096",
+    "canonical_statement": "Human rulers function as agents executing the will and commands of supreme divine powers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 111,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "By the command of KHALDIS the lord",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0097",
+    "canonical_statement": "Human political and military success is contingent upon the direct authorization and favor of divine entities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 112,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "By the command of KHALDIS, the lord... the gods have prospered me.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0098",
+    "canonical_statement": "Divine entities act as the ultimate granters of territorial and political dominion to specific human lineages.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 112,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "the gods... have given the countries... to the family of Argistis.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0099",
+    "canonical_statement": "Divine entities actively intervene in human affairs to grant territorial and material prosperity to their chosen representatives.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 113,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "The gods have prospered me.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-intervention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0100",
+    "canonical_statement": "Human political and military success is contingent upon the command and favor of supreme deities.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 113,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "By the command of KHALDIS, the lord... the gods have prospered me.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0101",
+    "canonical_statement": "Divine entities possess the authority to grant territorial sovereignty to specific human lineages.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 114,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "To the KHALDISES I prayed... who have given the land... to the race of Argistis.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0102",
+    "canonical_statement": "Military success and the acquisition of spoils are outcomes directly mediated by divine favor.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 114,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "By the command of KHALDIS... the gods have prospered me.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "providence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0103",
+    "canonical_statement": "A portion of material wealth acquired through conquest is owed to the divine as a ritual obligation.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 114,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "For KHALDIS a sixtieth of the plunder... I selected.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ritual",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0104",
+    "canonical_statement": "Divine entities possess the authority to impose metaphysical consequences upon individuals who violate sacred or historical mandates.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 115,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "may KHALDIS, TEISBAS (and) ARDINIS, the gods, him with curses... consign",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "justice",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0105",
+    "canonical_statement": "The identity and legacy of an individual are subject to total erasure or destruction by divine intervention.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 115,
+        "chapter": "THE GREAT HISTORICAL INSCRIPTION OF ARGISTIS",
+        "surface_quote": "publicly the name of him, the family of him, (and) the city of him, to fire (and) water consign",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence",
+      "legacy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0106",
+    "canonical_statement": "Divine entities possess the authority to grant territorial sovereignty to human rulers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 119,
+        "chapter": "MONOLITH INSCRIPTION OF ARGISTIS, KING OF VAN",
+        "surface_quote": "To the KHALDISES I prayed, who have given the land... to the family of Argistis.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_records_of_the_past_vol4_0107",
+    "canonical_statement": "Human political and military success is contingent upon the favor and propitiation of supreme divine powers.",
+    "attributions": [
+      {
+        "source_id": "records_of_the_past_vol4",
+        "chunk_index": 119,
+        "chapter": "MONOLITH INSCRIPTION OF ARGISTIS, KING OF VAN",
+        "surface_quote": "To the KHALDISES I prayed... I brought offerings to the KHALDISES.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  }
+]

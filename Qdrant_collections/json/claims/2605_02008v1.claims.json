@@ -1,0 +1,213 @@
+[
+  {
+    "id": "cl_2605_02008v1_0001",
+    "canonical_statement": "The baryon asymmetry of the universe can be explained by scalar-nonmetricity gravity.",
+    "attributions": [
+      {
+        "source_id": "2605_02008v1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "scalar–nonmetricity gravity provides a viable and robust framework for explaining the origin of the baryon asymmetry of the Universe.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02008v1_0002",
+    "canonical_statement": "Nonlinear geometric terms and scalar field couplings are crucial for the baryogenesis mechanism.",
+    "attributions": [
+      {
+        "source_id": "2605_02008v1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "The interplay between nonlinear geometric terms and scalar field couplings plays a crucial role in controlling the baryogenesis mechanism",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "mechanism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02008v1_0003",
+    "canonical_statement": "The observable universe is predominantly composed of matter, with a negligible amount of primordial antimatter.",
+    "attributions": [
+      {
+        "source_id": "2605_02008v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "observable Universe is overwhelmingly dominated by matter, with a negligible amount of primordial antimatter.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "matter",
+      "antimatter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02008v1_0004",
+    "canonical_statement": "The origin of the universe's baryon asymmetry, the excess of matter over antimatter, is an unsolved problem in modern cosmology and particle physics.",
+    "attributions": [
+      {
+        "source_id": "2605_02008v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "the origin of the baryon asymmetry of the Universe remains one of the fundamental open problems",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "matter",
+      "antimatter",
+      "unsolved problem"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02008v1_0005",
+    "canonical_statement": "Mechanisms proposed to explain the matter-antimatter imbalance may have operated during either the radiation-dominated or matter-dominated eras of the universe.",
+    "attributions": [
+      {
+        "source_id": "2605_02008v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "These mechanisms may operate during either the radiation-dominated or matter-dominated eras.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "matter",
+      "antimatter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02008v1_0006",
+    "canonical_statement": "Processes that violate charge conjugation (C) and charge-parity (CP) symmetries indicate a fundamental distinction between matter and antimatter.",
+    "attributions": [
+      {
+        "source_id": "2605_02008v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "processes violating charge conjugation (C) and charge-parity (CP) symmetries implies a fundamental distinction between matter and antimatter.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "physics",
+      "matter",
+      "antimatter",
+      "symmetry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02008v1_0007",
+    "canonical_statement": "Dynamical processes can preferentially generate matter, potentially explaining the observed asymmetry, though a quantitative explanation based solely on observed CP violation is lacking.",
+    "attributions": [
+      {
+        "source_id": "2605_02008v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "This opens the possibility for dynamical processes that preferentially generate matter, although a direct quantitative explanation...is still lacking.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "matter",
+      "antimatter",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02008v1_0008",
+    "canonical_statement": "In thermal equilibrium, such as in the early hot universe, the number densities of particles and antiparticles are nearly identical.",
+    "attributions": [
+      {
+        "source_id": "2605_02008v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "In thermal equilibrium, such as in the early hot Universe, the number densities of particles and antiparticles remain nearly identical.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "physics",
+      "matter",
+      "antimatter",
+      "equilibrium"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02008v1_0009",
+    "canonical_statement": "Macroscopic baryon asymmetry can only be amplified from small microscopic asymmetries when the universe expands and cools, leading to a departure from thermal equilibrium.",
+    "attributions": [
+      {
+        "source_id": "2605_02008v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Only when the Universe expands and cools, leading to a departure from equilibrium, can small microscopic asymmetries be amplified into a macroscopic baryon asymmetry.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "physics",
+      "matter",
+      "antimatter",
+      "equilibrium",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_02008v1_0010",
+    "canonical_statement": "The conditions necessary for generating baryon asymmetry are baryon number violation, CP violation, and a departure from thermal equilibrium.",
+    "attributions": [
+      {
+        "source_id": "2605_02008v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "The necessary conditions for generating such an asymmetry—namely baryon number violation, CP violation, and departure from thermal equilibrium—were first formulated by Sakharov",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "physics",
+      "cosmology",
+      "matter",
+      "antimatter",
+      "conditions"
+    ],
+    "editorial_status": "auto"
+  }
+]

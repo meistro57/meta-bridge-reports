@@ -1,0 +1,214 @@
+[
+  {
+    "id": "cl_2605_01619v1_0001",
+    "canonical_statement": "The early universe underwent a period of accelerated expansion known as cosmic inflation.",
+    "attributions": [
+      {
+        "source_id": "2605_01619v1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "cosmic inflation, characterized by a remarkably accelerated expansion, was proposed as an early epoch in the Universe.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "universe",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_01619v1_0002",
+    "canonical_statement": "Cosmic inflation is driven by a nearly constant energy density.",
+    "attributions": [
+      {
+        "source_id": "2605_01619v1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "driven by a nearly constant energy density, cosmic inflation",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_01619v1_0003",
+    "canonical_statement": "The energy density during inflation is modeled by a scalar field whose potential energy dominates dynamics.",
+    "attributions": [
+      {
+        "source_id": "2605_01619v1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "The energy density is typically modeled through a slow-rolling scalar field, whose potential energy dominates the dynamics.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "energy",
+      "field"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_01619v1_0004",
+    "canonical_statement": "Cosmic inflation generates quantum fluctuations that are stretched to cosmological scales.",
+    "attributions": [
+      {
+        "source_id": "2605_01619v1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "generating quantum fluctuations that are stretched to cosmological scales",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "quantum",
+      "fluctuations"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_01619v1_0005",
+    "canonical_statement": "Quantum fluctuations lead to the emergence of primordial curvatures and tensor perturbations.",
+    "attributions": [
+      {
+        "source_id": "2605_01619v1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "leading to emergence of primordial curvatures and tensor perturbations.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "quantum",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_01619v1_0006",
+    "canonical_statement": "Quantum corrections provide a phenomenological perspective on quantum-gravitational structures in the early Universe.",
+    "attributions": [
+      {
+        "source_id": "2605_01619v1",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "these corrections provide a well-defined phenomenological perspective on potential quantum-gravitational structures in the early Universe.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "quantum gravity",
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_01619v1_0007",
+    "canonical_statement": "The",
+    "attributions": [
+      {
+        "source_id": "2605_01619v1",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_01619v1_0008",
+    "canonical_statement": "Quantum gravity is an essential field of physics aiming to merge General Relativity with Quantum Mechanics.",
+    "attributions": [
+      {
+        "source_id": "2605_01619v1",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "quantum gravity - an essential field of physics aiming to merge GR with QM",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "unification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_01619v1_0009",
+    "canonical_statement": "Quantum geometric revisions are significant in cosmology.",
+    "attributions": [
+      {
+        "source_id": "2605_01619v1",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "highlighting the significance of quantum geometric revisions in cosmology",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "quantum"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_01619v1_0010",
+    "canonical_statement": "There is an ongoing quest to unify the fundamental forces of nature through a quantum theory of gravity.",
+    "attributions": [
+      {
+        "source_id": "2605_01619v1",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "ongoing quest to unify the fundamental forces of nature through a quantum theory of gravity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "unification",
+      "forces",
+      "gravity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_01619v1_0011",
+    "canonical_statement": "The geometric quantization ansatz for General Relativity is inspired by the Relativistic Generalized Uncertainty Principle (RGUP).",
+    "attributions": [
+      {
+        "source_id": "2605_01619v1",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "The geometric quantization ansatz for GR, inspired by the Relativistic Generalized Uncertainty Principle",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "quantum",
+      "relativity",
+      "principle"
+    ],
+    "editorial_status": "auto"
+  }
+]

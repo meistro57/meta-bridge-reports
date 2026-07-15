@@ -1,0 +1,3687 @@
+[
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0001",
+    "canonical_statement": "The emergence of divine order can disturb primordial chaotic entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "Apsu's enmity was aroused by the disturbance of his rest in consequence of the new 'way' of the gods, which tended to produce order in place of chaos.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0002",
+    "canonical_statement": "Primordial entities can plot against established divine orders.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "Apsu and Mummu had repaired to Tiamat and had hatched with her their plot against the gods.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0003",
+    "canonical_statement": "Divine wisdom can detect and frustrate threats from primordial entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "it was the god Ea, who, abounding in all wisdom, detected their plan and frustrated it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "wisdom",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0004",
+    "canonical_statement": "The downfall of primordial entities can incite further conflict from other primordial forces.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "it was only after their downfall, and in order to avenge them, that Tiamat began her preparations for battle.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "conflict",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0005",
+    "canonical_statement": "The creation of humanity involved a divine being's self-sacrifice, specifically the use of their own blood.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Marduk declares that he will use his own blood in creating mankind",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "sacrifice"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0006",
+    "canonical_statement": "Humanity's physical form is derived from divine essence, specifically the blood and bone of a deity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "create man from his own blood, and from bone which he will form",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity",
+      "divinity",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0007",
+    "canonical_statement": "The creation of humanity is a culminating act within the cosmic creation process.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "the culminating act of Creation was the making of man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0008",
+    "canonical_statement": "The universe and humanity originated from a process involving the emergence of deities from a chaotic state.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 45,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "poem embodies the beliefs... concerning the origin of the universe; it describes the coming forth of the gods from chaos, and tells the story of how the forces of disorder... were overthrown by Ea and Marduk respectively, and how Marduk... proceeded to create the world and man.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "origin",
+      "deity",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0009",
+    "canonical_statement": "Disorderly forces, personified as primeval water-gods, preceded the structured creation of the world.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 45,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "forces of disorder, represented by the primeval water-gods Apsu and Tiamat, were overthrown by Ea and Marduk",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "chaos",
+      "deity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0010",
+    "canonical_statement": "The primordial state of existence was characterized by the mingling of primeval water-gods, personifying chaos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 48,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "condition of things before Creation when the primeval water-gods, Apsu and Tiamat, personifying chaos, mingled their waters in confusion.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "chaos",
+      "primordial state"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0011",
+    "canonical_statement": "Deities emerged from the primordial water-gods in a sequential order over extended intervals.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 48,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "to Apsu and Tiamat were born the oldest of the gods, the first pair, Lahmu and Lahamu, being followed after a long interval by Anshar and Kishar, and after a second interval by other deities",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "theogony",
+      "creation",
+      "divine origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0012",
+    "canonical_statement": "The existence of certain deities can be tacitly assumed within a cosmological narrative without explicit mention of their birth or parentage.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 49,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "his existence, like that of Mummu and of Gaga, appears to be tacitly assumed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "existence",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0013",
+    "canonical_statement": "The characteristics and birth of a specific deity can be emphasized as a narrative climax within a creation story.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 49,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "his birth, moreover, forms the climax to which the previous lines lead up",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "deity",
+      "creation",
+      "narrative"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0014",
+    "canonical_statement": "The emergence of order and system in the universe can provoke resistance from primordial chaotic entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 50,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "The newly created gods represented the birth of order... Apsu and Tiamat still remained in confusion...",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0015",
+    "canonical_statement": "The establishment of a new cosmic order can disrupt the prior state of existence for primordial beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 50,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "his slothful rest was disturbed by the new order of beings whom he had begotten",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "existence",
+      "change"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0016",
+    "canonical_statement": "The concepts of 'day' and 'night' can exist prior to or independently of the explicit creation of light.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 50,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "from the fact that he makes use of the expressions 'by day' and 'by night,' it may be inferred that day and night were vaguely conceived as already in existence.",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology",
+      "light"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0017",
+    "canonical_statement": "The transition from chaos to order is a fundamental cosmic event that can incite conflict among divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 50,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "It was therefore the substitution of order in place of chaos which... roused Apsu's resentment and led to his rebellion",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "chaos",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0018",
+    "canonical_statement": "The universe originated from a state of darkness and water, predating the existence of the world.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 52,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "darkness and water alone existed...when the world had not come into being",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "origin",
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0019",
+    "canonical_statement": "Mythical monsters existed in the primordial deep before the world's creation.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 52,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "mythical monsters which dwelt in the deep at a time when the world had not come into being",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "primordial",
+      "creatures"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0020",
+    "canonical_statement": "A female entity, Omorka (Tiamat), reigned over the primordial monsters.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 52,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "Over these monsters, according to Berossus, reigned a woman named Omorka, who is to be identified with Tiamat",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "cosmology",
+      "primordial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0021",
+    "canonical_statement": "Tiamat created a brood of monsters to assist her in conflict against other deities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 52,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "the monster-brood which Tiamat formed to aid her in her fight against the gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "conflict",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0022",
+    "canonical_statement": "A deity named Beilos (Bel) slew the primordial entity Omorka (Tiamat).",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 52,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "Beilos (i.e. Bel) slew Omorka",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "conflict",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0023",
+    "canonical_statement": "The physical universe, specifically the heavens and the earth, was formed from the division of a primordial entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 53,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "from one half of her he made the earth, and from the other the heavens",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "universe"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0024",
+    "canonical_statement": "The celestial bodies, including constellations, the moon, and the sun, were established and ordered by a divine entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 53,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "records the fixing of the constellations of the Zodiac, the founding of the year, and Marduk's charge to the Moon-god and the Sun-god",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation",
+      "celestial mechanics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0025",
+    "canonical_statement": "The creation of vegetation, including grain and plants, was an act performed by a divine entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 53,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "Marduk is hailed as 'Asari, 'Bestower of planting,' '[Founder of sowing],' 'Creator of grain and plants,' 'who caused [the green herb to spring up]!'",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0026",
+    "canonical_statement": "Humanity was created by a divine entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 53,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "this portion of the poem related the story of the creation of man.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0027",
+    "canonical_statement": "The creation of humanity serves a specific purpose within the divine order.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 54,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "the creation of man was regarded as the culmination of Marduk's creative work.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "purpose",
+      "creation",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0028",
+    "canonical_statement": "Humanity's existence is a solution to a problem encountered by the Creator.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 54,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "creation of man...forms the solution of a difficulty with which Marduk has been met.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "purpose",
+      "creation",
+      "divine will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0029",
+    "canonical_statement": "The primary function of humanity is to provide service and worship to the gods.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 54,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "Marduk states that he will create man 'that the service of the gods may be established'.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "purpose",
+      "humanity",
+      "divine interaction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0030",
+    "canonical_statement": "Human",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 55,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0031",
+    "canonical_statement": "The creation of humanity was intended to provide worshipers for the deities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 56,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "The 'cunning plan,' which Marduk devised in order to furnish worshippers for the gods, concerned the creation of man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "purpose",
+      "humanity",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0032",
+    "canonical_statement": "Humanity's creation is considered the pinnacle of the creator's work.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 56,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "man's creation was regarded as the culmination of Marduk's creative work.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0033",
+    "canonical_statement": "The creator deity's own blood is a constituent element in the formation of humanity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 56,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "formed mankind from his blood... using his own blood, he will create bone for forming man.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity",
+      "substance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0034",
+    "canonical_statement": "A specific deity is identified as the primary creator of humanity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 56,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "Marduk, and not Ea, was regarded as man's Creator.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creator",
+      "deity",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0035",
+    "canonical_statement": "The creation of humanity involved divine instruction regarding worship and the construction of sacred structures.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 57,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "Marduk, after creating man, gave him some instructions with regard to the worship of the gods and the building of shrines.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divine law",
+      "worship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0036",
+    "canonical_statement": "Divine beings convene in a council chamber to confer power and honor upon a creator deity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 57,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "gods gathered together in Upshukki-naku, their council-chamber, and proceeded to magnify him by every title of honour.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0037",
+    "canonical_statement": "A creator deity is honored with numerous titles by other divine beings after completing the act of creation.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 57,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "hymn of praise addressed by the gods to Marduk as the conqueror of Tiamat and the Creator of the world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "honor"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0038",
+    "canonical_statement": "The creation of the world can be a direct consequence of a deity's conquest over a primordial chaotic entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 60,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "the death of Tiamat is made a necessary preliminary to the creation of the world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "chaos",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0039",
+    "canonical_statement": "The creation of the world can arise from a movement within pre-existing primordial waters.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 60,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "cities and temples are described as coming into existence in consequence of a movement in the waters which alone existed before the creation of the world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "primordial waters",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0040",
+    "canonical_statement": "A state of watery chaos precedes the creation of the structured universe.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 67,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "the existence of a watery chaos preceded the creation of the universe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "chaos",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0041",
+    "canonical_statement": "The primordial chaotic state is personified as a monstrous entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 67,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "Tiamat, the monster of the deep personifying chaos and confusion",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "chaos",
+      "personification",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0042",
+    "canonical_statement": "The creation of order from chaos is a fundamental act of divine will.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 67,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "produced order in place of chaos",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "creation",
+      "order",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0043",
+    "canonical_statement": "Light can exist prior to the creation of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 67,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "belief in the existence of light before the creation of the heavenly bodies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "light",
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0044",
+    "canonical_statement": "The firmament divides primordial waters into upper and lower regions.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 67,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "firmament which divided the waters that were under the firmament from the waters that were above",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "firmament",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0045",
+    "canonical_statement": "A primordial entity's body can be divided to form parts of the cosmos, such as the firmament.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 67,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "the body of Tiamat is divided by Marduk, and from one-half of her he formed a covering or dome for heaven",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0046",
+    "canonical_statement": "The celestial bodies were created to delineate temporal divisions and cycles.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 69,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "lights were created... to divide the day from the night, and to be for signs, and for seasons, and for days, and years.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "creation",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0047",
+    "canonical_statement": "The celestial bodies regulate the passage of time.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 69,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "the stars were created and the year was ordained at the same time; the twelve months were to be regulated by the stars.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmos",
+      "regulation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0048",
+    "canonical_statement": "Divine entities are responsible for the governance of celestial bodies and the establishment of cosmic order.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 69,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "the Moon-god was appointed 'to determine the days.'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "cosmos",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0049",
+    "canonical_statement": "Specific celestial bodies are assigned roles in governing different periods of time.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 69,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "the greater light to rule the day and the lesser to rule the night.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmos",
+      "time",
+      "governance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0050",
+    "canonical_statement": "A supreme deity established the heavens and the paths of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 69,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "Marduk is stated 'to have established for the gods the bright heavens,'... 'For the stars of heaven he upheld the paths.'",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "deity",
+      "creation",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0051",
+    "canonical_statement": "The creation of man involved the use of the creator's own essence, such as blood.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 70,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "Marduk, the Creator, of his own blood in the creation of man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0052",
+    "canonical_statement": "The creation of man is a distinct and final act in the sequence of creation.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 70,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "the creation of man, which is recorded as the eighth and last act of creation",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "time",
+      "sequence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0053",
+    "canonical_statement": "The creation of man can involve multiple divine entities collaborating.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 70,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "Marduk imparted his purpose of forming man to his father Ea",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "collaboration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0054",
+    "canonical_statement": "The act of creation can be achieved through the power of spoken word.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 72,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "the word of Marduk had magical power and could destroy and create alike",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "power",
+      "word"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0055",
+    "canonical_statement": "The creation of humanity is the ultimate or culminating act within a creation sequence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 72,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "the culminating act of creation being that of man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0056",
+    "canonical_statement": "Humanity's physical form is derived from earthly materials.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 74,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "man was formed from the dust of the ground",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity",
+      "physicality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0057",
+    "canonical_statement": "Divine essence, such as breath or blood, is essential for animating physical forms into life.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 74,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "use of the Creator's blood in the one account being paralleled by the employment of His breath in the other for the purpose of giving life to the dust or earth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "life",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0058",
+    "canonical_statement": "The creation of all things can be attributed to a primordial river or water source.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 74,
+        "chapter": "VI. THE SEVENTH TABLET OF THE CREATION SERIES",
+        "surface_quote": "This short composition is addressed to a River to whom the creation of all things is ascribed",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "primordial",
+      "water"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0059",
+    "canonical_statement": "A single term can possess dual metaphysical interpretations, representing both order and chaos, or form and formlessness.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 99,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "the title Mummu was capable of two separate interpretations... 'form' or 'idea' of order... 'idea' of chaos",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "duality",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0060",
+    "canonical_statement": "Divine entities can embody abstract concepts such as order or chaos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 99,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Marduk... 'form' or 'idea' of order... Tiamat and her son... 'idea' of chaos",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "archetypes",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0061",
+    "canonical_statement": "The cosmos can originate from a primordial entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 99,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "from her body heaven and earth were created",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "primordial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0062",
+    "canonical_statement": "A 'noetos kosmos' (intelligible cosmos) can be a conceptual offspring of primordial entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 99,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Mummu, the son of Apsu and Tiamat, as noetos kosmos",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "intelligible realm",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0063",
+    "canonical_statement": "The conflict between deities can symbolize natural phenomena, such as the triumph of light over darkness.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 100,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "fight between Marduk and Tiamat as based upon a nature-myth, representing the disappearance of mist and darkness before the rays of the sun.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mythology",
+      "nature",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0064",
+    "canonical_statement": "Mythological narratives can describe a state of primordial chaos or monstrous existence preceding the creation of the world.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 100,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "mythical monsters which existed before the creation of the world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "primordial",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0065",
+    "canonical_statement": "The cosmos, including the earth, heavens, and living beings, was created by a divine entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 102,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "records the creation by Bel of the earth, and the heavens, and mankind, and animals",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0066",
+    "canonical_statement": "A divine being, Mama, is capable of creating multiple entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 107,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Mama bore the title Belit-ili; description of her offspring in col. i, ll. 8 ff.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0067",
+    "canonical_statement": "A divine being, Mami, is capable of creating multiple entities, specifically humans.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 107,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Mami's creation of seven men and seven women in the legend of Atar-hasis.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0068",
+    "canonical_statement": "The",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 109,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0069",
+    "canonical_statement": "A river deity can be considered the creator of all things due to its essential role in sustaining life.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 111,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "the god of the Nile...was declared to be the Creator of all things. Considering the importance of the Nile for Egypt, it is easy to understand how he came to attain this position.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0070",
+    "canonical_statement": "A river can be identified with a primordial cosmic entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 111,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "A connection between Tiamat and the river Hubur has been suggested",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "deity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0071",
+    "canonical_statement": "Prior to the existence of heaven and earth, a state of unformed chaos existed.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 114,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "When in the height heaven was not named, And the earth beneath did not yet bear a name",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "pre-existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0072",
+    "canonical_statement": "The primeval entities Apsu and Tiamat are the progenitors of subsequent existence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 114,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "And the primeval Apsu, who begat them, And chaos, Tiamat, the mother of them both",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0073",
+    "canonical_statement": "In the primordial state, the waters of the primeval entities were intermingled.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 114,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Their waters were mingled together",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "elements"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0074",
+    "canonical_statement": "Before the formation of heaven and earth, no distinct geographical features existed.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 114,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "And no field was formed, no marsh was to be seen",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0075",
+    "canonical_statement": "The initial state of existence predated the manifestation and naming of any gods.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 114,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "When of the gods none had been called into being, And none bore a name",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0076",
+    "canonical_statement": "In the primordial era, the concept of destiny or preordained fate was not yet established.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 114,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "and no destinies [were ordained]",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "destiny",
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0077",
+    "canonical_statement": "Divine beings can be created or called into existence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 115,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Then were created the gods... Lahmu and Lahamu were called into being.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0078",
+    "canonical_statement": "The universe contains a hierarchy of divine beings, with some preceding others.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 115,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Then Anshar and Kishar were created, and over them... Anu, their son.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0079",
+    "canonical_statement": "Divine beings can possess attributes such as wisdom and strength.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 115,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Nudimmud... Abounding in all wisdom... He was exceeding strong.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "attributes"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0080",
+    "canonical_statement": "Primordial entities can exist in a state of confusion or disorder prior to the establishment of other divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 115,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Tiamat and Apsu were (still) in confusion... In disorder.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "primordial",
+      "chaos",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0081",
+    "canonical_statement": "Divine beings can beget other divine beings, establishing familial relationships.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 115,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Apsu, the begetter of the great gods... the gods their sons.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "procreation",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0082",
+    "canonical_statement": "Divine beings can experience distress and seek to eliminate sources of disturbance.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 115,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "By day I cannot rest... I will destroy their way.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "emotion",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0083",
+    "canonical_statement": "Divine beings can possess knowledge of all things.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 115,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Ea, who knoweth all that is, went up and he beheld their muttering.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "omniscience",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0084",
+    "canonical_statement": "A primordial entity possesses the ability to create and form all things.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 116,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Ummu-Hubur, who formed all things",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "primordial",
+      "entity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0085",
+    "canonical_statement": "A primordial entity can create living beings and imbue them with specific attributes and powers, including terror and invincibility.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 116,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Made in addition weapons invincible, she spawned monster-serpents... Fierce monster-vipers she clothed with terror",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "power",
+      "entity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0086",
+    "canonical_statement": "The commands of a powerful entity are irresistible.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 116,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Her commands were mighty, none could resist them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "power",
+      "entity",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0087",
+    "canonical_statement": "Divine authority can be transferred through ritualistic pronouncements and the bestowal of sacred artifacts.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 117,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "I have uttered thy spell, in the assembly of the gods I have raised thee to power. The dominion over all the gods have I entrusted unto him. She gave him the Tablets of Destiny, on his breast she laid them, saying: Thy command shall not be without avail, and the word of thy mouth shall be established.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0088",
+    "canonical_statement": "The Tablets of Destiny are objects that confer ultimate authority and ensure the efficacy of spoken commands.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 117,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "She gave him the Tablets of Destiny, on his breast she laid them, saying: Thy command shall not be without avail, and the word of thy mouth shall be established.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "artifacts",
+      "power",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0089",
+    "canonical_statement": "Divine beings possess the power to decree fate among other divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 117,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Kingu, thus exalted, having received the power of Anu, Decreed the fate among the gods his sons.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "fate",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0090",
+    "canonical_statement": "A primordial entity, Ummu-Hubur, is capable of forming all things and creating invincible weapons and monstrous beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 117,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Ummu-Hubur, who formed all things, Hath made in addition weapons invincible, she hath spawned monster-serpents.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "primordial",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0091",
+    "canonical_statement": "Created beings can turn against their creators and align with opposing forces.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 117,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "All the gods have turned to her, With those, whom ye created, they go at her side.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "rebellion",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0092",
+    "canonical_statement": "The Tablets of Destiny confer ultimate authority and the power to establish decrees.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 118,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "She hath given him the Tablets of Destiny, on his breast she laid them, (saying): 'Thy command shall not be without avail,'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "power",
+      "authority",
+      "fate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0093",
+    "canonical_statement": "The holder of the Tablets of Destiny can determine the fate of other divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 118,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Kingu, (thus) exalted, having received the power of Anu, Decreed the fate for the gods, her sons",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0094",
+    "canonical_statement": "The spoken word of a divine being can establish or alter fate.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 119,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "With my word in place of you will I decree fate. May whatsoever I do remain unaltered, May the word of my lips never be changed nor made of no avail.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "fate",
+      "divine power",
+      "word"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0095",
+    "canonical_statement": "Divine beings possess the ability to decree and change fate through their pronouncements.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 119,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "With my word in place of you will I decree fate. May whatsoever I do remain unaltered, May the word of my lips never be changed nor made of no avail.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "fate",
+      "divine power",
+      "word"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0096",
+    "canonical_statement": "A divine being's pronouncements can be unchangeable and eternally valid.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 119,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "May whatsoever I do remain unaltered, May the word of my lips never be changed nor made of no avail.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divine power",
+      "word",
+      "eternity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0097",
+    "canonical_statement": "The universe contains beings capable of creating other beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 120,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "With those, whom ye created, they go at her side.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "beings"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0098",
+    "canonical_statement": "A primordial entity is responsible for the formation of all things.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 120,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Ummu-Hubur, who formed all things",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "primordial",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0099",
+    "canonical_statement": "Entities can create weapons and monstrous beings with specific attributes and powers.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 120,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Hath made in addition weapons invincible, she hath spawned monster-serpents",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "power",
+      "entities"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0100",
+    "canonical_statement": "Certain entities possess the ability to bestow power and dominion upon others.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 120,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "in their midst she hath raised [him] to power.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "power",
+      "hierarchy",
+      "entities"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0101",
+    "canonical_statement": "There exist artifacts, such as 'Tablets of Destiny,' that confer dominion or authority.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 120,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "She hath given him the Tablets of Destiny, on his breast she laid them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "artifacts",
+      "power",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0102",
+    "canonical_statement": "The spoken word of a powerful entity can establish or alter fate.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 121,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Thy command shall not be without avail, and the word of [thy] mouth shall be established.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "power",
+      "word"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0103",
+    "canonical_statement": "A decree from a powerful entity can determine the destiny of other divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 121,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Kingu, exalted, having received power, Decreed the fate for the gods, her sons.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "fate",
+      "divinity",
+      "decree"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0104",
+    "canonical_statement": "Divine entities can be afraid and retreat from conflict.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 121,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Anu could not withstand her; Nudimmud was afraid and turned back.",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "divinity",
+      "emotion",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0105",
+    "canonical_statement": "The heart or inner will of a divine being can prompt them to action.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 121,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "To set out against Tiamat his heart hath prompted (him).",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "will",
+      "motivation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0106",
+    "canonical_statement": "The preeminence of a divine being's fate can be established through assembly and proclamation.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 121,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Appoint an assembly, make my fate preeminent and proclaim it.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "fate",
+      "divinity",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0107",
+    "canonical_statement": "A divine being's actions and words can be made unalterable and permanently effective.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 121,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "May whatsoever I do remain unaltered, May the word of my lips never be changed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "power",
+      "word",
+      "permanence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0108",
+    "canonical_statement": "A primordial entity can be the source of creation for all things.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 121,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Ummu-Hubur, who formed all things, Hath made in addition weapons invincible.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "primordial",
+      "source"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0109",
+    "canonical_statement": "Primordial entities can create monstrous beings with specific, terrifying attributes.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 121,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "She hath spawned monster-serpents, Sharp of tooth and merciless of fang. With poison instead of blood.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "monsters",
+      "attributes"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0110",
+    "canonical_statement": "The appearance and splendor of created beings can instill terror in observers.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 121,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "With splendour she hath decked them... Whoever beholdeth them, terror overcometh him.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "perception",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0111",
+    "canonical_statement": "The Tablets of Destiny confer ultimate authority and the power to establish fate.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 122,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "She hath given him the Tablets of Destiny... 'Thy command shall not be without avail...'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "authority",
+      "artifact"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0112",
+    "canonical_statement": "Divine beings possess the ability to determine the destiny of others.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 123,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "The great gods, all of them, who decree [fate].",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "fate",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0113",
+    "canonical_statement": "Divine authority can be conferred by other divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 123,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "We give thee sovereignty over the whole world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "authority",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0114",
+    "canonical_statement": "A divine being's spoken word can directly alter reality.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 123,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "To destroy and to create; speak thou the word, and (thy command) shall be fulfilled.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation",
+      "word",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0115",
+    "canonical_statement": "The power of a divine being's command can be demonstrated through immediate materialization and dematerialization.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 123,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "he spake with his mouth, and the garment vanished; Again he commanded it, and the garment reappeared.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "creation",
+      "demonstration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0116",
+    "canonical_statement": "Divine beings possess the authority to determine the destiny of other entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 124,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "After the gods his fathers had decreed for the lord his fate",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "fate",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0117",
+    "canonical_statement": "Divine beings can influence the path and success of an individual.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 124,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "They caused him to set out on a path of prosperity and success.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "causality",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0118",
+    "canonical_statement": "Divine beings have the capacity to create fundamental forces of nature, such as winds.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 124,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "He created the evil wind, and the tempest, and the hurricane",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0119",
+    "canonical_statement": "The will and physical actions of a being can be disrupted or destroyed by the gaze of a powerful entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 124,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "As (Marduk) gazed, (Kingu) was troubled in his gait, His will was destroyed and his motions ceased.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "power",
+      "will",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0120",
+    "canonical_statement": "The defeat of a primordial entity results in the scattering of its associated forces and the breaking of its power.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 125,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "When he had slain Tiamat, the leader, Her might was broken, her host was scattered.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0121",
+    "canonical_statement": "Entities associated with a defeated primordial power are subject to capture and punishment.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 125,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "He took them captive, he broke their weapons; In the net they were caught.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "consequence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0122",
+    "canonical_statement": "The physical cosmos, including the heavens and the structure of the deep, was formed from the dismembered body of a primordial entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 126,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "He split her up like a flat fish into two halves; One half of her he stablished as a covering for heaven.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0123",
+    "canonical_statement": "Celestial bodies and their movements are divinely ordained to establish and regulate time and spatial boundaries.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 126,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "He made the stations for the great gods; The stars, their images, as the stars of the Zodiac, he fixed. He ordained the year and into sections he divided it.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "celestial mechanics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0124",
+    "canonical_statement": "Divine beings are assigned specific roles and domains within the structured cosmos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 126,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "He caused Anu, Bel, and Ea in their districts to inhabit. He made the stations for the great gods.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0125",
+    "canonical_statement": "The Moon-god governs the night and determines the passage of days and months.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 126,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "The Moon-god he caused to shine forth, the night he entrusted to him. He appointed him, a being of the night, to determine the days; Every month without ceasing with the crown he covered(?) him",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0126",
+    "canonical_statement": "Humanity was created to serve the gods.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 128,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "I will make man, that man may ... [...]. That the service of the gods may be established",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "purpose",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0127",
+    "canonical_statement": "Humanity was created from divine essence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 128,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "My blood will I take and bone will I [fashion], I will make man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "origin",
+      "divine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0128",
+    "canonical_statement": "A divine being is responsible for the creation of plant life and agricultural processes.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 129,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Creator of grain and plants, who caused the green herb to spring up!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0129",
+    "canonical_statement": "Divine beings can be revered and associated with wisdom and counsel.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 129,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Asaru-alim, who is revered in the house of counsel, who aboundeth in counsel",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0130",
+    "canonical_statement": "Divine beings can be subject to fear from other deities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 129,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "The gods paid homage, fear took hold upon them!",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "divinity",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0131",
+    "canonical_statement": "A divine being can be a source of light and progeny for another divine being.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 129,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "the Light of the father who begat him",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0132",
+    "canonical_statement": "A divine being can direct the decrees of other powerful deities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 129,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Who directeth the decrees of Anu, Bel, and Ea!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0133",
+    "canonical_statement": "A divine being can act as a patron and ordain aspects of existence for others.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 129,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "He was their patron, he ordained their . . . .",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0134",
+    "canonical_statement": "A divine being can be associated with abundance and provision.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 129,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "He, whose provision is abundance, goeth forth",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "provision"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0135",
+    "canonical_statement": "A divine being can create other divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 130,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Tutu is Zi-ukkina, 'the Life of the host [of the gods],'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0136",
+    "canonical_statement": "A divine being can establish the structure of the cosmos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 130,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Who established for the gods the bright heavens. He set them on their way, and ordained [their path (?)]",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0137",
+    "canonical_statement": "A divine being can create humanity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 130,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "For their forgiveness did he create mankind.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0138",
+    "canonical_statement": "A divine being can bestow life.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 130,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "The Merciful One, with whom it is to bestow life!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "life",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0139",
+    "canonical_statement": "A divine being can resurrect the dead.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 130,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "The Quickener of the Dead.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0140",
+    "canonical_statement": "A divine being can destroy evil entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 130,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Who through his Pure Incantation hath destroyed all the evil ones!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "evil"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0141",
+    "canonical_statement": "A divine being possesses knowledge of the inner states of other divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 130,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Shag-zu, 'who knoweth the heart of the gods,' 'who seeth through the innermost part!'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "knowledge",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0142",
+    "canonical_statement": "A divine being can subdue rebellious entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 130,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Subduer of the disobedient.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0143",
+    "canonical_statement": "A divine being can put an end to negative emotional states.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 130,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Who put an end to anger.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0144",
+    "canonical_statement": "A divine being can create the physical world.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 130,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "He named the four quarters (of the world), mankind [he created].",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0145",
+    "canonical_statement": "A singular entity is responsible for the creation of the Earth.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "The Creator of [the earth ...]",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0146",
+    "canonical_statement": "A singular entity is the source of counsel and provision.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "The Giver of counsel and of whatsoever",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "deity",
+      "providence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0147",
+    "canonical_statement": "A singular entity created the heavens.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Mulil, the heavens [...], 'Who for ... [...]!'",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0148",
+    "canonical_statement": "A singular entity has the power to nullify other gods.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Who brought the gods to naught",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0149",
+    "canonical_statement": "A singular entity holds supreme might over all other lords and gods.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "supreme is his might! ... among the gods is gloriously supreme!",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "deity",
+      "hierarchy",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0150",
+    "canonical_statement": "A singular entity created the gods who are considered its fathers.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Adu-nuna, 'the Counsellor of Ea,' who created the gods his fathers",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0151",
+    "canonical_statement": "No other deity can comprehend or reach the majesty of this supreme entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "No god can ever attain!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "transcendence",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0152",
+    "canonical_statement": "A singular entity has dominion over the beginning and the future.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "May he hold the Beginning and the Future",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "deity",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0153",
+    "canonical_statement": "A singular entity established the paths for celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "For the stars of heaven he upheld the paths",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0154",
+    "canonical_statement": "A singular entity has authority over all other gods.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "He shepherded all the gods like sheep!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "hierarchy",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0155",
+    "canonical_statement": "A singular entity created the celestial realm and the terrestrial realm.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Since he created the realm (of heaven) and fashioned the firm earth",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0156",
+    "canonical_statement": "A singular entity controls all divine decrees and commands.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 131,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "The binding of all my decrees shall he control, All my commands shall he make known!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "deity",
+      "sovereignty",
+      "law"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0157",
+    "canonical_statement": "The divine word of Marduk is immutable and cannot be overturned by any other deity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 132,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "His word standeth fast, his command is unaltered; The utterance of his mouth hath no god ever annulled.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "word"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0158",
+    "canonical_statement": "No other deity can withstand the wrath of Marduk.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 132,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "When he is wroth, no god can withstand his indignation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0159",
+    "canonical_statement": "Marduk possesses immense compassion.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 132,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Wide is his heart, broad is his compassion;",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "attribute"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0160",
+    "canonical_statement": "Marduk has complete control over the entirety of existence, from its inception to its future.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 132,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "The expression reshu-arkat, literally 'the beginning--the future,' may be taken as implying Marduk's complete control over the world, both at its creation and during its subsequent existence.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation",
+      "time",
+      "control"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0161",
+    "canonical_statement": "Reality is structured with distinct upper and lower cosmic waters.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 133,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Ti-amat e-li-ti and Ti-amat shap-li-ti, 'The Ocean (Tiamat) which is above' and 'The Ocean (Tiamat) which is beneath'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0162",
+    "canonical_statement": "A primordial dragon entity, Tiamat, exists within the cosmic order.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 133,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Who was the dragon [...]? Tiamat [*2] was the dragon [...]!",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "entities"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0163",
+    "canonical_statement": "Divine beings can be appointed to confront and eliminate cosmic threats.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 133,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Who will go and [slay] the dragon... Go, Tishhu, [slay] the dragon",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "divinity",
+      "conflict"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0164",
+    "canonical_statement": "The act of slaying a cosmic entity can lead to kingship or authority.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 133,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "And become king [over ...]",
+        "claim_type": "dramatized",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "power",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0165",
+    "canonical_statement": "Divine power can be invoked or utilized to overcome cosmic adversaries.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 133,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Stir up cloud, and storm [and tempest]! The seal of thy life [shalt thou set] before thy face, Thou shalt grasp it, and thou shalt [slay] the dragon.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0166",
+    "canonical_statement": "The world, including heavens, earth, and living creatures, was created by a council of gods.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 135,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "When the gods in their assembly had made [the world], And had created the heavens, and had formed [the earth], And had brought living creatures into being",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0167",
+    "canonical_statement": "Specific categories of life, such as cattle, beasts of the field, and city creatures, were fashioned by divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 135,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "And [had fashioned] the cattle of the field, and the beasts of the field, and the creatures [of the city]",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "life",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0168",
+    "canonical_statement": "A distinction or division exists between different types of created beings, specifically beasts of the field and creatures of the city.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 135,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "And between the beasts] of the field and the creatures of the city had divided",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "classification",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0169",
+    "canonical_statement": "Divine beings are responsible for the creation of all creatures.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 136,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Nin-igi-azag [fashion] two small creatures... Among all the beasts he made [their form] glorious",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0170",
+    "canonical_statement": "The cosmos, including celestial bodies and time, is created and ordered by divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 136,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "When the gods Ana, Enlil, and Enki... Ordained the renewal of the Moon-god, the reappearance of the moon, and the creation of the month",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "cosmos",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0171",
+    "canonical_statement": "Divine beings establish the boundaries and structure of the heavens and the earth.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 136,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Anu, Bel and Ea... Fixed the bounds of heaven and earth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0172",
+    "canonical_statement": "The creation of celestial phenomena like the Sun-god is a deliberate act of divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 136,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "mankind beheld the Sun-god in the gate of his going forth, In the midst of heaven and earth they duly created (him)",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "cosmos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0173",
+    "canonical_statement": "A primordial River is the source of all creation and predates the deluge.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 137,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "O, thou River, who didst create all things... The deluge they sent not before thou wert!",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "primordial",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0174",
+    "canonical_statement": "Divine beings, such as Ea and Marduk, are associated with the River of Creation and its attributes.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 137,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Within thee Ea... created his dwelling... Have Ea and Marduk presented unto thee!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0175",
+    "canonical_statement": "The River of Creation possesses attributes of judgment, might, supremacy, and righteousness.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 137,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Thou judgest the cause of mankind! O, River, thou art mighty! O River, thou art supreme! O River, thou art righteous!",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "justice",
+      "primordial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0176",
+    "canonical_statement": "Before creation, there was no structured reality, only an undifferentiated sea.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 137,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "No reed had sprung up, no tree had been created... All lands were sea.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "pre-creation",
+      "chaos",
+      "void"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0177",
+    "canonical_statement": "Creation began with a movement within the primordial sea, leading to the formation of specific places and structures.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 137,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "At that time there was a movement in the sea; Then was Eridu made, and E-sagil was built.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "order",
+      "primordial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0178",
+    "canonical_statement": "Marduk is a creator deity who formed land from water and dust.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 137,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Marduk laid a reed upon the face of the waters, He formed dust and poured it out beside the reed.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "deity",
+      "elements"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0179",
+    "canonical_statement": "Marduk created the Anunnaki gods simultaneously.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 137,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "The gods, the Anunnaki, he created at one time;",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0180",
+    "canonical_statement": "A divine being is responsible for the creation of humanity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 138,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "He formed mankind. The goddess Aruru together with him created the seed of mankind.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0181",
+    "canonical_statement": "A divine being is responsible for the creation of flora and fauna.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 138,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "The beasts of the field and living creatures in the field he formed. The grass... he created.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0182",
+    "canonical_statement": "A divine being is responsible for the creation and placement of geographical features.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 138,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "He created the Tigris and the Euphrates, and he set them in their place.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "geography"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0183",
+    "canonical_statement": "A divine being is responsible for the creation of cities and structures.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 138,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Bricks he laid, buildings he set up; Houses he made, cities he built.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "civilization"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0184",
+    "canonical_statement": "Divine beings possess wisdom and counsel.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 138,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "Thy exalted minister is Papsukal, the wise counsellor of the gods.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "attributes"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0185",
+    "canonical_statement": "Divine beings can perform purification rituals.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 138,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "May Nin-aha-kudu, the daughter of Ea, Purify thee with the pure censer.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ritual",
+      "purification"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_by_leonard_william_king_1902_0186",
+    "canonical_statement": "Divine incantations can influence earthly abundance and destiny.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation_by_leonard_william_king_1902",
+        "chunk_index": 138,
+        "chapter": "NEO-BAB. EXTRACTS.",
+        "surface_quote": "By the incantation of Marduk... May the abundance of the land enter into thee, And may thy decree be accomplished.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "magic",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  }
+]

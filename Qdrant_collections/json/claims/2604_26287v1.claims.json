@@ -1,0 +1,695 @@
+[
+  {
+    "id": "cl_2604_26287v1_0001",
+    "canonical_statement": "The fundamental structure of spacetime is represented by R3 × R, indicating a three-dimensional spatial",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 6,
+        "chapter": "II.   PRELIMINARIES",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0002",
+    "canonical_statement": "The vacuum state is not necessarily invariant under full spatial and temporal translation subgroups in inhomogeneous gravitational fields.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 12,
+        "chapter": "III.   THE CURVED-SPACE OBSTRUCTION THEOREM",
+        "surface_quote": "the vacuum to be invariant under the full translation subgroup... On a static globally hyperbolic background with spatial inhomogeneity... (G6) fails strictly",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "vacuum",
+      "spacetime",
+      "symmetry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0003",
+    "canonical_statement": "Galilean covariance can fail due to geometric reasons in inhomogeneous spacetimes where spatial translations and boosts are not symmetries.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 12,
+        "chapter": "III.   THE CURVED-SPACE OBSTRUCTION THEOREM",
+        "surface_quote": "the full Galilean covariance of (G3) fails for the same geometric reason: spatial translations and Galilean boosts are not symmetries",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spacetime",
+      "symmetry",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0004",
+    "canonical_statement": "Curved-space versions of axioms are required to account for Newton-Cartan covariance with Bargmann central extension in certain physical contexts.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 12,
+        "chapter": "III.   THE CURVED-SPACE OBSTRUCTION THEOREM",
+        "surface_quote": "We replace both axioms by the following curved-space versions: (G3c ) Newton–Cartan covariance with Bargmann central extension.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "physics",
+      "spacetime",
+      "axioms"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0005",
+    "canonical_statement": "The central charge M̂ is a self-adjoint operator that commutes with all unitary representations of the isometry group.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 12,
+        "chapter": "III.   THE CURVED-SPACE OBSTRUCTION THEOREM",
+        "surface_quote": "The central charge M̂ is self-adjoint and commutes with all U(g)",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "quantum mechanics",
+      "operators"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0006",
+    "canonical_statement": "The vacuum state of a quantum field is invariant under spatial and temporal translations.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 21,
+        "chapter": "V.     PROOF OF THEOREM 3 (MINKOWSKI CASE)",
+        "surface_quote": "The Schrödinger Fock vacuum |0⟩ is invariant under spatial translations... and under time translations...",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "quantum",
+      "vacuum",
+      "invariance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0007",
+    "canonical_statement": "The vacuum state is unique up to a phase factor.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 21,
+        "chapter": "V.     PROOF OF THEOREM 3 (MINKOWSKI CASE)",
+        "surface_quote": "It is unique with this property up to phase on the Schrödinger Fock space.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "quantum",
+      "vacuum",
+      "uniqueness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0008",
+    "canonical_statement": "Rest mass is an intrinsic, invariant property of a particle, independent of its spatial location or gravitational potential.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 28,
+        "chapter": "V.     PROOF OF THEOREM 3 (MINKOWSKI CASE)",
+        "surface_quote": "rest mass is a Lorentz invariant property of each particle... position-independent rescaling makes manifest: rest mass is a global label",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "physics",
+      "invariance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0009",
+    "canonical_statement": "Gravitational potential energy is a dynamic property dependent on spatial location, distinct from intrinsic rest mass.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 28,
+        "chapter": "V.     PROOF OF THEOREM 3 (MINKOWSKI CASE)",
+        "surface_quote": "gravitational potential energy is a position-dependent dynamical content... The two are cleanly separated",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "interaction",
+      "location"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0010",
+    "canonical_statement": "Black hole thermodynamics is inherently relativistic.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 31,
+        "chapter": "V.     PROOF OF THEOREM 3 (MINKOWSKI CASE)",
+        "surface_quote": "black-hole thermodynamics is intrinsically relativistic.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "relativity",
+      "thermodynamics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0011",
+    "canonical_statement": "The existence of a Killing horizon requires a finite speed of light.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 31,
+        "chapter": "V.     PROOF OF THEOREM 3 (MINKOWSKI CASE)",
+        "surface_quote": "the Killing horizon’s existence requires finite c.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "relativity",
+      "spacetime"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0012",
+    "canonical_statement": "As the speed of light approaches infinity, a Killing horizon shrinks to a point.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 31,
+        "chapter": "V.     PROOF OF THEOREM 3 (MINKOWSKI CASE)",
+        "surface_quote": "As c → ∞ the horizon shrinks to a point",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "relativity",
+      "spacetime",
+      "limit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0013",
+    "canonical_statement": "The thermal modular structure associated with black hole thermodynamics ceases to exist when the speed of light approaches infinity.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 31,
+        "chapter": "V.     PROOF OF THEOREM 3 (MINKOWSKI CASE)",
+        "surface_quote": "the thermal modular structure has nowhere to live",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "thermodynamics",
+      "relativity",
+      "limit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0014",
+    "canonical_statement": "The Hawking temperature diverges as the speed of light approaches infinity.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 31,
+        "chapter": "V.     PROOF OF THEOREM 3 (MINKOWSKI CASE)",
+        "surface_quote": "the Hartle–Hawking state’s thermal parameter (the Hawking temperature) diverges.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "thermodynamics",
+      "relativity",
+      "limit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0015",
+    "canonical_statement": "The non-relativistic limit of quantum field theory results in a fundamentally different algebraic structure compared to its relativistic counterpart.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 32,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "The Galilean side that emerges is structurally different from the relativistic side at the algebraic level.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "structure",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0016",
+    "canonical_statement": "Certain relativistic quantum phenomena do not persist in the non-relativistic limit due to specific algebraic cancellations.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 32,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "The relativistic-side content that does not survive... collapses for a single algebraic reason.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "physics",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0017",
+    "canonical_statement": "The Unruh effect demonstrates how modular flow collapses in the Newton-Cartan limit.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 33,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "The Unruh effect offers a complementary and arguably sharper illustration of how modular flow collapses in the Newton–Cartan limit.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "relativity",
+      "quantum"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0018",
+    "canonical_statement": "A uniformly accelerated observer in Minkowski spacetime perceives the vacuum as a thermal state at the Unruh temperature.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 33,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "A uniformly accelerated observer... perceives the Poincaré-invariant vacuum... as a thermal state at the Unruh temperature.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "physics",
+      "relativity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0019",
+    "canonical_statement": "The Unruh temperature vanishes as the speed of light approaches infinity.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 33,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "For fixed proper acceleration a, the Unruh temperature (33) scales as TU ∝ 1/c → 0.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "physics",
+      "relativity",
+      "limits"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0020",
+    "canonical_statement": "Both Unruh and Hawking temperatures are intrinsically relativistic phenomena.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 33,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "Both are intrinsically relativistic, but they respond to the contraction in opposite directions.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "physics",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0021",
+    "canonical_statement": "The Lorentz boost, a relativistic transformation, reduces to the Galilean boost, a non-relativistic transformation, under specific contraction conditions.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 34,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "The Lorentz boost contracts to the Galilean boost.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "physics",
+      "relativity",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0022",
+    "canonical_statement": "The Galilean boost does not alter the vacuum state in a quantum field theory.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 34,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "The Galilean boost acts trivially on the Fock vacuum.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "quantum mechanics",
+      "vacuum",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0023",
+    "canonical_statement": "The Rindler wedge, a region defined by relativistic causal structure, ceases to exist as a distinct causal region in a non-relativistic limit.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 34,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "The Rindler wedge does not survive the contraction as a causally distinguished region.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "relativity",
+      "spacetime"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0024",
+    "canonical_statement": "In the non-relativistic limit, Lorentzian causal structure degenerates into an absolute time structure.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 34,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "In the limit c → ∞, the Lorentzian causal structure degenerates to the Newton–Cartan absolute-time foliation",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "causality",
+      "time",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0025",
+    "canonical_statement": "The Galilean vacuum state is universally perceived as the same Fock vacuum by all observers, unlike the relativistic Minkowski vacuum.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 35,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "The Galilean vacuum is the same Fock vacuum to every observer, in sharp contrast to the relativistic Minkowski vacuum.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "vacuum",
+      "perception",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0026",
+    "canonical_statement": "The Unruh and Hawking effects, which are manifestations of relativistic algebraic quantum field theory, cease to exist in the Newton-Cartan limit.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 35,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "The Unruh effect and the Hawking effect are both modular-flow content of relativistic AQFT — ... Both collapse in the Newton–Cartan limit.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "relativity",
+      "quantum"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0027",
+    "canonical_statement": "The absence of Tomita-Takesaki modular flow in the Galilean limit prevents the definition of thermodynamic effects like the Unruh and Hawking temperatures.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 35,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "no Tomita–Takesaki modular flow is defined — neither the boost-modular flow ... nor the Killing-flow-modular structure ... The two thermodynamic effects vanish through the same algebraic obstruction.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "thermodynamics",
+      "quantum",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0028",
+    "canonical_statement": "The fundamental algebraic and modular structures of quantum field theory are independent of gravitational coupling.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 36,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "G does not enter the algebraic-modular structure that Theorem 1 and Theorem 2 act on.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "quantum mechanics",
+      "gravity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0029",
+    "canonical_statement": "The modular structure collapse on local algebras is determined by the Bargmann-superselection content of the Galilean framework.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 36,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "The modular structure collapse on local algebras is forced by the Bargmann-superselection content of the Galilean side.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "physics",
+      "quantum mechanics",
+      "superselection"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0030",
+    "canonical_statement": "The metric in the relativistic and Galilean frameworks is considered fixed external data, not dynamically determined by matter.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 36,
+        "chapter": "VII.    DISCUSSION",
+        "surface_quote": "The metric gc on the relativistic side is fixed external data... no Einstein equation to fix the proportionality between geometry and matter.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "physics",
+      "relativity",
+      "gravity",
+      "metric"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0031",
+    "canonical_statement": "The order of limits in physical transformations can determine the resulting fundamental structure of reality.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 45,
+        "chapter": "VIII.     CLOSING TECHNICAL POINTS",
+        "surface_quote": "Non-commutativity of the c → ∞ and r → rs+ limits in the Schwarzschild case.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "structure",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0032",
+    "canonical_statement": "Different sequences of physical limits can yield structurally distinct physical objects or realities.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 45,
+        "chapter": "VIII.     CLOSING TECHNICAL POINTS",
+        "surface_quote": "The two paths produce structurally different objects.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "structure",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0033",
+    "canonical_statement": "The nature of spacetime geometry dictates the characteristics of short-distance singularities in physical states.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 47,
+        "chapter": "VIII.     CLOSING TECHNICAL POINTS",
+        "surface_quote": "The relativistic Hadamard condition characterises the universality-class of physical states on a globally hyperbolic spacetime by their leading short-distance singularity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spacetime",
+      "physics",
+      "geometry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0034",
+    "canonical_statement": "Absolute time is a fundamental characteristic of the Newton-Cartan structure of spacetime.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 47,
+        "chapter": "VIII.     CLOSING TECHNICAL POINTS",
+        "surface_quote": "This anisotropy in the (t, x)-singularity reflects the absolute time of the Newton–Cartan structure",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "spacetime",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2604_26287v1_0035",
+    "canonical_statement": "The presence or absence of a boost-invariant interval affects the dimensionality of singularities in spacetime.",
+    "attributions": [
+      {
+        "source_id": "2604_26287v1",
+        "chunk_index": 47,
+        "chapter": "VIII.     CLOSING TECHNICAL POINTS",
+        "surface_quote": "there is no boost-invariant interval σ (x, x′ ), and the singularity is one-dimensional rather than codimension-one.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "spacetime",
+      "physics",
+      "geometry"
+    ],
+    "editorial_status": "auto"
+  }
+]

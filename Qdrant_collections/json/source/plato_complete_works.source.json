@@ -1,0 +1,14 @@
+{
+  "id": "plato_complete_works",
+  "title": "The Complete Works of Plato",
+  "author": "Plato",
+  "medium": "",
+  "channel_type": "dialogue",
+  "tradition": "",
+  "year": 0,
+  "region": "",
+  "ingested_at": "2026-06-01T20:21:56.841206133Z",
+  "chunk_count": 3189,
+  "claim_count": 8572,
+  "source_path": "incoming/plato-complete-works.pdf"
+}

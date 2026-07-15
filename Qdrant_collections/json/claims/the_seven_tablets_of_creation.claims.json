@@ -1,0 +1,2791 @@
+[
+  {
+    "id": "cl_the_seven_tablets_of_creation_0001",
+    "canonical_statement": "The transition from chaos to order is inherently provocative to the primeval state of existence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "the new way of the gods, which tended to produce order in place of chaos.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0002",
+    "canonical_statement": "Wisdom functions as a mechanism for detecting and neutralizing threats to established order.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "the god Ea, who, abounding in all wisdom, detected their plan and frustrated it.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0003",
+    "canonical_statement": "Humanity is ontologically derived from the substance of the divine.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Marduk declares that he will use his own blood in creating mankind.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0004",
+    "canonical_statement": "The creation of the world is attributed to a mythical river.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "A remarkable address to a mythical river, to which the creation of the world is ascribed.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0005",
+    "canonical_statement": "Mythological entities and primordial forces are symbolically represented by celestial bodies and constellations.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Tiamat, in her astrological character, was regarded as a star or constellation.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "mythology",
+      "astrology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0006",
+    "canonical_statement": "The universe originated from a primordial state of chaos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 9,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "it describes the coming forth of the gods from chaos",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0007",
+    "canonical_statement": "The structure of the world is the result of the triumph of order over primordial disorder.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 9,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "forces of disorder... were overthrown by Ea and Marduk",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0008",
+    "canonical_statement": "The physical world and humanity were intentionally created by divine agency.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 9,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Marduk... proceeded to create the world and man",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0009",
+    "canonical_statement": "The state of existence prior to creation is characterized by the mingling of primeval chaotic waters.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 12,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "primeval water-gods, Apsu and Tiamat, personifying chaos, mingled their waters in confusion.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0010",
+    "canonical_statement": "The divine hierarchy emerges through a sequential process of generation from a primordial chaotic substrate.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 12,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "to Apsu and Tiamat were born the oldest of the gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theogony",
+      "divinity",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0011",
+    "canonical_statement": "The existence of certain divine entities can be presupposed within a cosmological narrative without requiring an explicit account of their origin or parentage.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 13,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Marduk's existence... appears to be tacitly assumed.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0012",
+    "canonical_statement": "The emergence of order and system within the universe is inherently antagonistic to the state of primordial chaos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 14,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "substitution of order in place of chaos which... roused Apsu's resentment",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0013",
+    "canonical_statement": "Temporal distinctions such as day and night are foundational properties that precede the establishment of divine order.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 14,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "day and night were vaguely conceived as already in existence",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0014",
+    "canonical_statement": "The primordial state of chaos can be transformed into a static, passive substrate through divine intervention.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 15,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Apsu is next mentioned as the Deep, and not as an active deity.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0015",
+    "canonical_statement": "Chaos exists as an unsubdued, personified force that persists independently of the order established by deities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 15,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Tiamat remained unconquered, and she continued to represent the unsubdued forces of chaos.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0016",
+    "canonical_statement": "Divine order is maintained through the active opposition of deities against forces of disorder.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 15,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Ea did not cease his active opposition to the forces of disorder.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0017",
+    "canonical_statement": "The primordial state of the universe consisted solely of darkness and water prior to the emergence of the world.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 16,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "darkness and water alone existed when the world had not come into being.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0018",
+    "canonical_statement": "The existence of chaotic, monstrous entities precedes the formation of the ordered world.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 16,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "mythical monsters which dwelt in the deep at a time when the world had not come into being.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0019",
+    "canonical_statement": "The physical universe is constructed from the fragmented remains of a primordial entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 17,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "from one half of her he made the earth, and from the other the heavens",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0020",
+    "canonical_statement": "The creation of humanity is a functional solution to a specific problem encountered by the creator.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 18,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "creation of man forms the solution of a difficulty with which Marduk has been met",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0021",
+    "canonical_statement": "Humanity was created to serve and worship the divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 18,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "create man that the service of the gods may be established",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "humanity",
+      "divinity",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0022",
+    "canonical_statement": "The creative process is an act of deliberate intellectual planning rather than an automatic or natural occurrence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 18,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Marduk devised a cunning plan",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "intellect"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0023",
+    "canonical_statement": "Humanity and biological life are ontologically derived from the essence or substance of the Creator.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 19,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Bel ordered one of the gods to cut off his head... to create men.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0024",
+    "canonical_statement": "The material world is formed through the integration of divine substance with terrestrial matter.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 19,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "mixing the blood which flowed forth with earth, to create men and animals.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "matter"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0025",
+    "canonical_statement": "Humanity is ontologically derived from the substance of the divine.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 20,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "formed mankind from his blood",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "anthropology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0026",
+    "canonical_statement": "The creation of humanity serves the functional purpose of providing worshippers for the divine.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 20,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "furnish worshippers for the gods",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "teleology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0027",
+    "canonical_statement": "Humanity represents the teleological culmination of the creative process.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 20,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "man's creation was regarded as the culmination of Marduk's creative work",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "teleology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0028",
+    "canonical_statement": "The creation of the world is an act performed by a singular deity who establishes order through the defeat of primordial chaos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 21,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Marduk as the conqueror of Tiamat and the Creator of the world.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "deity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0029",
+    "canonical_statement": "The nature and attributes of the Creator are expressed through a multiplicity of honorific titles that define his functional roles in the universe.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 21,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Marduk is hailed by them under fifty titles of honour.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0030",
+    "canonical_statement": "The divine order is maintained through the collective recognition and exaltation of the Creator by the assembly of gods.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 21,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "The gods gathered together... and proceeded to magnify him by every title of honour.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "divinity",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0031",
+    "canonical_statement": "The transfer of names and titles between divine entities constitutes a transfer of ontological power and essence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 23,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "the elder Bel and Ea... confer their own names and power upon him.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0032",
+    "canonical_statement": "The act of remembering and celebrating divine works functions as a mechanism for securing prosperity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 23,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "prosperity is promised to those that rejoice in Marduk and keep his works in remembrance.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theurgy",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0033",
+    "canonical_statement": "The physical manifestation of the world is contingent upon the destruction of primordial chaos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 24,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "the death of Tiamat is made a necessary preliminary to the creation of the world.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0034",
+    "canonical_statement": "The material universe originated from a state of primordial aquatic existence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 24,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "cities and temples are described as coming into existence in consequence of a movement in the waters.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0035",
+    "canonical_statement": "Metaphysical narratives of creation are culturally malleable and subject to local theological adaptation.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 24,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "many of the great cities of Babylonia possessed local versions of the legend.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "mythology",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0036",
+    "canonical_statement": "The creation of the physical world and living beings is attributed to divine agency.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 25,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "he created man... creating animals and vegetation.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0037",
+    "canonical_statement": "Theological narratives are constructed by synthesizing independent, pre-existing mythological traditions.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 25,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "priests of Babylon made use of independent legends in the composition of their great poem",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mythology",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0038",
+    "canonical_statement": "Divine status and hierarchy are justified through the retrospective attribution of creative and heroic acts.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 25,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "assigning to Marduk the conquest of the Dragon and the creation of the world",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0039",
+    "canonical_statement": "Mythological narratives undergo a process of gradual diversification and independent evolution over long periods of time.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 26,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "the same story was related in different cities in different ways",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mythology",
+      "tradition",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0040",
+    "canonical_statement": "Physical objects and temple architecture serve as symbolic representations of primordial cosmic states.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 27,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "the laver was symbolical of the abyss of water personified in the Creation legends",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "cosmology",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0041",
+    "canonical_statement": "The primordial state of existence is characterized as an abyss of water or deep.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 27,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "symbolical of the abyss of water personified in the Creation legends by Tiamat and Apsu",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "primordial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0042",
+    "canonical_statement": "The primordial state of the universe is characterized as a chaotic, undifferentiated watery mass.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 30,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "the conception of chaos as a watery mass",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0043",
+    "canonical_statement": "The manifestation of divine beings occurs as a successive generation emerging from a primordial chaotic substrate.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 30,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "successive generations of primeval gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "divinity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0044",
+    "canonical_statement": "The primordial state of the universe is a watery chaos that precedes the manifestation of order.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 31,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "existence of a watery chaos preceded the creation of the universe",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0045",
+    "canonical_statement": "The structure of the physical firmament is derived from the division of primordial chaotic substance.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 31,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "body of Tiamat is divided by Marduk, and from one-half of her he formed a covering",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0046",
+    "canonical_statement": "Light and the cycle of day and night exist as ontological precursors to the formation of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 31,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "belief in the existence of light before the creation of the heavenly bodies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0047",
+    "canonical_statement": "The manifestation of order is inherently antagonistic to the forces of primordial chaos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 31,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "hatred of the way of the gods which produced order in place of chaos",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "duality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0048",
+    "canonical_statement": "The physical world and its biological life are products of deliberate creation by a divine entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 32,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Marduk as Creator of the earth, grain and plants.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0049",
+    "canonical_statement": "The material universe is formed from the substance of a pre-existing divine or primordial entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 32,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Bel formed the earth out of one half of Omorka's body.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology",
+      "substance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0050",
+    "canonical_statement": "The structure of time and the regulation of celestial cycles are products of divine creation.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 33,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "the stars were created and the year was ordained at the same time",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0051",
+    "canonical_statement": "The physical heavens function as a domain established and maintained by divine intelligence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 33,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Marduk is stated to have established for the gods the bright heavens",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0052",
+    "canonical_statement": "The universe is ordered through the governance of celestial bodies acting as agents of divine will.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 33,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "For the stars of heaven he upheld the paths",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "order",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0053",
+    "canonical_statement": "The creation of sentient life involves the infusion of divine substance into the created form.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 34,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "animals shared in the blood of Bel",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0054",
+    "canonical_statement": "The creation of humanity is a collaborative process involving multiple divine entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 34,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Marduk imparted his purpose of forming man to his father Ea",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0055",
+    "canonical_statement": "Humanity is ontologically linked to the Creator through the sharing of divine essence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 34,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "employment by Marduk... of his own blood in the creation of man",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0056",
+    "canonical_statement": "Humanity was created as a functional instrument to serve the needs and desires of the divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 35,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "man was created with the special object of supplying the gods with worshippers",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "teleology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0057",
+    "canonical_statement": "The existence of humanity is an expedient measure intended to resolve divine discontent.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 35,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "conceived... merely as an expedient to satisfy the discontented gods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0058",
+    "canonical_statement": "The primary ontological purpose of humanity is the maintenance of divine honor and the remembrance of the Creator.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 35,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "charge that he forget not the deeds of his Creator",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "purpose",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0059",
+    "canonical_statement": "The creative act can be executed through the manifestation of a word possessing inherent magical power.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 36,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "the word of Marduk had magical power and could destroy and create alike",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0060",
+    "canonical_statement": "Creation can occur through the deliberate application of physical labor and technical artifice.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 36,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "Marduk first conceived a cunning device, and then proceeded to carry it out by hand.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "methodology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0061",
+    "canonical_statement": "The existence of light is ontologically prior to the formation of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 36,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "existence of light before the creation of the heavenly bodies",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0062",
+    "canonical_statement": "The number seven possesses an inherent mystical significance that influences the structural organization of cosmological narratives.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 37,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "the mystical nature of the number \"seven.\"",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "symbolism",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0063",
+    "canonical_statement": "Human physical existence is derived from the combination of terrestrial matter and divine essence or breath.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 38,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "man was formed from the dust of the ground... employment of His breath",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "anthropology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0064",
+    "canonical_statement": "The primordial origin of all",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 38,
+        "chapter": "V. ANOTHER VERSION OF THE CREATION OF THE WORLD BY   MARDUK",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0065",
+    "canonical_statement": "The primordial substrate of existence possesses a dual nature, simultaneously manifesting as both chaotic confusion and structured archetypal form.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 63,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Mummu was capable of two separate interpretations: form/pattern and chaos/confusion.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ontology",
+      "substrate",
+      "duality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0066",
+    "canonical_statement": "Creation is the process of imposing order or pattern upon a primordial, chaotic state.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 63,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Marduk might have borne the name as the form or idea of order.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "order",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0067",
+    "canonical_statement": "The primordial state of existence is characterized by a fundamental restlessness and lack of peace.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 64,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Apsu complains that 'by day' he cannot rest, and 'by night' he cannot lie down.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "primordial"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0068",
+    "canonical_statement": "The transition from chaos to order is represented by the triumph of solar light over primordial darkness and mist.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 64,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "fight between Marduk and Tiamat... representing the disappearance of mist and darkness.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0069",
+    "canonical_statement": "The existence of monstrous, unformed entities precedes the structured creation of the world.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 64,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "mythical monsters which existed before the creation of the world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0070",
+    "canonical_statement": "The primordial ocean or deep is a foundational, lower-level reality that exists in antithesis to the heavens.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 65,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "the broad Hubur is employed in antithesis to the distant heavens.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "duality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0071",
+    "canonical_statement": "The primordial deep is identified with the underworld and the source of existence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 65,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "connection between the lower waters of Tiamat and Hubur, the River of the Underworld.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "afterlife",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0072",
+    "canonical_statement": "The creation of the physical world, including earth, heavens, and living beings, is an act performed by a divine entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 66,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "the creation by Bel of the earth, and the heavens, and mankind, and animals",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0073",
+    "canonical_statement": "The celestial order and the movement of stars are governed by divine appointment and structural assignment.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 66,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Marduk appoints Nibir, Bel, and Ea as guides to the stars",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0074",
+    "canonical_statement": "The creation of human life or specific heroic entities requires the infusion of divine substance into material form.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 67,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "man may be formed from his blood mixed with clay",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "anthropogenesis"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0075",
+    "canonical_statement": "Divine essence is a necessary component for the animation of sentient beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 67,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "use of the blood of a god for the creation of man",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0076",
+    "canonical_statement": "The creation of sentient beings is an act of external manifestation from primordial material substances.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 69,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "breaking off a piece of clay, she cast it upon the ground and thus created",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0077",
+    "canonical_statement": "Mythological narratives are composite structures formed by the synthesis of distinct, independent traditional strands.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 69,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "other less important traditions which have been woven into the structure of the poem",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "mythology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0078",
+    "canonical_statement": "The divine beings are anthropomorphic in nature.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 74,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "the great gods were always pictured in human form.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "anthropomorphism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0079",
+    "canonical_statement": "Humanity is the product of divine creative action.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 74,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "mankind whom his hands have made",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0080",
+    "canonical_statement": "The primeval river is the fundamental source and creator of all manifest existence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 75,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "the Nile god is the mysterious creator of all things",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0081",
+    "canonical_statement": "The river of the underworld and the river of creation are ontologically linked or identical.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 75,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "the River... is to be identified with Hubur, the River of the Underworld",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0082",
+    "canonical_statement": "The physical preservation of written texts is linked to the preservation of the life of the individual.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 76,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "ana balat napshati pl -shu, for the preservation of his life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "life",
+      "preservation",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0083",
+    "canonical_statement": "Existence and identity are contingent upon the act of naming or linguistic designation.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 78,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "When in the height heaven was not named, And the earth beneath did not yet bear a name",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "identity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0084",
+    "canonical_statement": "The primordial state of the universe is an undifferentiated, mingled unity of water and chaos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 78,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Their waters were mingled together, And no field was formed",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0085",
+    "canonical_statement": "The manifestation of gods and the establishment of destinies are subsequent to the primordial state of non-existence.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 78,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "When of the gods none had been called into being, And none bore a name",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0086",
+    "canonical_statement": "The primordial entity Tiamat serves as the generative source of all manifest forms and beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 80,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Ummu-Hubur, who formed all things",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0087",
+    "canonical_statement": "The creation of entities involves the infusion of specific substances or qualities that define their nature and function.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 80,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "With poison instead of blood she filled their bodies.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "substance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0088",
+    "canonical_statement": "The exercise of authority over the divine hierarchy is contingent upon the possession of the Tablets of Destiny.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 81,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "She gave him the Tablets of Destiny... Thy command shall not be without avail.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "authority",
+      "divinity",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0089",
+    "canonical_statement": "The spoken word of an exalted being possesses the ontological power to establish reality and fate.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 81,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "the word of thy mouth shall be established",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "language",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0090",
+    "canonical_statement": "The primordial mother figure functions as the architect and progenitor of all existing forms.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 81,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Ummu-Hubur, who formed all things",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0091",
+    "canonical_statement": "The Tablets of Destiny function as an ontological mechanism that renders the spoken commands of the possessor absolute and immutable.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 82,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "She hath given him the Tablets of Destiny... thy command shall not be without avail.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "destiny",
+      "ontology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0092",
+    "canonical_statement": "The structure of reality is subject to the decrees of divine entities who possess the authority to determine the fate of other beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 82,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Now Kingu... Decreed the fate for the gods, her sons.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "hierarchy",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0093",
+    "canonical_statement": "The spoken word of a divine being possesses the power to manifest reality and establish immutable destiny.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 83,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "May whatsoever I do remain unaltered, may the word of my lips never be changed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "divinity",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0094",
+    "canonical_statement": "The authority to decree fate is contingent upon the successful performance of a cosmic or martial task.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 83,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "If I conquer Tiamat and give you life, appoint an assembly, make my fate preeminent.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "destiny",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0095",
+    "canonical_statement": "The primordial mother-entity functions as the foundational architect and creator of all manifest forms.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 84,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Ummu-Hubur, who formed all things",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0096",
+    "canonical_statement": "The Tablets of Destiny serve as the metaphysical mechanism for governing and directing the unfolding of fate.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 84,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "She hath given him the Tablets of Destiny",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0097",
+    "canonical_statement": "The structure of reality is defined by the conflict between opposing divine factions and their respective creative forces.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 84,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "They prepare for battle, fuming and raging",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "duality",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0098",
+    "canonical_statement": "The utterance of a divine being possesses the ontological power to establish and fix the nature of reality.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 85,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "The word of thy mouth shall be established.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "language",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0099",
+    "canonical_statement": "The decree of fate is an act of sovereign authority that renders future events immutable.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 85,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "May whatsoever I do remain unaltered.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "fate",
+      "time",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0100",
+    "canonical_statement": "The primordial substrate of reality can be manipulated to manifest entities with specific, inherent qualities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 85,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Ummu-Hubur, who formed all things, hath made in addition weapons invincible.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0101",
+    "canonical_statement": "The structure of reality and the destiny of beings are governed by the possession of authoritative artifacts or decrees.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 86,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "She hath given him the Tablets of Destiny",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "destiny",
+      "authority",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0102",
+    "canonical_statement": "The power to decree fate is an absolute authority that renders the speaker's commands immutable.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 86,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "May whatsoever I do remain unaltered",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "fate",
+      "will",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0103",
+    "canonical_statement": "Divine entities possess the capacity to manifest physical monsters and entities through the exercise of command.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 86,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "huge of stature, hath she made eleven (monsters)",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0104",
+    "canonical_statement": "The universe is governed by divine decrees that establish the fate and authority of entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 87,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "The great gods, all of them, who decree fate.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "fate",
+      "theology",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0105",
+    "canonical_statement": "Divine speech possesses the ontological power to manifest or annihilate physical objects.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 87,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Speak thou the word, and the garment vanished; speak again and it reappeared.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0106",
+    "canonical_statement": "Sovereignty over the world is a delegated authority granted by a collective assembly of divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 87,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "We give thee sovereignty over the whole world.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "hierarchy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0107",
+    "canonical_statement": "Individual destiny is pre-ordained by divine decree.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 88,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "After the gods his fathers had decreed for the lord his fate",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "fate",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0108",
+    "canonical_statement": "The gaze or presence of a superior entity can directly incapacitate the will and physical motion of another.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 88,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "As he gazed, his will was destroyed and his motions ceased.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "will",
+      "perception",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0109",
+    "canonical_statement": "The physical universe is constructed from the primordial substance of a defeated chaotic entity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 90,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "He split her up like a flat fish into two halves; One half of her he stablished as a covering for heaven.",
+        "claim_type": "dramatized",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmogony",
+      "creation",
+      "substance"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0110",
+    "canonical_statement": "Time and celestial order are artificial structures imposed upon reality to prevent chaos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 90,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "He ordained the year and into sections he divided it; That none might err or go astray.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "order",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0111",
+    "canonical_statement": "The structure of the universe is a reflection of divine architecture and intentional design.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 90,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "He measured the structure of the Deep, And he founded E-shara, a mansion like unto it.",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "structure",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0112",
+    "canonical_statement": "The celestial bodies and their movements are governed by divine decree and cyclical order.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 91,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Thou commandest the horns to determine six days",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0113",
+    "canonical_statement": "The creation of physical objects and celestial phenomena is subject to divine validation and naming.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 91,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "He kissed the bow... And thus he named the names of the bow",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0114",
+    "canonical_statement": "The maintenance of life on earth is a direct result of divine intervention and creative power.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 91,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "he hath caused to live",
+        "claim_type": "implied",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "creation",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0115",
+    "canonical_statement": "Humanity is ontologically constructed from the divine substance of the creator deity.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 92,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "My blood will I take and bone will I fashion, I will make man.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity",
+      "anthropology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0116",
+    "canonical_statement": "The purpose of human existence is to serve and maintain the divine order through ritual and worship.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 92,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "That the service of the gods may be established, and that their shrines may be built.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "teleology",
+      "theology",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0117",
+    "canonical_statement": "The creation of humanity serves as a mechanism for the gods to receive forgiveness or reconciliation.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 92,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "For their forgiveness did he create mankind.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "theology",
+      "redemption",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0118",
+    "canonical_statement": "The creation of humanity serves as a mechanism to establish the worship of divine beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 93,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Marduk, by the creation of man, will establish the worship of the gods.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "creation",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0119",
+    "canonical_statement": "Divine entities possess the capacity to ordain and direct the decrees governing the cosmos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 93,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Who directeth the decrees of Anu, Bel, and Ea!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0120",
+    "canonical_statement": "The creative act is a function of divine provision and the generation of material abundance.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 93,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "He, whose provision is abundance, goeth forth.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "creation",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0121",
+    "canonical_statement": "The divine entity acts as the architect and regulator of the celestial order.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 94,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Who established for the gods the bright heavens. He set them on their way.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0122",
+    "canonical_statement": "Humanity was intentionally created by the divine to serve a specific purpose regarding the gods.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 94,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "For their forgiveness did he create mankind.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "anthropology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0123",
+    "canonical_statement": "The divine entity possesses the power to animate or restore life to the dead.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 94,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "The Quickener of the Dead.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "life",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0124",
+    "canonical_statement": "The divine entity possesses omniscience regarding the internal states of other beings.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 94,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Who knoweth the heart of the gods, who seeth through the innermost part.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "omniscience",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0125",
+    "canonical_statement": "The physical world and its spatial structure are products of divine ordering.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 94,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "He named the four quarters of the world.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0126",
+    "canonical_statement": "The divine entity acts as the architect of the physical world, establishing both the celestial and terrestrial realms.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 95,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Since he created the realm (of heaven) and fashioned the firm earth",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0127",
+    "canonical_statement": "The divine entity possesses absolute authority over the temporal progression of existence, encompassing both the beginning and the future.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 95,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "May he hold the Beginning and the Future",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0128",
+    "canonical_statement": "The divine entity maintains the structural order of the cosmos, specifically the paths of celestial bodies.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 95,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "For the stars of heaven he upheld the paths",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0129",
+    "canonical_statement": "The essence of the divine is shared or transferred through the bestowal of names and titles, equating the successor with the progenitor.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 95,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "He whose name his fathers have made glorious, Shall be even as I",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0130",
+    "canonical_statement": "The divine word is immutable and possesses absolute authority over all other entities.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 96,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "His word standeth fast, his command is unaltered; no god ever annulled.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "divinity",
+      "authority",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0131",
+    "canonical_statement": "The supreme deity exercises total control over the temporal trajectory of humanity, from inception to conclusion.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 96,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "The beginning and future of mankind are under his complete control.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "destiny",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0132",
+    "canonical_statement": "The divine nature encompasses both absolute wrath and infinite compassion.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 96,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Wide is his heart, broad is his compassion; no god can withstand his indignation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0133",
+    "canonical_statement": "The universe is structured into dual celestial and terrestrial oceanic realms.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 97,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "The Ocean which is above and The Ocean which is beneath.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0134",
+    "canonical_statement": "Divine authority and sovereignty are contingent upon the conquest of primordial chaos.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 97,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Who will go and slay the dragon and become king?",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0135",
+    "canonical_statement": "The primordial struggle between order and chaos is a recurring event that occurs within the established temporal reality of human civilization.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 98,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "The fight with the dragon did not precede the creation of the world.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "chaos"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0136",
+    "canonical_statement": "The physical world, including the heavens and the earth, is a product of divine assembly and creative action.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 99,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "When the gods in their assembly had made the world, and had created the heavens.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0137",
+    "canonical_statement": "Living creatures and biological entities are intentionally fashioned by divine agency.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 99,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "And had brought living creatures into being, and had fashioned the cattle of the field.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "biology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0138",
+    "canonical_statement": "The primordial state of existence is an undifferentiated, watery void preceding all manifestation.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 101,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "All lands were sea.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0139",
+    "canonical_statement": "Creation is the process of establishing structure and habitation within a pre-existing primordial substrate.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 101,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "No reed had sprung up, no tree had been created.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0140",
+    "canonical_statement": "The river of creation acts as a foundational, sentient, and judicial force in the ordering of the world.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 101,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "O, thou River, who didst create all things... Thou judgest the cause of mankind!",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0141",
+    "canonical_statement": "Divine entities require physical habitations to manifest their presence within the created order.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 101,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "That he might cause the gods to dwell in the habitation of their hearts' desire.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0142",
+    "canonical_statement": "The physical world, including humanity, flora, fauna, and geography, is the product of deliberate divine creation.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 102,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "He formed mankind... The beasts of the field... he created.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "cosmology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0143",
+    "canonical_statement": "The act of naming an entity or feature is an essential component of its creation and ontological establishment.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 102,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "Their names he declared in goodly fashion.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "language",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_seven_tablets_of_creation_0144",
+    "canonical_statement": "Ritual purification and incantation are effective mechanisms for aligning human existence with divine decrees.",
+    "attributions": [
+      {
+        "source_id": "the_seven_tablets_of_creation",
+        "chunk_index": 102,
+        "chapter": "ASSYRIAN TEXT.",
+        "surface_quote": "By the incantation of Marduk... may thy decree be accomplished for ever!",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "divinity",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  }
+]

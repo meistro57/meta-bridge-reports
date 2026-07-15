@@ -1,0 +1,1275 @@
+[
+  {
+    "id": "cl_the_sumarian_king_list_0001",
+    "canonical_statement": "Historical records may present a linear chronological structure that does not accurately reflect the contemporaneous nature of the events described.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 13,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "several dynasties listed as consecutive in the King List must in reality have been contemporaneous.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0002",
+    "canonical_statement": "The exercise of political sovereignty is a transferable property that moves between geographic locations.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 67,
+        "chapter": "T H E SUMERIAN K I N G LIST",
+        "surface_quote": "its kingship was carried to the city B",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "power",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0003",
+    "canonical_statement": "Political authority is an objective, inanimate entity distinct from the individual ruler.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 70,
+        "chapter": "TEXTUAL PROBLEMS",
+        "surface_quote": "kingship was thus not imagined as personal... but as an inanimate thing",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "authority",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0004",
+    "canonical_statement": "Political authority and the instruments of governance originate from a celestial or divine realm.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 101,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "when the crown of kingship was lowered from heaven",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divine",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0005",
+    "canonical_statement": "Political authority and governance are derived from a celestial or divine source.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 103,
+        "chapter": "TEXTUAL PROBLEMS",
+        "surface_quote": "when the kingship was lowered from heaven",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0006",
+    "canonical_statement": "The destruction of humanity by a deluge is a divinely ordained event.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 103,
+        "chapter": "TEXTUAL PROBLEMS",
+        "surface_quote": "Enlil has decided to send a Deluge",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "eschatology",
+      "divine-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0007",
+    "canonical_statement": "Divine decisions regarding the destruction of humanity are motivated by the disruption of cosmic or divine tranquility.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 105,
+        "chapter": "TEXTUAL PROBLEMS",
+        "surface_quote": "noise of the humans kept Enlil awake and made him send the Deluge",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "divine-will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0008",
+    "canonical_statement": "The legitimacy of political authority is derived from a divine source that descends from heaven.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 114,
+        "chapter": "T H E SUMERIAN KING LIST",
+        "surface_quote": "Kingship had descended from heaven.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "authority",
+      "divinity",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0009",
+    "canonical_statement": "Human history and political order are structured by a cyclical or sequential divine mandate.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 114,
+        "chapter": "T H E SUMERIAN KING LIST",
+        "surface_quote": "Kingship was in Eridu. Alulim became king.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "order"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0010",
+    "canonical_statement": "Historical or mythological dynasties may exist contemporaneously rather than in a linear, successive sequence.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 116,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "the author... has no intent whatever to present the dynasties as successive.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0011",
+    "canonical_statement": "The concept of 'kingship' is an entity or force that originates from a transcendent source ('heaven') and manifests within specific terrestrial locations.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 116,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "When the kingship was lowered from heaven.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "existence",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0012",
+    "canonical_statement": "Political authority and governance originate from a transcendent, non-terrestrial source.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 125,
+        "chapter": "T H E SDMERIAN KING L I S T",
+        "surface_quote": "When the kingship was lowered from heaven",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0013",
+    "canonical_statement": "Historical tradition is subject to subjective modification and appropriation by successive cultural centers.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 125,
+        "chapter": "T H E SDMERIAN KING L I S T",
+        "surface_quote": "natural tendency... to locate the first kings in his own city",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "history",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0014",
+    "canonical_statement": "The exercise of kingship is a transferable authority that moves between distinct geographical centers of power.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 132,
+        "chapter": "T H E SUMEKIAN K I N G L I S T",
+        "surface_quote": "its kingship to Larak was carried",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "authority",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0015",
+    "canonical_statement": "Historical duration is measured in vast, non-human temporal cycles attributed to individual rulers.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 132,
+        "chapter": "T H E SUMEKIAN K I N G L I S T",
+        "surface_quote": "reigned its 28,800 years",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0016",
+    "canonical_statement": "Kingship is a divine authority that descends from the celestial realm to the terrestrial plane.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 134,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "nam-lugal an-ta en-da-ba",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0017",
+    "canonical_statement": "Human history and civilization are subject to periodic cataclysmic resets, specifically by flood.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 134,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "a-ma-ru ba-ur-ra-ta",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "cyclicality",
+      "cataclysm"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0018",
+    "canonical_statement": "Political authority and governance are divine in origin and descend from a transcendent realm to the material plane.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 136,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "when the kingship was lowered from heaven",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0019",
+    "canonical_statement": "Human history is punctuated by cataclysmic events that reset or terminate established temporal cycles.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 136,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "The Flood swept thereover.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "cataclysm",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0020",
+    "canonical_statement": "The duration of individual life and reign is not fixed by biological limits but is subject to non-linear temporal scales.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 136,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "reigned 18,600 years",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0021",
+    "canonical_statement": "Human beings are capable of ascending from the earthly realm to the celestial realm.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 141,
+        "chapter": "THE SUMEKIAN KING LIST",
+        "surface_quote": "Etana, a shepherd, the one who ascended to heaven.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ascension",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0022",
+    "canonical_statement": "The human soul or identity persists in the afterlife realm of Hades.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 141,
+        "chapter": "THE SUMEKIAN KING LIST",
+        "surface_quote": "He is also mentioned... in the Gilgames epic... where he appears as resident in Hades.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0023",
+    "canonical_statement": "Human lifespans in the primordial era significantly exceeded the biological limits observed in the contemporary epoch.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 144,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "reigned 900 years; reigned 1,200 years",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "existence",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0024",
+    "canonical_statement": "Kingship is a transferable entity that can be moved between geographic locations or administrative centers.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 147,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "its kingship to E-Anna(k) was carried.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0025",
+    "canonical_statement": "Historical duration and the span of human life are subject to non-linear, extended temporal scales.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 147,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "reigned 900 years",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0026",
+    "canonical_statement": "The movement of divine or royal figures is a symbolic reflection of solar cycles.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 148,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "the journey of Mes-kiag-gasher... obviously reflects the daily journey of the sun.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "mythology",
+      "correspondence",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0027",
+    "canonical_statement": "The structure of the universe involves a cyclical transition between subterranean, aquatic, and terrestrial realms.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 148,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "In the evening the sun goes down into the sea... travels underground... comes out to the mountains.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "time",
+      "cycles"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0028",
+    "canonical_statement": "The physical movement of a sovereign entity into and out of the sea represents a transition between distinct ontological or geographical realms.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 149,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "Mes-kiag-gasher went into the sea and came out (from it) to the mountains.",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "transition",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0029",
+    "canonical_statement": "Human lifespans in the primordial era were significantly longer than in the current epoch.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 153,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "Lugal-banda, a shepherd, reigned 1,200 years.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0030",
+    "canonical_statement": "Beings of non-human or demonic origin can interbreed with humans to produce offspring.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 155,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "the idlu lilt... can visit women and beget offspring by them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "procreation",
+      "hybridity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0031",
+    "canonical_statement": "The nature of a being can be defined by a specific ratio of divine and mortal components.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 155,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "Gilgames was 2/3 god and 1/3 mortal",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0032",
+    "canonical_statement": "The post-mortem existence of a human being can be sustained or accessed through the ritual veneration of their physical effigy.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 165,
+        "chapter": "T H E SUMERIAN K I N G LIST",
+        "surface_quote": "offering to the statues and thereby to their manes after they died.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "soul",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0033",
+    "canonical_statement": "Human beings can undergo a process of deification, transitioning from mortal status to the divine pantheon.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 165,
+        "chapter": "T H E SUMERIAN K I N G LIST",
+        "surface_quote": "deified human beings",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0034",
+    "canonical_statement": "The exercise of kingship is a transferable property that moves between distinct geographical locations.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 168,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "its kingship to Ur was carried",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "ontology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0035",
+    "canonical_statement": "Historical figures can be elevated to the status of divinity within the cultural consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 178,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "In later times he was considered a god",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0036",
+    "canonical_statement": "Kingship is a transferable entity that moves between geographic centers of power.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 181,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "its kingship to Uruk was carried",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0037",
+    "canonical_statement": "The transition of political authority is mediated by military conquest.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 181,
+        "chapter": "T H E SUMERIAN KING L I S T",
+        "surface_quote": "Kish was smitten with weapons; its kingship to Uruk was carried.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0038",
+    "canonical_statement": "The legitimacy of political authority is a subject of ontological uncertainty and inquiry.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 185,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "Who was king? Who was not king?",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "authority",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0039",
+    "canonical_statement": "Kingship is a transferable entity or office that can be relocated between different city-states.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 187,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "Agade was smitten with weapons; its kingship to Uruk was carried.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "kingship",
+      "sovereignty",
+      "political-metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0040",
+    "canonical_statement": "The political sovereignty of a civilization is a transferable entity that can be relocated from one city to another.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 200,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "Ur was smitten with weapons; its kingship to Isin was carried.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "civilization"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0041",
+    "canonical_statement": "The collapse of a civilization's foundation is a discrete event in the historical progression of the universe.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 200,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "the foundation of Sumer was torn out.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "history",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0042",
+    "canonical_statement": "The status of divinity is an attribute applicable to human rulers within the structure of historical governance.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 201,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "divine Lipit-Eshtar, son of Ishme-Dagan",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "divinity",
+      "sovereignty",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0043",
+    "canonical_statement": "The duration of sovereign rule is divinely ordained and finite.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 215,
+        "chapter": "T H E SUMERIAN KING LIST",
+        "surface_quote": "Kingship descended from heaven; kingship was in Eridu.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "divinity",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0044",
+    "canonical_statement": "Political authority originates from a transcendent, non-terrestrial source.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 215,
+        "chapter": "T H E SUMERIAN KING LIST",
+        "surface_quote": "Kingship descended from heaven.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "authority",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0045",
+    "canonical_statement": "Political authority and military victory are contingent upon divine mandate and authorization.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 218,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "Divine orders to fight him.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "authority",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0046",
+    "canonical_statement": "The legitimacy of a ruler is established through the successful defeat of the preceding sovereign power.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 218,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "The ruler of a city could become king only by defeating the existing capital.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0047",
+    "canonical_statement": "Political authority is a singular, transferable metaphysical entity that exists independently of the ruler who currently possesses it.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 220,
+        "chapter": "THE SUMEEIAN KING LIST",
+        "surface_quote": "Utu-hegal knows only one kingship, that which has been carried to the mountains.",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "ontology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0048",
+    "canonical_statement": "The legitimacy of a ruler is defined by the physical possession and restoration of a singular, ancestral mandate.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 220,
+        "chapter": "THE SUMEEIAN KING LIST",
+        "surface_quote": "Brought back the kingship of Sumer into its own hands.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "authority",
+      "legitimacy",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0049",
+    "canonical_statement": "The status of kingship is associated with divine lineage or supernatural origin.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 223,
+        "chapter": "THE SUMEEIAN KING LIST",
+        "surface_quote": "Mes-kiag-gasher, son of Utu, became high priest and king.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0050",
+    "canonical_statement": "Human consciousness and identity can transcend the physical realm to access celestial or subterranean domains.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 223,
+        "chapter": "THE SUMEEIAN KING LIST",
+        "surface_quote": "Etana, a shepherd, the one who to heaven ascended.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0051",
+    "canonical_statement": "The nature of the soul or entity is not strictly bound to human biological origin.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 223,
+        "chapter": "THE SUMEEIAN KING LIST",
+        "surface_quote": "The divine Gilgames—his father (was) a KJM-demon.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0052",
+    "canonical_statement": "Historical narratives are constructed through the synthesis of disparate, localized chronological records.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 237,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "The King List is a compilation from a number of separate local date lists.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "methodology",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0053",
+    "canonical_statement": "The origins of a lineage or tradition are defined by an absolute, non-derivative point of inception.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 237,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "The Uruk kings traced their lineage back to the sun-god.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "lineage",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0054",
+    "canonical_statement": "The institution of kingship originates in the divine realm and is transferred to the human plane.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 239,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "insignia of kingship still rested in heaven before An",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "kingship",
+      "divine",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0055",
+    "canonical_statement": "Historical memory transitions from verifiable human experience into legendary, non-historical timeframes.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 239,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "reaches back from historical to legendary periods",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "myth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0056",
+    "canonical_statement": "Mythological narratives are distinguished from historical legends by the absence of earthly reality in their settings and actors.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 247,
+        "chapter": "T H E SUMERIAN K I N G L I S T",
+        "surface_quote": "Mythos neither the setting nor the actors belong to earthly reality.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "mythology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0057",
+    "canonical_statement": "Political authority is a singular, transferable essence that exists independently of the specific rulers who possess it.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 249,
+        "chapter": "T H E SUMERIAN K I N G LIST",
+        "surface_quote": "author operates with the idea of a single 'kingship' owned at different times",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "ontology",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0058",
+    "canonical_statement": "Political authority is a singular, indivisible essence that can only reside in one location at any given time.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 254,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "theory of a single kingship of all Babylonia which could belong to only one city",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "authority",
+      "sovereignty",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0059",
+    "canonical_statement": "Historical reality is often structured or distorted by the imposition of dogmatic conceptual frameworks.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 257,
+        "chapter": "THE SUMEBIAN KING LIST",
+        "surface_quote": "effort to force correct evidence into a mold shaped by an erroneous theory",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0060",
+    "canonical_statement": "Human consciousness possesses an inherent psychological tendency to project exaggerated durations onto the primordial past.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 260,
+        "chapter": "THE STJMERIAN KING LIST",
+        "surface_quote": "tendency... to form very exaggerated ideas of the length of human life in the earliest times",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0061",
+    "canonical_statement": "Human lifespan and historical duration undergo a progressive, schematic reduction from a primordial, mythic state to the contemporary temporal scale.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 261,
+        "chapter": "THE STJMERIAN KING LIST",
+        "surface_quote": "schematic reduction of lifespan from mythic figures to the current short human measure.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "time",
+      "history",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0062",
+    "canonical_statement": "The ancestor is conceptualized as the generative seed or origin point of a lineage.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 298,
+        "chapter": "HISTORICAL VALUE",
+        "surface_quote": "The ancestor is considered as the germ, the acorn, from which the family tree grew.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "lineage"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0063",
+    "canonical_statement": "Celestial phenomena function as semiotic indicators of impending political and historical shifts.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 324,
+        "chapter": "RESULTING CHRONOLOGY",
+        "surface_quote": "The moon-god Sin... became darkened in token of their imminent defeat.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divination",
+      "causality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0064",
+    "canonical_statement": "Divine entities exercise agency in the distribution of political authority and sovereignty.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 324,
+        "chapter": "RESULTING CHRONOLOGY",
+        "surface_quote": "Marduk gave the kingship of all countries.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_sumarian_king_list_0065",
+    "canonical_statement": "Political authority and the institution of kingship originate from a transcendent, celestial source.",
+    "attributions": [
+      {
+        "source_id": "the_sumarian_king_list",
+        "chunk_index": 339,
+        "chapter": "T H E SUMERIAN K I N G LIST",
+        "surface_quote": "kingship, descent of, from heaven",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "cosmology",
+      "theocracy"
+    ],
+    "editorial_status": "auto"
+  }
+]

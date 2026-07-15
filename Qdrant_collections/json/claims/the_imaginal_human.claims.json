@@ -1,0 +1,3596 @@
+[
+  {
+    "id": "cl_the_imaginal_human_0001",
+    "canonical_statement": "Imagination is a sensory mechanism for tuning into pre-existing frequencies rather than a creative act of invention.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "You’re not “making it up”—you’re tuning it in",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "frequency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0002",
+    "canonical_statement": "The subconscious mind functions as an engine that translates internal imagery into external reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "The inner mind as your reality-scripting engine",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "subconscious"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0003",
+    "canonical_statement": "Human consciousness possesses the capacity to influence quantum collapse and timeline manifestation through focused visualization.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "Observer effect, timeline collapse, and your mental laser beam",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "quantum",
+      "time",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0004",
+    "canonical_statement": "The pineal gland serves as a biological interface for receiving non-local information.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "Your pineal gland isn’t a vibe—it’s a portal",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "biology",
+      "consciousness",
+      "portal"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0005",
+    "canonical_statement": "Individual identity is fundamentally a technological instrument capable of accessing multidimensional data.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "Why you’ve always been the technology",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "multidimensionality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0006",
+    "canonical_statement": "Imagination functions as a technological interface between the individual consciousness and the fundamental structure of reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "imagination wasn’t a toy, but technology—A sacred interface between you and the code",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0007",
+    "canonical_statement": "Individual consciousness is the active creator of objective reality rather than a passive observer.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "You don’t just perceive reality—you create it",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0008",
+    "canonical_statement": "The act of dreaming is a mechanism for transmitting or selecting specific timelines.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "You don’t just dream—you transmit timelines",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0009",
+    "canonical_statement": "The internal mental world serves as the foundational instruction set for the manifestation of external existence.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "Your inner world isn’t an escape—it’s the instruction set",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0010",
+    "canonical_statement": "Human beings possess an innate, pre-existing connection to a higher self that is capable of manifesting reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "You were born plugged in—with a limitless, vibrant imagination",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0011",
+    "canonical_statement": "Individual consciousness possesses the inherent capacity to construct internal realities and influence external probability through focused thought.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "The part that can sculpt probability with a single, focused thought.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "creation",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0012",
+    "canonical_statement": "Human intuition and imagination serve as functional interfaces for accessing higher-dimensional intelligence and the subconscious.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "Interfaces with your subconscious and higher self.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "intuition",
+      "higher-self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0013",
+    "canonical_statement": "The capacity to manifest reality is an innate, latent faculty of the human soul that persists despite social conditioning.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "Your imagination never died. It waited.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "potential"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0014",
+    "canonical_statement": "Social and educational systems function as mechanisms to suppress the individual's ability to perceive and manipulate non-material reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "You were conditioned to minimize the most sacred part of yourself.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "perception",
+      "conditioning",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0015",
+    "canonical_statement": "Imagination is a sensory faculty for perceiving higher-dimensional information rather than a creative fabrication.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Imagination is not pretend. It’s a sense... tuned to higher-dimensional input.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0016",
+    "canonical_statement": "Earth functions as an educational environment designed for the development of creative abilities.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Describing Earth as a “school for creators”",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "existence",
+      "purpose",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0017",
+    "canonical_statement": "The Higher Self communicates through non-verbal imagery because it is more efficient than linguistic expression.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "We use visuals, symbols, and feelings because words are too slow.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "communication",
+      "higher-self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0018",
+    "canonical_statement": "Subjective imaginative experiences are often accurate recollections of non-physical or historical realities.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "They think they’re pretending, but they’re actually remembering.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "memory",
+      "reality",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0019",
+    "canonical_statement": "Imagination functions as a receptive mechanism for non-local information and energetic transmissions.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "your imagination is like a psychic radio",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0020",
+    "canonical_statement": "Human consciousness is a collective memory structure accessible through the faculty of imagination.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "a map of human consciousness—a collective memory stitched together by imagination",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "collective",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0021",
+    "canonical_statement": "The physical universe is a construct designed for the purpose of creative experimentation and self-actualization.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "universe is less like a classroom and more like a sandbox",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "universe",
+      "existence",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0022",
+    "canonical_statement": "The primary objective of incarnation is the recovery of the soul's true identity amidst material illusion.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "Can you remember who you really are while surrounded by a world telling you you’re not it?",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "incarnation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0023",
+    "canonical_statement": "Individual consciousness possesses inherent, eternal access to universal knowledge, obscured only by the state of forgetting.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "You’ve always had access to it... You just forgot.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "knowledge",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0024",
+    "canonical_statement": "Human imagination functions as a primary mechanism for the construction and manifestation of physical reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "They used it to construct it.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "creation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0025",
+    "canonical_statement": "Sensory deprivation facilitates the expansion of consciousness into non-physical dimensions and archetypal realms.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "silence and darkness amplify the inner vision.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "dimensions"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0026",
+    "canonical_statement": "Mental imagery serves as an interface for telepathic communication and the manipulation of etheric architecture.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "imagination was the interface to nonverbal communication",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "telepathy",
+      "consciousness",
+      "architecture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0027",
+    "canonical_statement": "Physical matter is malleable and responsive to the influence of focused thought and geometric visualization.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Thought and geometry were used to shape matter.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "matter",
+      "reality",
+      "geometry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0028",
+    "canonical_statement": "Collective visualization acts as a causal mechanism for directing the progression of historical timelines.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "collective visualizations to steer the timeline",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "collective",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0029",
+    "canonical_statement": "The imaginal realm is the primary medium through which non-physical entities communicate with human consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "spirit communicates through imagery, not language.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "communication",
+      "spirit",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0030",
+    "canonical_statement": "Imagination functions as a sensory organ for the soul to perceive non-linear metaphysical truths.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "It’s how the soul receives non-linear truth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "soul",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0031",
+    "canonical_statement": "Human consciousness possesses an inherent, dormant capacity to access ancient, non-linear information systems.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "We never lost the code. It's still in you.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0032",
+    "canonical_statement": "Physical reality is a manifestation of prior imaginative prototyping across multiple timelines.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "You’re prototyping across timelines.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "time",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0033",
+    "canonical_statement": "The individual consciousness contains an internal blueprint or architect that retains knowledge of past spiritual capabilities.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "That’s your inner architect remembering the blueprint.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0034",
+    "canonical_statement": "Children possess an innate, unfiltered perception of multidimensional reality that is suppressed by adult socialization.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Your multidimensional perception is making me uncomfortable.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "development"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0035",
+    "canonical_statement": "Imagination is a primary faculty of consciousness that exists fully formed at birth rather than being a learned skill.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "Children don’t learn imagination. They arrive with it fully online.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "innate-knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0036",
+    "canonical_statement": "Creative play functions as a mechanism for accessing and manifesting archetypal energies and nonlinear intuition.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "They are accessing archetypal energies, translating nonlinear intuition into creative form.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "archetypes",
+      "manifestation",
+      "intuition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0037",
+    "canonical_statement": "The structural integrity of creative expression is governed by underlying geometric principles.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "They’re telling you that the geometry of the story was compromised.",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "geometry",
+      "reality",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0038",
+    "canonical_statement": "Human consciousness is born with an innate, uncorrupted connection to the source of reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "They’re still operating on soul firmware v1.0—with imagination fully connected to source.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "origin",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0039",
+    "canonical_statement": "Imagination functions as a sensory apparatus for receiving information from non-physical frequencies.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "Your imagination is the antenna.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "imagination",
+      "frequency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0040",
+    "canonical_statement": "Imagined constructs are not mere fabrications but are manifestations of objective reality tuned into by the individual.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "Why You're Not “Making It Up,” You’re Tuning It In",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0041",
+    "canonical_statement": "Social conditioning and adult maturity act as filters that diminish the individual's access to metaphysical truth.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "Acting like a grown-up is the slow death of the inner architect.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "conditioning",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0042",
+    "canonical_statement": "Human imagination is a mechanism for tuning into pre-existing frequencies rather than a creative act of generating something from nothing.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "You don’t “create from nothing.” You lock onto a channel that already exists.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0043",
+    "canonical_statement": "Physical reality is the manifestation of frequencies that were previously accessed through the inner world of consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Everything you call reality today… Was once an imagined frequency yesterday.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "manifestation",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0044",
+    "canonical_statement": "The field of consciousness contains objective realities that exist independently of empirical measurement.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "If you can feel it, see it, and interact with it? Oh honey—it already exists in the field.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "consciousness",
+      "field"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0045",
+    "canonical_statement": "The human mind functions as a bridge or gateway between non-physical frequencies and the physical dimension.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Your Mind Is a Stargate",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0046",
+    "canonical_statement": "Human visualization is the act of perceiving pre-existing probability streams rather than creating new content.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "You’re pointing your inner eye toward a probability stream.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "time",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0047",
+    "canonical_statement": "The external physical world is a simulation generated by the individual's internal state of being.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "your state of being changes the simulation you're broadcasting into.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "simulation",
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0048",
+    "canonical_statement": "The subconscious mind functions as an autonomous executor that manifests reality based on repetitive imagery and emotional input.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "It just needs repetition, emotion, and imagery—and it will make it real.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "subconscious",
+      "manifestation",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0049",
+    "canonical_statement": "The external world acts as a mirror reflecting the internal state and subconscious patterns of the individual.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "how the world mirrors you back to yourself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "identity",
+      "mirroring"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0050",
+    "canonical_statement": "The subconscious mind processes imagery and emotional charge as the primary data for reality construction, rather than linguistic input.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "The subconscious trusts pictures more than speeches.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0051",
+    "canonical_statement": "Human behavior and external reality are shaped by the subconscious mind's acceptance of mental imagery as objective truth.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "The subconscious... begins shaping behavior, body language, and even perception to match.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "reality",
+      "behavior"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0052",
+    "canonical_statement": "The subconscious mind operates as a neutral executor of repetitive mental patterns, regardless of whether those patterns are consciously intended.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "Your subconscious isn’t punishing you. It’s just following orders.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "subconscious",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0053",
+    "canonical_statement": "Individual identity and perception are susceptible to external influence if the faculty of imagination is not consciously directed.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "If you’re not using your imagination consciously, it will be hijacked.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "influence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0054",
+    "canonical_statement": "The external physical world is a manifestation of subconscious imagery.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "your external world will re-render itself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0055",
+    "canonical_statement": "Conscious observation functions as a mechanism to collapse infinite possibilities into a specific physical outcome.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "You’re not “hoping.” You’re collapsing the wave.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "quantum",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0056",
+    "canonical_statement": "Vivid visualization creates a quantum entanglement between the current self and a future version of the self.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "you entangle yourself with a future version of you",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "time",
+      "quantum"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0057",
+    "canonical_statement": "The universe exists as a field of infinite probability until acted upon by conscious attention.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "collapsing the wave from infinite possibilities into a specific result",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "quantum",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0058",
+    "canonical_statement": "Consciousness is the fundamental substrate of reality, while matter is a derivative phenomenon.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "I regard consciousness as fundamental. I regard matter as derivative from consciousness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0059",
+    "canonical_statement": "Individual identity functions as the primary agent in the construction of objective reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "Reality doesn’t create you. You create reality.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "reality",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0060",
+    "canonical_statement": "The quantum field responds to the coherence of focused attention and emotional state.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "It responds to coherence. Like a laser beam—tight, focused, repeating, emotionally charged.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "quantum",
+      "consciousness",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0061",
+    "canonical_statement": "Reality consists of a pre-existing probability matrix from which specific timelines are selected.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "We’re here to select timelines from the menu of all-that-is.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "probability",
+      "multiverse"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0062",
+    "canonical_statement": "The act of observation or focus collapses probability waves into experienced reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "Begin collapsing reality around it.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "quantum",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0063",
+    "canonical_statement": "Reality is a frequency-based construct that can be altered through intentional alignment.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "This is the frequency I am syncing with. Collapse the wave.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "frequency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0064",
+    "canonical_statement": "Synchronicities are indicators of future events manifesting in the present.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "synchronicities show up like breadcrumbs from the future.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "time",
+      "synchronicity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0065",
+    "canonical_statement": "The human imagination functions as a continuous, active interface with non-physical dimensions.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "Your imagination doesn’t sleep.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0066",
+    "canonical_statement": "Sleep facilitates a transition from ego-based consciousness to an unrestricted connection with higher-dimensional data.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "When you sleep, your conscious mind shuts up... A direct, unrestricted feed.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "sleep"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0067",
+    "canonical_statement": "Dreams are objective experiences of multidimensional travel or information transmission.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "Most dreams are... straight-up multidimensional travel.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dreams",
+      "multidimensionality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0068",
+    "canonical_statement": "Daydreaming is a mechanism for the subconscious to transmit information into waking consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "It’s your subconscious letting something bleed through into waking consciousness.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "subconscious"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0069",
+    "canonical_statement": "Spontaneous insights are external data transmissions received by the human mind.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 14,
+        "chapter": "General Content",
+        "surface_quote": "An entire idea lands in your head, fully formed.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "downloads"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0070",
+    "canonical_statement": "Human imagination functions as a conduit for information transfer from a non-local source to the individual soul.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "Imagination is the ethernet cable from source to soul.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "source",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0071",
+    "canonical_statement": "Dreams are a form of data transmission rather than merely biological neural processing.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "That’s not garbage. That’s data.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "dreams",
+      "consciousness",
+      "data"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0072",
+    "canonical_statement": "The individual consciousness acts as a receiver of information rather than the primary processor of creative ideas.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "You’re the receiver, not the processor.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0073",
+    "canonical_statement": "Lucid dreaming allows for the intentional exploration and manipulation of alternate timelines and past lives.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "In lucid dreams, you can... test drive timelines.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "lucidity",
+      "realities"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0074",
+    "canonical_statement": "The distinction between the waking state and the dream state is a construct that can be dissolved through intentional consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 15,
+        "chapter": "General Content",
+        "surface_quote": "The line between dreaming and waking starts to blur.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0075",
+    "canonical_statement": "The pineal gland functions as a biological interface between the physical brain and non-physical dimensions.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "pineal gland is the literal hardware interface for your imagination-to-reality uplink",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "biology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0076",
+    "canonical_statement": "Human imagination acts as a mechanism for projecting frequency into the field to influence probability.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "You’re projecting frequency through the pineal gland into the field.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0077",
+    "canonical_statement": "Dreams are transmissions of information from a non-physical source.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "You’re not journaling. You’re decoding transmissions.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0078",
+    "canonical_statement": "The pineal gland operates as a transceiver, both sending and receiving signals from non-physical sources.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 16,
+        "chapter": "General Content",
+        "surface_quote": "A transceiver—meaning it sends and receives.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0079",
+    "canonical_statement": "The pineal gland functions as a transdimensional interface for consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "the pineal gland is the transdimensional hub",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "biology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0080",
+    "canonical_statement": "Individual reality is constructed through a feedback loop between internal belief and external manifestation.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "You literally see what you believe—and then, by seeing it, your belief locks it in.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "manifestation",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0081",
+    "canonical_statement": "Human consciousness possesses an innate, internal capacity for self-healing and timeline navigation.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "a society of people who can visualize their own timelines, heal their own bodies",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "time",
+      "healing"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0082",
+    "canonical_statement": "The activation of higher consciousness faculties is dependent upon the reduction of external sensory input.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "The pineal opens when the external senses rest.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0083",
+    "canonical_statement": "Human consciousness functions as a receiver for non-local information through an energetic field.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "Listen... with your field.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0084",
+    "canonical_statement": "Imagination is a mechanism capable of manifesting autonomous entities from mental constructs.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "Imagination can create entities.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "creation",
+      "thoughtforms"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0085",
+    "canonical_statement": "Thoughtforms gain objective energetic reality through the sustained application of emotion, intention, and belief.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "The more energy you feed it... the more real it becomes.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "energetics",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0086",
+    "canonical_statement": "Mental constructs can achieve behavioral autonomy and exert influence upon the physical environment.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 18,
+        "chapter": "General Content",
+        "surface_quote": "It begins to... develop behavioral patterns... influence your environment.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "autonomy",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0087",
+    "canonical_statement": "Mental projections possess energetic mass and are sustained by the focus of the creator's attention.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "You’re creating mental projections with energetic mass.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "energy",
+      "thoughtforms"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0088",
+    "canonical_statement": "The distinction between subjective imagination and objective reality is porous and dependent on the investment of emotional energy.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "the line between “made-up” and “made-real” is getting blurry.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0089",
+    "canonical_statement": "Constructed thoughtforms function as amplified extensions of the creator's own consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "They are you… Amplified.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0090",
+    "canonical_statement": "The subconscious mind operates by treating intentional mental constructs as ontologically real.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "the subconscious treats them as real.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "subconscious",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0091",
+    "canonical_statement": "Human imagination serves as the primary creative forge for manifesting entities and mental structures.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 19,
+        "chapter": "General Content",
+        "surface_quote": "your imagination is the forge.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0092",
+    "canonical_statement": "Individual consciousness possesses the capacity to generate autonomous thought-forms that persist within the psyche.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "What thoughtforms have I unconsciously created?",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "thoughtforms"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0093",
+    "canonical_statement": "Focused imagination acts as a causal mechanism that influences and alters the structure of external reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "hits the field like a tuning fork and warps reality around it",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "manifestation",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0094",
+    "canonical_statement": "The efficacy of mental projection is dependent upon the integration of clarity, emotional intensity, and sustained attention.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "The more consistently you choose your focus... the stronger your inner eye becomes.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "willpower"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0095",
+    "canonical_statement": "Consciousness can construct independent entities, or tulpas, through deliberate, high-frequency mental focus.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 20,
+        "chapter": "General Content",
+        "surface_quote": "Begin sketching or describing a new guide—a tulpa made from your highest frequency.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0096",
+    "canonical_statement": "The subconscious mind requires emotional charge to manifest mental imagery into physical reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "No feeling = no manifestation.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "subconscious",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0097",
+    "canonical_statement": "Reality is a selection process where individuals align their vibrational state with pre-existing potential timelines.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "You’re aligning to a version of you that’s already out there.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "timeline",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0098",
+    "canonical_statement": "Archetypal symbols function as a direct communication interface with the subconscious, bypassing logical filters.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "These symbols bypass logic and speak straight to the subconscious.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "archetypes",
+      "subconscious",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0099",
+    "canonical_statement": "The individual possesses the capacity to architect future events by intentionally constructing mental states prior to their physical occurrence.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 21,
+        "chapter": "General Content",
+        "surface_quote": "Create it first, then walk into it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "time",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0100",
+    "canonical_statement": "The external physical world is a malleable construct that conforms to the structure of focused internal mental states.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Your focused inner vision becomes the mold reality hardens around.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "manifestation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0101",
+    "canonical_statement": "The subconscious mind acts as the bridge between internal mental imagery and the manifestation of external events.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Your subconscious needs this vision to be: Familiar, Emotionally charged, Replayed often.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "subconscious",
+      "mind",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0102",
+    "canonical_statement": "Repetition and emotional intensity are the primary mechanisms for solidifying mental constructs into physical reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "Repetition + Emotion = Installation",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "mechanism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0103",
+    "canonical_statement": "The universe operates as a responsive field that reacts to the coherence of neurological and mental signals.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 22,
+        "chapter": "General Content",
+        "surface_quote": "The field has no choice but to respond.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "universe",
+      "field",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0104",
+    "canonical_statement": "The subconscious mind functions as a mechanism that reconfigures external reality and personal behavior to align with held expectations.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "You're training your subconscious to expect the reality—and it will reorient your behaviors.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "subconscious"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0105",
+    "canonical_statement": "The universe operates as a field of potentiality that manifests outcomes based on the internal vibration or signal maintained by the individual.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "Once you've carved the sculpture in the field, let the field decide how to harden it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "manifestation",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0106",
+    "canonical_statement": "External events such as synchronicities and coincidences serve as feedback loops indicating the alignment of individual intent with the physical environment.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "These are signs that your sculpture is forming.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "synchronicity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0107",
+    "canonical_statement": "Physical objects and sensory inputs can function as anchors to stabilize and reinforce specific metaphysical frequencies.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 23,
+        "chapter": "General Content",
+        "surface_quote": "These create neurological anchors—physical triggers that stabilize the frequency.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "ritual",
+      "frequency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0108",
+    "canonical_statement": "Physical reality is malleable through the focused application of mental imagery and emotional intent.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "Watch how the matrix starts to bend",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0109",
+    "canonical_statement": "The biological body functions as a responsive system governed by frequency, imagery, and emotion rather than linguistic input.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "Your body does not speak English. It speaks frequency, imagery, and emotion.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0110",
+    "canonical_statement": "The subconscious mind and imagination constitute the primary control mechanism for biological processes.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "subconscious + imagination = the command center of your biology",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "biology",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0111",
+    "canonical_statement": "Human identity is a multidimensional entity rather than a purely physical or organic construct.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "You’re not just flesh and organs. You’re a bioelectric, biochemical, multidimensional symphony",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "multidimensionality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0112",
+    "canonical_statement": "The body does not distinguish between mental imagery and external physical reality in its physiological response.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 24,
+        "chapter": "General Content",
+        "surface_quote": "your body responding to mental images as if they’re real",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0113",
+    "canonical_statement": "Physical illness is a manifestation of underlying energetic, emotional, and imaginal imbalances.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "illness wasn’t just physical—it was energetic, emotional, and imaginational.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "health",
+      "energy",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0114",
+    "canonical_statement": "The subconscious mind utilizes symbolic imagery to represent and communicate internal states.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "Whatever appears is how your subconscious represents the issue.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "subconscious",
+      "perception",
+      "symbolism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0115",
+    "canonical_statement": "The physical body is a holographic structure that responds directly to mental input and frequency.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "Visualize your body as a light grid or hologram",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "holographic",
+      "body",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0116",
+    "canonical_statement": "Mental imagery and physical reality share a common neural substrate, allowing imagination to influence biological processes.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 25,
+        "chapter": "General Content",
+        "surface_quote": "Imagining an action activates the same neurons as doing it",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "neuroscience",
+      "reality",
+      "mind-body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0117",
+    "canonical_statement": "External reality is a direct reflection of the observer's internal identity state.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "You don’t create what you want. You create what you are.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "creation",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0118",
+    "canonical_statement": "The individual possesses agency as the primary author of their own experiential reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "You're not a character in someone else’s story. You’re the one holding the pen.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "agency",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0119",
+    "canonical_statement": "Multiple versions of the self exist simultaneously across different timelines.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "There is already a version of you who... lives in the timeline you desire.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "multiverse",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0120",
+    "canonical_statement": "Reality manifestation is achieved through frequency alignment with a pre-existing version of the self.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 26,
+        "chapter": "General Content",
+        "surface_quote": "We don’t have to build that version. We just have to tune to them.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "frequency",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0121",
+    "canonical_statement": "Individual consciousness possesses the capacity to actively shape and manifest external reality through intentional identity alignment.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "Speak like your words shape reality.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "sovereignty",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0122",
+    "canonical_statement": "Temporal timelines are fluid and reactive to the internal state and choices of the conscious observer.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "Choose as if timelines are reacting in real time.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0123",
+    "canonical_statement": "External events serve as energetic feedback loops confirming the alignment of an individual's internal blueprint with physical reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "Reality responds faster when you notice small shifts.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "feedback",
+      "energy",
+      "alignment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0124",
+    "canonical_statement": "Identity is a malleable construct that can be intentionally sculpted through sustained mental practice and behavioral repetition.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "This is identity sculpting.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0125",
+    "canonical_statement": "The physical world is a manifestation of underlying energetic blueprints held by the conscious observer.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 27,
+        "chapter": "General Content",
+        "surface_quote": "You’re holding energetic blueprints in place.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0126",
+    "canonical_statement": "The imagination is a shared, non-physical field of consciousness rather than a private mental process.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "Imagination is a shared field. A non-physical bandwidth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "imagination",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0127",
+    "canonical_statement": "The imagination serves as an interface for communication between human consciousness and non-physical intelligences.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "The imagination is the mind’s natural environment for communicating with non-physical intelligence.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "communication",
+      "consciousness",
+      "interface"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0128",
+    "canonical_statement": "Non-physical entities communicate through subtle frequencies that require inner senses rather than physical senses to perceive.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "These frequencies are too subtle for your 5 senses, but perfectly accessible via your inner senses.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness",
+      "frequency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0129",
+    "canonical_statement": "The clarity of contact with non-physical intelligence is dependent on the state of the individual's mental focus.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 28,
+        "chapter": "General Content",
+        "surface_quote": "If your mind is noisy? Static. If your focus is sharp and calm? Clear signal.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "focus",
+      "communication"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0130",
+    "canonical_statement": "The imagination serves as a non-physical interface for communication between human consciousness and external intelligent entities.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "The imagination becomes the meeting ground.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "communication"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0131",
+    "canonical_statement": "Non-physical entities adapt their appearance to align with the observer's belief systems and expectations.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "Can shift shape depending on your beliefs and expectations.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0132",
+    "canonical_statement": "Higher-dimensional or non-local intelligence communicates primarily through symbolic, geometric, or intuitive modes rather than linear language.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "They don’t speak in paragraphs. They speak in nudges, symbols, visuals.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "communication",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0133",
+    "canonical_statement": "The ego is distinct from the faculty of imagination, which acts as a receiver for external metaphysical information.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "Your imagination, when tuned, receives messages the ego could never invent.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0134",
+    "canonical_statement": "The quality of intentionality determines the nature of the beings attracted to one's consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 29,
+        "chapter": "General Content",
+        "surface_quote": "If your intention is coherent and loving? You attract the right beings.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0135",
+    "canonical_statement": "The Akashic Records are a non-physical field of encoded consciousness containing all past, present, and potential experiences.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "The Akashic Records are a field of encoded consciousness.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "akasha",
+      "information"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0136",
+    "canonical_statement": "The universe is built upon a primordial, vibrational substrate that stores all existence as encoded data.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "It's the substrate of the universe—the field beneath the field.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "substrate",
+      "universe",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0137",
+    "canonical_statement": "Individual imagination serves as the primary interface for translating non-linguistic universal data into human-comprehensible experience.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "Your imagination acts as a translator.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "imagination",
+      "perception",
+      "interface"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0138",
+    "canonical_statement": "Subjective experiences of metaphysical realms are symbolic projections generated by the mind to interpret objective universal data.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "The setting is symbolic; you're seeing your mind's way of interpreting the Akashic bandwidth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "symbolism",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0139",
+    "canonical_statement": "Human consciousness possesses an inherent, subconscious connection to the universal field of information.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 30,
+        "chapter": "General Content",
+        "surface_quote": "Your subconscious already dips into it all the time.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "subconscious",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0140",
+    "canonical_statement": "The Akashic Records serve as a repository of soul-level information accessible through intentional alignment.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "I intend to access the Akashic Records for information aligned with my highest truth.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "akashic",
+      "knowledge",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0141",
+    "canonical_statement": "Metaphysical information is filtered by non-physical entities to match the individual's current capacity for integration.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "Keepers manage the depth of what you’re ready for.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "guides",
+      "consciousness",
+      "integration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0142",
+    "canonical_statement": "The imagination functions as a bridge or interface for receiving non-local information.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "If it feels like you're making it up, your imagination is active.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "imagination",
+      "perception",
+      "transmission"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0143",
+    "canonical_statement": "Higher-dimensional data is transmitted via resonance rather than logical or linguistic structures.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "The Records don’t download through logic. They download through resonance.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "resonance",
+      "communication",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0144",
+    "canonical_statement": "Individual soul lessons can be encoded into symbolic imagery.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 31,
+        "chapter": "General Content",
+        "surface_quote": "That blue orb you saw might be your entire soul lesson compressed into one elegant image.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "symbolism",
+      "soul",
+      "data"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0145",
+    "canonical_statement": "Individual consciousness possesses the capacity to actively modify the narrative structure of its own soul history.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "You’re not just reading your soul story. You’re editing it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0146",
+    "canonical_statement": "Linguistic communication is a reductive compression of experience, whereas imagination functions as a high-bandwidth, non-linear medium for consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "Language is a compression algorithm. Imagination is instant.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "communication",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0147",
+    "canonical_statement": "Higher states of consciousness transcend linear, verbal interaction in favor of symbolic, energetic, and multi-layered data transmission.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "Advanced beings use vibration, intention, and symbolic transmission.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "communication",
+      "vibration"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0148",
+    "canonical_statement": "The human imagination serves as the primary faculty for decoding non-physical, high-frequency information.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 32,
+        "chapter": "General Content",
+        "surface_quote": "The tool that decodes all of that? Your imagination.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0149",
+    "canonical_statement": "Human imagination functions as a mechanism for telepathic communication and energetic transmission.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "Your imagination is already tuned for telepathy.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "telepathy",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0150",
+    "canonical_statement": "Reality is composed of data packets that can be influenced or shaped through symbolic intent.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "You’re literally shaping the data packets of reality.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "manifestation",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0151",
+    "canonical_statement": "Communication between consciousnesses occurs through non-linear, symbolic, and frequency-based exchanges.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "This is nonlinear communication. It’s not “less clear.” It’s more layered.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "communication",
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0152",
+    "canonical_statement": "Human consciousness possesses the inherent ability to encode intentions into the environment.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 33,
+        "chapter": "General Content",
+        "surface_quote": "Encode a blessing into an object with focused intent and visuals.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "intent",
+      "reality",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0153",
+    "canonical_statement": "Imagination functions as a universal medium for communication between non-linguistic beings and human consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "beings who live beyond language use imagination as the universal translator",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "communication",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0154",
+    "canonical_statement": "Human consciousness possesses the inherent capacity to actively construct and modify temporal and physical reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "Sculpt timelines... design their reality through imagination",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "time",
+      "sovereignty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0155",
+    "canonical_statement": "The capacity for inner vision and self-directed reality creation is a fundamental source of individual sovereignty.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "Imagination = Sovereignty",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "sovereignty",
+      "identity",
+      "power"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0156",
+    "canonical_statement": "Societal structures are intentionally designed to suppress the human capacity for imaginal creation to maintain external control.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 34,
+        "chapter": "General Content",
+        "surface_quote": "The shutdown of imagination has been engineered for centuries",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "control",
+      "society"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0157",
+    "canonical_statement": "Individual consciousness possesses the capacity to alter internal reality and resist external conditioning through the faculty of imagination.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "Imagination = Resistance to Programming",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "sovereignty",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0158",
+    "canonical_statement": "Imagination serves as a primary mechanism for accessing objective truth, independent of external institutional or consensus-based narratives.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "Imagination = Direct Access to Truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "epistemology",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0159",
+    "canonical_statement": "The individual human identity is a fractal manifestation of the Source of all existence.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "You realize you’re a fractal of Source.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "source",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0160",
+    "canonical_statement": "Consensus reality is a constructed, synthetic framework designed to limit individual awareness and maintain control.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "Reject consensus reality without falling apart",
+        "claim_type": "implied",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "reality",
+      "control",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0161",
+    "canonical_statement": "Collective reality is sustained by a shared state of amnesia, which can be disrupted by individual acts of intentional visualization.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 35,
+        "chapter": "General Content",
+        "surface_quote": "You punch a hole in the collective amnesia.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "collective",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0162",
+    "canonical_statement": "The individual consciousness is the source of all metaphysical phenomena rather than a conduit for external forces.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "They don’t come through you. They come from you.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "source"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0163",
+    "canonical_statement": "The human entity functions as a structural intersection between physical and non-physical dimensions.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "You are the portal. A walking, breathing, remembering point of intersection.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "structure",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0164",
+    "canonical_statement": "Imagination serves as the functional interface for processing and shaping multiversal reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "And imagination? It’s your interface.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0165",
+    "canonical_statement": "The individual consciousness operates as a feedback loop that continuously shapes and responds to the universal field.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "You’re broadcasting thoughts, emotions, frequencies. The field responds.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "mechanics",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0166",
+    "canonical_statement": "The perceived separation between dimensions is a construct of the individual belief system.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "The veil isn’t outside of you. It’s inside your own belief system.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "belief"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0167",
+    "canonical_statement": "Spiritual realization is the process of recognizing the self as the entity one previously sought to connect with.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 36,
+        "chapter": "General Content",
+        "surface_quote": "You’re not connecting to something else—you’re waking up as it.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "realization"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0168",
+    "canonical_statement": "Individual consciousness functions as a bridge between infinite potentiality and manifest physical reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "You are the intersection of infinite possibility and focused reality.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "reality",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0169",
+    "canonical_statement": "Human consciousness possesses the inherent capacity to alter biological and physical states through focused thought and imagination.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "Sculpt their own biology with thought; Create reality through focused imagination.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "creation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0170",
+    "canonical_statement": "The human capacity to perceive non-manifest possibilities is evidence of an active connection to a higher creative source.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "If you weren’t a portal, you wouldn’t be having these thoughts.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0171",
+    "canonical_statement": "The evolution of the human species involves transitioning from passive observation to active, sovereign creation of reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "You are not the observer anymore. You are the access point.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "evolution",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0172",
+    "canonical_statement": "Time and timelines are navigable structures accessible through visionary consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 37,
+        "chapter": "General Content",
+        "surface_quote": "Navigate timelines with vision.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0173",
+    "canonical_statement": "Objective reality is not fixed but is a construct generated by human consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "Reality is fixed... [is a lie].",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0174",
+    "canonical_statement": "Human beings possess innate, dormant biological and spiritual mechanisms for multidimensional interaction.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "You’re activating ancient, embedded tech that’s been dormant.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0175",
+    "canonical_statement": "Individual consciousness functions as a creative engine capable of manifesting external physical reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "Building Earth 2.0 from within their minds before it manifests in brick.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "creation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0176",
+    "canonical_statement": "The soul retains memory of primordial templates from previous states of existence.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "A soul that remembers the templates from the old worlds.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "soul",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0177",
+    "canonical_statement": "Human limitation is a result of socially conditioned amnesia regarding the power of imagination.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 38,
+        "chapter": "General Content",
+        "surface_quote": "Unlearn the amnesia that was sold to you as realism.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0178",
+    "canonical_statement": "The external world is a manifestation of the individual's internal state.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "I honor my inner world as the architect of the outer.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0179",
+    "canonical_statement": "Human imagination functions as a mechanism for accessing and influencing the fundamental structure of reality.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "Your imagination is not a weakness. It’s your access point.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "imagination",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0180",
+    "canonical_statement": "Conscious thought exerts a direct formative influence on the geometric structure of the universal field.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "Your thoughts are not passive. They shape geometry in the field.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "field",
+      "geometry"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0181",
+    "canonical_statement": "Emotional states function as active transmissions that broadcast information to the universe.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "Your feelings are not reactions. They are transmissions.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "emotion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0182",
+    "canonical_statement": "Individual vision serves as an instructional directive for the manifestation of universal events.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "Your vision... is your instruction set to the universe.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_imaginal_human_0183",
+    "canonical_statement": "The process of learning is fundamentally an act of remembering pre-existing knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_imaginal_human",
+        "chunk_index": 39,
+        "chapter": "General Content",
+        "surface_quote": "Not knowledge. Not belief. But remembrance.",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  }
+]

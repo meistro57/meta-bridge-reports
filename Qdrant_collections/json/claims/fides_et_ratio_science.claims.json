@@ -1,0 +1,5389 @@
+[
+  {
+    "id": "cl_fides_et_ratio_science_0001",
+    "canonical_statement": "The human spirit attains knowledge of ultimate reality through the integrated operation of faith and reason.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "consciousness",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0002",
+    "canonical_statement": "There exists an innate human drive to seek knowledge of the divine.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "God has placed in the human heart a desire to know the truth—in a word, to know himself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "desire"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0003",
+    "canonical_statement": "Self-knowledge is achieved through the knowledge and love of God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "by knowing and loving God, men and women may also come to the fullness of truth about themselves",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0004",
+    "canonical_statement": "Self-knowledge is intrinsically linked to the knowledge of reality and the universe.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "the more human beings know reality and the world, the more they know themselves",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0005",
+    "canonical_statement": "Fundamental existential questions regarding identity, origin, destiny, and the nature of suffering are universal to the human experience.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "Who am I? Where have I come from and where am I going? Why is there evil?",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence",
+      "time",
+      "suffering"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0006",
+    "canonical_statement": "The pursuit of meaning is a fundamental human drive that shapes life's direction.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 1,
+        "chapter": "General Content",
+        "surface_quote": "common source in the quest for meaning which has always compelled the human heart",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "meaning",
+      "motivation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0007",
+    "canonical_statement": "The desire for truth is an innate property",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 2,
+        "chapter": "General Content",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0008",
+    "canonical_statement": "Consciousness participates in a divine mission to serve truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "We have become sharers in this mission of the prophet Christ, and in virtue of that mission we together with him are serving divine truth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "purpose",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0009",
+    "canonical_statement": "The pursuit of truth involves loving it and seeking exact understanding.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Being responsible for that truth also means loving it and seeking the most exact understanding of it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0010",
+    "canonical_statement": "Truth possesses saving power, splendor, and profundity, yet can be simple.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "in all its saving power, its splendour and its profundity joined with simplicity",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "truth",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0011",
+    "canonical_statement": "Divine revelation originates from God and is communicated to humanity.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 7,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "The knowledge which the Church offers to man has its origin not in any speculation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "divine",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0012",
+    "canonical_statement": "God's will involves a hidden purpose, revealed through Christ, enabling human access to the divine nature.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 7,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "God chose to reveal himself and to make known to us the hidden purpose of his will",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divine will",
+      "revelation",
+      "salvation",
+      "divine nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0013",
+    "canonical_statement": "Knowledge of God is the ultimate source of meaning in human life.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 7,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "the knowledge which the human being has of God perfects all that the human mind can know",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "divine",
+      "meaning of life"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0014",
+    "canonical_statement": "There exist two distinct orders of knowledge: one accessible by natural reason, and another accessible by divine faith.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 8,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "There exists a twofold order of knowledge, distinct not only as regards their source, but also as regards their object.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "reason",
+      "faith"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0015",
+    "canonical_statement": "Certain truths, specifically divine mysteries, are unknowable through natural reason alone and require divine revelation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 8,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "besides those things which natural reason can attain, there are proposed for our belief mysteries hidden in God which, unless they are divinely revealed, cannot be known.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "reason",
+      "revelation",
+      "mystery"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0016",
+    "canonical_statement": "Knowledge derived from faith is supernaturally assisted by grace and is of a different order than philosophical knowledge based on sensory experience and intellect.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 8,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "Based upon God's testimony and enjoying the supernatural assistance of grace, faith is of an order other than philosophical knowledge.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "faith",
+      "reason",
+      "grace"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0017",
+    "canonical_statement": "God communicates directly with humanity, inviting them into communion.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 8,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "the invisible God... out of the abundance of his love speaks to men and women as friends and lives among them, so that he may invite and take them into communion with himself.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "god",
+      "communication",
+      "communion"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0018",
+    "canonical_statement": "Divine revelation is a unified process of divinely wrought deeds and spoken words.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 8,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "This plan of Revelation is realized by deeds and words having an inner unity.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "revelation",
+      "god",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0019",
+    "canonical_statement": "Jesus Christ is the ultimate mediator and fullness of all divine revelation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 8,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "By this Revelation, then, the deepest truth about God and human salvation is made clear to us in Christ, who is the mediator and at the same time the fullness of all Revelation.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "jesus christ",
+      "revelation",
+      "mediation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0020",
+    "canonical_statement": "Divine revelation unfolds within the context of time and history.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 8,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "God's Revelation is therefore immersed in time and history.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "revelation",
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0021",
+    "canonical_statement": "The divine revelation is historically situated and culminates in the person of Jesus Christ.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 10,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "truth about himself and his life which God has entrusted to humanity is immersed therefore in time and history",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "revelation",
+      "time",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0022",
+    "canonical_statement": "The Incarnation signifies the union of the eternal with the temporal, the divine with the human.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 10,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "The Eternal enters time, the Whole lies hidden in the part, God takes on a human face.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "incarnation",
+      "time",
+      "divinity",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0023",
+    "canonical_statement": "Human existence finds its ultimate meaning and intelligibility only within the mystery of the incarnate Word.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 10,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "only in the mystery of the incarnate Word does the mystery of man take on light",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "meaning",
+      "existence",
+      "incarnation",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0024",
+    "canonical_statement": "The Church progresses towards the complete fulfillment of divine truth over time.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 10,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "the Church constantly progresses towards the fullness of divine truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "church",
+      "truth",
+      "time",
+      "fulfillment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0025",
+    "canonical_statement": "Divine life, lost by the first human, is restored through Christ's death and resurrection.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 10,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "Christ has bestowed the divine life which the first Adam had refused",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "salvation",
+      "resurrection",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0026",
+    "canonical_statement": "The divine reality is the ultimate guarantor of revealed truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 12,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "God who makes himself known is also the source of the credibility of what he reveals.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "divinity",
+      "truth",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0027",
+    "canonical_statement": "Human understanding of the divine is inherently limited and incomplete.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 12,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "our vision of the face of God is always fragmentary and impaired by the limits of our understanding.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "divinity",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0028",
+    "canonical_statement": "Faith is a necessary condition for coherent understanding of divine mystery.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 12,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "Faith alone makes it possible to penetrate the mystery in a way that allows us to understand it coherently.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divinity",
+      "faith"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0029",
+    "canonical_statement": "True freedom is realized through openness to the divine reality.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 12,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "how could it be an exercise of true freedom to refuse to be open to the very reality which enables our self-realization?",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "freedom",
+      "divinity",
+      "self"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0030",
+    "canonical_statement": "Revelation presents signs that guide reason towards deeper metaphysical truths.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 12,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "the signs which Revelation itself presents. These serve to lead the search for truth to new depths",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "revelation",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0031",
+    "canonical_statement": "The divine mystery is revealed through faith, which transcends natural understanding.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 14,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "faith confirms for you, leaving nature far behind; a sign it is that now appears, hiding in mystery realties sublime",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "mystery",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0032",
+    "canonical_statement": "The ultimate truth of God is beyond the full comprehension of the human mind.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 14,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "the mystery of God which the human mind cannot exhaust but can only receive and embrace in faith",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "god",
+      "mind",
+      "comprehension"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0033",
+    "canonical_statement": "Reason is limited in its capacity to understand the infinite nature of God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 14,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "restricted only by its finiteness before the infinite mystery of God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "god",
+      "finitude"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0034",
+    "canonical_statement": "The concept of a maximally great being implies its existence.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 14,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "you are not only that than which nothing greater can be conceived... but you are greater than all that can be conceived",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "god",
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0035",
+    "canonical_statement": "Human beings",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 16,
+        "chapter": "CHAPTER I - THE REVELATION OF GOD'S WISDOM",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0036",
+    "canonical_statement": "The pursuit of knowledge and truth is an inherent characteristic of all human beings.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 18,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "the desire for knowledge is characteristic of all people",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0037",
+    "canonical_statement": "Reason and faith are complementary paths to understanding reality, not in conflict.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 18,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "profound and indissoluble unity between the knowledge of reason and the knowledge of faith",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "faith",
+      "reason",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0038",
+    "canonical_statement": "Faith enhances reason's capacity to perceive divine action within worldly events.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 18,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "Faith sharpens the inner eye, opening the mind to discover in the flux of events the workings of Providence",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "reason",
+      "perception",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0039",
+    "canonical_statement": "Human plans are guided and ultimately directed by a divine power.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 18,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "The human mind plans the way, but the Lord directs the steps",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "agency",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0040",
+    "canonical_statement": "True understanding of the world and history requires acknowledging the divine presence within them.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 18,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "the world and the events of history cannot be understood in depth without professing faith in the God who is at work in them",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "reality",
+      "divinity",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0041",
+    "canonical_statement": "Separating reason and faith diminishes the capacity for authentic self, world, and divine knowledge.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 18,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "reason and faith cannot be separated without diminishing the capacity of men and women to know themselves, the world and God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "faith",
+      "knowledge",
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0042",
+    "canonical_statement": "The divine realm is the origin of all existence and mystery.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 18,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "In God there lies the origin of all things, in him is found the fullness of the mystery",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "existence",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0043",
+    "canonical_statement": "Humanity's noble task is the exploration of truth through reason.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 18,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "to men and women there falls the task of exploring truth with their reason, and in this their nobility consists",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "humanity",
+      "reason",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0044",
+    "canonical_statement": "True knowledge is contingent upon a relationship with the divine.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 20,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "knowledge... supposes as well an indispensable link with faith and with what has been revealed.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0045",
+    "canonical_statement": "Self-understanding is achieved through relationality with self, others, the world, and the divine.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 20,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "understood himself only as “being in relation”—with himself, with people, with the world and with God.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0046",
+    "canonical_statement": "Revelation opens reason to the infinite, enabling understanding beyond prior limitations.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 20,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "opening to the mystery, which came to him through Revelation, was for him, in the end, the source of true knowledge.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "reason",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0047",
+    "canonical_statement": "Human reason possesses an innate capacity for metaphysical inquiry, enabling knowledge of the divine through creation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 20,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "through all that is created the “eyes of the mind” can come to know God.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "divinity",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0048",
+    "canonical_statement": "Human disobedience diminished the direct access of reason to the Creator.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 20,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "this ready access to God the Creator diminished.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "consciousness",
+      "disobedience"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0049",
+    "canonical_statement": "The",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 20,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0050",
+    "canonical_statement": "Human reason's capacity for truth was impaired by disobedience and an aversion to its source.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 21,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "human thinking, because of sin, became 'empty'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "truth",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0051",
+    "canonical_statement": "The divine revelation in Christ redeems reason from self",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 21,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0052",
+    "canonical_statement": "The limitations of human reason are revealed by the juxtaposition of faith and philosophical systems.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 22,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "The Cross as the authentic critique of those who delude themselves that they possess the truth",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reason",
+      "truth",
+      "faith"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0053",
+    "canonical_statement": "The intersection of faith and reason can lead to a deeper understanding of truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 22,
+        "chapter": "CHAPTER II - CREDO UT INTELLEGAM",
+        "surface_quote": "the reef beyond which the two can set forth upon the boundless ocean of truth",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "truth",
+      "faith",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0054",
+    "canonical_statement": "The divine being is the ultimate creator and sustainer of all existence.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 23,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "God as Creator, as the One who transcends all things and gives life to all.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "creation",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0055",
+    "canonical_statement": "The temporal and spatial existence of humanity is divinely ordained.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 23,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "he allotted the times of their existence and the boundaries of the places where they would live",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "space",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0056",
+    "canonical_statement": "Human beings possess an innate longing for the divine.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 23,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "in the far reaches of the human heart there is a seed of desire and nostalgia for God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "desire",
+      "divinity",
+      "human nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0057",
+    "canonical_statement": "The human capacity for reason allows for transcendence towards the infinite.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 23,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "reason's capacity to rise beyond what is contingent and set out towards the infinite",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "transcendence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0058",
+    "canonical_statement": "All humans have an inherent desire to acquire knowledge.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 23,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "All human beings desire to know",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "human nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0059",
+    "canonical_statement": "Truth is the ultimate object of the human desire for knowledge.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 23,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "truth is the proper object of this desire",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0060",
+    "canonical_statement": "The pursuit of truth is an inherent human drive, and individuals seek to validate propositions as true.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 25,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "many who wanted to deceive, but none who wanted to be deceived",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0061",
+    "canonical_statement": "Maturity is characterized by the independent discernment of truth from falsehood and the formation of independent judgments about objective reality.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 25,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "distinguish independently between truth and falsehood, making up their own minds",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0062",
+    "canonical_statement": "Ethical action, guided by a free and properly oriented will, leads to happiness and personal perfection.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 25,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "acting ethically, according to a free and rightly tuned will, the human person sets foot upon the path to happiness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0063",
+    "canonical_statement": "There is a moral obligation to seek and adhere to truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 25,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "a prior moral obligation, and a grave one at that, to seek the truth",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0064",
+    "canonical_statement": "A true proposition possesses universal validity across all individuals and times.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 27,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "If something is true, then it must be true for all people and at all times.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "universality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0065",
+    "canonical_statement": "Human beings inherently seek an absolute ground of existence that provides ultimate meaning and cessation of questioning.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 27,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "people seek an absolute which might give to all their searching a meaning and an answer",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "meaning",
+      "existence",
+      "desire"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0066",
+    "canonical_statement": "Personal existence requires grounding in a final, indubitable truth for certitude.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 27,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "personal existence must be anchored to a truth recognized as final, a truth which confers a certitude",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "truth",
+      "certainty"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0067",
+    "canonical_statement": "The human being is defined by their innate drive to seek truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 27,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "One may define the human being, therefore, as the one who seeks the truth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "truth",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0068",
+    "canonical_statement": "The capacity to search for truth implies the existence of potential responses.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 27,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "The capacity to search for truth and to pose questions itself implies the rudiments of a response.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "knowledge",
+      "potential"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0069",
+    "canonical_statement": "The pursuit of truth is motivated by an expectation of finding an answer.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 27,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "Only the sense that they can arrive at an answer leads them to take the first step.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "motivation",
+      "expectation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0070",
+    "canonical_statement": "The fundamental questions of existence are deeply ingrained in the human psyche, with implicit outlines of answers present.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 27,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "in the soul of each of us there is at least an outline of the answers.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "consciousness",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0071",
+    "canonical_statement": "The convergence of answers to fundamental questions across individuals validates their truthfulness.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 27,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "One reason why the truth of these answers convinces is that they are no different in substance from the answers to which many others have come.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "consensus",
+      "validation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0072",
+    "canonical_statement": "Human beings possess the inherent capability to attain truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 27,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "in principle the human being can arrive at the truth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "capability",
+      "potential"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0073",
+    "canonical_statement": "Human beings are fundamentally social and exist within a framework of inherited traditions and beliefs.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 28,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "Human beings are not made to live alone. They are born into a family and in a family they grow",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "society",
+      "belief"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0074",
+    "canonical_statement": "The acquisition of truth occurs through multiple modes, including immediate evidence, scientific experimentation, philosophical speculation, and religious tradition.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 28,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "Most of them depend upon immediate evidence or are confirmed by experimentation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0075",
+    "canonical_statement": "Personal growth involves critically evaluating inherited truths and potentially reaffirming them through experience or reasoning.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 28,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "personal growth and maturity imply that these same truths can be cast into doubt and evaluated",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "knowledge",
+      "growth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0076",
+    "canonical_statement": "A significant portion of human knowledge is based on belief in the testimony of others, rather than direct personal verification.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 28,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "there are in the life of a human being many more truths which are simply believed than truths which are acquired",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "belief",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0077",
+    "canonical_statement": "Belief involves an interpersonal dimension, entrusting oneself to others and forming intimate relationships, which enriches knowledge beyond mere evidence.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 28,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "belief is often humanly richer than mere evidence, because it involves an interpersonal relationship",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "belief",
+      "relationship",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0078",
+    "canonical_statement": "The ultimate truth sought in interpersonal relationships is the truth of the person, their being and inner revelation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 28,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "what is sought is the truth of the person—what the person is and what the person reveals from deep within",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "truth",
+      "relationship"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0079",
+    "canonical_statement": "Authentic knowledge of truth is achieved through faithful self-giving and trust in others.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 30,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "dynamic relationship of faithful self-giving with others",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "identity",
+      "trust"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0080",
+    "canonical_statement": "Martyrs are authentic witnesses to the truth about existence, demonstrating certainty found in encountering Christ.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 30,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "martyrs, who are the most authentic witnesses to the truth about existence",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "existence",
+      "witness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0081",
+    "canonical_statement": "The human being inherently seeks an ultimate truth that explains the meaning of life.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 30,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "It is the nature of the human being to seek the truth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "human nature",
+      "truth",
+      "meaning"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0082",
+    "canonical_statement": "The search for ultimate truth can only conclude by reaching the absolute.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 30,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "search which can reach its end only in reaching the absolute",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "absolute",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0083",
+    "canonical_statement": "Reason, in its search for truth, requires support from trusting dialogue and sincere friendship.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 30,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "reason too needs to be sustained in all its searching by trusting dialogue",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reason",
+      "truth",
+      "dialogue"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0084",
+    "canonical_statement": "The fundamental questions of human existence reveal the inherent rationality of human life.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 31,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "These questions show the deep reasonableness of human existence",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0085",
+    "canonical_statement": "The search for the meaning of existence is the highest expression of human nature.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 31,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "These enquiries... are the highest expression of human nature",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "existence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0086",
+    "canonical_statement": "The human religious impulse is the peak of rational nature and an aspiration for truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 31,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "The religious impulse is the highest expression of the human person",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reason",
+      "divine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0087",
+    "canonical_statement": "Human beings are inherently driven by an unstoppable journey of discovery, seeking truth and a person to trust.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 32,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "men and women are on a journey of discovery which is humanly unstoppable—a search for the truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "purpose",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0088",
+    "canonical_statement": "Christian faith offers a path to fulfill the human search for truth and ultimate goals.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 32,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "Christian faith comes to meet them, offering the concrete possibility of reaching the goal",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "purpose",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0089",
+    "canonical_statement": "Faith enables participation in divine mystery, leading to true knowledge of the Triune God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 32,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "faith immerses human beings in the order of grace, which enables them to share in the mystery",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0090",
+    "canonical_statement": "Jesus Christ represents the ultimate truth and fulfillment of human desire and longing.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 32,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "In Jesus Christ, who is the Truth, faith recognizes the ultimate appeal to humanity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0091",
+    "canonical_statement": "Revealed truth and philosophical truth are not contradictory but lead to the fullness of truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 32,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "This truth, which God reveals to us in Jesus Christ, is not opposed to the truths which philosophy perceives",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "knowledge",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0092",
+    "canonical_statement": "The unity of truth is a fundamental principle of human reasoning and is guaranteed by God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 32,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "The unity of truth is a fundamental premise of human reasoning",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "reason",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0093",
+    "canonical_statement": "The God of creation is the same God of salvation history, ensuring the intelligibility of reality.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 32,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "the God of creation is also the God of salvation history. It is the one and the same God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "reality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0094",
+    "canonical_statement": "Jesus Christ embodies the unity of natural and revealed truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 32,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "This unity of truth, natural and revealed, is embodied in a living and personal way in Christ",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0095",
+    "canonical_statement": "Jesus Christ, the eternal and incarnate Word, reveals the Father and is the fulfillment of creation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 32,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "He is the eternal Word in whom all things were created, and he is the incarnate Word",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "creation",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0096",
+    "canonical_statement": "The full truth sought by human reason is found only through Christ.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 32,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "What human reason seeks “without knowing it” can be found only through Christ",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "reason",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0097",
+    "canonical_statement": "Revealed truth requires understanding through reason.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 32,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "the truth conferred by Revelation is a truth to be understood in the light of reason",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "reason",
+      "faith"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0098",
+    "canonical_statement": "The truths of faith and the truths of empirical observation are non-contradictory.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 33,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "the two truths, of faith and of science, can never contradict each other",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0099",
+    "canonical_statement": "The natural world is a manifestation of divine will.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 33,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "the natural world proceeding equally from the divine Word",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0100",
+    "canonical_statement": "Divine presence can be perceived through empirical investigation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 33,
+        "chapter": "CHAPTER III - INTELLEGO UT CREDAM",
+        "surface_quote": "Galileo sensed in his scientific research the presence of the Creator",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0101",
+    "canonical_statement": "Humanity possesses an innate capacity for understanding the divine, discernible through natural knowledge and conscience.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 34,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "point as well to natural knowledge of God and to the voice of conscience",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "divinity",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0102",
+    "canonical_statement": "The origin of the universe and divinity were initially explored through mythological narratives.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 34,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "earliest expression in poetry; and the theogonies remain the first evidence",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "divinity",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0103",
+    "canonical_statement": "Philosophical inquiry seeks to establish rational foundations for belief in divinity, moving beyond myth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 34,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "provide a rational foundation for their belief in the divinity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "reason",
+      "belief"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0104",
+    "canonical_statement": "Rational analysis can purify religious understanding by identifying and discarding superstitious elements.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 34,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "Superstitions were recognized for what they were and religion was, at least in part, purified",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "reason",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0105",
+    "canonical_statement": "Certain forms of knowledge are esoteric and accessible only to a select few, distinct from universal reason.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 34,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "higher and esoteric kind of knowledge, reserved to those few who were perfect",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0106",
+    "canonical_statement": "The ultimate",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 35,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0107",
+    "canonical_statement": "Theology, as rational discourse about the divine, originated in Greek philosophy.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 37,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "the name “theology” itself, together with the idea of theology as rational discourse about God, had to this point been tied to its Greek origins.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "theology",
+      "origin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0108",
+    "canonical_statement": "Christian revelation transformed the meaning of theology from generic doctrine about gods to reflection on true doctrine about God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 37,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "in the light of Christian Revelation what had signified a generic doctrine about the gods assumed a wholly new meaning, signifying now the reflection undertaken by the believer in order to express the true doctrine about God.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "revelation",
+      "doctrine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0109",
+    "canonical_statement": "Christian thought, while using philosophy, distinguished itself from it.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 37,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "this new Christian thought made use of philosophy, but at the same time tended to distinguish itself clearly from philosophy.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "philosophy",
+      "distinction"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0110",
+    "canonical_statement": "Platonic thought was altered by theology regarding concepts like the soul's immortality and human divinization.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 37,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "Platonic thought, once adopted by theology, underwent profound changes, especially with regard to concepts such as the immortality of the soul, the divinization of man and the origin of evil.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "theology",
+      "soul",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0111",
+    "canonical_statement": "True faith provides a path to understanding that some philosophers, despite knowing the goal, failed to find.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 37,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "knowing the goal to seek, they had ignored the path which leads to it: the Word made flesh.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "faith",
+      "philosophy",
+      "knowledge",
+      "path"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0112",
+    "canonical_statement": "A synthesis of philosophy and theology can be grounded in biblical thought and sustained by speculative depth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 37,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "the great unity of knowledge, grounded in the thought of the Bible, was both confirmed and sustained by a depth of speculative thinking.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "theology",
+      "knowledge",
+      "bible"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0113",
+    "canonical_statement": "Reason, when purified and properly oriented, can access higher levels of cognition and provide a basis for understanding existence, the transcendent, and the absolute.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 39,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "reason could rise to the higher planes of thought, providing a solid foundation for the perception of being",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "perception",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0114",
+    "canonical_statement": "The intellect's pursuit of knowledge is driven by love for the object of knowledge, leading to a continuous desire for deeper understanding.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 39,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "the intellect must seek that which it loves: the more it loves, the more it desires to know",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "intellect",
+      "desire",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0115",
+    "canonical_statement": "The ultimate purpose of conception or existence is to perceive the divine or ultimate truth, a state not yet fully attained.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 39,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "To see you was I conceived; and I have yet to conceive that for which I was conceived",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "existence",
+      "purpose",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0116",
+    "canonical_statement": "Reason's capacity is to find meaning and explanations for faith, not to judge its content.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 39,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "Reason in fact is not asked to pass judgement on the contents of faith, something of which it would be incapable",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "faith",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0117",
+    "canonical_statement": "The encounter between faith and philosophy is a deep meeting of souls, specifically between the creature and the Creator.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 39,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "it was a meeting of creature and Creator",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "faith",
+      "reason",
+      "soul",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0118",
+    "canonical_statement": "Wisdom originating from the Holy Spirit is distinct from intellectually acquired wisdom and enables judgment according to divine truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 43,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "wisdom which is the gift of the Holy Spirit...comes from on high",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "knowledge",
+      "divine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0119",
+    "canonical_statement": "All truth, regardless of its origin, originates from the Holy Spirit.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 43,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "whatever its source, truth is of the Holy Spirit",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "truth",
+      "divine",
+      "source"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0120",
+    "canonical_statement": "The intellect possesses a natural capacity to explore reality, albeit with limitations.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 43,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "capacity of the intellect...to explore reality",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "intellect",
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0121",
+    "canonical_statement": "Objective truth exists independently of subjective perception.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "philosophy of “what is”",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0122",
+    "canonical_statement": "Reason and faith are distinct but potentially integrated domains of knowledge.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "organic link between theology and philosophy",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reason",
+      "faith",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0123",
+    "canonical_statement": "The separation of reason from faith can lead to a mistrust of reason itself.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "mistrust with regard to reason itself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "faith",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0124",
+    "canonical_statement": "Systems that separate rational knowledge from faith can undermine faith's role.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "rational knowledge sundered from faith and meant to take the place of faith",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "faith",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0125",
+    "canonical_statement": "Some philosophical systems have explicitly opposed religious revelation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "setting itself quite explicitly in opposition",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "revelation",
+      "opposition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0126",
+    "canonical_statement": "Idealism attempted to rationalize faith's contents into dialectical structures.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "transform faith and its contents... into dialectical structures",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "idealism",
+      "faith",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0127",
+    "canonical_statement": "Atheistic humanism views faith as detrimental to rationality.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "faith as alienating and damaging to the development of a full rationality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "humanism",
+      "atheism",
+      "faith",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0128",
+    "canonical_statement": "Positivism rejects metaphysical and moral frameworks in scientific research.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "rejected every appeal to a metaphysical or moral vision",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "positivism",
+      "science",
+      "metaphysics",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0129",
+    "canonical_statement": "A lack of ethical reference points can lead scientists to prioritize non-human concerns.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "lacking any ethical point of reference",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "ethics",
+      "science",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0130",
+    "canonical_statement": "Technological advancement can tempt individuals towards a god-like power over existence.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "quasi-divine power over nature and even over the human being",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "technology",
+      "power",
+      "divinity",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0131",
+    "canonical_statement": "Nihilism posits that existence is fundamentally meaningless and truth is unattainable.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "philosophy of nothingness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nihilism",
+      "existence",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0132",
+    "canonical_statement": "The pursuit of knowledge without a goal is a characteristic of nihilism.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 45,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "the search is an end in itself, without any hope",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "nihilism",
+      "knowledge",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0133",
+    "canonical_statement": "Reality is characterized by impermanence, rendering definitive commitments unsustainable.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 46,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "everything is fleeting and provisional",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0134",
+    "canonical_statement": "Instrumental reason prioritizes utilitarian ends over the contemplation of truth and ultimate meaning.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 46,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "directed towards the promotion of utilitarian ends",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0135",
+    "canonical_statement": "Human creations, particularly those stemming from intellect and will, can become detrimental to their creators.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 46,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "what he produces... can radically turn against himself",
+        "claim_type": "dramatized",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0136",
+    "canonical_statement": "The pursuit of subjective certainty or pragmatic utility can obscure the capacity of reason to know truth and the absolute.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 46,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "obscured the true dignity of reason, which is no longer equipped to know the truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0137",
+    "canonical_statement": "Reason and faith are interdependent, with each being diminished when separated from the other.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 46,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "each without the other is impoverished and enfeebled",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reason",
+      "faith",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0138",
+    "canonical_statement": "Reason, when separated from divine revelation, risks losing sight of its ultimate purpose.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 46,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "reason has taken side-tracks which expose it to the danger of losing sight of its final goal",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0139",
+    "canonical_statement": "Faith, when separated from reason, may overemphasize subjective experience.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 46,
+        "chapter": "CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON",
+        "surface_quote": "faith has stressed feeling and experience",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0140",
+    "canonical_statement": "No single historical philosophical system can encompass the entirety of truth or fully explain existence.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 50,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "no historical form of philosophy can legitimately claim to embrace the totality of truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "philosophy",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0141",
+    "canonical_statement": "Certain philosophical claims regarding God, humanity, freedom, and ethics are directly relevant to revealed religious truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 50,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "philosophical opinions—concerning God, the human being, human freedom and ethical behaviour—engage the Church directly",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "theology",
+      "ethics",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0142",
+    "canonical_statement": "The Church's role includes identifying philosophical ideas that conflict with its faith.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 50,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "It is the Church's duty to indicate the elements in a philosophical system which are incompatible with her own faith",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "faith",
+      "doctrine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0143",
+    "canonical_statement": "Philosophical inquiry requires self-correction and refinement of its conceptual frameworks.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 50,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "philosophers are the first to understand the need for self-criticism, the correction of errors",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0144",
+    "canonical_statement": "Human reason is inherently limited and has been weakened by sin.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 50,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "reason wounded and weakened by sin",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "humanity",
+      "sin"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0145",
+    "canonical_statement": "Historical philosophical systems have addressed concepts such as the pre-existence of the soul.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 50,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "theories which argued in favour of the pre-existence of the soul",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "soul",
+      "philosophy",
+      "history"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0146",
+    "canonical_statement": "Astrological speculation and esoteric superstitions have been historically addressed by religious doctrine.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 50,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "forms of idolatry and esoteric superstition found in astrological speculations",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "superstition",
+      "astrology",
+      "doctrine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0147",
+    "canonical_statement": "There exist two distinct orders of knowledge, one derived from natural reason and the other from divine revelation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 52,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "There are two orders of knowledge, distinct not only in their point of departure, but also in their object.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "reason",
+      "faith"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0148",
+    "canonical_statement": "The existence of God is knowable through natural reason, independent of divine revelation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 52,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "the natural knowability of the existence of God, the beginning and end of all things",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "reason",
+      "god"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0149",
+    "canonical_statement": "Divine revelation and faith are transcendent and hold precedence over philosophical findings and natural reason.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 52,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "the transcendence and precedence of the mysteries of faith over the findings of philosophy",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "faith",
+      "reason",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0150",
+    "canonical_statement": "Truth is unified, and divine revelation and natural reason cannot ultimately contradict each other as both originate from the same divine source.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 52,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "there can never be a true divergence between faith and reason, since the same God who reveals the mysteries and bestows the gift of faith has also placed in the human spirit the light of reason.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "reason",
+      "faith"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0151",
+    "canonical_statement": "Philosophical theories can be characterized by their epistemological and ontological stances, such as phenomenalism, agnosticism, and immanentism.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 54,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "philosophical claims which were phenomenist, agnostic and immanentist",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0152",
+    "canonical_statement": "Certain philosophical systems, like Marxism, are fundamentally atheistic.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 54,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "Marxist philosophy and atheistic Communism",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "philosophy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0153",
+    "canonical_statement": "Philosophical and theological errors should be critically examined rather than simply rejected.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 54,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "errors of this kind should not simply be rejected but should be examined critically",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "philosophy",
+      "theology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0154",
+    "canonical_statement": "Even erroneous philosophical theories may contain elements of truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 54,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "even in these false theories some truth is found at times",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "philosophy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0155",
+    "canonical_statement": "A widespread contemporary philosophical trend involves a distrust of reason, leading to the idea of 'the end of metaphysics'.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 54,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "deep-seated distrust of reason... talk at times of 'the end of metaphysics'",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "philosophy",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0156",
+    "canonical_statement": "Philosophy's scope may be limited to interpreting facts or investigating restricted fields of knowledge.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 54,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "Philosophy is expected to rest content with more modest tasks",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "philosophy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0157",
+    "canonical_statement": "The truth of sacred scripture requires a comprehensive exegesis that considers philosophical underpinnings.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 56,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "various hermeneutical approaches have their own philosophical underpinnings",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "scripture",
+      "hermeneutics",
+      "philosophy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0158",
+    "canonical_statement": "Sacred Tradition, Sacred Scripture, and the Magisterium of the Church are unified and interdependent.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 56,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "none of the three can survive without the others",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "doctrine",
+      "scripture",
+      "tradition",
+      "authority"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0159",
+    "canonical_statement": "Rational knowledge and philosophical discourse are important for understanding faith and belief in God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 56,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "importance of rational knowledge and philosophical discourse for the understanding of faith",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "reason",
+      "philosophy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0160",
+    "canonical_statement": "The word of God is contained in both Sacred Scripture and Sacred Tradition.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 56,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "word of God is present in both Scripture and Tradition",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "doctrine",
+      "scripture",
+      "tradition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0161",
+    "canonical_statement": "Belief in divinely revealed truths is a supernatural virtue, not based on rational perception but on divine authority.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 57,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "believe to be true the things revealed by God, not because of the intrinsic truth of the things perceived by the natural light of reason, but because of the authority of God himself",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "faith",
+      "reason",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0162",
+    "canonical_statement": "Human reason has inherent limitations in its capacity to comprehend supernatural mysteries.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 57,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "reason is never able to penetrate these mysteries as it does the truths which are its proper object",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reason",
+      "consciousness",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0163",
+    "canonical_statement": "Opinions contrary to Church-condemned doctrines are to be considered errors, not legitimate scientific conclusions.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 57,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "regard them as errors which have no more than a fraudulent semblance of truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "doctrine",
+      "truth",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0164",
+    "canonical_statement": "Truth is attained through a consonance between intellect and objective reality, not through consensus.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 58,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "truth is born of consensus and not of a consonance between intellect and objective reality",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0165",
+    "canonical_statement": "Human reason possesses the capacity to pursue ultimate truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 58,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "trust in the power of human reason and not to set themselves goals that are too modest",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0166",
+    "canonical_statement": "Faith stimulates reason to transcend limitations and seek truth, goodness, and beauty.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 58,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "Faith stirs reason to move beyond all isolation and willingly to run risks",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "reason",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0167",
+    "canonical_statement": "Faith serves as an advocate for reason.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 58,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "Faith thus becomes the convinced and convincing advocate of reason",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0168",
+    "canonical_statement": "Philosophical thinking fundamentally contributes to faith and theological learning.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 58,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "philosophical thinking contributes in fundamental ways to faith and theological learning",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "faith",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0169",
+    "canonical_statement": "The philosophy of Saint Thomas Aquinas holds incomparable value for aligning philosophical thought with faith.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 58,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "his insistence upon the incomparable value of the philosophy of Saint Thomas",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "faith",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0170",
+    "canonical_statement": "Faith and reason, while distinct, are interconnected and mutually supportive.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 58,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "Just when Saint Thomas distinguishes perfectly between faith and reason, he unites them in bonds of mutual friendship",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0171",
+    "canonical_statement": "The mystery of human existence is illuminated by the divine mystery of the Incarnate Word.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 60,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "only in the mystery of the Incarnate Word does the mystery of man take on light",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0172",
+    "canonical_statement": "The human person is created in the image of God, possessing inherent dignity and superiority.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 60,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "the value of the human person created in the image of God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0173",
+    "canonical_statement": "Human reason possesses a transcendent capacity.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 60,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "declares the transcendent capacity of human reason",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0174",
+    "canonical_statement": "The philosophical vision of atheism is flawed in relation to human dignity and freedom.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 60,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "flaws of its philosophical vision are identified",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "identity",
+      "freedom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0175",
+    "canonical_statement": "The first man, Adam, prefigured Christ, the new Adam.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 60,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "Adam, the first man, was a type of him who was to come, Christ the Lord",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0176",
+    "canonical_statement": "Philosophical education should provide knowledge of the human being, the world, and God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 60,
+        "chapter": "CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS",
+        "surface_quote": "knowledge of the human being, of the world and of God",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "ontology",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0177",
+    "canonical_statement": "Divine truth possesses an inherent intelligibility and logical consistency, forming an authentic body of knowledge.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 66,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "divine Truth ... enjoys an innate intelligibility, so logically consistent that it stands as an authentic body of knowledge.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "truth",
+      "knowledge",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0178",
+    "canonical_statement": "Theology requires philosophical concepts to articulate theological issues such as the nature of God, creation, and the relationship between God and humanity.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 66,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "Without philosophy's contribution, it would be impossible to discuss theological issues",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "theology",
+      "philosophy",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0179",
+    "canonical_statement": "Speculative dogmatic theology presupposes a philosophy of being, the human person, and the world, grounded in objective truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 66,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "Speculative dogmatic theology thus presupposes and implies a philosophy of being",
+        "claim_type": "implied",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "philosophy",
+      "being",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0180",
+    "canonical_statement": "Certain truths are knowable through natural reason and philosophy, and are presupposed for the acceptance of divine Revelation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 66,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "existence of truths which are naturally, and thus philosophically, knowable",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "reason",
+      "revelation",
+      "philosophy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0181",
+    "canonical_statement": "Reason can perceive certain truths that are given fuller meaning and ultimate purpose by faith and revelation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 68,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "truths which reason, from its own independent enquiry, already perceives. Revelation endows these truths with their fullest meaning",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "faith",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0182",
+    "canonical_statement": "Human language can meaningfully refer to realities that transcend human experience.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 68,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "capacity of human language to speak in a true and meaningful way even of things which transcend all human experience",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "language",
+      "transcendence",
+      "meaning"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0183",
+    "canonical_statement": "There exists a path to faith that utilizes reason without compromising intellectual autonomy.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 68,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "acknowledge the existence of a truly propaedeutic path to faith, one which can lead to the acceptance of Revelation without in any way compromising the principles and autonomy of the mind itself",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reason",
+      "faith",
+      "autonomy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0184",
+    "canonical_statement": "Faith and reason are compatible, with faith guiding reason toward truths beyond its independent reach.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 68,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "profound compatibility that exists between faith and its need to find expression by way of human reason fully free to give its assent. Although faith, a gift of God, is not based on reason, it can certainly not dispense with it. At the same time, it becomes apparent that reason needs to be reinforced by faith, in order to discover horizons it cannot reach on its own",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "reason",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0185",
+    "canonical_statement": "Christian life in the Spirit involves freedom and responsibility that transcend specific legalistic prescriptions.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 68,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "human life is much less governed by prescriptions than in the Old Testament. Life in the Spirit leads believers to a freedom and responsibility which surpass the Law",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "spirit",
+      "freedom",
+      "ethics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0186",
+    "canonical_statement": "Moral theology requires a philosophical understanding of human nature, society, and ethical principles.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 68,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "moral theology requires a sound philosophical vision of human nature and society, as well as of the general principles of ethical decision-making",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "philosophy",
+      "human nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0187",
+    "canonical_statement": "Objective truth is discernible across different world-views and cultures.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 70,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "discern in different world-views and different cultures “not what people think but what the objective truth is”.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "perception",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0188",
+    "canonical_statement": "Embracing faith transforms individuals and collapses cultural divisions, creating universal unity.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 70,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "the walls separating the different cultures collapsed. God's promise in Christ now became a universal offer",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "unity",
+      "culture",
+      "transformation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0189",
+    "canonical_statement": "Cultures, when deeply rooted, reveal humanity's openness to the universal and transcendent.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 70,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "cultures show forth the human being's characteristic openness to the universal and the transcendent.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "culture",
+      "transcendence",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0190",
+    "canonical_statement": "Cultures can offer paths to truth and reveal humanizing values.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 70,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "they offer different paths to the truth, which assuredly serve men and women well in revealing values",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "culture",
+      "truth",
+      "values"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0191",
+    "canonical_statement": "Cultural traditions can implicitly point to the manifestation of the divine in nature.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 70,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "they point—implicitly but authentically—to the manifestation of God in nature",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "culture",
+      "divinity",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0192",
+    "canonical_statement": "Human beings possess an inherent capacity for experiencing mystery and a drive for knowledge.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 72,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "their unfailing openness to mystery and their boundless desire for knowledge.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0193",
+    "canonical_statement": "Culture has an inherent capacity to receive divine revelation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 72,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "culture itself has an intrinsic capacity to receive divine Revelation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "doctrine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0194",
+    "canonical_statement": "The divine truth is revealed within the history and culture of a people.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 72,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "he reveals in the history and culture of a people.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "doctrine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0195",
+    "canonical_statement": "The proclamation of the Gospel allows individuals to maintain their cultural identity while adhering to faith.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 72,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "allows people to preserve their own cultural identity.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "doctrine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0196",
+    "canonical_statement": "No single culture can serve as the ultimate criterion for judging divine revelation or truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 72,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "no one culture can ever become the criterion of judgment, much less the ultimate criterion of truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0197",
+    "canonical_statement": "The Gospel offers liberation from sin and calls individuals to truth, fostering cultural development.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 72,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "genuine liberation from all the disorders caused by sin and is, at the same time, a call to the fullness of truth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "doctrine",
+      "liberation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0198",
+    "canonical_statement": "The human spirit possesses a universal nature, with consistent fundamental needs across diverse cultures.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 74,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "universality of the human spirit, whose basic needs are the same in the most disparate cultures",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0199",
+    "canonical_statement": "Divine providence guides the progression of history and the development of the Church.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 74,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "providential plan of God who",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0200",
+    "canonical_statement": "Reason is purified and liberated from presumption by faith.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 77,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0201",
+    "canonical_statement": "Faith is a cognitive process involving both thought and assent.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 79,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "To believe is nothing other than to think with assent",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "cognition",
+      "belief"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0202",
+    "canonical_statement": "Assent is a necessary component of genuine belief.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 79,
+        "chapter": "CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY",
+        "surface_quote": "without assent one does not really believe",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "belief",
+      "assent",
+      "cognition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0203",
+    "canonical_statement": "God alone is the uncreated and self-generating Absolute.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 80,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "God alone is the Absolute.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "god",
+      "reality",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0204",
+    "canonical_statement": "The human being is created in the image of God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 80,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "a vision of man as imago Dei.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "god",
+      "anthropology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0205",
+    "canonical_statement": "Human existence is not self-sufficient and is essentially dependent on God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 80,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "deny the essential dependence on God of every creature",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "existence",
+      "god",
+      "dependency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0206",
+    "canonical_statement": "Moral evil originates from the disordered exercise of human freedom, not material deficiency.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 80,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "evil stems not from any material deficiency, but is a wound inflicted by the disordered exercise of human freedom.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "evil",
+      "freedom",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0207",
+    "canonical_statement": "The meaning of life is found in directing oneself to Jesus Christ, the Incarnate Word of God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 80,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "directing the human being to Jesus Christ, the Incarnate Word of God",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "meaning",
+      "existence",
+      "christology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0208",
+    "canonical_statement": "The world and human life possess inherent meaning and are directed towards fulfillment in Jesus Christ.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 80,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "the world and human life do have a meaning and look towards their fulfilment, which comes in Jesus Christ.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "meaning",
+      "existence",
+      "christology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0209",
+    "canonical_statement": "The Incarnation is the central point for understanding human existence, the world, and God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 80,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "The mystery of the Incarnation will always remain the central point of reference",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "christology",
+      "existence",
+      "god",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0210",
+    "canonical_statement": "In the Incarnation, human and divine natures are distinct yet united without confusion.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 80,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "human nature and divine nature are safeguarded in all their autonomy, and at the same time the unique bond",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "christology",
+      "nature",
+      "god",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0211",
+    "canonical_statement": "The perceived fabric of existence can obscure the search for ultimate meaning.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 82,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "in this maelstrom of data and facts in which we live and which seem to comprise the very fabric of life, many people wonder whether it still makes sense to ask about meaning.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "meaning",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0212",
+    "canonical_statement": "A philosophy that ignores the question of life's meaning reduces reason to mere utility.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 82,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "A philosophy which no longer asks the question of the meaning of life would be in grave danger of reducing reason to merely accessory functions.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "meaning",
+      "reason",
+      "philosophy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0213",
+    "canonical_statement": "Philosophy's proper nature requires it to seek the ultimate meaning of life.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 82,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "philosophy needs first of all to recover its sapiential dimension as a search for the ultimate and overarching meaning of life.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "meaning",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0214",
+    "canonical_statement": "Philosophy provides the unifying framework for knowledge and action towards a final goal.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 82,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "take its place as the ultimate framework of the unity of human knowledge and action, leading them to converge towards a final goal and meaning.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "knowledge",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0215",
+    "canonical_statement": "Humanity's technical capability necessitates a renewed focus on ultimate values to avoid destructive potential.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 82,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "the immense expansion of humanity's technical capability demands a renewed and sharpened sense of ultimate values.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "technology",
+      "values",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0216",
+    "canonical_statement": "Denying ultimate meaning renders philosophy inadequate and false.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 82,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "A philosophy denying the possibility of an ultimate and overarching meaning would be not only ill-adapted to its task, but false.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "meaning",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0217",
+    "canonical_statement": "Philosophy must seek total and definitive truth, not merely functional aspects of reality.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 82,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "addressed, that is, not only to particular and subordinate aspects of reality—functional, formal or utilitarian—but to its total and definitive truth, to the very being of the object which is known.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "truth",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0218",
+    "canonical_statement": "Human intelligence has the capacity to attain objective truth, though this capacity can be obscured.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 82,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "Intelligence is not confined to observable data alone. It can with genuine certitude attain to reality itself as knowable, though in consequence of sin that certitude is partially obscured and weakened.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "intelligence",
+      "truth",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0219",
+    "canonical_statement": "Phenomenalist or relativist philosophies are unsuitable for exploring profound truths.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 82,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "A radically phenomenalist or relativist philosophy would be ill-adapted to help in the deeper exploration of the",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0220",
+    "canonical_statement": "Objective reality can be expressed through true statements.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 84,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "statements which have a genuinely ontological content.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "truth",
+      "language"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0221",
+    "canonical_statement": "Metaphysics is capable of attaining absolute, foundational truth beyond empirical data.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 84,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "need for a philosophy of genuinely metaphysical range.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "truth",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0222",
+    "canonical_statement": "Reality and truth transcend the factual and empirical.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 84,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "reality and truth transcend the factual and the empirical",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "truth",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0223",
+    "canonical_statement": "The human capacity to know the transcendent and metaphysical dimension is real, albeit imperfect.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 84,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "human being's capacity to know this transcendent and metaphysical dimension",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "knowledge",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0224",
+    "canonical_statement": "Metaphysics grounds the concept of personal dignity in spiritual nature.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 84,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "metaphysics which makes it possible to ground the concept of personal dignity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "identity",
+      "dignity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0225",
+    "canonical_statement": "The absolute and transcendent dimensions of reality are revealed through various human experiences.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 84,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "discover a call to the absolute and transcendent, the metaphysical dimension of reality opens up",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "metaphysics",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0226",
+    "canonical_statement": "Speculative thinking must penetrate beyond experience to the spiritual core and its ground.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 84,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "speculative thinking must penetrate to the spiritual core and the ground",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "metaphysics",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0227",
+    "canonical_statement": "Revelation and theological understanding require a metaphysical horizon.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 84,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "theology needs therefore the contribution of a philosophy which does not disavow",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "theology",
+      "revelation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0228",
+    "canonical_statement": "Human knowledge is not strictly limited to the world of sense experience.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 84,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "were human knowledge limited strictly to the world of sense experience.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "perception",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0229",
+    "canonical_statement": "Human language is capable of expressing divine and transcendent reality.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 86,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "human language is capable of expressing divine and transcendent reality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "language",
+      "reality",
+      "divine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0230",
+    "canonical_statement": "Reason can discover the essence of reality.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 86,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "reason can discover its essence",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reason",
+      "reality",
+      "essence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0231",
+    "canonical_statement": "A unified and organic vision of knowledge is attainable by the human being.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 86,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "human being can come to a unified and organic vision of knowledge",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "unity",
+      "humanity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0232",
+    "canonical_statement": "The segmentation of knowledge leads to fragmentation of meaning and prevents interior unity.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 86,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "segmentation of knowledge... prevents people from coming to an interior unity",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "knowledge",
+      "unity",
+      "meaning"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0233",
+    "canonical_statement": "The truth of a philosophical doctrine is not determined solely by its historical context or period appropriateness.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 88,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "the truth of a philosophy is determined on the basis of its appropriateness to a certain period",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "time",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0234",
+    "canonical_statement": "End",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 88,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "",
+        "claim_type": "stated",
+        "confidence": 0
+      }
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0235",
+    "canonical_statement": "Knowledge claims beyond positive science are relegated to fantasy by scientism.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 90,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "scientism... relegates religious, theological, ethical and aesthetic knowledge to the realm of mere fantasy.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0236",
+    "canonical_statement": "Metaphysical statements are considered meaningless by scientism.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 90,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "scientism... dismisses values as mere products of the emotions and rejects the notion of being",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0237",
+    "canonical_statement": "Scientism excludes the consideration of ultimate problems and meaning from human thought.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 90,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "scientism consigns all that has to do with the question of the meaning of life to the realm of the irrational or imaginary.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "meaning",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0238",
+    "canonical_statement": "Technical possibility is equated with moral admissibility by scientism.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 90,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "if something is technically possible it is therefore morally admissible.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "morality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0239",
+    "canonical_statement": "Pragmatism excludes theoretical considerations and ethical principles from decision-making.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 90,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "pragmatism, an attitude of mind which, in making its choices, precludes theoretical considerations or judgements based on ethical principles.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ethics",
+      "decision-making"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0240",
+    "canonical_statement": "Democracy can be based on majority rule without reference to unchanging values.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 90,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "a concept of democracy which is not grounded upon any reference to unchanging values",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "politics",
+      "ethics",
+      "values"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0241",
+    "canonical_statement": "A one-dimensional view of humanity excludes existential analysis.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 90,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "a one-dimensional vision of the human being, a vision which excludes the great ethical dilemmas and the existential analyses",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "anthropology",
+      "existence",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0242",
+    "canonical_statement": "Nihilism denies all foundations and objective truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 90,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "the nihilist interpretation, which is at once the denial of all foundations and the negation of all objective truth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "metaphysics",
+      "truth",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0243",
+    "canonical_statement": "Neglecting one's being leads to a loss of objective truth and human dignity.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 92,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "neglect of being inevitably leads to losing touch with objective truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "truth",
+      "dignity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0244",
+    "canonical_statement": "Truth and freedom are interdependent; their separation leads to misery.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 92,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "Truth and freedom either go together hand in hand or together they perish",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "freedom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0245",
+    "canonical_statement": "The principle of immanence has led to questioning previously accepted claims.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 92,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "affirmation of the principle of immanence... has provoked a radical requestioning of claims",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reason"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0246",
+    "canonical_statement": "Some postmodern thought posits that the era of certainty is over, requiring humans to accept a meaningless, provisional existence.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 92,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "the time of certainties is irrevocably past... live in a horizon of total absence of meaning",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "meaning",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0247",
+    "canonical_statement": "The experience of evil can lead to the collapse of rationalist optimism.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 92,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "The terrible experience of evil... has ensured the collapse of rationalist optimism",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "evil",
+      "reason",
+      "optimism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0248",
+    "canonical_statement": "Authentic freedom is conditioned by an honest relationship with truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 93,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "honest relationship with truth as a condition for authentic freedom",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "freedom",
+      "truth",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0249",
+    "canonical_statement": "Illusory or superficial freedom is a failure to embrace the whole truth about humanity and the world.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 93,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "avoid every kind of illusory freedom, every superficial freedom",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "freedom",
+      "truth",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0250",
+    "canonical_statement": "Freedom is rooted in the soul, heart, and conscience of an individual.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 93,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "in man's soul, his heart and his conscience",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "identity",
+      "freedom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0251",
+    "canonical_statement": "The historical progression of human events is characterized by the advancement of reason, leading to increased happiness and freedom.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 94,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "viewed history as the triumphant progress of reason, the source of all happiness and freedom",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "history",
+      "reason",
+      "freedom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0252",
+    "canonical_statement": "A belief in scientific and technical progress can foster the illusion that humanity can achieve complete self-determination and control over its destiny.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 94,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "illusion that, thanks to scientific and technical progress, man and woman may live as a demiurge",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "progress",
+      "illusion",
+      "destiny"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0253",
+    "canonical_statement": "Theology's function is to interpret and convey the content of faith in a manner comprehensible to the prevailing cultural context of its time.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 94,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "theology has always had to respond in different historical moments to the demands of different cultures",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "revelation",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0254",
+    "canonical_statement": "The ultimate object of theological inquiry is divine truth and God's salvific plan as revealed through Jesus Christ.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 94,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "the proper object of their enquiry is “the Truth which is the living God and his plan for salvation",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "theology",
+      "truth",
+      "salvation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0255",
+    "canonical_statement": "The pursuit of universally valid truth is a prerequisite for genuine dialogue and the overcoming of divisions between individuals.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 94,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "To believe it possible to know a universally valid truth is in no way to encourage intolerance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "dialogue",
+      "unity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0256",
+    "canonical_statement": "The Spirit of Truth guides consciousness into complete understanding of reality.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 95,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "the Spirit of truth... will guide you into all the truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "truth",
+      "spirit"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0257",
+    "canonical_statement": "The full apprehension of reality is contingent upon the historical events of Christ's life, death, and resurrection.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 95,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "connected with everything that Christ 'did and taught'",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "history",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0258",
+    "canonical_statement": "Theological understanding is centered on the contemplation of the divine mystery, particularly the Incarnation, Death, Resurrection, and Ascension of God.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 96,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "The very heart of theological enquiry will thus be the contemplation of the mystery of the Triune God.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "divinity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0259",
+    "canonical_statement": "Divine truth is communicated through human language and sacred texts, reflecting a condescension that mirrors the Incarnation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 96,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "Human language thus embodies the language of God, who communicates his own truth with that wonderful “condescension”.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "language",
+      "divinity",
+      "communication"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0260",
+    "canonical_statement": "The truth of sacred texts transcends mere historical events, residing in their salvific meaning within the history of salvation.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 96,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "the truth of the events which these texts relate lies rather in the meaning they have in and for the history of salvation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "time",
+      "meaning"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0261",
+    "canonical_statement": "Dogmatic statements formulate unchanging, ultimate truth, despite historical and cultural conditioning of their expression.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 96,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "dogmatic statements, while reflecting at times the culture of the period in which they were defined, formulate an unchanging and ultimate truth.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "time",
+      "doctrine"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0262",
+    "canonical_statement": "Faith is the means by which humans enter into the reality of revealed mystery, guided by the Spirit of truth.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 96,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "it is faith that adequately introduces man into the reality of the revealed mystery.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "faith",
+      "consciousness",
+      "divinity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0263",
+    "canonical_statement": "Dogmatic formulas, when expressed with greater clarity or development, retain their true and constant meaning.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 98,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "meaning of dogmatic formulas remains ever true and constant",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "doctrine",
+      "truth",
+      "meaning"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0264",
+    "canonical_statement": "Dogmatic formulas signify truth in a determinate way, not merely as changeable approximations.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 98,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "dogmatic formulas cannot signify the truth in a determinate way",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "doctrine",
+      "truth",
+      "meaning"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0265",
+    "canonical_statement": "Doctrinal terms developed by Catholic teachers over centuries are based on true knowledge of created things.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 98,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "terms developed by Catholic teachers are based on true knowledge",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "doctrine",
+      "knowledge",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0266",
+    "canonical_statement": "Reality possesses ontological, causal, and communicative structures that are knowable through the philosophy of being.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 99,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "views reality in its ontological, causal and communicative structures",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "ontology",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0267",
+    "canonical_statement": "The philosophy of being is grounded in the act of being itself, enabling comprehensive openness to all of reality.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 99,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "based upon the very act of being itself, which allows a full and comprehensive openness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "reality",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0268",
+    "canonical_statement": "A crisis of truth leads to disorientation of the ethical conscience and the loss of universal moral standards.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 99,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "many of the problems of the contemporary world stem from a crisis of truth",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "truth",
+      "ethics",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0269",
+    "canonical_statement": "Conscience, in its fundamental reality, is the intellect's application of universal good to specific situations, not an independent source of moral criteria.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 99,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "Conscience is no longer considered in its prime reality as an act of a person's intelligence",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "ethics",
+      "truth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0270",
+    "canonical_statement": "Ethical reasoning requires a foundation in the truth of the good, presupposing a metaphysics of the good and philosophical anthropology.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 99,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "requires a philosophical ethics which looks to the truth of the good",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ethics",
+      "truth",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0271",
+    "canonical_statement": "Human nature possesses an innate capacity to know truth and a desire for ultimate meaning.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 102,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "inscribed by God in human nature, the human and humanizing meaning of God's word also emerges more clearly.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "human nature",
+      "truth",
+      "meaning"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0272",
+    "canonical_statement": "Theology is enriched by communal reflection and the tradition of the People of God, not just individual thought.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 102,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "the wealth of a communal reflection. For by its very nature, theology is sustained in the search for truth by its ecclesial context",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "theology",
+      "community",
+      "tradition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_fides_et_ratio_science_0273",
+    "canonical_statement": "Philosophy serves as a medium for understanding and dialogue with individuals of differing faiths.",
+    "attributions": [
+      {
+        "source_id": "fides_et_ratio_science",
+        "chunk_index": 102,
+        "chapter": "CHAPTER VII - CURRENT REQUIREMENTS AND TASKS",
+        "surface_quote": "Philosophical thought is often the only ground for understanding and dialogue with those who do not share our faith.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "dialogue",
+      "faith"
+    ],
+    "editorial_status": "auto"
+  }
+]

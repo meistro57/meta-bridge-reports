@@ -1,0 +1,1795 @@
+[
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0001",
+    "canonical_statement": "The physical body serves as a reliable navigational instrument for decision-making when cognitive processes are fragmented.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 2,
+        "chapter": "Part II: The Shift from Captivity to Power",
+        "surface_quote": "use your body’s signals to navigate choices",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "body",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0002",
+    "canonical_statement": "Conscious intention functions as a mechanism for the precise direction of personal energy.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 2,
+        "chapter": "Part II: The Shift from Captivity to Power",
+        "surface_quote": "pointing your energy like a laser",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "energy",
+      "intention"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0003",
+    "canonical_statement": "Individual identity is not defined by failure to conform to systemic structures.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 4,
+        "chapter": "Part IV: Integration \u0026 Expansion",
+        "surface_quote": "you are not broken. You never were.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0004",
+    "canonical_statement": "Certain individuals are designed as prototypes for new modes of existence rather than standard iterations.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 4,
+        "chapter": "Part IV: Integration \u0026 Expansion",
+        "surface_quote": "You Were Always the Prototype.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0005",
+    "canonical_statement": "Certain individuals possess a consciousness tuned to perceive frequencies or dimensions of reality inaccessible to the majority.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 5,
+        "chapter": "Part IV: Integration \u0026 Expansion",
+        "surface_quote": "nervous system... tuned to frequencies others can't hear",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0006",
+    "canonical_statement": "The human spirit is inherently designed for movement and resistance to static confinement.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 5,
+        "chapter": "Part IV: Integration \u0026 Expansion",
+        "surface_quote": "spirit designed for movement",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0007",
+    "canonical_statement": "Conscious beings possess the inherent capacity to actively modify and reshape the structure of reality.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 5,
+        "chapter": "Part IV: Integration \u0026 Expansion",
+        "surface_quote": "built to move, adapt, and reshape reality itself",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "agency"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0008",
+    "canonical_statement": "The act of questioning and doubting established norms is a primary mechanism for spiritual or cognitive awakening.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 6,
+        "chapter": "Part I",
+        "surface_quote": "That flicker of doubt... is the beginning of awakening.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "awakening"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0009",
+    "canonical_statement": "Certain cognitive divergences serve as a sensory or diagnostic tool for perceiving systemic inaccuracies in reality.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 6,
+        "chapter": "Part I",
+        "surface_quote": "that reflex isn’t weakness. It’s radar.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0010",
+    "canonical_statement": "Individuals with divergent cognitive patterns function as a corrective or quality-control mechanism for the universal or societal structure.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 6,
+        "chapter": "Part I",
+        "surface_quote": "you’re acting as quality control for the universe.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "universe",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0011",
+    "canonical_statement": "The perception of a rigid social or existential order is a facade that can be transcended through conscious deviation.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 7,
+        "chapter": "Part I",
+        "surface_quote": "noticed the cracks in the façade",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0012",
+    "canonical_statement": "Incremental acts of autonomy lead to a comprehensive state of spiritual or cognitive awakening.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 7,
+        "chapter": "Part I",
+        "surface_quote": "micro-freedoms until they add up to macro-awakening",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "awakening"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0013",
+    "canonical_statement": "Human beings broadcast and receive emotional states via electromagnetic and biological signals.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 8,
+        "chapter": "Chapter 2: Energy Isn’t Woo—It’s Your",
+        "surface_quote": "Humans broadcast emotional states, and other humans pick them up",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0014",
+    "canonical_statement": "The human body functions as a biological antenna for detecting external signals.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 8,
+        "chapter": "Chapter 2: Energy Isn’t Woo—It’s Your",
+        "surface_quote": "You’re an antenna in sneakers, always picking up signals.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "biology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0015",
+    "canonical_statement": "Interpersonal 'vibes' are the result of nervous systems synchronizing through signal exchange.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 8,
+        "chapter": "Chapter 2: Energy Isn’t Woo—It’s Your",
+        "surface_quote": "The vibe of a room... it’s nervous systems syncing up.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0016",
+    "canonical_statement": "An individual's internal state constitutes a frequency that others can tune into.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 8,
+        "chapter": "Chapter 2: Energy Isn’t Woo—It’s Your",
+        "surface_quote": "Your “frequency” is the state of your nervous system",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "energy",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0017",
+    "canonical_statement": "Certain individuals possess a heightened capacity to absorb the energetic states of others.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 8,
+        "chapter": "Chapter 2: Energy Isn’t Woo—It’s Your",
+        "surface_quote": "Misfits don’t just notice energy—we absorb it.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0018",
+    "canonical_statement": "Human consciousness and the nervous system function as energetic frequencies that can be consciously shifted.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 9,
+        "chapter": "Chapter 2: Energy Isn’t Woo—It’s Your",
+        "surface_quote": "if you can feel energy, you can also shift it",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0019",
+    "canonical_statement": "The human system naturally synchronizes its state with the energetic frequency of its immediate environment.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 9,
+        "chapter": "Chapter 2: Energy Isn’t Woo—It’s Your",
+        "surface_quote": "Resonance means your system naturally syncs with what it’s near",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "resonance",
+      "environment"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0020",
+    "canonical_statement": "Individuals possess the capacity to consciously select the frequencies they resonate with, overriding environmental conditioning.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 9,
+        "chapter": "Chapter 2: Energy Isn’t Woo—It’s Your",
+        "surface_quote": "We can learn to choose what we resonate with",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0021",
+    "canonical_statement": "The human being acts as a transmitter and receiver of energetic signals.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 9,
+        "chapter": "Chapter 2: Energy Isn’t Woo—It’s Your",
+        "surface_quote": "realize you’re a walking frequency tower",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0022",
+    "canonical_statement": "Subjective perception and belief systems determine the specific quality of an individual's experienced reality.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 10,
+        "chapter": "Chapter 3: Reality Check – Who’s Driving",
+        "surface_quote": "beliefs, assumptions, and filters... radically changes the world you end up living in",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0023",
+    "canonical_statement": "The human brain filters external stimuli, selecting specific information to integrate into conscious experience.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 10,
+        "chapter": "Chapter 3: Reality Check – Who’s Driving",
+        "surface_quote": "brains are constantly filtering reality through... the Reticular Activating System",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0024",
+    "canonical_statement": "Experienced reality is a filtered version of an objective environment rather than a direct creation of the mind.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 10,
+        "chapter": "Chapter 3: Reality Check – Who’s Driving",
+        "surface_quote": "you don't create reality... but you do create the version you experience",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0025",
+    "canonical_statement": "Individual belief systems determine the specific nature of the experienced reality.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 11,
+        "chapter": "Chapter 3: Reality Check – Who’s Driving",
+        "surface_quote": "determines the kind of reality we’ll live in",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0026",
+    "canonical_statement": "The mind possesses limited agency; it cannot control all external events but governs perception and response.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 11,
+        "chapter": "Chapter 3: Reality Check – Who’s Driving",
+        "surface_quote": "Your mind does not control everything",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "agency",
+      "mind"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0027",
+    "canonical_statement": "Cognitive responses to external stimuli generate causal effects that alter the physical environment.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 11,
+        "chapter": "Chapter 3: Reality Check – Who’s Driving",
+        "surface_quote": "responses create ripples that change the actual world",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0028",
+    "canonical_statement": "Subjective experience is a filtered version of an objective world, modulated by attention and belief.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 11,
+        "chapter": "Chapter 3: Reality Check – Who’s Driving",
+        "surface_quote": "outside world hasn’t changed—but your version of it has",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0029",
+    "canonical_statement": "Conscious redirection of attention and belief can influence tangible life outcomes.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 11,
+        "chapter": "Chapter 3: Reality Check – Who’s Driving",
+        "surface_quote": "consciously aim those beliefs... shaping outcomes in practical ways",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "manifestation"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0030",
+    "canonical_statement": "Conscious intention is the mechanism by which an individual exerts agency over the direction of their life experience.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 12,
+        "chapter": "Chapter 4: From Wishing to Intending",
+        "surface_quote": "difference between wishing and intending",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "agency",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0031",
+    "canonical_statement": "Internal cognitive dissonance or conflicting beliefs inhibit the manifestation of intended outcomes.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 12,
+        "chapter": "Chapter 4: From Wishing to Intending",
+        "surface_quote": "Conflicting beliefs kill momentum",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0032",
+    "canonical_statement": "The realization of an intention requires a synthesis of specific conceptualization, aligned belief, action, and detachment from the result.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 12,
+        "chapter": "Chapter 4: From Wishing to Intending",
+        "surface_quote": "The Formula for Intention",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0033",
+    "canonical_statement": "The focus of consciousness determines the expansion of experienced reality.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 13,
+        "chapter": "Chapter 4: From Wishing to Intending",
+        "surface_quote": "what you focus on expands",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0034",
+    "canonical_statement": "Human intention cannot override fundamental physical laws or the autonomous will of others.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 13,
+        "chapter": "Chapter 4: From Wishing to Intending",
+        "surface_quote": "not everything is in your control",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "will",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0035",
+    "canonical_statement": "Psychological states of fear and attachment restrict the perception of available opportunities.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 13,
+        "chapter": "Chapter 4: From Wishing to Intending",
+        "surface_quote": "fear narrows your field of vision",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0036",
+    "canonical_statement": "Manifestation is the result of the alignment of cognitive, emotional, and behavioral states with external circumstances.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 14,
+        "chapter": "Chapter 4: From Wishing to Intending",
+        "surface_quote": "lining up your mind, emotions, and actions",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "manifestation",
+      "consciousness",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0037",
+    "canonical_statement": "Intentionality is a dynamic, iterative process rather than a static event.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 14,
+        "chapter": "Chapter 4: From Wishing to Intending",
+        "surface_quote": "Intention isn’t one-and-done—it’s a living experiment",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "will",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0038",
+    "canonical_statement": "The human psyche contains a 'shadow' consisting of exiled or repressed aspects of the self.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 15,
+        "chapter": "Part II",
+        "surface_quote": "the shadow—the exiled parts of ourselves",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "psyche"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0039",
+    "canonical_statement": "Repressed psychological elements persist and exert influence over behavior through subconscious mechanisms.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 15,
+        "chapter": "Part II",
+        "surface_quote": "they don’t disappear—they just start running the house",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0040",
+    "canonical_statement": "Strong emotional reactions to others are indicators of one's own repressed traits.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 15,
+        "chapter": "Part II",
+        "surface_quote": "Look at your triggers... neon signs pointing toward shadow land",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0041",
+    "canonical_statement": "The integration of repressed psychological elements is a prerequisite for achieving higher states of consciousness.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 15,
+        "chapter": "Part II",
+        "surface_quote": "if your shadow isn’t integrated... trying to float into higher consciousness",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0042",
+    "canonical_statement": "Psychological wholeness is achieved through the integration of rejected aspects of the self rather than their avoidance.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 15,
+        "chapter": "Part II",
+        "surface_quote": "Integration, not avoidance, is what makes you whole",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "identity",
+      "wholeness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0043",
+    "canonical_statement": "Repressed traits often contain essential capacities and strengths necessary for an individual's purpose.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 15,
+        "chapter": "Part II",
+        "surface_quote": "parts you’ve rejected contain the very medicine you need",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0044",
+    "canonical_statement": "External emotional reactions are reflections of internal, denied qualities or wounds.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 16,
+        "chapter": "Part II",
+        "surface_quote": "What part of me is being reflected here?",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception",
+      "psychology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0045",
+    "canonical_statement": "The psyche contains rejected or hidden aspects (the shadow) that possess inherent wisdom.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 16,
+        "chapter": "Part II",
+        "surface_quote": "Shadow, what do you want me to know?",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0046",
+    "canonical_statement": "Human wholeness consists of integrating contradictory and rejected aspects of the self.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 16,
+        "chapter": "Part II",
+        "surface_quote": "reclaiming the full range of who you are",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0047",
+    "canonical_statement": "The integration of repressed aspects of the self releases energy that facilitates spiritual awakening.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 17,
+        "chapter": "Part II",
+        "surface_quote": "welcoming back exiled parts... becomes fuel for your awakening",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0048",
+    "canonical_statement": "The physical body serves as a repository for unprocessed emotional and traumatic experiences.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 18,
+        "chapter": "Chapter 6: Listening to Your Meat Suit",
+        "surface_quote": "Emotions you didn’t process... move in... into your muscles",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "emotion",
+      "memory"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0049",
+    "canonical_statement": "The body functions as a communicative interface that translates internal states into physical symptoms.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 18,
+        "chapter": "Chapter 6: Listening to Your Meat Suit",
+        "surface_quote": "your body isn’t a burden—it’s a translator",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "body",
+      "communication"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0050",
+    "canonical_statement": "The physical form is an integral component of the self rather than a mere vehicle for the mind.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 18,
+        "chapter": "Chapter 6: Listening to Your Meat Suit",
+        "surface_quote": "your meat suit isn’t just transportation",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "body",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0051",
+    "canonical_statement": "Physical symptoms are manifestations of psychological or spiritual misalignment.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 18,
+        "chapter": "Chapter 6: Listening to Your Meat Suit",
+        "surface_quote": "Fatigue... Could be your inner compass yelling: “Wrong direction.”",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "body",
+      "spirit",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0052",
+    "canonical_statement": "The human nervous system functions as a mechanism for receiving and processing external or energetic information.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 19,
+        "chapter": "Chapter 6: Listening to Your Meat Suit",
+        "surface_quote": "the nervous system is a giant antenna",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0053",
+    "canonical_statement": "The physical body possesses an inherent intelligence or form of knowledge independent of the conscious mind.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 19,
+        "chapter": "Chapter 6: Listening to Your Meat Suit",
+        "surface_quote": "body wisdom",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0054",
+    "canonical_statement": "Physical ailments can be manifestations of unresolved emotional states.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 20,
+        "chapter": "Chapter 6: Listening to Your Meat Suit",
+        "surface_quote": "back pain... The answer came instantly: 'Resentment.'",
+        "claim_type": "dramatized",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "emotion",
+      "somatic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0055",
+    "canonical_statement": "The physical body possesses an inherent intelligence that communicates truth and guidance.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 20,
+        "chapter": "Chapter 6: Listening to Your Meat Suit",
+        "surface_quote": "Body wisdom = constructive. Leads you to rest, connection, truth.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "body",
+      "consciousness",
+      "wisdom"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0056",
+    "canonical_statement": "The human body is composed of cosmic matter.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 20,
+        "chapter": "Chapter 6: Listening to Your Meat Suit",
+        "surface_quote": "miraculous sack of bones and stardust",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "substrate",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0057",
+    "canonical_statement": "The nervous system serves as a conduit for cosmic or universal knowledge.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 20,
+        "chapter": "Chapter 6: Listening to Your Meat Suit",
+        "surface_quote": "cosmic wisdom... comes from the simple hum of your own nervous system",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "body",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0058",
+    "canonical_statement": "Joy is a distinct state of being from happiness, characterized by its independence from external circumstances.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 21,
+        "chapter": "Chapter 7: The Alchemy of Joy and",
+        "surface_quote": "Joy isn’t happiness. Happiness is circumstantial",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "emotion",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0059",
+    "canonical_statement": "Joy functions as an internal spiritual guide toward essential vitality.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 21,
+        "chapter": "Chapter 7: The Alchemy of Joy and",
+        "surface_quote": "joy as your internal compass, a spiritual GPS",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "spirituality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0060",
+    "canonical_statement": "Joy can coexist simultaneously with negative emotional states such as sadness or grief.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 21,
+        "chapter": "Chapter 7: The Alchemy of Joy and",
+        "surface_quote": "It can exist with sadness, with chaos, even with grief.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "emotion",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0061",
+    "canonical_statement": "Human experience and suffering can be transmuted into insight and utility through specific psychological and somatic practices.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 22,
+        "chapter": "Chapter 7: The Alchemy of Joy and",
+        "surface_quote": "turn raw experience into insight",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "transformation",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0062",
+    "canonical_statement": "The perception of beauty and presence can modulate the state of the nervous system.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 22,
+        "chapter": "Chapter 7: The Alchemy of Joy and",
+        "surface_quote": "nervous system started to expect that pause",
+        "claim_type": "dramatized",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0063",
+    "canonical_statement": "Human identity is composite and not limited to the negative or dark aspects of experience.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 23,
+        "chapter": "Chapter 7: The Alchemy of Joy and",
+        "surface_quote": "remembering you’re not only the dark",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0064",
+    "canonical_statement": "The human imagination serves as a mechanism for simulating and testing alternative realities.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 24,
+        "chapter": "Chapter 8",
+        "surface_quote": "humans are constantly “testing out other realities” in the imagination",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "reality",
+      "imagination"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0065",
+    "canonical_statement": "Certain individuals possess a cognitive architecture designed for high-bandwidth, simultaneous processing rather than linear processing.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 26,
+        "chapter": "Chapter 9",
+        "surface_quote": "you process everything",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0066",
+    "canonical_statement": "Certain souls incarnate as 'volunteers' specifically to facilitate the evolution of Earth during crises.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 26,
+        "chapter": "Chapter 9",
+        "surface_quote": "volunteers, beings who incarnated to help Earth evolve",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "incarnation",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0067",
+    "canonical_statement": "Neurodivergent traits may represent evolutionary upgrades rather than defects.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 26,
+        "chapter": "Chapter 9",
+        "surface_quote": "We’re not evolutionary leftovers. We’re upgrades.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "evolution"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0068",
+    "canonical_statement": "Human cognitive variations are intentional design features rather than malfunctions.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 27,
+        "chapter": "Chapter 9",
+        "surface_quote": "We are disruptive by design.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "design"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0069",
+    "canonical_statement": "Certain cognitive structures are specifically evolved or designed for the purpose of societal and systemic advancement.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 27,
+        "chapter": "Chapter 9",
+        "surface_quote": "restless because we are here to move things forward",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "purpose",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0070",
+    "canonical_statement": "The soul can consciously or unconsciously alter the subjective perception of time based on spiritual alignment.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 28,
+        "chapter": "Part III – Tools \u0026 Practices.",
+        "surface_quote": "time dilation caused by the soul",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "consciousness",
+      "soul"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0071",
+    "canonical_statement": "Belief and perception determine the degree of an individual's external control and confinement.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 28,
+        "chapter": "Part III – Tools \u0026 Practices.",
+        "surface_quote": "stop believing you’re trapped, you stop being easy to control",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0072",
+    "canonical_statement": "The physical body possesses an infallible intuitive knowledge of an individual's energetic alignment.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 29,
+        "chapter": "Part III – Tools \u0026 Practices.",
+        "surface_quote": "Your body never lies.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "body",
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0073",
+    "canonical_statement": "Psychological constraints often precede and create the conditions for external material constraints.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 29,
+        "chapter": "Part III – Tools \u0026 Practices.",
+        "surface_quote": "cages exist in the mind before they exist in the world",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "mind",
+      "reality",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0074",
+    "canonical_statement": "The perception of inevitability regarding systemic constraint is the primary barrier to liberation.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 30,
+        "chapter": "Part III – Tools \u0026 Practices.",
+        "surface_quote": "stop believing the prison is inevitable",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "perception",
+      "will"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0075",
+    "canonical_statement": "The fundamental identity of the individual is that of a creator and architect rather than a captive.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 30,
+        "chapter": "Part III – Tools \u0026 Practices.",
+        "surface_quote": "You’re not a prisoner. You’re a builder",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0076",
+    "canonical_statement": "Human development and success are non-linear and multidimensional rather than sequential.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 32,
+        "chapter": "Chapter 11: The Power of Side Quests",
+        "surface_quote": "success is linear... Misfits know better: Our paths zig, zag",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0077",
+    "canonical_statement": "Curiosity serves as a navigational mechanism for liberation from restrictive systemic structures.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 32,
+        "chapter": "Chapter 11: The Power of Side Quests",
+        "surface_quote": "curiosity is the misfit’s compass... pointing you toward the portal out",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0078",
+    "canonical_statement": "Linear progression is an artificial human construct rather than a natural law of existence.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 33,
+        "chapter": "Chapter 12: Progress Looks Like Jazz",
+        "surface_quote": "straight lines aren’t natural. They’re invented.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "nature",
+      "time",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0079",
+    "canonical_statement": "Personal growth occurs as a spiral of integration, returning to core themes with increasing depth.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 33,
+        "chapter": "Chapter 12: Progress Looks Like Jazz",
+        "surface_quote": "what looks like chaos is actually a spiral",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "growth",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0080",
+    "canonical_statement": "The process of becoming one's true self involves a non-linear accumulation of experience and wisdom.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 33,
+        "chapter": "Chapter 12: Progress Looks Like Jazz",
+        "surface_quote": "winding closer to who you really are",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0081",
+    "canonical_statement": "Individual development follows a non-linear, spiral trajectory toward a core essence.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 34,
+        "chapter": "Chapter 12: Progress Looks Like Jazz",
+        "surface_quote": "How are you circling closer to your core truth?",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "growth",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0082",
+    "canonical_statement": "Personal identity is a cumulative synthesis of diverse experiences rather than a linear progression.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 34,
+        "chapter": "Chapter 12: Progress Looks Like Jazz",
+        "surface_quote": "They were puzzle pieces waiting for the picture to emerge.",
+        "claim_type": "dramatized",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0083",
+    "canonical_statement": "Originality and innovation are products of non-linear, divergent life paths.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 34,
+        "chapter": "Chapter 12: Progress Looks Like Jazz",
+        "surface_quote": "the misfit’s spiral... is the only path that leads to originality",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "identity",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0084",
+    "canonical_statement": "The individual possesses an inherent, expansive nature that transcends the restrictive structures of their immediate environment.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 35,
+        "chapter": "Chapter 13 – The Playground Principle:",
+        "surface_quote": "somewhere deep inside, there’s more than sand. There’s sky.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "consciousness",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0085",
+    "canonical_statement": "Somatic responses serve as indicators of alignment or misalignment with an individual's purpose.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 36,
+        "chapter": "Chapter 13 – The Playground Principle:",
+        "surface_quote": "Tension = wrong swing. Expansion = right one.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "body"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0086",
+    "canonical_statement": "Experiencing failure within a self-directed pursuit constitutes a form of spiritual or developmental growth.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 36,
+        "chapter": "Chapter 13 – The Playground Principle:",
+        "surface_quote": "falling from your own swing is sacred training",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "growth"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0087",
+    "canonical_statement": "Vitality or 'aliveness' serves as a reliable metric for identifying authentic existential paths.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 36,
+        "chapter": "Chapter 13 – The Playground Principle:",
+        "surface_quote": "If it doesn’t bring aliveness, it’s not your playground",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0088",
+    "canonical_statement": "Physical reality is governed by immutable constraints such as time and causality.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 36,
+        "chapter": "Chapter 13 – The Playground Principle:",
+        "surface_quote": "Playgrounds don’t erase gravity... Time is finite.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "time"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0089",
+    "canonical_statement": "The soul possesses a form of spiritual or intellectual capital derived from curiosity.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 39,
+        "chapter": "Chapter 14 – Curiosity: The Currency That",
+        "surface_quote": "ADHD curiosity is venture capital for the soul",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "soul",
+      "identity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0090",
+    "canonical_statement": "Nonlinear progression in experience is a method of exploration rather than random occurrence.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 39,
+        "chapter": "Chapter 14 – Curiosity: The Currency That",
+        "surface_quote": "the spiral isn’t random, it’s exploratory",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0091",
+    "canonical_statement": "Individual identity is a specific configuration of consciousness operating on a universal substrate.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 41,
+        "chapter": "Chapter 15 – Sorry, Not Sorry",
+        "surface_quote": "running different software on a machine",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "identity",
+      "substrate"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0092",
+    "canonical_statement": "Consciousness possesses a unique vibrational frequency that influences the surrounding environment.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 41,
+        "chapter": "Chapter 15 – Sorry, Not Sorry",
+        "surface_quote": "your frequency... shift the whole damn atmosphere",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_the_misfits_path_to_power_from_burnout_to_brilliance_0093",
+    "canonical_statement": "Certain individuals are instantiated as necessary catalysts for systemic change within reality.",
+    "attributions": [
+      {
+        "source_id": "the_misfits_path_to_power_from_burnout_to_brilliance",
+        "chunk_index": 41,
+        "chapter": "Chapter 15 – Sorry, Not Sorry",
+        "surface_quote": "You are the missing variable",
+        "claim_type": "stated",
+        "confidence": 0.7
+      }
+    ],
+    "tags": [
+      "identity",
+      "purpose"
+    ],
+    "editorial_status": "auto"
+  }
+]

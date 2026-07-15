@@ -1,0 +1,464 @@
+[
+  {
+    "id": "cl_2605_00057v1_0001",
+    "canonical_statement": "Time is a parameter or variable necessary to express the dynamical laws of physics.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "time is a parameter or variable necessary to express the dynamical laws of physics.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "physics",
+      "definition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0002",
+    "canonical_statement": "In pre-relativistic physics, time was considered a global and universal parameter, independent of external relations or measurements.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "Absolute, true, and mathematical time... passes equably without relation to anything external...",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "newtonian physics",
+      "universality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0003",
+    "canonical_statement": "In relativity, the time variable is defined only within a fixed inertial frame by synchronized stationary clocks.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "In relativity, the time variable “t” is deﬁned only within a ﬁxed inertial frame...",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "relativity",
+      "measurement",
+      "frame of reference"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0004",
+    "canonical_statement": "A natural clock is a device that undergoes a cyclic process according to known physical laws.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "A natural clock is a device undergoing a cyclic process according to known physical laws.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "measurement",
+      "physics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0005",
+    "canonical_statement": "Time is defined by change according to the dynamical laws of physics.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 3,
+        "chapter": "General Content",
+        "surface_quote": "time is deﬁned by change according to the dynamical laws of physics",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "change",
+      "physics",
+      "definition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0006",
+    "canonical_statement": "The simultaneity of distant events is not an absolute concept.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "simultaneity of distant events is not an absolute concept",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0007",
+    "canonical_statement": "Time is defined in a manner that simplifies the description of motion.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "Time is deﬁned so that motion looks simple",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "definition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0008",
+    "canonical_statement": "Different inertial frames of reference may experience different time variables.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "we do not need to assume that t = t′",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "relativity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0009",
+    "canonical_statement": "The synchronization of clocks is relative to the observer's frame of reference.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "clocks of S ′ are seen from the perspective of S, they will not appear synchronized",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "relativity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0010",
+    "canonical_statement": "Objective reality is constituted by the totality of spacetime events.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "objective reality is comprised of the set of all spacetime “events” that constitute the spacetime manifold.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "spacetime",
+      "events"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0011",
+    "canonical_statement": "An event is defined by its spacetime coordinates (time and position).",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "an event E is determined by its spacetime coordinates (t, x), i.e., the when and where it takes place.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "events",
+      "spacetime",
+      "definition"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0012",
+    "canonical_statement": "The time variable alone is insufficient to specify objective reality; only the combination of time and space (an event) suffices.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "the time variable alone... is insufficient to specify objective reality, only the pair (t, x) determining an event does.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "time",
+      "spacetime",
+      "events"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0013",
+    "canonical_statement": "The simultaneity of distant events is relative to the observer's inertial frame.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "when in a given inertial frame S... t1 = t2 when x1 ≠ x2, it does not imply that in another inertial frame S′ we must also have t′1 = t′2.",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "relativity",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0014",
+    "canonical_statement": "Objective reality is composed of individual events, not a holistic structure.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "is not part of objective reality, only the individual events are.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "events",
+      "structure"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0015",
+    "canonical_statement": "Rational thought and empirical facts are more reliable than naive intuition for understanding reality.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "rely on rational thinking and empirical facts rather than naive everyday intuition.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "reason",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0016",
+    "canonical_statement": "The perception of a moving clock lagging is relative to the observer's frame of reference, and this relativity does not imply a logical contradiction.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "the moving clock B is lagging, while an observer fixed with B claims that it is the moving clock A that is lagging without implying any contradiction.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "relativity",
+      "perception",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0017",
+    "canonical_statement": "The absence of contradiction in relative observations of time is due to the comparison of different events and clocks.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "there is no contradiction because different clocks involving different events are being compared in each case.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "relativity",
+      "events",
+      "logic"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0018",
+    "canonical_statement": "The concept of distant simultaneity is not absolute.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "To justify Dingle’s solution one has to assume the absolute character of distant simultaneity.",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "relativity",
+      "simultaneity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0019",
+    "canonical_statement": "Absolute simultaneity is incompatible with the Lorentz transformation.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "absolute simultaneity, which is incompatible with the Lorentz transformation.",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0020",
+    "canonical_statement": "The concept of absolute simultaneity implies the rejection of the principle of light speed invariance.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "Absolute simultaneity implies the rejection of the light principle",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "relativity",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0021",
+    "canonical_statement": "The abandonment of absolute simultaneity is a consequence of excluding the possibility of action at a distance.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "abandonment of absolute simultaneity is a consequence of excluding the possibility of action at a distance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "time",
+      "causality",
+      "relativity"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0022",
+    "canonical_statement": "Instantaneous distant happenings are excluded from objective reality.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "excludes instantaneous distant happenings from objective reality.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "time",
+      "reality",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_2605_00057v1_0023",
+    "canonical_statement": "Human intuition can be a misleading guide for understanding objective reality.",
+    "attributions": [
+      {
+        "source_id": "2605_00057v1",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "rely on rational thinking and empirical evidence rather than naive human intuition.",
+        "claim_type": "stated",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "perception",
+      "reality",
+      "epistemology"
+    ],
+    "editorial_status": "auto"
+  }
+]

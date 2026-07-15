@@ -1,0 +1,493 @@
+[
+  {
+    "id": "cl_druidlit_0001",
+    "canonical_statement": "The physical universe, including the dimensions of the earth and celestial bodies, is a subject of systematic intellectual inquiry.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 0,
+        "chapter": "General Content",
+        "surface_quote": "studied the size and shape of the earth, the movements of the heavens and stars",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "knowledge"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0002",
+    "canonical_statement": "Specific geographical locations possess inherent metaphysical potency.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 4,
+        "chapter": "General Content",
+        "surface_quote": "locations had special power",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "sacred",
+      "space",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0003",
+    "canonical_statement": "The human world and the faerie world exist as distinct realms that require active ritual maintenance to remain in equilibrium.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 5,
+        "chapter": "General Content",
+        "surface_quote": "rituals to maintain balance between the human and faerie worlds.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "ontology",
+      "dualism",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0004",
+    "canonical_statement": "The future and hidden information are accessible through non-empirical, supernatural methodologies.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 6,
+        "chapter": "General Content",
+        "surface_quote": "seeking knowledge of the future or hidden things through supernatural means",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "divination",
+      "metaphysics"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0005",
+    "canonical_statement": "The cosmos is an active, communicative entity that transmits information through natural phenomena.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "the cosmos constantly communicated with those trained to notice its subtle signals.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmos",
+      "communication",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0006",
+    "canonical_statement": "The soul possesses the capacity to transcend temporal and spatial limitations during the state of sleep.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "the soul could transcend the limits of time and space during sleep",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "soul",
+      "time",
+      "space",
+      "consciousness"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0007",
+    "canonical_statement": "Dreams are objective experiences occurring within alternate realities rather than subjective psychological constructs.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "dreams as genuine experiences in alternate realities",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "reality",
+      "dreams",
+      "perception"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0008",
+    "canonical_statement": "The physical elements of the universe are subject to manipulation through ritualized human intent.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 7,
+        "chapter": "General Content",
+        "surface_quote": "druids were thought to manipulate the four elements",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "magic",
+      "elements",
+      "causality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0009",
+    "canonical_statement": "Intentional linguistic or ritual acts can exert direct causal influence upon physical biological states.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 8,
+        "chapter": "General Content",
+        "surface_quote": "satirical curse that could cause physical disfigurement, illness, or death",
+        "claim_type": "implied",
+        "confidence": 0.8
+      }
+    ],
+    "tags": [
+      "causality",
+      "consciousness",
+      "ritual"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0010",
+    "canonical_statement": "The soul is immortal and undergoes transmigration between physical bodies upon death.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "souls do not perish but pass from one body to another after death",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "soul",
+      "reincarnation",
+      "afterlife"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0011",
+    "canonical_statement": "The Otherworld is a parallel dimension that periodically intersects with the human physical realm.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "a parallel dimension called the Otherworld that occasionally intersected with the human realm",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "reality",
+      "dimensions",
+      "otherworld"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0012",
+    "canonical_statement": "Specific geographical locations function as conduits or points of intersection between the human realm and other dimensions.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "locations were believed to facilitate communication between worlds",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "reality",
+      "space",
+      "liminality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0013",
+    "canonical_statement": "The fundamental structure of reality is cyclical and spiral-based rather than linear.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 9,
+        "chapter": "General Content",
+        "surface_quote": "reality as a neverending spiral rather than a linear progression",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "time",
+      "cosmology",
+      "reality"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0014",
+    "canonical_statement": "Physical elements are manifestations of underlying spiritual essences possessing distinct energetic properties.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "spiritual essences that had their own unique traits and energy",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "ontology",
+      "nature",
+      "energy"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0015",
+    "canonical_statement": "A fifth element, aether, serves as the transcendent substrate connecting all physical elements and representing consciousness.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 10,
+        "chapter": "General Content",
+        "surface_quote": "spirit or aether, that connected and transcended the other four, representing consciousness itself",
+        "claim_type": "stated",
+        "confidence": 1
+      }
+    ],
+    "tags": [
+      "consciousness",
+      "substrate",
+      "cosmology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0016",
+    "canonical_statement": "The natural world is a living, sacred entity rather than an inert resource.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "the land as alive and sacred rather than merely a resource",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "nature",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0017",
+    "canonical_statement": "All forms of life are fundamentally interdependent.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "the interdependence of all life",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "interconnectedness",
+      "holism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0018",
+    "canonical_statement": "Reality contains non-human supernatural entities accessible through specialized perception.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "possess second sight, allowing them to perceive faeries",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "perception",
+      "supernatural"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0019",
+    "canonical_statement": "Knowledge can be transmitted from non-human supernatural entities to human consciousness.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 11,
+        "chapter": "General Content",
+        "surface_quote": "receiving teachings about herbal medicine, astronomy, poetry, and divination from these supernatural sources",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "epistemology",
+      "supernatural"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0020",
+    "canonical_statement": "The physical world and the Otherworld are distinct realms that require active maintenance to remain in balance.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "ceremonies to maintain balance between worlds.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "dualism"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0021",
+    "canonical_statement": "Supernatural entities exert causal influence over human physical health and worldly events.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "diagnosed illnesses attributed to faerie interference",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "causality",
+      "supernatural"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0022",
+    "canonical_statement": "Human ritual action serves as a necessary mechanism for mediating interactions between disparate ontological planes.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 12,
+        "chapter": "General Content",
+        "surface_quote": "intermediaries between human communities and faerie inhabitants",
+        "claim_type": "stated",
+        "confidence": 0.85
+      }
+    ],
+    "tags": [
+      "ritual",
+      "ontology"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0023",
+    "canonical_statement": "Religious and cultural traditions undergo syncretic transformation rather than total extinction when confronted by dominant belief systems.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 13,
+        "chapter": "General Content",
+        "surface_quote": "Christianity spread through Celtic lands, adapting many druidic practices rather than eliminating them.",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "tradition",
+      "syncretism",
+      "culture"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0024",
+    "canonical_statement": "Humanity exists as an integral component of a unified cosmic order that encompasses both natural and supernatural realms.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "humans as part of a larger cosmic order encompassing both natural and supernatural realms",
+        "claim_type": "stated",
+        "confidence": 0.95
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "existence"
+    ],
+    "editorial_status": "auto"
+  },
+  {
+    "id": "cl_druidlit_0025",
+    "canonical_statement": "The nature of existence is characterized by cycles, interconnection, and the necessity of balance.",
+    "attributions": [
+      {
+        "source_id": "druidlit",
+        "chunk_index": 17,
+        "chapter": "General Content",
+        "surface_quote": "emphasizing interconnection, cycles, and balance",
+        "claim_type": "stated",
+        "confidence": 0.9
+      }
+    ],
+    "tags": [
+      "ontology",
+      "nature"
+    ],
+    "editorial_status": "auto"
+  }
+]
