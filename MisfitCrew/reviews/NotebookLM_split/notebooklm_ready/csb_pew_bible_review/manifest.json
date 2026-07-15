@@ -1,0 +1,52 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/csb_pew_bible_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/csb_pew_bible_review/csb_pew_bible_review_part_001_of_005.md",
+    "part": 1,
+    "total_parts": 5,
+    "word_count": 444942,
+    "first_label": "Report 1",
+    "last_label": "Report 314",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/csb_pew_bible_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/csb_pew_bible_review/csb_pew_bible_review_part_002_of_005.md",
+    "part": 2,
+    "total_parts": 5,
+    "word_count": 444737,
+    "first_label": "Report 315",
+    "last_label": "Report 618",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/csb_pew_bible_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/csb_pew_bible_review/csb_pew_bible_review_part_003_of_005.md",
+    "part": 3,
+    "total_parts": 5,
+    "word_count": 444914,
+    "first_label": "Report 619",
+    "last_label": "Report 931",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/csb_pew_bible_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/csb_pew_bible_review/csb_pew_bible_review_part_004_of_005.md",
+    "part": 4,
+    "total_parts": 5,
+    "word_count": 445093,
+    "first_label": "Report 932",
+    "last_label": "Report 1246",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/csb_pew_bible_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/csb_pew_bible_review/csb_pew_bible_review_part_005_of_005.md",
+    "part": 5,
+    "total_parts": 5,
+    "word_count": 370261,
+    "first_label": "Report 1247",
+    "last_label": "Report 1542",
+    "mode": "report-boundary"
+  }
+]

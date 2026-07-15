@@ -1,0 +1,22 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/the_yajur_veda_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/the_yajur_veda_review/the_yajur_veda_review_part_001_of_002.md",
+    "part": 1,
+    "total_parts": 2,
+    "word_count": 445700,
+    "first_label": "Report 1",
+    "last_label": "Report 333",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/the_yajur_veda_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/the_yajur_veda_review/the_yajur_veda_review_part_002_of_002.md",
+    "part": 2,
+    "total_parts": 2,
+    "word_count": 388484,
+    "first_label": "Report 334",
+    "last_label": "Report 640",
+    "mode": "report-boundary"
+  }
+]

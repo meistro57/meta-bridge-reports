@@ -1,0 +1,42 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/the_ra_contact_volume_2_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/the_ra_contact_volume_2_review/the_ra_contact_volume_2_review_part_001_of_004.md",
+    "part": 1,
+    "total_parts": 4,
+    "word_count": 445586,
+    "first_label": "Report 1",
+    "last_label": "Report 301",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/the_ra_contact_volume_2_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/the_ra_contact_volume_2_review/the_ra_contact_volume_2_review_part_002_of_004.md",
+    "part": 2,
+    "total_parts": 4,
+    "word_count": 444954,
+    "first_label": "Report 302",
+    "last_label": "Report 608",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/the_ra_contact_volume_2_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/the_ra_contact_volume_2_review/the_ra_contact_volume_2_review_part_003_of_004.md",
+    "part": 3,
+    "total_parts": 4,
+    "word_count": 445665,
+    "first_label": "Report 609",
+    "last_label": "Report 962",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/the_ra_contact_volume_2_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/the_ra_contact_volume_2_review/the_ra_contact_volume_2_review_part_004_of_004.md",
+    "part": 4,
+    "total_parts": 4,
+    "word_count": 76953,
+    "first_label": "Report 963",
+    "last_label": "Report 1022",
+    "mode": "report-boundary"
+  }
+]

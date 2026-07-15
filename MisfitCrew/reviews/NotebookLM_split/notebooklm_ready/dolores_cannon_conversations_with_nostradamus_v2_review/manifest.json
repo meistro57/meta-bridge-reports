@@ -1,0 +1,22 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/dolores_cannon_conversations_with_nostradamus_v2_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/dolores_cannon_conversations_with_nostradamus_v2_review/dolores_cannon_conversations_with_nostradamus_v2_review_part_001_of_002.md",
+    "part": 1,
+    "total_parts": 2,
+    "word_count": 444532,
+    "first_label": "Report 1",
+    "last_label": "Report 351",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/dolores_cannon_conversations_with_nostradamus_v2_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/dolores_cannon_conversations_with_nostradamus_v2_review/dolores_cannon_conversations_with_nostradamus_v2_review_part_002_of_002.md",
+    "part": 2,
+    "total_parts": 2,
+    "word_count": 101646,
+    "first_label": "Report 352",
+    "last_label": "Report 439",
+    "mode": "report-boundary"
+  }
+]

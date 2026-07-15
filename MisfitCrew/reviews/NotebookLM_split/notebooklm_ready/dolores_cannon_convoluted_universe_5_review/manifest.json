@@ -1,0 +1,22 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/dolores_cannon_convoluted_universe_5_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/dolores_cannon_convoluted_universe_5_review/dolores_cannon_convoluted_universe_5_review_part_001_of_002.md",
+    "part": 1,
+    "total_parts": 2,
+    "word_count": 444768,
+    "first_label": "Report 1",
+    "last_label": "Report 320",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/dolores_cannon_convoluted_universe_5_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/dolores_cannon_convoluted_universe_5_review/dolores_cannon_convoluted_universe_5_review_part_002_of_002.md",
+    "part": 2,
+    "total_parts": 2,
+    "word_count": 192352,
+    "first_label": "Report 321",
+    "last_label": "Report 464",
+    "mode": "report-boundary"
+  }
+]

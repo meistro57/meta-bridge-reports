@@ -1,0 +1,22 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/the_lost_books_of_the_bible_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/the_lost_books_of_the_bible_review/the_lost_books_of_the_bible_review_part_001_of_002.md",
+    "part": 1,
+    "total_parts": 2,
+    "word_count": 445460,
+    "first_label": "Report 1",
+    "last_label": "Report 329",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/the_lost_books_of_the_bible_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/the_lost_books_of_the_bible_review/the_lost_books_of_the_bible_review_part_002_of_002.md",
+    "part": 2,
+    "total_parts": 2,
+    "word_count": 110933,
+    "first_label": "Report 330",
+    "last_label": "Report 408",
+    "mode": "report-boundary"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/pagan_christs_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/pagan_christs_review/pagan_christs_review_part_001_of_002.md",
+    "part": 1,
+    "total_parts": 2,
+    "word_count": 444419,
+    "first_label": "Report 1",
+    "last_label": "Report 310",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/pagan_christs_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/pagan_christs_review/pagan_christs_review_part_002_of_002.md",
+    "part": 2,
+    "total_parts": 2,
+    "word_count": 284437,
+    "first_label": "Report 311",
+    "last_label": "Report 539",
+    "mode": "report-boundary"
+  }
+]

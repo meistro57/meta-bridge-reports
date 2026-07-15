@@ -1,0 +1,112 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/urantia_book_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/urantia_book_review/urantia_book_review_part_001_of_011.md",
+    "part": 1,
+    "total_parts": 11,
+    "word_count": 445470,
+    "first_label": "Report 1",
+    "last_label": "Report 310",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/urantia_book_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/urantia_book_review/urantia_book_review_part_002_of_011.md",
+    "part": 2,
+    "total_parts": 11,
+    "word_count": 444551,
+    "first_label": "Report 311",
+    "last_label": "Report 620",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/urantia_book_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/urantia_book_review/urantia_book_review_part_003_of_011.md",
+    "part": 3,
+    "total_parts": 11,
+    "word_count": 445267,
+    "first_label": "Report 621",
+    "last_label": "Report 935",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/urantia_book_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/urantia_book_review/urantia_book_review_part_004_of_011.md",
+    "part": 4,
+    "total_parts": 11,
+    "word_count": 445315,
+    "first_label": "Report 936",
+    "last_label": "Report 1255",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/urantia_book_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/urantia_book_review/urantia_book_review_part_005_of_011.md",
+    "part": 5,
+    "total_parts": 11,
+    "word_count": 445216,
+    "first_label": "Report 1256",
+    "last_label": "Report 1566",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/urantia_book_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/urantia_book_review/urantia_book_review_part_006_of_011.md",
+    "part": 6,
+    "total_parts": 11,
+    "word_count": 445370,
+    "first_label": "Report 1567",
+    "last_label": "Report 1887",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/urantia_book_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/urantia_book_review/urantia_book_review_part_007_of_011.md",
+    "part": 7,
+    "total_parts": 11,
+    "word_count": 444632,
+    "first_label": "Report 1888",
+    "last_label": "Report 2232",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/urantia_book_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/urantia_book_review/urantia_book_review_part_008_of_011.md",
+    "part": 8,
+    "total_parts": 11,
+    "word_count": 444921,
+    "first_label": "Report 2233",
+    "last_label": "Report 2582",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/urantia_book_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/urantia_book_review/urantia_book_review_part_009_of_011.md",
+    "part": 9,
+    "total_parts": 11,
+    "word_count": 444801,
+    "first_label": "Report 2583",
+    "last_label": "Report 2890",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/urantia_book_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/urantia_book_review/urantia_book_review_part_010_of_011.md",
+    "part": 10,
+    "total_parts": 11,
+    "word_count": 445124,
+    "first_label": "Report 2891",
+    "last_label": "Report 3202",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/urantia_book_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/urantia_book_review/urantia_book_review_part_011_of_011.md",
+    "part": 11,
+    "total_parts": 11,
+    "word_count": 4861,
+    "first_label": "Report 3203",
+    "last_label": "Report 3205",
+    "mode": "report-boundary"
+  }
+]

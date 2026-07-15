@@ -1,0 +1,22 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/dolores_cannon_the_custodians_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/dolores_cannon_the_custodians_review/dolores_cannon_the_custodians_review_part_001_of_002.md",
+    "part": 1,
+    "total_parts": 2,
+    "word_count": 444607,
+    "first_label": "Report 1",
+    "last_label": "Report 331",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/dolores_cannon_the_custodians_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/dolores_cannon_the_custodians_review/dolores_cannon_the_custodians_review_part_002_of_002.md",
+    "part": 2,
+    "total_parts": 2,
+    "word_count": 347032,
+    "first_label": "Report 332",
+    "last_label": "Report 636",
+    "mode": "report-boundary"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/bashar_channeled_by_darryl_anka_complete_transcripts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/bashar_channeled_by_darryl_anka_complete_transcripts_review/bashar_channeled_by_darryl_anka_complete_transcripts_review_part_001_of_010.md",
+    "part": 1,
+    "total_parts": 10,
+    "word_count": 445077,
+    "first_label": "Report 1",
+    "last_label": "Report 344",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/bashar_channeled_by_darryl_anka_complete_transcripts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/bashar_channeled_by_darryl_anka_complete_transcripts_review/bashar_channeled_by_darryl_anka_complete_transcripts_review_part_002_of_010.md",
+    "part": 2,
+    "total_parts": 10,
+    "word_count": 445468,
+    "first_label": "Report 345",
+    "last_label": "Report 702",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/bashar_channeled_by_darryl_anka_complete_transcripts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/bashar_channeled_by_darryl_anka_complete_transcripts_review/bashar_channeled_by_darryl_anka_complete_transcripts_review_part_003_of_010.md",
+    "part": 3,
+    "total_parts": 10,
+    "word_count": 445628,
+    "first_label": "Report 703",
+    "last_label": "Report 1058",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/bashar_channeled_by_darryl_anka_complete_transcripts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/bashar_channeled_by_darryl_anka_complete_transcripts_review/bashar_channeled_by_darryl_anka_complete_transcripts_review_part_004_of_010.md",
+    "part": 4,
+    "total_parts": 10,
+    "word_count": 445644,
+    "first_label": "Report 1059",
+    "last_label": "Report 1406",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/bashar_channeled_by_darryl_anka_complete_transcripts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/bashar_channeled_by_darryl_anka_complete_transcripts_review/bashar_channeled_by_darryl_anka_complete_transcripts_review_part_005_of_010.md",
+    "part": 5,
+    "total_parts": 10,
+    "word_count": 444690,
+    "first_label": "Report 1407",
+    "last_label": "Report 1755",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/bashar_channeled_by_darryl_anka_complete_transcripts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/bashar_channeled_by_darryl_anka_complete_transcripts_review/bashar_channeled_by_darryl_anka_complete_transcripts_review_part_006_of_010.md",
+    "part": 6,
+    "total_parts": 10,
+    "word_count": 444773,
+    "first_label": "Report 1756",
+    "last_label": "Report 2099",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/bashar_channeled_by_darryl_anka_complete_transcripts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/bashar_channeled_by_darryl_anka_complete_transcripts_review/bashar_channeled_by_darryl_anka_complete_transcripts_review_part_007_of_010.md",
+    "part": 7,
+    "total_parts": 10,
+    "word_count": 444370,
+    "first_label": "Report 2100",
+    "last_label": "Report 2472",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/bashar_channeled_by_darryl_anka_complete_transcripts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/bashar_channeled_by_darryl_anka_complete_transcripts_review/bashar_channeled_by_darryl_anka_complete_transcripts_review_part_008_of_010.md",
+    "part": 8,
+    "total_parts": 10,
+    "word_count": 445049,
+    "first_label": "Report 2473",
+    "last_label": "Report 2840",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/bashar_channeled_by_darryl_anka_complete_transcripts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/bashar_channeled_by_darryl_anka_complete_transcripts_review/bashar_channeled_by_darryl_anka_complete_transcripts_review_part_009_of_010.md",
+    "part": 9,
+    "total_parts": 10,
+    "word_count": 444707,
+    "first_label": "Report 2841",
+    "last_label": "Report 3213",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/bashar_channeled_by_darryl_anka_complete_transcripts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/bashar_channeled_by_darryl_anka_complete_transcripts_review/bashar_channeled_by_darryl_anka_complete_transcripts_review_part_010_of_010.md",
+    "part": 10,
+    "total_parts": 10,
+    "word_count": 332715,
+    "first_label": "Report 3214",
+    "last_label": "Report 3428",
+    "mode": "report-boundary"
+  }
+]

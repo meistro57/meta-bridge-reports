@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-07-15T10-23-54",
+  "collection": "meta_reflections",
+  "summary": {
+    "total_clusters": 0,
+    "total_bridges": 0,
+    "total_moats": 0,
+    "total_anomalies": 0,
+    "duplicate_heavy_clusters": 0,
+    "oversampled_clusters": 0,
+    "skipped_bridges": 0
+  },
+  "topology": {
+    "parameters": "DBSCAN params (configured defaults): eps=0.000 minPts=0",
+    "rationale": "requested_eps=0.000 requested_minPts=0 sampled_pairs=0 p10=0.000 p25=0.000 p50=0.000 p75=0.000 p90=0.000 reason="
+  },
+  "clusters": [],
+  "bridges": [],
+  "moats": [],
+  "anomalies": null,
+  "recommendations": [
+    "Remove or deduplicate near-identical chunks before the next run.",
+    "Rebalance overrepresented sources in clusters with oversampling warnings.",
+    "Add more diverse source material for weakly evidenced clusters.",
+    "Re-run clustering after data cleanup to verify topology stability.",
+    "Require representative snippets on both bridge sides before interpretation.",
+    "Review low-confidence taxonomy classifications and label mismatches."
+  ]
+}

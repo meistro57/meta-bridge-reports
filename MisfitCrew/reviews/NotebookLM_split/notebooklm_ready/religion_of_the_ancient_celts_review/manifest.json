@@ -1,0 +1,22 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/religion_of_the_ancient_celts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/religion_of_the_ancient_celts_review/religion_of_the_ancient_celts_review_part_001_of_002.md",
+    "part": 1,
+    "total_parts": 2,
+    "word_count": 445086,
+    "first_label": "Report 1",
+    "last_label": "Report 311",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/religion_of_the_ancient_celts_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/religion_of_the_ancient_celts_review/religion_of_the_ancient_celts_review_part_002_of_002.md",
+    "part": 2,
+    "total_parts": 2,
+    "word_count": 92964,
+    "first_label": "Report 312",
+    "last_label": "Report 385",
+    "mode": "report-boundary"
+  }
+]

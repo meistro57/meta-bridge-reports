@@ -1,0 +1,92 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/plato_complete_works_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/plato_complete_works_review/plato_complete_works_review_part_001_of_009.md",
+    "part": 1,
+    "total_parts": 9,
+    "word_count": 445597,
+    "first_label": "Report 1",
+    "last_label": "Report 313",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/plato_complete_works_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/plato_complete_works_review/plato_complete_works_review_part_002_of_009.md",
+    "part": 2,
+    "total_parts": 9,
+    "word_count": 444648,
+    "first_label": "Report 314",
+    "last_label": "Report 621",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/plato_complete_works_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/plato_complete_works_review/plato_complete_works_review_part_003_of_009.md",
+    "part": 3,
+    "total_parts": 9,
+    "word_count": 445039,
+    "first_label": "Report 622",
+    "last_label": "Report 948",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/plato_complete_works_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/plato_complete_works_review/plato_complete_works_review_part_004_of_009.md",
+    "part": 4,
+    "total_parts": 9,
+    "word_count": 444727,
+    "first_label": "Report 949",
+    "last_label": "Report 1264",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/plato_complete_works_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/plato_complete_works_review/plato_complete_works_review_part_005_of_009.md",
+    "part": 5,
+    "total_parts": 9,
+    "word_count": 444964,
+    "first_label": "Report 1265",
+    "last_label": "Report 1574",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/plato_complete_works_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/plato_complete_works_review/plato_complete_works_review_part_006_of_009.md",
+    "part": 6,
+    "total_parts": 9,
+    "word_count": 445458,
+    "first_label": "Report 1575",
+    "last_label": "Report 1915",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/plato_complete_works_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/plato_complete_works_review/plato_complete_works_review_part_007_of_009.md",
+    "part": 7,
+    "total_parts": 9,
+    "word_count": 444926,
+    "first_label": "Report 1916",
+    "last_label": "Report 2249",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/plato_complete_works_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/plato_complete_works_review/plato_complete_works_review_part_008_of_009.md",
+    "part": 8,
+    "total_parts": 9,
+    "word_count": 445103,
+    "first_label": "Report 2250",
+    "last_label": "Report 2564",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/plato_complete_works_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/plato_complete_works_review/plato_complete_works_review_part_009_of_009.md",
+    "part": 9,
+    "total_parts": 9,
+    "word_count": 297929,
+    "first_label": "Report 2565",
+    "last_label": "Report 2763",
+    "mode": "report-boundary"
+  }
+]

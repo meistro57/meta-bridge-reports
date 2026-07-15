@@ -1,0 +1,42 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/secret_doctrine_vol2_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/secret_doctrine_vol2_review/secret_doctrine_vol2_review_part_001_of_004.md",
+    "part": 1,
+    "total_parts": 4,
+    "word_count": 445469,
+    "first_label": "Report 1",
+    "last_label": "Report 347",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/secret_doctrine_vol2_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/secret_doctrine_vol2_review/secret_doctrine_vol2_review_part_002_of_004.md",
+    "part": 2,
+    "total_parts": 4,
+    "word_count": 445412,
+    "first_label": "Report 348",
+    "last_label": "Report 694",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/secret_doctrine_vol2_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/secret_doctrine_vol2_review/secret_doctrine_vol2_review_part_003_of_004.md",
+    "part": 3,
+    "total_parts": 4,
+    "word_count": 445599,
+    "first_label": "Report 695",
+    "last_label": "Report 1052",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/secret_doctrine_vol2_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/secret_doctrine_vol2_review/secret_doctrine_vol2_review_part_004_of_004.md",
+    "part": 4,
+    "total_parts": 4,
+    "word_count": 254360,
+    "first_label": "Report 1053",
+    "last_label": "Report 1246",
+    "mode": "report-boundary"
+  }
+]

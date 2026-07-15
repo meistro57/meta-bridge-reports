@@ -1,0 +1,22 @@
+[
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/egyption_book_of_the_dead_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/egyption_book_of_the_dead_review/egyption_book_of_the_dead_review_part_001_of_002.md",
+    "part": 1,
+    "total_parts": 2,
+    "word_count": 445658,
+    "first_label": "Report 1",
+    "last_label": "Report 317",
+    "mode": "report-boundary"
+  },
+  {
+    "source_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/egyption_book_of_the_dead_review.md",
+    "output_file": "/home/mark/MisfitCrew/ALL_REPORTS/reviews/NotebookLM_split/notebooklm_ready/egyption_book_of_the_dead_review/egyption_book_of_the_dead_review_part_002_of_002.md",
+    "part": 2,
+    "total_parts": 2,
+    "word_count": 271484,
+    "first_label": "Report 318",
+    "last_label": "Report 516",
+    "mode": "report-boundary"
+  }
+]
