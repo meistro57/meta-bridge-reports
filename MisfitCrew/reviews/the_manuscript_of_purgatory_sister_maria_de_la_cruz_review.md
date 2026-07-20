@@ -1,6 +1,6 @@
 # Critical Review: the_manuscript_of_purgatory_sister_maria_de_la_cruz
 
-*Compiled from the `misfit_reports` pipeline on 2026-07-15 08:18.*
+*Compiled from the `misfit_reports` pipeline on 2026-07-20 15:13.*
 
 **Total reports:** 15
 

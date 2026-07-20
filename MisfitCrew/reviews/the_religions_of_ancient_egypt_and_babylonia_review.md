@@ -1,6 +1,6 @@
 # Critical Review: the_religions_of_ancient_egypt_and_babylonia
 
-*Compiled from the `misfit_reports` pipeline on 2026-07-15 08:18.*
+*Compiled from the `misfit_reports` pipeline on 2026-07-20 15:13.*
 
 **Total reports:** 55
 

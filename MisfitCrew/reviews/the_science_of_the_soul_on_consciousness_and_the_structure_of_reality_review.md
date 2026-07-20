@@ -1,6 +1,6 @@
 # Critical Review: the_science_of_the_soul_on_consciousness_and_the_structure_of_reality
 
-*Compiled from the `misfit_reports` pipeline on 2026-07-15 08:18.*
+*Compiled from the `misfit_reports` pipeline on 2026-07-20 15:13.*
 
 **Total reports:** 8
 

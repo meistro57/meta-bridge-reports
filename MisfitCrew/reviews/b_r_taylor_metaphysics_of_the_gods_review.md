@@ -1,6 +1,6 @@
 # Critical Review: b_r_taylor_metaphysics_of_the_gods
 
-*Compiled from the `misfit_reports` pipeline on 2026-07-15 08:18.*
+*Compiled from the `misfit_reports` pipeline on 2026-07-20 15:13.*
 
 **Total reports:** 18
 

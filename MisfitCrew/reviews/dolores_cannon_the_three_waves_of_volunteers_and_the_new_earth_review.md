@@ -1,6 +1,6 @@
 # Critical Review: dolores_cannon_the_three_waves_of_volunteers_and_the_new_earth
 
-*Compiled from the `misfit_reports` pipeline on 2026-07-15 08:18.*
+*Compiled from the `misfit_reports` pipeline on 2026-07-20 15:13.*
 
 **Total reports:** 17
 

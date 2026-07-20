@@ -1,6 +1,6 @@
 # Critical Review: itzhak_bentov_brief_tour_of_higher_consciousness
 
-*Compiled from the `misfit_reports` pipeline on 2026-07-15 08:18.*
+*Compiled from the `misfit_reports` pipeline on 2026-07-20 15:13.*
 
 **Total reports:** 16
 
